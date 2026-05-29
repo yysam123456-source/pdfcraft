@@ -1,0 +1,6 @@
+# PDFCraft - Cloudflare Pages deployment
+name = "pdfcraft"
+pages_build_output_dir = "out"
+compatibility_date = "2026-05-29"
+# Custom domain will be configured via Cloudflare Dashboard
+# pdf.craftisle.com → pdfcraft.pages.dev
