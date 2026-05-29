@@ -1,4 +1,5 @@
 {
+  "name": "pdfcraft",
   "buildCommand": "npm run build",
   "outputDirectory": "out",
   "headers": [
