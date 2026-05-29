@@ -34,8 +34,8 @@ async function decompressFile(gzPath, outPath) {
 }
 
 async function main() {
-    if (process.env.DOCKER_BUILD === 'true') {
-        console.log('[postbuild] DOCKER_BUILD detected, skipping decompression.');
+    if (process.env.DOCKER_BUILD === 'true' || process.env.CF_PAGES === '1') {
+        console.log('[postbuild] DOCKER_BUILD or CF_PAGES detected, skipping decompression.');
         return;
     }
 
