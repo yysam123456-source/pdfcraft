@@ -180,6 +180,15 @@ export const Footer: React.FC<FooterProps> = ({ locale }) => {
         <div className="pt-8 border-t border-[hsl(var(--color-border))] flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-[hsl(var(--color-muted-foreground))]">
             &copy; {currentYear} {t('brand')}. {t('footer.copyright', { year: '' }).replace(/^\d{4}\s*/, '')}
+            {' '}·{' '}
+            <a
+              href="https://github.com/yysam123456/pdfcraft"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-[hsl(var(--color-primary))] transition-colors"
+            >
+              Source (AGPLv3)
+            </a>
           </p>
           <div className="flex items-center gap-6">
             <Link href={`/${locale}/terms`} className="text-xs text-[hsl(var(--color-muted-foreground))] hover:text-[hsl(var(--color-foreground))]">Terms</Link>
