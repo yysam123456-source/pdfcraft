@@ -31,11 +31,37 @@ export type ProgressCallback = (progress: LoadProgress) => void;
 let converterInstance: LibreOfficeConverter | null = null;
 
 /**
+ * Fetch with retry logic for unstable networks.
+ */
+async function fetchWithRetry(url: string, retries = 3, init?: RequestInit): Promise<Response> {
+    let lastError: Error | undefined;
+    for (let i = 0; i < retries; i++) {
+        try {
+            const response = await fetch(url, { mode: 'cors', ...init });
+            if (response.ok) return response;
+            // For 5xx or 429, retry; for 4xx (except 429), fail immediately
+            if (response.status >= 400 && response.status < 500 && response.status !== 429) {
+                throw new Error(`HTTP ${response.status} ${response.statusText}`);
+            }
+            lastError = new Error(`HTTP ${response.status} ${response.statusText}`);
+        } catch (e) {
+            lastError = e instanceof Error ? e : new Error(String(e));
+        }
+        if (i < retries - 1) {
+            const delay = 1000 * (i + 1); // exponential-ish backoff
+            console.warn(`[LibreOffice] Fetch retry ${i + 1}/${retries - 1} for ${url} in ${delay}ms...`);
+            await new Promise(r => setTimeout(r, delay));
+        }
+    }
+    throw lastError || new Error(`Failed to fetch ${url} after ${retries} retries`);
+}
+
+/**
  * Fetch a .gz file from CDN and decompress via DecompressionStream.
  * Returns a Blob (decompressed).
  */
 async function fetchAndDecompress(url: string, onProgress?: (loaded: number, total: number) => void): Promise<Blob> {
-    const response = await fetch(url, { mode: 'cors' });
+    const response = await fetchWithRetry(url);
     if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.status} ${response.statusText}`);
 
     const contentLength = response.headers.get('content-length');
@@ -94,7 +120,7 @@ async function fetchAndDecompress(url: string, onProgress?: (loaded: number, tot
  * Fetch a regular (non-gz) file as Blob.
  */
 async function fetchBlob(url: string): Promise<Blob> {
-    const response = await fetch(url, { mode: 'cors' });
+    const response = await fetchWithRetry(url);
     if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.status}`);
     return response.blob();
 }
@@ -126,30 +152,36 @@ export class LibreOfficeConverter {
 
             await this.checkEnvironment();
 
-            this.progressCallback?.({ phase: 'loading', percent: 5, message: 'Downloading conversion engine (74 MB)...' });
+            this.progressCallback?.({ phase: 'loading', percent: 5, message: 'Downloading conversion engine (~74 MB, may take 1-2 min)...' });
 
-            // Fetch all assets in parallel
-            const [sofficeJs, sofficeWasmBlob, sofficeDataBlob, sofficeWorkerJs, browserWorkerJs] = await Promise.all([
+            // Step 1: Fetch small JS files in parallel
+            const [sofficeJs, sofficeWorkerJs, browserWorkerJs] = await Promise.all([
                 fetchBlob(`${CDN_BASE}/${SOFFICE_JS}`),
-                fetchAndDecompress(`${CDN_BASE}/${SOFFICE_WASM_GZ}`, (loaded, total) => {
-                    const pct = total > 0 ? Math.round(5 + (loaded / total) * 45) : 50;
-                    this.progressCallback?.({
-                        phase: 'loading',
-                        percent: pct,
-                        message: `Downloading engine: ${(loaded / 1024 / 1024).toFixed(1)} MB / ${(total / 1024 / 1024).toFixed(1)} MB`,
-                    });
-                }),
-                fetchAndDecompress(`${CDN_BASE}/${SOFFICE_DATA_GZ}`, (loaded, total) => {
-                    const pct = total > 0 ? Math.round(50 + (loaded / total) * 40) : 90;
-                    this.progressCallback?.({
-                        phase: 'loading',
-                        percent: pct,
-                        message: `Downloading data: ${(loaded / 1024 / 1024).toFixed(1)} MB / ${(total / 1024 / 1024).toFixed(1)} MB`,
-                    });
-                }),
                 fetchBlob(`${CDN_BASE}/${SOFFICE_WORKER_JS}`),
                 fetchBlob(`${CDN_BASE}/${BROWSER_WORKER_JS}`),
             ]);
+
+            // Step 2: Fetch large WASM file (serial to avoid network congestion)
+            this.progressCallback?.({ phase: 'loading', percent: 10, message: 'Downloading engine core (~47 MB)...' });
+            const sofficeWasmBlob = await fetchAndDecompress(`${CDN_BASE}/${SOFFICE_WASM_GZ}`, (loaded, total) => {
+                const pct = total > 0 ? Math.round(10 + (loaded / total) * 35) : 45;
+                this.progressCallback?.({
+                    phase: 'loading',
+                    percent: pct,
+                    message: `Downloading engine core: ${(loaded / 1024 / 1024).toFixed(1)} MB / ${(total / 1024 / 1024).toFixed(1)} MB`,
+                });
+            });
+
+            // Step 3: Fetch data file (serial)
+            this.progressCallback?.({ phase: 'loading', percent: 50, message: 'Downloading engine data (~27 MB)...' });
+            const sofficeDataBlob = await fetchAndDecompress(`${CDN_BASE}/${SOFFICE_DATA_GZ}`, (loaded, total) => {
+                const pct = total > 0 ? Math.round(50 + (loaded / total) * 35) : 85;
+                this.progressCallback?.({
+                    phase: 'loading',
+                    percent: pct,
+                    message: `Downloading engine data: ${(loaded / 1024 / 1024).toFixed(1)} MB / ${(total / 1024 / 1024).toFixed(1)} MB`,
+                });
+            });
 
             const sofficeJsUrl       = URL.createObjectURL(sofficeJs);
             const sofficeWasmUrl    = URL.createObjectURL(sofficeWasmBlob);
