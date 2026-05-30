@@ -69,10 +69,46 @@ export async function fetchAssembledBlob(url: string): Promise<Blob> {
         console.debug(`[asset-loader] Manifest check failed or skipped for ${url}:`, err);
     }
 
-    // Fallback: Fetch the file directly
+    // Fallback 1: Fetch the file directly
     const response = await fetch(url);
-    if (!response.ok) {
-        throw new Error(`Failed to fetch asset: ${url} (HTTP ${response.status})`);
+    if (response.ok) {
+        return response.blob();
     }
-    return response.blob();
+    
+    // Fallback 2: Auto-discover chunked files (e.g., file.part_0, file.part_1, ...)
+    // Allows chunked assets to work without manifest JSONs
+    if (response.status === 404) {
+        console.log(`[asset-loader] Direct fetch 404 for ${url}, trying chunked discovery...`);
+        const chunks: ArrayBuffer[] = [];
+        for (let i = 0; i < 50; i++) {
+            const chunkUrl = `${baseUrl}.part_${i}${queryString}`;
+            try {
+                const chunkRes = await fetch(chunkUrl);
+                if (!chunkRes.ok) break;
+                chunks.push(await chunkRes.arrayBuffer());
+            } catch {
+                break;
+            }
+        }
+        
+        if (chunks.length > 0) {
+            console.log(`[asset-loader] Reassembled ${url} from ${chunks.length} chunks`);
+            const totalSize = chunks.reduce((sum, c) => sum + c.byteLength, 0);
+            const assembled = new Uint8Array(totalSize);
+            let offset = 0;
+            for (const chunk of chunks) {
+                assembled.set(new Uint8Array(chunk), offset);
+                offset += chunk.byteLength;
+            }
+            
+            let mimeType = 'application/octet-stream';
+            const lowerUrl = url.toLowerCase();
+            if (lowerUrl.includes('.wasm')) mimeType = 'application/wasm';
+            else if (lowerUrl.includes('.js')) mimeType = 'application/javascript';
+            
+            return new Blob([assembled], { type: mimeType });
+        }
+    }
+
+    throw new Error(`Failed to fetch asset: ${url} (HTTP ${response.status})`);
 }

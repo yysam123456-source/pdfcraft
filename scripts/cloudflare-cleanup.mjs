@@ -12,13 +12,14 @@
  * Triggered automatically when CF_PAGES=1 (set by Cloudflare Pages).
  */
 
-import { rmSync, existsSync } from 'fs';
+import { rmSync, existsSync, readdirSync, statSync } from 'fs';
 import { join } from 'path';
 
 const BASE_PATH = process.env.BASE_PATH || process.env.NEXT_PUBLIC_BASE_PATH || '';
 const CLEAN_BASE_PATH = BASE_PATH.startsWith('/') ? BASE_PATH.slice(1) : BASE_PATH;
 
 const OUT_DIR = join(process.cwd(), 'out');
+const MAX_FILE_SIZE = 25 * 1024 * 1024; // Cloudflare Pages 25MB per-file limit
 
 // Only run on Cloudflare Pages
 if (process.env.CF_PAGES !== '1') {
@@ -26,19 +27,29 @@ if (process.env.CF_PAGES !== '1') {
     process.exit(0);
 }
 
-console.log('[cf-cleanup] Cloudflare Pages build detected. Removing large WASM files...');
+console.log('[cf-cleanup] Cloudflare Pages build detected. Removing files > 25MB...');
 
-// Remove libreoffice-wasm (too large for Cloudflare Pages 25MB limit)
-for (const subpath of ['libreoffice-wasm', CLEAN_BASE_PATH ? join(CLEAN_BASE_PATH, 'libreoffice-wasm') : null].filter(Boolean)) {
-    const dir = join(OUT_DIR, subpath);
-    if (existsSync(dir)) {
-        try {
-            rmSync(dir, { recursive: true, force: true });
-            console.log(`[cf-cleanup]   ✓ Removed ${subpath}/ (47MB+27MB > 25MB limit)`);
-        } catch (err) {
-            console.error(`[cf-cleanup]   ✗ Failed to remove ${subpath}: ${err.message}`);
+/**
+ * Remove individual files exceeding Cloudflare's 25MB limit,
+ * while keeping smaller files (JS workers, etc.) intact.
+ */
+function removeLargeFiles(dir) {
+    if (!existsSync(dir)) return;
+    const entries = readdirSync(dir);
+    for (const entry of entries) {
+        const fullPath = join(dir, entry);
+        const stat = statSync(fullPath);
+        if (stat.isDirectory()) {
+            removeLargeFiles(fullPath);
+        } else if (stat.size > MAX_FILE_SIZE) {
+            rmSync(fullPath);
+            console.log(`[cf-cleanup]   ✓ Removed ${entry} (${(stat.size/1024/1024).toFixed(1)}MB > 25MB limit)`);
         }
     }
+}
+
+for (const subpath of ['libreoffice-wasm', CLEAN_BASE_PATH ? join(CLEAN_BASE_PATH, 'libreoffice-wasm') : null].filter(Boolean)) {
+    removeLargeFiles(join(OUT_DIR, subpath));
 }
 
 console.log('[cf-cleanup] Cleanup complete.');

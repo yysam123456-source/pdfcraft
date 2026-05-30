@@ -30,13 +30,19 @@ import { WorkerBrowserConverter } from '@matbee/libreoffice-converter/browser';
 import { fetchAssembledBlob } from '../utils/asset-loader';
 import { withBasePath } from '../utils/path';
 
-// R2 CDN override — when set, loads WASM assets from Cloudflare R2 instead of the app server.
-// This is required because Cloudflare Pages has a 25MB per-file limit, and soffice.wasm.gz (47MB)
-// exceeds that. Set NEXT_PUBLIC_WASM_CDN_URL=https://your-bucket.r2.cloudflarestorage.com or
-// a custom domain pointing to the R2 bucket.
-const WASM_CDN_URL = process.env.NEXT_PUBLIC_WASM_CDN_URL || '';
-const LIBREOFFICE_PATH = WASM_CDN_URL
-    ? `${WASM_CDN_URL.replace(/\/$/, '')}/libreoffice-wasm/`
+// GitHub Releases CDN for large WASM/Data files (>25MB, blocked by CF Pages).
+// JS files (soffice.js, workers) are small (<500KB) and load locally from the app server.
+// This avoids relying on R2 (requires credit card) while keeping deployment simple.
+//
+// NEXT_PUBLIC_WASM_CDN_URL overrides the default GitHub Release URL.
+// Files are upload as individual assets to the release (no chunking needed).
+// The asset-loader supports both direct files and auto-discovered chunks (part_0, part_1, ...).
+const WASM_CDN_URL = process.env.NEXT_PUBLIC_WASM_CDN_URL || 'https://github.com/yysam123456-source/pdfcraft/releases/download/v1.0.0-wasm';
+// JS files always load locally — they're small and deployed to CF Pages
+const LOCAL_JS_PATH = normalizeBasePath(withBasePath('/libreoffice-wasm/'));
+// WASM/Data large files load from CDN
+const WASM_DATA_CDN_PATH = WASM_CDN_URL
+    ? `${WASM_CDN_URL.replace(/\/$/, '')}/`
     : withBasePath('/libreoffice-wasm/');
 const ASSET_VERSION = '20240212-3';
 // Request uncompressed names. In production, nginx gzip_static serves the .gz variant
@@ -64,6 +70,8 @@ export class LibreOfficeConverter {
     private initialized = false;
     private initPromise: Promise<void> | null = null;
     private basePath: string;
+    /** CDN path for large WASM/Data assets (>25MB, blocked by CF Pages) */
+    private wasmBasePath: string;
     /** Total size of all WASM assets in MB, computed during environment check */
     private totalAssetSizeMB = 0;
     /** Replaceable progress callback — allows late-binding when preload started without one */
@@ -72,7 +80,8 @@ export class LibreOfficeConverter {
     private blobUrls: string[] = [];
 
     constructor(basePath?: string) {
-        this.basePath = normalizeBasePath(basePath || LIBREOFFICE_PATH);
+        this.basePath = normalizeBasePath(basePath || LOCAL_JS_PATH);
+        this.wasmBasePath = WASM_DATA_CDN_PATH;
     }
 
     async initialize(onProgress?: ProgressCallback): Promise<void> {
@@ -125,10 +134,12 @@ export class LibreOfficeConverter {
             this.progressCallback?.({ phase: 'loading', percent: 5, message: `Loading conversion engine${totalInfo}...` });
 
             // Fetch and reassemble assets (handles chunking on Cloudflare Pages)
+            // JS files: local (small, deployed by CF Pages)
+            // WASM/Data: CDN (large, excluded from CF Pages by cloudflare-cleanup.mjs)
             const [sofficeJsBlob, sofficeWasmBlob, sofficeDataBlob, sofficeWorkerJsBlob, browserWorkerJsBlob] = await Promise.all([
                 fetchAssembledBlob(`${this.basePath}soffice.js?v=${ASSET_VERSION}`),
-                fetchAssembledBlob(`${this.basePath}${SOFFICE_WASM_FILE}?v=${ASSET_VERSION}`),
-                fetchAssembledBlob(`${this.basePath}${SOFFICE_DATA_FILE}?v=${ASSET_VERSION}`),
+                fetchAssembledBlob(`${this.wasmBasePath}${SOFFICE_WASM_FILE}?v=${ASSET_VERSION}`),
+                fetchAssembledBlob(`${this.wasmBasePath}${SOFFICE_DATA_FILE}?v=${ASSET_VERSION}`),
                 fetchAssembledBlob(`${this.basePath}soffice.worker.js?v=${ASSET_VERSION}`),
                 fetchAssembledBlob(`${this.basePath}browser.worker.global.js?v=${ASSET_VERSION}`),
             ]);
@@ -222,23 +233,24 @@ export class LibreOfficeConverter {
         }
 
         // 3. Check file connectivity (parallel for speed) & accumulate total size
-        const files = [
-            SOFFICE_WASM_FILE,
-            SOFFICE_DATA_FILE,
-            'soffice.js',
-            'soffice.worker.js',
-            'browser.worker.global.js',
+        const files: Array<{ name: string; useWasmPath: boolean }> = [
+            { name: SOFFICE_WASM_FILE, useWasmPath: true },
+            { name: SOFFICE_DATA_FILE, useWasmPath: true },
+            { name: 'soffice.js', useWasmPath: false },
+            { name: 'soffice.worker.js', useWasmPath: false },
+            { name: 'browser.worker.global.js', useWasmPath: false },
         ];
         let totalBytes = 0;
-        await Promise.all(files.map(async (file) => {
-            const url = `${this.basePath}${file}?v=${ASSET_VERSION}`;
+        await Promise.all(files.map(async ({ name: file, useWasmPath }) => {
+            const basePath = useWasmPath ? this.wasmBasePath : this.basePath;
+            const url = `${basePath}${file}?v=${ASSET_VERSION}`;
             try {
                 const start = performance.now();
                 // Check for the file itself or its chunk manifest
                 let res = await fetch(url, { method: 'HEAD' });
                 
                 if (!res.ok) {
-                    const manifestUrl = `${this.basePath}${file}.manifest.json?v=${ASSET_VERSION}`;
+                    const manifestUrl = `${basePath}${file}.manifest.json?v=${ASSET_VERSION}`;
                     const mRes = await fetch(manifestUrl, { method: 'HEAD' });
                     if (mRes.ok) {
                         res = mRes;
