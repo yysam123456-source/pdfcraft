@@ -1,0 +1,8 @@
+/* SPA Fallback - required for Cloudflare Pages */
+/* All unmatched routes fallback to index.html for next-intl + SSG */
+
+/* Tool pages - explicit rules for Cloudflare */
+/en/tools/*  /en/tools/:splat  200
+/zh/tools/*  /zh/tools/:splat  200
+
+/*  /index.html  200
