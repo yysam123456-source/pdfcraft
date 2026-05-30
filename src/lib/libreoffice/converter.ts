@@ -30,7 +30,14 @@ import { WorkerBrowserConverter } from '@matbee/libreoffice-converter/browser';
 import { fetchAssembledBlob } from '../utils/asset-loader';
 import { withBasePath } from '../utils/path';
 
-const LIBREOFFICE_PATH = withBasePath('/libreoffice-wasm/');
+// R2 CDN override — when set, loads WASM assets from Cloudflare R2 instead of the app server.
+// This is required because Cloudflare Pages has a 25MB per-file limit, and soffice.wasm.gz (47MB)
+// exceeds that. Set NEXT_PUBLIC_WASM_CDN_URL=https://your-bucket.r2.cloudflarestorage.com or
+// a custom domain pointing to the R2 bucket.
+const WASM_CDN_URL = process.env.NEXT_PUBLIC_WASM_CDN_URL || '';
+const LIBREOFFICE_PATH = WASM_CDN_URL
+    ? `${WASM_CDN_URL.replace(/\/$/, '')}/libreoffice-wasm/`
+    : withBasePath('/libreoffice-wasm/');
 const ASSET_VERSION = '20240212-3';
 // Request uncompressed names. In production, nginx gzip_static serves the .gz variant
 // with correct Content-Encoding and MIME headers (required for WebAssembly streaming).

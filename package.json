@@ -16,7 +16,8 @@
     "test:coverage": "vitest run --coverage",
     "predev": "node scripts/ensure-pdfjs-viewer-js.js public",
     "postinstall": "node scripts/sync-pdfjs-workers.js && node scripts/ensure-pdfjs-viewer-js.js public",
-    "postbuild": "node scripts/decompress-wasm.mjs && node scripts/chunk-assets.mjs && node scripts/ensure-pdfjs-viewer-js.js out && node scripts/cloudflare-cleanup.mjs"
+    "postbuild": "node scripts/decompress-wasm.mjs && node scripts/chunk-assets.mjs && node scripts/ensure-pdfjs-viewer-js.js out && node scripts/cloudflare-cleanup.mjs",
+    "r2:upload": "bash scripts/upload-wasm-to-r2.sh"
   },
   "dependencies": {
     "@matbee/libreoffice-converter": "^2.5.0",
