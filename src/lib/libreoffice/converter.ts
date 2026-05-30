@@ -1,58 +1,24 @@
 /**
  * LibreOffice WASM Converter
- * 
- * Uses @matbee/libreoffice-converter WorkerBrowserConverter for document conversion.
- * 
- * Key design decisions:
- * 1. Uses WorkerBrowserConverter instead of BrowserConverter — runs WASM in a
- *    dedicated Web Worker, avoiding main-thread blocking and eliminating the need
- *    for fragile loadModule patches / Cloudflare Rocket Loader workarounds
- * 2. Uses uncompressed paths (soffice.wasm / soffice.data) — works natively with
- *    all servers (Next.js dev, Vercel, Netlify, etc.). For Nginx production,
- *    gzip_static automatically serves the .gz version when available.
- * 3. Specifies browserWorkerJs for the library's internal worker communication
- * 4. Checks SharedArrayBuffer support upfront — fails fast with a clear error
- * 
- * IMPORTANT: The browser.worker.global.js in public/libreoffice-wasm/ MUST match
- * the version from @matbee/libreoffice-converter/dist/. Do NOT modify it — the
- * library's WorkerBrowserConverter expects an unmodified worker script. If you
- * need CJK font support, fonts must be pre-baked into soffice.data.
- * 
- * How pthreads work:
- * - soffice.js (Emscripten glue) creates 4 pthread Workers via
- *   new Worker(Module["mainScriptUrlOrBlob"]) — loading soffice.js itself
- * - Each pthread Worker detects ENVIRONMENT_IS_PTHREAD from self.name ("em-pthread-N")
- * - These are NESTED Workers (created from inside the browser.worker.global.js Worker)
- * - They must NOT run from a Blob URL parent, or nested Worker creation breaks
+ *
+ * Simplified version: loads WASM assets from raw.githubusercontent.com (CORS-enabled CDN).
+ * Large .gz files are decompressed in-browser via DecompressionStream.
+ *
+ * CDN URL: https://raw.githubusercontent.com/yysam123456-source/pdfcraft/wasm-assets/<file>
+ * Files: soffice.wasm.gz (47MB), soffice.data.gz (27MB)
  */
 
 import { WorkerBrowserConverter } from '@matbee/libreoffice-converter/browser';
-import { fetchAssembledBlob } from '../utils/asset-loader';
-import { withBasePath } from '../utils/path';
 
-// GitHub Releases CDN for large WASM/Data files (>25MB, blocked by CF Pages).
-// JS files (soffice.js, workers) are small (<500KB) and load locally from the app server.
-// This avoids relying on R2 (requires credit card) while keeping deployment simple.
-//
-// NEXT_PUBLIC_WASM_CDN_URL overrides the default GitHub Release URL.
-// Files are upload as individual assets to the release (no chunking needed).
-// The asset-loader supports both direct files and auto-discovered chunks (part_0, part_1, ...).
-const WASM_CDN_URL = process.env.NEXT_PUBLIC_WASM_CDN_URL || 'https://github.com/yysam123456-source/pdfcraft/releases/download/v1.0.0-wasm';
-// JS files always load locally — they're small and deployed to CF Pages
-const LOCAL_JS_PATH = normalizeBasePath(withBasePath('/libreoffice-wasm/'));
-// WASM/Data large files load from CDN
-const WASM_DATA_CDN_PATH = WASM_CDN_URL
-    ? `${WASM_CDN_URL.replace(/\/$/, '')}/`
-    : withBasePath('/libreoffice-wasm/');
-const ASSET_VERSION = '20240212-3';
-// Request uncompressed names. In production, nginx gzip_static serves the .gz variant
-// with correct Content-Encoding and MIME headers (required for WebAssembly streaming).
-const SOFFICE_WASM_FILE = 'soffice.wasm';
-const SOFFICE_DATA_FILE = 'soffice.data';
+// CDN base: raw.githubusercontent.com supports CORS (Access-Control-Allow-Origin: *)
+const CDN_BASE = 'https://raw.githubusercontent.com/yysam123456-source/pdfcraft/wasm-assets';
 
-function normalizeBasePath(path: string): string {
-    return path.endsWith('/') ? path : `${path}/`;
-}
+// Asset filenames on CDN (gzipped)
+const SOFFICE_JS       = 'soffice.js';
+const SOFFICE_WASM_GZ  = 'soffice.wasm.gz';
+const SOFFICE_DATA_GZ  = 'soffice.data.gz';
+const SOFFICE_WORKER_JS = 'soffice.worker.js';
+const BROWSER_WORKER_JS = 'browser.worker.global.js';
 
 export interface LoadProgress {
     phase: 'loading' | 'initializing' | 'converting' | 'complete' | 'ready';
@@ -62,120 +28,158 @@ export interface LoadProgress {
 
 export type ProgressCallback = (progress: LoadProgress) => void;
 
-// Singleton for converter instance
 let converterInstance: LibreOfficeConverter | null = null;
+
+/**
+ * Fetch a .gz file from CDN and decompress via DecompressionStream.
+ * Returns a Blob (decompressed).
+ */
+async function fetchAndDecompress(url: string, onProgress?: (loaded: number, total: number) => void): Promise<Blob> {
+    const response = await fetch(url, { mode: 'cors' });
+    if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.status} ${response.statusText}`);
+
+    const contentLength = response.headers.get('content-length');
+    const total = contentLength ? parseInt(contentLength) : 0;
+
+    // If server sends Content-Encoding: gzip, browser already decompressed — return as-is
+    const contentEncoding = response.headers.get('content-encoding');
+    if (contentEncoding?.includes('gzip')) {
+        return response.blob();
+    }
+
+    // Manually decompress .gz via DecompressionStream
+    const decompressor = new DecompressionStream('gzip');
+    const reader = response.body!.getReader();
+    const writer = decompressor.writable.getWriter();
+    const outputReader = decompressor.readable.getReader();
+
+    // Pipe response body → decompressor (with progress tracking)
+    const pipePromise = (async () => {
+        let loaded = 0;
+        while (true) {
+            const { done, value } = await reader.read();
+            if (done) break;
+            loaded += value.length;
+            onProgress?.(loaded, total);
+            await writer.write(value);
+        }
+        await writer.close();
+    })();
+
+    // Collect decompressed output
+    const chunks: Uint8Array[] = [];
+    const readPromise = (async () => {
+        while (true) {
+            const { done, value } = await outputReader.read();
+            if (done) break;
+            chunks.push(value);
+        }
+    })();
+
+    await Promise.all([pipePromise, readPromise]);
+
+    // Concatenate chunks into single Uint8Array
+    const totalLength = chunks.reduce((sum, c) => sum + c.length, 0);
+    const result = new Uint8Array(totalLength);
+    let offset = 0;
+    for (const chunk of chunks) {
+        result.set(chunk, offset);
+        offset += chunk.length;
+    }
+
+    return new Blob([result]);
+}
+
+/**
+ * Fetch a regular (non-gz) file as Blob.
+ */
+async function fetchBlob(url: string): Promise<Blob> {
+    const response = await fetch(url, { mode: 'cors' });
+    if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.status}`);
+    return response.blob();
+}
 
 export class LibreOfficeConverter {
     private converter: WorkerBrowserConverter | null = null;
     private initialized = false;
     private initPromise: Promise<void> | null = null;
-    private basePath: string;
-    /** CDN path for large WASM/Data assets (>25MB, blocked by CF Pages) */
-    private wasmBasePath: string;
-    /** Total size of all WASM assets in MB, computed during environment check */
-    private totalAssetSizeMB = 0;
-    /** Replaceable progress callback — allows late-binding when preload started without one */
     private progressCallback?: ProgressCallback;
-    /** Track Blob URLs for cleanup */
     private blobUrls: string[] = [];
 
-    constructor(basePath?: string) {
-        this.basePath = normalizeBasePath(basePath || LOCAL_JS_PATH);
-        this.wasmBasePath = WASM_DATA_CDN_PATH;
-    }
-
     async initialize(onProgress?: ProgressCallback): Promise<void> {
-        // Allow hot-swapping the progress callback even if init is already in flight.
-        // This covers the case where preload started silently (no callback), and later
-        // the user clicks "Convert" which provides a real callback.
         if (onProgress) this.progressCallback = onProgress;
-
         if (this.initialized) return;
-
-        // If already initializing, wait for the existing promise
         if (this.initPromise) return this.initPromise;
 
         this.initPromise = this._doInitialize();
         try {
             await this.initPromise;
         } catch (e) {
-            // Allow retry on failure
             this.initPromise = null;
             throw e;
         }
-    }
-
-    /**
-     * Build a human-readable progress message.
-     * When totalAssetSizeMB is known, shows "Downloading: X MB / Y MB".
-     */
-    private buildProgressMessage(info: { percent: number }): string {
-        if (this.totalAssetSizeMB > 0 && info.percent < 95) {
-            const downloadedMB = (info.percent / 100 * this.totalAssetSizeMB).toFixed(1);
-            const totalMB = this.totalAssetSizeMB.toFixed(1);
-            return `Downloading: ${downloadedMB} MB / ${totalMB} MB`;
-        }
-        if (info.percent >= 95 && info.percent < 100) {
-            return 'Initializing conversion engine...';
-        }
-        return `Loading conversion engine (${Math.round(info.percent)}%)...`;
     }
 
     private async _doInitialize(): Promise<void> {
         try {
             this.progressCallback?.({ phase: 'loading', percent: 0, message: 'Checking environment...' });
 
-            // Fail fast if SharedArrayBuffer / COOP+COEP is missing
             await this.checkEnvironment();
 
-            const totalInfo = this.totalAssetSizeMB > 0
-                ? ` (${this.totalAssetSizeMB.toFixed(1)} MB to download)`
-                : '';
-            this.progressCallback?.({ phase: 'loading', percent: 5, message: `Loading conversion engine${totalInfo}...` });
+            this.progressCallback?.({ phase: 'loading', percent: 5, message: 'Downloading conversion engine (74 MB)...' });
 
-            // Fetch and reassemble assets (handles chunking on Cloudflare Pages)
-            // JS files: local (small, deployed by CF Pages)
-            // WASM/Data: CDN (large, excluded from CF Pages by cloudflare-cleanup.mjs)
-            const [sofficeJsBlob, sofficeWasmBlob, sofficeDataBlob, sofficeWorkerJsBlob, browserWorkerJsBlob] = await Promise.all([
-                fetchAssembledBlob(`${this.basePath}soffice.js?v=${ASSET_VERSION}`),
-                fetchAssembledBlob(`${this.wasmBasePath}${SOFFICE_WASM_FILE}?v=${ASSET_VERSION}`),
-                fetchAssembledBlob(`${this.wasmBasePath}${SOFFICE_DATA_FILE}?v=${ASSET_VERSION}`),
-                fetchAssembledBlob(`${this.basePath}soffice.worker.js?v=${ASSET_VERSION}`),
-                fetchAssembledBlob(`${this.basePath}browser.worker.global.js?v=${ASSET_VERSION}`),
+            // Fetch all assets in parallel
+            const [sofficeJs, sofficeWasmBlob, sofficeDataBlob, sofficeWorkerJs, browserWorkerJs] = await Promise.all([
+                fetchBlob(`${CDN_BASE}/${SOFFICE_JS}`),
+                fetchAndDecompress(`${CDN_BASE}/${SOFFICE_WASM_GZ}`, (loaded, total) => {
+                    const pct = total > 0 ? Math.round(5 + (loaded / total) * 45) : 50;
+                    this.progressCallback?.({
+                        phase: 'loading',
+                        percent: pct,
+                        message: `Downloading engine: ${(loaded / 1024 / 1024).toFixed(1)} MB / ${(total / 1024 / 1024).toFixed(1)} MB`,
+                    });
+                }),
+                fetchAndDecompress(`${CDN_BASE}/${SOFFICE_DATA_GZ}`, (loaded, total) => {
+                    const pct = total > 0 ? Math.round(50 + (loaded / total) * 40) : 90;
+                    this.progressCallback?.({
+                        phase: 'loading',
+                        percent: pct,
+                        message: `Downloading data: ${(loaded / 1024 / 1024).toFixed(1)} MB / ${(total / 1024 / 1024).toFixed(1)} MB`,
+                    });
+                }),
+                fetchBlob(`${CDN_BASE}/${SOFFICE_WORKER_JS}`),
+                fetchBlob(`${CDN_BASE}/${BROWSER_WORKER_JS}`),
             ]);
 
-            const sofficeJsUrl = URL.createObjectURL(sofficeJsBlob);
-            const sofficeWasmUrl = URL.createObjectURL(sofficeWasmBlob);
-            const sofficeDataUrl = URL.createObjectURL(sofficeDataBlob);
-            const sofficeWorkerJsUrl = URL.createObjectURL(sofficeWorkerJsBlob);
-            const browserWorkerJsUrl = URL.createObjectURL(browserWorkerJsBlob);
+            const sofficeJsUrl       = URL.createObjectURL(sofficeJs);
+            const sofficeWasmUrl    = URL.createObjectURL(sofficeWasmBlob);
+            const sofficeDataUrl     = URL.createObjectURL(sofficeDataBlob);
+            const sofficeWorkerJsUrl = URL.createObjectURL(sofficeWorkerJs);
+            const browserWorkerJsUrl  = URL.createObjectURL(browserWorkerJs);
 
             this.blobUrls = [sofficeJsUrl, sofficeWasmUrl, sofficeDataUrl, sofficeWorkerJsUrl, browserWorkerJsUrl];
 
             this.converter = new WorkerBrowserConverter({
-                sofficeJs: sofficeJsUrl,
-                sofficeWasm: sofficeWasmUrl,
-                sofficeData: sofficeDataUrl,
+                sofficeJs:       sofficeJsUrl,
+                sofficeWasm:    sofficeWasmUrl,
+                sofficeData:     sofficeDataUrl,
                 sofficeWorkerJs: sofficeWorkerJsUrl,
-                browserWorkerJs: browserWorkerJsUrl,
+                browserWorkerJs:  browserWorkerJsUrl,
                 verbose: false,
                 onProgress: (info: { phase: string; percent: number; message: string }) => {
-                    // Use this.progressCallback so a late-arriving callback from the UI gets picked up
                     if (this.progressCallback && !this.initialized) {
                         this.progressCallback({
                             phase: info.phase as LoadProgress['phase'],
                             percent: info.percent,
-                            message: this.buildProgressMessage(info),
+                            message: info.message,
                         });
                     }
                 },
-                onReady: () => {
-                    console.log('[LibreOffice] Ready!');
-                },
-                onError: (error: Error) => {
-                    console.error('[LibreOffice] Error:', error);
-                },
+                onReady: () => console.log('[LibreOffice] Ready!'),
+                onError: (error: Error) => console.error('[LibreOffice] Error:', error),
             });
+
+            this.progressCallback?.({ phase: 'initializing', percent: 95, message: 'Initializing conversion engine...' });
 
             console.log('[LibreOffice] Starting initialization via WorkerBrowserConverter...');
             const initStart = performance.now();
@@ -184,11 +188,7 @@ export class LibreOfficeConverter {
             console.log(`[LibreOffice] Initialization completed in ${initDuration}ms`);
 
             this.initialized = true;
-
-            // Signal completion
             this.progressCallback?.({ phase: 'ready', percent: 100, message: 'Conversion engine ready!' });
-
-            // Null out the callback to prevent any late-firing progress updates
             this.progressCallback = undefined;
         } catch (e) {
             this.converter = null;
@@ -198,94 +198,36 @@ export class LibreOfficeConverter {
     }
 
     /**
-     * Diagnose environment issues — fail fast if SharedArrayBuffer is not available.
-     * SharedArrayBuffer requires Cross-Origin Isolation (COOP + COEP headers).
+     * Check that SharedArrayBuffer / Cross-Origin Isolation is available.
+     * Also verify CDN connectivity.
      */
     private async checkEnvironment(): Promise<void> {
         console.warn('[LibreOffice] === Environment Check ===');
 
-        // 1. Check COOP/COEP — this is the #1 cause of WASM timeout
-        const isIsolated = window.crossOriginIsolated;
+        const isIsolated = typeof window !== 'undefined' && window.crossOriginIsolated;
         console.warn(`[LibreOffice] Cross-Origin Isolated: ${isIsolated ? 'YES ✅' : 'NO ❌'}`);
 
-        // 2. Check SharedArrayBuffer directly
         const hasSAB = typeof SharedArrayBuffer !== 'undefined';
         console.warn(`[LibreOffice] SharedArrayBuffer: ${hasSAB ? 'Available ✅' : 'NOT available ❌'}`);
 
         if (!isIsolated || !hasSAB) {
-            const errorMsg = [
-                'LibreOffice WASM requires SharedArrayBuffer for multi-threading.',
-                '',
-                'SharedArrayBuffer is only available in Cross-Origin Isolated contexts.',
-                'Your server MUST return these headers on ALL responses:',
-                '  Cross-Origin-Opener-Policy: same-origin',
-                '  Cross-Origin-Embedder-Policy: require-corp',
-                '  Cross-Origin-Resource-Policy: cross-origin',
-                '',
-                `Current state: crossOriginIsolated=${isIsolated}, SharedArrayBuffer=${hasSAB}`,
-            ].join('\n');
-            console.error(`[LibreOffice] ${errorMsg}`);
             throw new Error(
                 `SharedArrayBuffer is not available (crossOriginIsolated=${isIsolated}). ` +
-                'Your server must set Cross-Origin-Opener-Policy and Cross-Origin-Embedder-Policy headers. ' +
-                'See browser console for details.'
+                'The server must set Cross-Origin-Opener-Policy: same-origin and ' +
+                'Cross-Origin-Embedder-Policy: require-corp headers.'
             );
         }
 
-        // 3. Check file connectivity (parallel for speed) & accumulate total size
-        const files: Array<{ name: string; useWasmPath: boolean }> = [
-            { name: SOFFICE_WASM_FILE, useWasmPath: true },
-            { name: SOFFICE_DATA_FILE, useWasmPath: true },
-            { name: 'soffice.js', useWasmPath: false },
-            { name: 'soffice.worker.js', useWasmPath: false },
-            { name: 'browser.worker.global.js', useWasmPath: false },
-        ];
-        let totalBytes = 0;
-        await Promise.all(files.map(async ({ name: file, useWasmPath }) => {
-            const basePath = useWasmPath ? this.wasmBasePath : this.basePath;
-            const url = `${basePath}${file}?v=${ASSET_VERSION}`;
-            try {
-                const start = performance.now();
-                // Check for the file itself or its chunk manifest
-                let res = await fetch(url, { method: 'HEAD' });
-                
-                if (!res.ok) {
-                    const manifestUrl = `${basePath}${file}.manifest.json?v=${ASSET_VERSION}`;
-                    const mRes = await fetch(manifestUrl, { method: 'HEAD' });
-                    if (mRes.ok) {
-                        res = mRes;
-                        console.warn(`[LibreOffice] ${file}: Found chunk manifest instead of raw file.`);
-                    }
-                }
-
-                const duration = Math.round(performance.now() - start);
-
-                if (res.ok) {
-                    const size = res.headers.get('content-length');
-                    const type = res.headers.get('content-type');
-                    // Note: manifest size is small, so totalAssetSizeMB will be undercounted 
-                    // if files are chunked, but that's acceptable for an environment check.
-                    const sizeNum = size ? parseInt(size) : 0;
-                    if (sizeNum > 0) totalBytes += sizeNum;
-                    const sizeMb = sizeNum > 0 ? (sizeNum / 1024 / 1024).toFixed(2) + 'MB' : 'unknown size';
-                    console.warn(
-                        `[LibreOffice] ${file}: OK (${res.status}) ${duration}ms | ${sizeMb} | type=${type}`
-                    );
-                } else {
-                    console.error(`[LibreOffice] ${file}: FAILED (${res.status} ${res.statusText})`);
-                    throw new Error(`Required file ${file} returned HTTP ${res.status}`);
-                }
-            } catch (e) {
-                if (e instanceof Error && e.message.startsWith('Required file')) throw e;
-                console.error(`[LibreOffice] ${file}: NETWORK ERROR`, e);
-                throw new Error(`Cannot fetch ${file}: ${e}`);
-            }
-        }));
-
-        this.totalAssetSizeMB = totalBytes / (1024 * 1024);
-        if (this.totalAssetSizeMB > 0) {
-            console.warn(`[LibreOffice] Total asset size: ${this.totalAssetSizeMB.toFixed(1)} MB`);
+        // Verify CDN connectivity (just check soffice.js HEAD)
+        try {
+            const res = await fetch(`${CDN_BASE}/${SOFFICE_JS}`, { method: 'HEAD', mode: 'cors' });
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            console.warn(`[LibreOffice] CDN connectivity: OK ✅ (${res.status})`);
+        } catch (e) {
+            console.error('[LibreOffice] CDN connectivity: FAILED ❌', e);
+            throw new Error(`Cannot reach WASM CDN at ${CDN_BASE}. Please check your internet connection.`);
         }
+
         console.warn('[LibreOffice] === Environment Check Passed ✅ ===');
     }
 
@@ -294,76 +236,45 @@ export class LibreOfficeConverter {
     }
 
     async convert(file: File, outputFormat: string): Promise<Blob> {
-        if (!this.converter) {
-            throw new Error('Converter not initialized');
-        }
+        if (!this.converter) throw new Error('Converter not initialized');
 
         console.log(`[LibreOffice] Converting ${file.name} to ${outputFormat}...`);
-        console.log(`[LibreOffice] File type: ${file.type}, Size: ${file.size} bytes`);
+        const arrayBuffer = await file.arrayBuffer();
+        const uint8Array = new Uint8Array(arrayBuffer);
+        const ext = file.name.split('.').pop()?.toLowerCase() || '';
 
-        try {
-            const arrayBuffer = await file.arrayBuffer();
-            const uint8Array = new Uint8Array(arrayBuffer);
-            const ext = file.name.split('.').pop()?.toLowerCase() || '';
+        const startTime = Date.now();
+        const result = await this.converter.convert(uint8Array, {
+            outputFormat: outputFormat as any,
+            inputFormat: ext as any,
+        }, file.name);
+        const duration = Date.now() - startTime;
+        console.log(`[LibreOffice] Conversion complete! Duration: ${duration}ms`);
 
-            console.log(`[LibreOffice] Detected format from extension: ${ext}`);
-
-            const startTime = Date.now();
-            const result = await this.converter.convert(uint8Array, {
-                outputFormat: outputFormat as any,
-                inputFormat: ext as any,
-            }, file.name);
-
-            const duration = Date.now() - startTime;
-            console.log(`[LibreOffice] Conversion complete! Duration: ${duration}ms, Size: ${result.data.length} bytes`);
-
-            // SharedArrayBuffer-backed data cannot be passed to Blob directly;
-            // copy only when necessary to avoid unnecessary allocation.
-            const isSAB = typeof SharedArrayBuffer !== 'undefined'
-                && result.data.buffer instanceof SharedArrayBuffer;
-            const outputData = isSAB
-                ? new Uint8Array(result.data) // copies into a regular ArrayBuffer
-                : result.data;
-            return new Blob([outputData as BlobPart], { type: result.mimeType });
-        } catch (error) {
-            console.error(`[LibreOffice] Conversion FAILED for ${file.name}:`, error);
-            throw error;
-        }
+        const isSAB = typeof SharedArrayBuffer !== 'undefined'
+            && result.data.buffer instanceof SharedArrayBuffer;
+        const outputData = isSAB ? new Uint8Array(result.data) : result.data;
+        return new Blob([outputData as BlobPart], { type: result.mimeType });
     }
 
     async convertToPdf(file: File): Promise<Blob> {
         return this.convert(file, 'pdf');
     }
 
-    async wordToPdf(file: File): Promise<Blob> {
-        return this.convertToPdf(file);
-    }
-
-    async pptToPdf(file: File): Promise<Blob> {
-        return this.convertToPdf(file);
-    }
-
-    async excelToPdf(file: File): Promise<Blob> {
-        return this.convertToPdf(file);
-    }
+    async wordToPdf(file: File): Promise<Blob> { return this.convertToPdf(file); }
+    async pptToPdf(file: File): Promise<Blob>  { return this.convertToPdf(file); }
+    async excelToPdf(file: File): Promise<Blob> { return this.convertToPdf(file); }
 
     async destroy(): Promise<void> {
-        if (this.converter) {
-            await this.converter.destroy();
-        }
-        
-        // Revoke Blob URLs to release memory
+        if (this.converter) await this.converter.destroy();
         this.blobUrls.forEach(url => URL.revokeObjectURL(url));
         this.blobUrls = [];
-        
         this.converter = null;
         this.initialized = false;
     }
 }
 
-export function getLibreOfficeConverter(basePath?: string): LibreOfficeConverter {
-    if (!converterInstance) {
-        converterInstance = new LibreOfficeConverter(basePath);
-    }
+export function getLibreOfficeConverter(): LibreOfficeConverter {
+    if (!converterInstance) converterInstance = new LibreOfficeConverter();
     return converterInstance;
 }
