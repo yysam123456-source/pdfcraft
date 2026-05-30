@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { Tool, ToolContent, HowToStep, UseCase, FAQ, ToolCategory } from '@/types/tool';
+import { AdSlot } from '@/components/ads/AdSlot';
 import { Card } from '@/components/ui/Card';
 import { getToolById } from '@/config/tools';
 import { Header } from '@/components/layout/Header';
@@ -103,6 +104,11 @@ export function ToolPage({ tool, content, locale, children, localizedRelatedTool
               {children}
             </section>
 
+            {/* Ad Slot 1: below tool interface */}
+            <div className="mt-6 flex justify-center">
+              <AdSlot slotId="tool-below-interface" size="leaderboard" label="Below Tool" />
+            </div>
+
             {/* Description Section */}
             <DescriptionSection description={content.description} />
 
@@ -114,6 +120,11 @@ export function ToolPage({ tool, content, locale, children, localizedRelatedTool
 
             {/* FAQ Section */}
             <FAQSection faq={content.faq} />
+
+            {/* Ad Slot 2: below FAQ, above related tools */}
+            <div className="mt-6 flex justify-center">
+              <AdSlot slotId="tool-below-faq" size="leaderboard" label="Below FAQ" />
+            </div>
 
             {/* Related Tools Section */}
             <RelatedToolsSection

@@ -36,6 +36,14 @@ export default function RootLayout({
             `,
           }}
         />
+        {/* Google AdSense - only loads when NEXT_PUBLIC_ADSENSE_CLIENT is set */}
+        {process.env.NEXT_PUBLIC_ADSENSE_CLIENT && (
+          <script
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_CLIENT}`}
+            crossOrigin="anonymous"
+          />
+        )}
       </head>
       <body className="min-h-screen bg-background text-foreground antialiased">
         {children}
