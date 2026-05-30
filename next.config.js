@@ -10,7 +10,9 @@ const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   // Enable static export for deployment flexibility
-  output: 'export',
+  // output: 'export',  // Disabled: Vercel free tier doesn't support auto-deploy for static export
+  // Use standalone mode for Vercel auto-deploy
+  output: process.env.VERCEL ? 'standalone' : 'export',
   
   // Support deployment under a subpath (e.g., /pdfcraft/)
   // Use BASE_PATH or NEXT_PUBLIC_BASE_PATH environment variable
