@@ -2,12 +2,37 @@ import type { Metadata } from 'next';
 import '@/app/globals.css';
 
 export const metadata: Metadata = {
-  title: 'PDFCraft - Professional PDF Tools',
+  title: {
+    default: 'PDFCraft - Professional PDF Tools',
+    template: '%s | PDFCraft',
+  },
   description: 'Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.',
+  keywords: ['PDF tools', 'PDF editor', 'merge PDF', 'split PDF', 'compress PDF', 'free PDF tools', 'browser-based PDF', 'private PDF processing'],
   icons: {
     icon: '/favicon.svg',
     shortcut: '/favicon.svg',
     apple: '/favicon.svg',
+  },
+  openGraph: {
+    title: 'PDFCraft - Professional PDF Tools',
+    description: 'Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.',
+    url: 'https://pdf.craftisle.com',
+    siteName: 'PDFCraft',
+    images: ['/images/og-image.png'],
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'PDFCraft - Professional PDF Tools',
+    description: 'Free online PDF tools for merging, splitting, compressing, and converting PDF files.',
+  },
+  alternates: {
+    languages: {
+      'en': 'https://pdf.craftisle.com/en',
+      'zh': 'https://pdf.craftisle.com/zh',
+      'x-default': 'https://pdf.craftisle.com/',
+    },
   },
 };
 
