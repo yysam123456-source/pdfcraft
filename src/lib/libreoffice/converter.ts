@@ -113,16 +113,23 @@ async function fetchAndDecompress(url: string, onProgress?: (loaded: number, tot
         offset += chunk.length;
     }
 
-    return new Blob([result]);
+    // Determine MIME type from URL for Safari compatibility
+    const mimeType = url.endsWith('.wasm.gz') || url.endsWith('.wasm')
+        ? 'application/wasm'
+        : 'application/octet-stream';
+    return new Blob([result], { type: mimeType });
 }
 
 /**
- * Fetch a regular (non-gz) file as Blob.
+ * Fetch a JS file from CDN and return as Blob with proper MIME type.
+ * Safari requires Worker scripts to have application/javascript MIME type.
+ * raw.githubusercontent.com returns text/plain, so we must override it.
  */
-async function fetchBlob(url: string): Promise<Blob> {
+async function fetchJs(url: string): Promise<Blob> {
     const response = await fetchWithRetry(url);
     if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.status}`);
-    return response.blob();
+    const text = await response.text();
+    return new Blob([text], { type: 'application/javascript' });
 }
 
 export class LibreOfficeConverter {
@@ -154,11 +161,11 @@ export class LibreOfficeConverter {
 
             this.progressCallback?.({ phase: 'loading', percent: 5, message: 'Downloading conversion engine (~74 MB, may take 1-2 min)...' });
 
-            // Step 1: Fetch small JS files in parallel
+            // Step 1: Fetch small JS files in parallel (with proper MIME type for Safari)
             const [sofficeJs, sofficeWorkerJs, browserWorkerJs] = await Promise.all([
-                fetchBlob(`${CDN_BASE}/${SOFFICE_JS}`),
-                fetchBlob(`${CDN_BASE}/${SOFFICE_WORKER_JS}`),
-                fetchBlob(`${CDN_BASE}/${BROWSER_WORKER_JS}`),
+                fetchJs(`${CDN_BASE}/${SOFFICE_JS}`),
+                fetchJs(`${CDN_BASE}/${SOFFICE_WORKER_JS}`),
+                fetchJs(`${CDN_BASE}/${BROWSER_WORKER_JS}`),
             ]);
 
             // Step 2: Fetch large WASM file (serial to avoid network congestion)
