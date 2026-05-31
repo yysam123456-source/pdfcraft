@@ -19,6 +19,7 @@ const SOFFICE_WASM_GZ  = 'soffice.wasm.gz';
 const SOFFICE_DATA_GZ  = 'soffice.data.gz';
 const SOFFICE_WORKER_JS = 'soffice.worker.js';
 const BROWSER_WORKER_JS = 'browser.worker.global.js';
+const NOTO_SANS_FONT   = 'NotoSansSC-Regular.ttf';
 
 export interface LoadProgress {
     phase: 'loading' | 'initializing' | 'converting' | 'complete' | 'ready';
@@ -132,6 +133,15 @@ async function fetchJs(url: string): Promise<Blob> {
     return new Blob([text], { type: 'application/javascript' });
 }
 
+/**
+ * Fetch a binary file from CDN as Blob.
+ */
+async function fetchBlob(url: string): Promise<Blob> {
+    const response = await fetchWithRetry(url);
+    if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.status}`);
+    return response.blob();
+}
+
 export class LibreOfficeConverter {
     private converter: WorkerBrowserConverter | null = null;
     private initialized = false;
@@ -159,17 +169,21 @@ export class LibreOfficeConverter {
 
             await this.checkEnvironment();
 
-            this.progressCallback?.({ phase: 'loading', percent: 5, message: 'Downloading conversion engine (~74 MB, may take 1-2 min)...' });
+            this.progressCallback?.({ phase: 'loading', percent: 5, message: 'Downloading conversion engine (~90 MB, may take 1-3 min)...' });
 
-            // Step 1: Fetch small JS files in parallel (with proper MIME type for Safari)
-            const [sofficeJs, sofficeWorkerJs, browserWorkerJs] = await Promise.all([
+            // Step 1: Fetch small JS files + font in parallel (with proper MIME type for Safari)
+            const [sofficeJs, sofficeWorkerJs, browserWorkerJs, fontBlob] = await Promise.all([
                 fetchJs(`${CDN_BASE}/${SOFFICE_JS}`),
                 fetchJs(`${CDN_BASE}/${SOFFICE_WORKER_JS}`),
                 fetchJs(`${CDN_BASE}/${BROWSER_WORKER_JS}`),
+                fetchBlob(`${CDN_BASE}/${NOTO_SANS_FONT}`),
             ]);
 
+            // Load CJK font into ArrayBuffer for the converter
+            const fontArrayBuffer = await fontBlob.arrayBuffer();
+
             // Step 2: Fetch large WASM file (serial to avoid network congestion)
-            this.progressCallback?.({ phase: 'loading', percent: 10, message: 'Downloading engine core (~47 MB)...' });
+            this.progressCallback?.({ phase: 'loading', percent: 15, message: 'Downloading engine core (~47 MB)...' });
             const sofficeWasmBlob = await fetchAndDecompress(`${CDN_BASE}/${SOFFICE_WASM_GZ}`, (loaded, total) => {
                 const pct = total > 0 ? Math.round(10 + (loaded / total) * 35) : 45;
                 this.progressCallback?.({
@@ -205,6 +219,9 @@ export class LibreOfficeConverter {
                 sofficeWorkerJs: sofficeWorkerJsUrl,
                 browserWorkerJs:  browserWorkerJsUrl,
                 verbose: false,
+                fonts: [
+                    { filename: 'NotoSansSC-Regular.ttf', data: fontArrayBuffer },
+                ],
                 onProgress: (info: { phase: string; percent: number; message: string }) => {
                     if (this.progressCallback && !this.initialized) {
                         this.progressCallback({
