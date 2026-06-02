@@ -2,46 +2,42 @@
 
 /* PDFCraft Design System - CSS Variables for Theming */
 :root {
-  /* Primary Colors - Deep Blue/Indigo for trust and modern tech feel */
-  --color-primary: 226 71% 55%; /* #3b82f6 - slightly more vibrant */
+  /* === Craftisle 品牌配色方案A - 深海科技感 === */
+  --color-primary: 211 64% 23%;          /* #1E3A5F 深蓝 */
   --color-primary-foreground: 0 0% 100%;
-  --color-primary-hover: 226 71% 45%;
+  --color-primary-hover: 211 64% 33%;
   
-  /* Secondary Colors - Slate for neutral elements */
-  --color-secondary: 215 20% 90%;
-  --color-secondary-foreground: 215 25% 15%;
-  --color-secondary-hover: 215 20% 80%;
+  /* 强调色：青绿 */
+  --color-secondary: 168 100% 39%;       /* #00C9A7 青绿 */
+  --color-secondary-foreground: 0 0% 100%;
+  --color-secondary-hover: 168 100% 49%;
   
-  /* Accent Colors - Teal/Cyan for highlights */
-  --color-accent: 172 66% 50%;
-  --color-accent-foreground: 0 0% 100%;
+  /* 背景 */
+  --color-background: 210 40% 98%;       /* #F8FAFC 极浅蓝灰 */
+  --color-foreground: 215 25% 27%;       /* #1E293B 深蓝灰文字 */
   
-  /* Background Colors */
-  --color-background: 210 40% 98%; /* Slightly off-white for depth */
-  --color-foreground: 222 47% 11%;
-  
-  /* Muted Colors */
+  /*  muted */
   --color-muted: 210 40% 96%;
-  --color-muted-foreground: 215 16% 47%;
+  --color-muted-foreground: 215 20% 65.1%;
   
-  /* Card Colors */
+  /* card */
   --color-card: 0 0% 100%;
-  --color-card-foreground: 222 47% 11%;
+  --color-card-foreground: 215 25% 27%;
   
-  /* Border Colors */
-  --color-border: 214 32% 91%;
-  --color-input: 214 32% 91%;
-  --color-ring: 226 71% 55%;
+  /* border */
+  --color-border: 210 20% 89.8%;
+  --color-input: 210 20% 89.8%;
+  --color-ring: 168 100% 39%;
   
-  /* Destructive Colors */
+  /* destructive */
   --color-destructive: 0 84% 60%;
   --color-destructive-foreground: 0 0% 100%;
   
-  /* Success Colors */
+  /* success */
   --color-success: 142 76% 36%;
   --color-success-foreground: 0 0% 100%;
   
-  /* Warning Colors */
+  /* warning */
   --color-warning: 38 92% 50%;
   --color-warning-foreground: 0 0% 100%;
   
@@ -81,29 +77,29 @@
 /* Dark Mode Theme */
 .dark {
   color-scheme: dark;
-  --color-primary: 226 71% 60%;
-  --color-primary-foreground: 222 47% 11%;
-  --color-primary-hover: 226 71% 70%;
+  --color-primary: 168 100% 39%;             /* #00C9A7 青绿（暗色主色反转） */
+  --color-primary-foreground: 0 0% 9%;
+  --color-primary-hover: 168 100% 49%;
   
-  --color-secondary: 215 20% 20%;
-  --color-secondary-foreground: 210 40% 98%;
-  --color-secondary-hover: 215 20% 30%;
+  --color-secondary: 211 64% 33%;            /* #1E3A5F 深蓝 */
+  --color-secondary-foreground: 210 20% 98%;
+  --color-secondary-hover: 211 64% 43%;
   
-  --color-accent: 172 66% 50%;
-  --color-accent-foreground: 222 47% 11%;
+  --color-accent: 211 64% 23%;              /* 深蓝强调背景 */
+  --color-accent-foreground: 168 100% 75%; /* 青绿文字 */
   
-  --color-background: 222 47% 7%; /* Darker background for more contrast */
-  --color-foreground: 210 40% 98%;
+  --color-background: 215 28% 17%;          /* #0F172A 深蓝黑 */
+  --color-foreground: 210 20% 98%;          /* #F1F5F9 浅蓝白 */
   
-  --color-muted: 217 33% 13%;
-  --color-muted-foreground: 215 20% 65%;
+  --color-muted: 215 25% 12%;
+  --color-muted-foreground: 215 20% 65.1%; /* #94A3B8 */
   
-  --color-card: 222 47% 10%;
-  --color-card-foreground: 210 40% 98%;
+  --color-card: 215 25% 12%;              /* #1E293B 深蓝灰卡 */
+  --color-card-foreground: 210 20% 98%;
   
-  --color-border: 217 33% 15%;
-  --color-input: 217 33% 15%;
-  --color-ring: 226 71% 60%;
+  --color-border: 215 25% 14%;              /* #1E293B 暗边框 */
+  --color-input: 215 25% 14%;
+  --color-ring: 168 100% 39%;                /* 聚焦环用青绿 */
 }
 
 /* Base Styles */

@@ -3,21 +3,21 @@ import '@/app/globals.css';
 
 export const metadata: Metadata = {
   title: {
-    default: 'PDFCraft - Professional PDF Tools',
-    template: '%s | PDFCraft',
+    default: 'Craftisle PDF - Free Online PDF Tools',
+    template: '%s | Craftisle PDF',
   },
-  description: 'Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.',
-  keywords: ['PDF tools', 'PDF editor', 'merge PDF', 'split PDF', 'compress PDF', 'free PDF tools', 'browser-based PDF', 'private PDF processing'],
+  description: 'Free online PDF tools by Craftisle. Merge, split, compress, and convert PDF files. All processing happens in your browser for maximum privacy.',
+  keywords: ['PDF tools', 'PDF editor', 'merge PDF', 'split PDF', 'compress PDF', 'free PDF tools', 'browser-based PDF', 'private PDF processing', 'Craftisle'],
   icons: {
     icon: '/favicon.svg',
     shortcut: '/favicon.svg',
     apple: '/favicon.svg',
   },
   openGraph: {
-    title: 'PDFCraft - Professional PDF Tools',
-    description: 'Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.',
+    title: 'Craftisle PDF - Free Online PDF Tools',
+    description: 'Free online PDF tools by Craftisle. Merge, split, compress, and convert PDF files.',
     url: 'https://pdf.craftisle.com',
-    siteName: 'PDFCraft',
+    siteName: 'Craftisle PDF',
     images: ['/images/og-image.png'],
     locale: 'en_US',
     type: 'website',
