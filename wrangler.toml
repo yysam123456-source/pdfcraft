@@ -4,3 +4,14 @@ pages_build_output_dir = "out"
 compatibility_date = "2026-05-29"
 # Custom domain will be configured via Cloudflare Dashboard
 # pdf.craftisle.com → pdfcraft.pages.dev
+
+# -----------------------------------------------------------------------------
+# Ads (Google AdSense) — Single switch for entire project
+# -----------------------------------------------------------------------------
+# Set NEXT_PUBLIC_ADSENSE_CLIENT in Cloudflare Pages dashboard:
+#   Settings → Variables and Secrets → Add variable (Build environment variable)
+# Set to your AdSense client ID (e.g., ca-pub-1234567890123456) to enable ads on all pages.
+# Leave empty / unset to hide ads everywhere.
+# This single variable controls ads on ALL pages:
+#   pdfcraft.com (homepage, tools, blog, docs...)
+#   All tool detail pages
