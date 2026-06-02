@@ -11,8 +11,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   // ==================== 熱門工具 ====================
   'pdf-multi-tool': {
     title: 'PDF多功能工具',
-    metaDescription: '一站式PDF編輯器：合併、拆分、整理、刪除、旋轉和提取頁面，功能強大。',
-    keywords: ['pdf多功能工具', 'pdf編輯器', '合併pdf', '拆分pdf', '整理pdf', '一站式pdf'],
+    metaDescription: '免費PDF多功能工具線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf multi tool', 'pdf多功能工具', '免費pdf多功能工具線上', '最佳pdf多功能工具工具免費', 'pdf多功能工具無需註冊', 'pdf多功能工具瀏覽器端', '如何pdf多功能工具免費'],
     description: `
       <p>PDF 多功能工具是您處理所有 PDF 頁面管理任務的綜合解決方案。這款強大的單一介面將多種 PDF 操作整合在一起，幫您節省時間與精力。</p>
       <p>無論您要合併多個檔案、將大型 PDF 拆分為小檔案、重新整理頁面、刪除不需要的頁面、旋轉頁面或提取特定段落，這個工具都能輕鬆完成，無需在多個應用間切換。</p>
@@ -38,8 +38,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'merge-pdf': {
     title: '合併PDF',
-    metaDescription: '將多個PDF檔案合併成一個檔案。免費線上PDF合併器，支援拖放重新排序。',
-    keywords: ['合併pdf', '組合pdf', '連接pdf', 'pdf合併器', '拼接pdf'],
+    metaDescription: '免費合併PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['merge pdf', '合併pdf', '免費合併pdf', '線上合併pdf檔案', '如何合併pdf', 'pdf合併工具免費', '最佳pdf合併工具', '免費合併pdf線上', '最佳合併pdf工具免費', '合併pdf無需註冊', '合併pdf瀏覽器端', '如何合併pdf免費'],
     description: `
       <p>合併PDF允許您快速輕鬆地將多個PDF檔案合併成一個檔案。無論您是整合報告、合併掃描檔案還是組裝簡報，這個工具都能使過程變得無縫。</p>
       <p>只需上傳檔案，使用拖放功能按所需順序排列，然後將它們合併成一個連貫的檔案。該工具保留原始檔案的品質，並可選擇保留每個來源檔案的書籤。</p>
@@ -64,8 +64,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'rotate-custom': {
     title: '自定義旋轉 PDF',
-    metaDescription: '按任意角度旋轉PDF頁面。精確的自定義旋轉，用於校正掃描文檔。',
-    keywords: ['自定義旋轉pdf', 'pdf旋轉任意角度', '校正pdf', 'pdf歪斜校正'],
+    metaDescription: '免費自定義旋轉 PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['rotate custom', '自定義旋轉 pdf', '免費自定義旋轉線上', '最佳自定義旋轉工具免費', '自定義旋轉無需註冊', '自定義旋轉瀏覽器端', '如何自定義旋轉免費'],
     description: `
       <p>自定義旋轉 PDF 工具讓您可以精確控制PDF頁面的方向。與僅支援90度增量的標準旋轉工具不同，此工具允許您按任何特定角度旋轉頁面。</p>
       <p>非常適合校正掃描時稍微傾斜的文檔，或將圖表和圖紙調整到正確的方向。您可以校正單個頁面或對整個文檔應用相同的旋轉。</p>
@@ -91,8 +91,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'grid-combine': {
     title: '網格組合 PDF',
-    metaDescription: '將多個PDF檔案組合到單頁面上的靈活網格配置中。每頁排列2、4、6、9個或更多PDF，支援邊框和間距。',
-    keywords: ['網格組合', '合併pdf網格', 'pdf拼貼', '多pdf一頁', 'pdf n-up', '組合pdf網格'],
+    metaDescription: '免費網格組合 PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['grid combine', '網格組合 pdf', '免費網格組合線上', '最佳網格組合工具免費', '網格組合無需註冊', '網格組合瀏覽器端', '如何網格組合免費'],
     description: `
       <p>網格組合工具提供了一種將多個獨立的PDF檔案合併到單頁面上的獨特方式。與簡單追加頁面的標準“合併PDF”工具或重新排列單個檔案頁面的“N-Up”工具不同，網格組合獲取多個輸入檔案並將它們並排排列在可自訂的網格配置中。</p>
       <p>您可以選擇各種網格配置，如2x1、2x2、3x3等。這非常適合比較多個檔案、從不同來源創建講義或列印多個檔案的緊湊版本。</p>
@@ -118,8 +118,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'split-pdf': {
     title: '拆分PDF',
-    metaDescription: '將PDF檔案拆分成多個檔案。提取特定頁面或按頁面範圍分割。',
-    keywords: ['拆分pdf', '分割pdf', '分離pdf', '提取頁面', 'pdf拆分器'],
+    metaDescription: '免費拆分PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['split pdf', '拆分pdf', '免費拆分pdf', '線上拆分pdf文件', '按頁碼拆分pdf', 'pdf拆分工具免費', '免費拆分pdf線上', '最佳拆分pdf工具免費', '拆分pdf無需註冊', '拆分pdf瀏覽器端', '如何拆分pdf免費'],
     description: `
       <p>拆分PDF使您能夠將單個PDF檔案分成多個較小的檔案。這非常適合提取特定章節、分離合併的檔案或從多頁PDF創建單獨的檔案。</p>
       <p>您可以按特定頁面範圍拆分、提取單個頁面或按固定間隔分割檔案。該工具提供頁面的可視預覽，使您能夠輕鬆選擇所需的內容。</p>
@@ -145,8 +145,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'compress-pdf': {
     title: '壓縮PDF',
-    metaDescription: '減小PDF檔案大小同時保持品質。免費線上PDF壓縮器，生成更小的檔案。',
-    keywords: ['壓縮pdf', '減小pdf大小', 'pdf壓縮器', '縮小pdf', '優化pdf'],
+    metaDescription: '免費壓縮PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['compress pdf', '壓縮pdf', '壓縮pdf減小文件大小', 'pdf壓縮器免費線上', '減少pdf大小不失真', '縮小pdf文件免費', '免費壓縮pdf線上', '最佳壓縮pdf工具免費', '壓縮pdf無需註冊', '壓縮pdf瀏覽器端', '如何壓縮pdf免費'],
     description: `
       <p>壓縮PDF在保持可接受品質的同時減小PDF檔案的大小。這對於電子郵件附件、網絡上傳或節省存儲空間至關重要。</p>
       <p>該工具提供多種壓縮級別，以平衡檔案大小減少和品質保持。您可以選擇激進壓縮以獲得最大的大小減少，或選擇輕度壓縮以保持更高的品質。</p>
@@ -171,8 +171,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'edit-pdf': {
     title: '編輯PDF',
-    metaDescription: '線上編輯PDF檔案。新增文字、圖像、註解、高亮和形狀到您的檔案。',
-    keywords: ['編輯pdf', 'pdf編輯器', '註解pdf', '新增文字到pdf', 'pdf標記'],
+    metaDescription: '免費編輯PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['edit pdf', '編輯pdf', '免費編輯pdf線上', '最佳編輯pdf工具免費', '編輯pdf無需註冊', '編輯pdf瀏覽器端', '如何編輯pdf免費'],
     description: `
       <p>編輯PDF提供一套全面的工具來修改和註解您的PDF檔案。新增文字、圖像、形狀、高亮、評論等，無需昂貴的桌面軟體。</p>
       <p>直觀的編輯器介面使您可以輕鬆標記檔案以供審閱、新增協作註解、編輯敏感資訊或用額外內容增強檔案。</p>
@@ -198,8 +198,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'jpg-to-pdf': {
     title: 'JPG轉PDF',
-    metaDescription: '將JPG圖片轉換為PDF。將多個JPG檔案合併成一個PDF檔案。',
-    keywords: ['jpg轉pdf', 'jpeg轉pdf', '轉換jpg', '圖片轉pdf', '照片轉pdf'],
+    metaDescription: '免費JPG轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['jpg to pdf', 'jpg轉pdf', '免費jpg轉pdf', 'jpg轉pdf線上轉換器', '合併jpg圖像為pdf', '免費jpg轉pdf工具', '免費jpg轉pdf線上', '最佳jpg轉pdf工具免費', 'jpg轉pdf無需註冊', 'jpg轉pdf瀏覽器端', '如何jpg轉pdf免費'],
     description: `
       <p>JPG轉PDF可以快速輕鬆地將您的JPEG圖像轉換為PDF檔案。無論您有單張照片還是多張圖片，這個工具都能創建專業外觀的PDF檔案。</p>
       <p>您可以將多個JPG檔案合併成一個PDF，按任意順序排列，並自定義頁面大小和方向。轉換過程保留圖像品質，同時創建緊湊、可共享的PDF檔案。</p>
@@ -224,8 +224,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'sign-pdf': {
     title: '簽署PDF',
-    metaDescription: '為PDF檔案新增電子簽名。繪制、輸入或上傳您的簽名。',
-    keywords: ['簽署pdf', '電子簽名', '電子簽章', 'pdf簽名', '數字簽名'],
+    metaDescription: '免費簽署PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['sign pdf', '簽署pdf', '線上簽署pdf', '為pdf添加電子簽名', '電子簽署pdf免費線上', '數位簽名pdf工具', '免費簽署pdf線上', '最佳簽署pdf工具免費', '簽署pdf無需註冊', '簽署pdf瀏覽器端', '如何簽署pdf免費'],
     description: `
       <p>簽署PDF允許您快速安全地為PDF檔案新增電子簽名。通過繪制、輸入或上傳圖像創建您的簽名，然後將其放置在文件的任何位置。</p>
       <p>您可以在單個文件中新增多個簽名，精確調整大小和位置，並保存簽名以供將來使用。該工具非常適合合同、協議、表單和任何需要簽名的文件。</p>
@@ -251,8 +251,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'crop-pdf': {
     title: '裁剪PDF',
-    metaDescription: '裁剪PDF頁面以刪除邊距和不需要的區域。精確修剪PDF檔案。',
-    keywords: ['裁剪pdf', '修剪pdf', '剪切pdf邊距', '調整pdf頁面大小', 'pdf裁剪器'],
+    metaDescription: '免費裁剪PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['crop pdf', '裁剪pdf', '免費裁剪pdf頁面線上', '線上修剪pdf邊距', '裁剪pdf頁面到尺寸', 'pdf裁剪工具免費', '免費裁剪pdf線上', '最佳裁剪pdf工具免費', '裁剪pdf無需註冊', '裁剪pdf瀏覽器端', '如何裁剪pdf免費'],
     description: `
       <p>裁剪PDF允許您修剪邊距並從PDF頁面中刪除不需要的區域。這對於刪除多餘的空白、聚焦特定內容區域或標準化頁面尺寸非常有用。</p>
       <p>您可以統一裁剪所有頁面或單獨調整每個頁面。可視界面準確顯示將保留的內容，使您能夠輕鬆獲得精確的結果。</p>
@@ -278,8 +278,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'extract-pages': {
     title: '提取頁面',
-    metaDescription: '從PDF檔案中提取特定頁面。選擇並儲存單個頁面為新檔案。',
-    keywords: ['提取pdf頁面', '儲存pdf頁面', '複製pdf頁面', 'pdf頁面提取器'],
+    metaDescription: '免費提取頁面線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['extract pages', '提取頁面', '免費提取pdf頁面', '保存指定pdf頁面', '從pdf線上提取頁面', 'pdf頁面提取器免費', '免費提取頁面線上', '最佳提取頁面工具免費', '提取頁面無需註冊', '提取頁面瀏覽器端', '如何提取頁面免費'],
     description: `
       <p>提取頁面允許您從PDF檔案中選擇並儲存特定頁面為新檔案。這非常適合提取相關部分、建立摘錄或分離合併的檔案。</p>
       <p>您可以提取單個頁面、頁面範圍或多個不連續的頁面。可視頁面預覽使您能夠輕鬆識別和選擇所需的頁面。</p>
@@ -304,8 +304,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'organize-pdf': {
     title: '整理PDF',
-    metaDescription: '重新排序、複製和刪除PDF頁面。拖放重新整理您的檔案。',
-    keywords: ['整理pdf', '重新排序pdf頁面', '重新排列pdf', 'pdf頁面整理器'],
+    metaDescription: '免費整理PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['organize pdf', '整理pdf', '免費整理pdf線上', '最佳整理pdf工具免費', '整理pdf無需註冊', '整理pdf瀏覽器端', '如何整理pdf免費'],
     description: `
       <p>整理PDF提供直觀的拖放介面來重新排列PDF檔案中的頁面。輕鬆重新排序頁面、複製重要部分或刪除不需要的頁面。</p>
       <p>可視頁面縮略圖使您能夠輕鬆識別內容並按需排列頁面。非常適合重組檔案、建立自訂頁面順序或清理掃描檔案。</p>
@@ -330,8 +330,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'delete-pages': {
     title: '刪除頁面',
-    metaDescription: '從PDF檔案中刪除不需要的頁面。輕鬆選擇和刪除特定頁面。',
-    keywords: ['刪除pdf頁面', '移除pdf頁面', 'pdf頁面刪除器', '從pdf刪除頁面'],
+    metaDescription: '免費刪除頁面線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['delete pages', '刪除頁面', '免費刪除頁面線上', '最佳刪除頁面工具免費', '刪除頁面無需註冊', '刪除頁面瀏覽器端', '如何刪除頁面免費'],
     description: `
       <p>刪除頁面允許您快速輕鬆地從PDF檔案中刪除不需要的頁面。無論您需要刪除空白頁、過時內容還是敏感信息，這個工具都能簡化操作。</p>
       <p>可視頁面縮略圖幫助您準確識別要刪除的頁面。您可以刪除單個頁面或一次刪除多個頁面。</p>
@@ -357,8 +357,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   // ==================== 編輯與注釋 ====================
   'bookmark': {
     title: '編輯書籤',
-    metaDescription: '新增、編輯和管理PDF書籤。為您的PDF檔案創建導航結構。',
-    keywords: ['pdf書籤', '編輯書籤', '新增書籤', 'pdf導航', '目錄'],
+    metaDescription: '免費編輯書籤線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['bookmark', '編輯書籤', '免費編輯書籤線上', '最佳編輯書籤工具免費', '編輯書籤無需註冊', '編輯書籤瀏覽器端', '如何編輯書籤免費'],
     description: `
       <p>編輯書籤允許您在PDF檔案中創建、修改和整理書籤。書籤提供快速導航到特定部分的功能，使長文件更易於使用。</p>
       <p>您可以新增新書籤、編輯現有書籤、重新整理書籤層次結構或從外部來源導入書籤。這個工具對於創建專業、可導航的文件至關重要。</p>
@@ -383,8 +383,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'table-of-contents': {
     title: '目錄',
-    metaDescription: '為您的PDF生成目錄。從書籤創建可點擊的導航。',
-    keywords: ['pdf目錄', '目錄生成器', 'pdf索引', '文檔導航'],
+    metaDescription: '免費目錄線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['table of contents', '目錄', '免費目錄線上', '最佳目錄工具免費', '目錄無需註冊', '目錄瀏覽器端', '如何目錄免費'],
     description: `
       <p>目錄為您的PDF文檔生成可導航的目錄頁面。目錄可以從現有書籤或自定義條目創建，為讀者提供概覽和快速導航。</p>
       <p>使用不同的樣式、字體和版面配置自訂外觀。生成的目錄包含可點擊的連結，直接跳轉到引用的頁面。</p>
@@ -409,8 +409,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'page-numbers': {
     title: '頁碼',
-    metaDescription: '為PDF檔案新增頁碼。自定義位置、格式和起始編號。',
-    keywords: ['新增頁碼', 'pdf頁碼', '編號pdf頁面', 'pdf分頁'],
+    metaDescription: '免費頁碼線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['page numbers', '頁碼', '免費頁碼線上', '最佳頁碼工具免費', '頁碼無需註冊', '頁碼瀏覽器端', '如何頁碼免費'],
     description: `
       <p>頁碼為您的PDF檔案新增可自定義的頁碼編號。從各種格式、位置和樣式中選擇以匹配您文件的設計。</p>
       <p>您可以設置起始編號、跳過某些頁面並使用不同的編號格式（1, 2, 3 或 i, ii, iii）。非常適合創建具有正確分頁的專業文檔。</p>
@@ -435,8 +435,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'add-watermark': {
     title: '新增水印',
-    metaDescription: '為PDF檔案新增文字或圖像浮水印。保護和品牌化您的文件。',
-    keywords: ['新增水印', 'pdf水印', '蓋章pdf', '品牌pdf', '保護pdf'],
+    metaDescription: '免費新增水印線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['add watermark', '新增水印', '免費新增水印線上', '最佳新增水印工具免費', '新增水印無需註冊', '新增水印瀏覽器端', '如何新增水印免費'],
     description: `
       <p>新增浮水印允許您在PDF檔案上放置文字或圖像浮水印。浮水印可以指示文件狀態（草稿、機密）、新增品牌或阻止未經授權的複製。</p>
       <p>自訂浮水印的位置、大小、不透明度、旋轉和顏色。套用到所有頁面或選擇特定頁面。該工具支援文字浮水印和圖像浮水印。</p>
@@ -461,8 +461,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'header-footer': {
     title: '頁首頁尾',
-    metaDescription: '為PDF文檔新增頁首和頁尾。包含頁碼、日期和自定義文本。',
-    keywords: ['pdf頁首', 'pdf頁尾', '新增頁首頁尾', 'pdf信頭'],
+    metaDescription: '免費頁首頁尾線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['header footer', '頁首頁尾', '免費頁首頁尾線上', '最佳頁首頁尾工具免費', '頁首頁尾無需註冊', '頁首頁尾瀏覽器端', '如何頁首頁尾免費'],
     description: `
       <p>頁首頁尾為您的PDF文檔新增可自定義的頁首和頁尾。在頁首或頁尾區域包含頁碼、日期、文檔標題或任何自定義文本。</p>
       <p>將內容定位在頁首/頁尾的左側、中間或右側。如果需要，可以為奇數頁和偶數頁使用不同的內容。非常適合創建具有一致格式的專業文檔。</p>
@@ -487,8 +487,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'invert-colors': {
     title: '反轉顏色',
-    metaDescription: '反轉PDF顏色以進行暗模式閱讀。將檔案轉換為負片顏色。',
-    keywords: ['反轉pdf顏色', 'pdf暗模式', '負片pdf', '反轉顏色'],
+    metaDescription: '免費反轉顏色線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['invert colors', '反轉顏色', '免費反轉顏色線上', '最佳反轉顏色工具免費', '反轉顏色無需註冊', '反轉顏色瀏覽器端', '如何反轉顏色免費'],
     description: `
       <p>反轉顏色可以反轉PDF檔案中的顏色，創建負片圖像效果。這對於創建文件的暗模式版本特別有用，便於在低光條件下閱讀。</p>
       <p>該工具可以反轉所有顏色或選擇性地保留某些元素（如圖像）。非常適合在夜間閱讀時減少眼睛疲勞。</p>
@@ -513,8 +513,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'background-color': {
     title: '背景顏色',
-    metaDescription: '更改PDF背景顏色。為PDF頁面新增彩色背景。',
-    keywords: ['pdf背景顏色', '更改pdf背景', '彩色pdf', 'pdf頁面顏色'],
+    metaDescription: '免費背景顏色線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['background color', '背景顏色', '免費背景顏色線上', '最佳背景顏色工具免費', '背景顏色無需註冊', '背景顏色瀏覽器端', '如何背景顏色免費'],
     description: `
       <p>背景顏色允許您更改或新增PDF頁面的背景顏色。這可以提高可讀性、增加視覺趣味或滿足您的品牌要求。</p>
       <p>為背景選擇任何顏色並應用到所有頁面或選定的頁面。該工具在新增背景圖層的同時保留所有現有內容。</p>
@@ -539,8 +539,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'text-color': {
     title: '更改文字顏色',
-    metaDescription: '更改PDF檔案中的文字顏色。修改所有文字內容的顏色。',
-    keywords: ['更改pdf文字顏色', 'pdf文字顏色', '修改文字顏色', '重新著色pdf文字'],
+    metaDescription: '免費更改文字顏色線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['text color', '更改文字顏色', '免費更改文字顏色線上', '最佳更改文字顏色工具免費', '更改文字顏色無需註冊', '更改文字顏色瀏覽器端', '如何更改文字顏色免費'],
     description: `
       <p>更改文字顏色允許您修改PDF檔案中文字的顏色。這對於改善對比度、匹配品牌或創建文件的視覺變體非常有用。</p>
       <p>選擇新顏色並套用到文件中的所有文字。該工具處理文字元素的同時保留圖片和其他內容。</p>
@@ -565,8 +565,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'add-stamps': {
     title: '添加印章',
-    metaDescription: '為PDF檔案添加印章。使用預設或自定義印章進行審批、審閱等。',
-    keywords: ['pdf印章', '添加印章', '審批印章', 'pdf橡皮章'],
+    metaDescription: '免費添加印章線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['add stamps', '添加印章', '免費添加印章線上', '最佳添加印章工具免費', '添加印章無需註冊', '添加印章瀏覽器端', '如何添加印章免費'],
     description: `
       <p>添加印章允許您在PDF檔案上放置印章圖像。使用預設印章如"已批準"、"已拒絕"、"草稿"，或上傳自定義印章圖像。</p>
       <p>將印章定位在頁面的任何位置，調整大小，並應用到單個或多個頁面。非常適合文件工作流程、審批和狀態指示。</p>
@@ -591,8 +591,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'remove-annotations': {
     title: '刪除注釋',
-    metaDescription: '從PDF檔案中刪除注釋。刪除評論、高亮和標記。',
-    keywords: ['刪除pdf注釋', '刪除評論', '刪除高亮', '清理pdf'],
+    metaDescription: '免費刪除注釋線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['remove annotations', '刪除注釋', '免費刪除注釋線上', '最佳刪除注釋工具免費', '刪除注釋無需註冊', '刪除注釋瀏覽器端', '如何刪除注釋免費'],
     description: `
       <p>刪除注釋可以從PDF檔案中去除評論、高亮、便簽和其他注釋。這將創建一個沒有標記的幹淨文件版本。</p>
       <p>您可以刪除所有注釋或選擇性地刪除特定類型。非常適合創建已審閱文件的最終版本或刪除敏感評論。</p>
@@ -617,8 +617,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'form-filler': {
     title: '表單填寫',
-    metaDescription: '線上填寫PDF表單。無需列印即可完成互動式PDF表單。',
-    keywords: ['填寫pdf表單', 'pdf表單填寫器', '完成pdf表單', '交互式pdf'],
+    metaDescription: '免費表單填寫線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['form filler', '表單填寫', '免費表單填寫線上', '最佳表單填寫工具免費', '表單填寫無需註冊', '表單填寫瀏覽器端', '如何表單填寫免費'],
     description: `
       <p>表單填寫允許您直接在瀏覽器中完成互動式PDF表單。填寫文字欄位、勾選核取方塊、選擇選項並新增簽名，無需列印文件。</p>
       <p>該工具支援標準PDF表單和XFA表單。您填寫的資料可以儲存，表單可以扁平化以防止進一步編輯。</p>
@@ -643,8 +643,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'form-creator': {
     title: '表單創建',
-    metaDescription: '建立可填寫的PDF表單。新增文字欄位、核取方塊和下拉選單到檔案。',
-    keywords: ['創建pdf表單', 'pdf表單創建器', '可填寫pdf', '新增表單欄位'],
+    metaDescription: '免費表單創建線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['form creator', '表單創建', '免費表單創建線上', '最佳表單創建工具免費', '表單創建無需註冊', '表單創建瀏覽器端', '如何表單創建免費'],
     description: `
       <p>表單建立將靜態PDF檔案轉換為互動式可填寫表單。新增文字欄位、核取方塊、單選按鈕、下拉選單等以建立專業表單。</p>
       <p>將表單元素拖放到文件上，配置欄位屬性，創建可以電子填寫的表單。非常適合創建申請表、調查問卷和數據收集表單。</p>
@@ -669,8 +669,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'remove-blank-pages': {
     title: '刪除空白頁',
-    metaDescription: '自動檢測並從PDF檔案中刪除空白頁。',
-    keywords: ['刪除空白頁', '刪除空頁', '清理pdf', 'pdf空白頁刪除器'],
+    metaDescription: '免費刪除空白頁線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['remove blank pages', '刪除空白頁', '免費刪除空白頁線上', '最佳刪除空白頁工具免費', '刪除空白頁無需註冊', '刪除空白頁瀏覽器端', '如何刪除空白頁免費'],
     description: `
       <p>刪除空白頁自動檢測並從PDF檔案中刪除空頁。這對於清理掃描文件、刪除分隔頁或消除意外包含的空白頁非常有用。</p>
       <p>該工具使用智能檢測來識別真正的空白頁，同時保留內容最少的頁面。您可以調整靈敏度閾值來控制什麼算作"空白"。</p>
@@ -696,8 +696,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   // ==================== 轉換為PDF ====================
   'image-to-pdf': {
     title: '圖像轉PDF',
-    metaDescription: '將任何圖像轉換為PDF。支援JPG、PNG、WebP、BMP、TIFF、SVG和HEIC格式。',
-    keywords: ['圖像轉pdf', '轉換圖像', '照片轉pdf', '圖片轉pdf'],
+    metaDescription: '免費圖像轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['image to pdf', '圖像轉pdf', '免費圖像轉pdf線上', '最佳圖像轉pdf工具免費', '圖像轉pdf無需註冊', '圖像轉pdf瀏覽器端', '如何圖像轉pdf免費'],
     description: `
       <p>圖像轉PDF將任何格式的圖像轉換為PDF檔案。支援JPG、PNG、WebP、BMP、TIFF、SVG和HEIC格式，使其成為通用的圖像轉換器。</p>
       <p>將多個圖像合併成一個PDF，按任意順序排列，並自定義頁面大小和方向。非常適合創建照片相冊、文件存檔或作品集。</p>
@@ -722,8 +722,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'png-to-pdf': {
     title: 'PNG轉PDF',
-    metaDescription: '將PNG圖像轉換為PDF。保留透明度並合併多個PNG檔案。',
-    keywords: ['png轉pdf', '轉換png', 'png轉換器', '透明圖像轉pdf'],
+    metaDescription: '免費PNG轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['png to pdf', 'png轉pdf', '免費png轉pdf線上', '最佳png轉pdf工具免費', 'png轉pdf無需註冊', 'png轉pdf瀏覽器端', '如何png轉pdf免費'],
     description: `
       <p>PNG轉PDF將您的PNG圖像轉換為PDF檔案，同時保留透明度。非常適合圖形、標誌、截圖和具有透明背景的圖像。</p>
       <p>將多個PNG檔案合併成一個PDF，按任意順序排列，並自訂頁面設定。轉換過程保持原始圖像的高品質。</p>
@@ -748,8 +748,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'webp-to-pdf': {
     title: 'WebP轉PDF',
-    metaDescription: '將WebP圖像轉換為PDF。現代圖像格式轉換，保持品質。',
-    keywords: ['webp轉pdf', '轉換webp', 'webp轉換器', '網絡圖像轉pdf'],
+    metaDescription: '免費WebP轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['webp to pdf', 'webp轉pdf', '免費webp轉pdf線上', '最佳webp轉pdf工具免費', 'webp轉pdf無需註冊', 'webp轉pdf瀏覽器端', '如何webp轉pdf免費'],
     description: `
       <p>WebP轉PDF將現代WebP圖像轉換為PDF檔案。WebP是一種流行的網路圖像格式，這個工具使轉換這些圖像變得簡單，便於列印或存檔。</p>
       <p>將多個WebP檔案合併成一個PDF，並可自訂頁面設定。轉換過程在建立緊湊PDF檔案的同時保留圖像品質。</p>
@@ -774,8 +774,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'svg-to-pdf': {
     title: 'SVG轉PDF',
-    metaDescription: '將SVG向量圖形轉換為PDF。保留可縮放性和品質。',
-    keywords: ['svg轉pdf', '轉換svg', '向量轉pdf', '可縮放圖形轉pdf'],
+    metaDescription: '免費SVG轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['svg to pdf', 'svg轉pdf', '免費svg轉pdf線上', '最佳svg轉pdf工具免費', 'svg轉pdf無需註冊', 'svg轉pdf瀏覽器端', '如何svg轉pdf免費'],
     description: `
       <p>SVG轉PDF將可縮放向量圖形轉換為PDF檔案，同時保留其向量品質。SVG文件在任何尺寸下都保持清晰，這種品質在PDF輸出中得以保持。</p>
       <p>非常適合轉換標誌、圖標、插圖和技術圖紙。生成的PDF保持原始向量圖形的可縮放性。</p>
@@ -800,8 +800,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'bmp-to-pdf': {
     title: 'BMP轉PDF',
-    metaDescription: '將BMP位圖圖像轉換為PDF。傳統格式支援，保持品質。',
-    keywords: ['bmp轉pdf', '轉換bmp', '位圖轉pdf', 'bmp轉換器'],
+    metaDescription: '免費BMP轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['bmp to pdf', 'bmp轉pdf', '免費bmp轉pdf線上', '最佳bmp轉pdf工具免費', 'bmp轉pdf無需註冊', 'bmp轉pdf瀏覽器端', '如何bmp轉pdf免費'],
     description: `
       <p>BMP轉PDF將位圖圖像轉換為PDF檔案。BMP是Windows環境中常用的傳統圖像格式，這個工具使將這些檔案轉換為現代PDF格式變得簡單。</p>
       <p>將多個BMP檔案合併成一個PDF，並可自定義設置。轉換過程在保持圖像品質的同時壓縮通常較大的BMP檔案。</p>
@@ -826,8 +826,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'heic-to-pdf': {
     title: 'HEIC轉PDF',
-    metaDescription: '將iPhone HEIC照片轉換為PDF。Apple圖像格式轉換變得簡單。',
-    keywords: ['heic轉pdf', '轉換heic', 'iphone照片轉pdf', 'apple圖像轉pdf'],
+    metaDescription: '免費HEIC轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['heic to pdf', 'heic轉pdf', '免費heic轉pdf線上', '最佳heic轉pdf工具免費', 'heic轉pdf無需註冊', 'heic轉pdf瀏覽器端', '如何heic轉pdf免費'],
     description: `
       <p>HEIC轉PDF將Apple的高效圖像格式照片轉換為PDF文檔。HEIC是iPhone和iPad上的默認照片格式，這個工具使分享這些照片變得簡單。</p>
       <p>將多張HEIC照片合併成一個PDF，非常適合從iPhone照片創建照片相冊或文檔存檔。</p>
@@ -852,8 +852,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'tiff-to-pdf': {
     title: 'TIFF轉PDF',
-    metaDescription: '將TIFF圖像轉換為PDF。支援多頁TIFF文件和高品質轉換。',
-    keywords: ['tiff轉pdf', '轉換tiff', 'tif轉pdf', '多頁tiff'],
+    metaDescription: '免費TIFF轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['tiff to pdf', 'tiff轉pdf', '免費tiff轉pdf線上', '最佳tiff轉pdf工具免費', 'tiff轉pdf無需註冊', 'tiff轉pdf瀏覽器端', '如何tiff轉pdf免費'],
     description: `
       <p>TIFF轉PDF將TIFF圖像（包括多頁TIFF文件）轉換為PDF文檔。TIFF常用於高品質掃描和專業圖形。</p>
       <p>多頁TIFF文件自動轉換為多頁PDF。轉換過程保留原始圖像的高品質。</p>
@@ -878,8 +878,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'txt-to-pdf': {
     title: '文本轉PDF',
-    metaDescription: '將純文本文件轉換為PDF。自定義字體、邊距和頁面布局。',
-    keywords: ['txt轉pdf', '文本轉pdf', '轉換文本文件', '純文本轉pdf'],
+    metaDescription: '免費文本轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['txt to pdf', '文本轉pdf', '免費文本轉pdf線上', '最佳文本轉pdf工具免費', '文本轉pdf無需註冊', '文本轉pdf瀏覽器端', '如何文本轉pdf免費'],
     description: `
       <p>文本轉PDF將純文本文件轉換為格式化的PDF文檔。自定義字體、大小、邊距和頁面布局，從簡單文本創建專業外觀的文檔。</p>
       <p>非常適合轉換代碼文件、日誌、筆記或任何純文本內容為可共享的PDF格式。</p>
@@ -904,8 +904,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'json-to-pdf': {
     title: 'JSON轉PDF',
-    metaDescription: '將JSON文件轉換為格式化的PDF。語法高亮和結構化輸出。',
-    keywords: ['json轉pdf', '轉換json', 'json查看器', 'json格式化器'],
+    metaDescription: '免費JSON轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['json to pdf', 'json轉pdf', '免費json轉pdf線上', '最佳json轉pdf工具免費', 'json轉pdf無需註冊', 'json轉pdf瀏覽器端', '如何json轉pdf免費'],
     description: `
       <p>JSON轉PDF將JSON數據文件轉換為格式化、可讀的PDF文檔。輸出包括語法高亮和正確的縮進，便於閱讀。</p>
       <p>非常適合記錄API響應、配置文件或任何需要以可讀格式共享或存檔的JSON數據。</p>
@@ -930,8 +930,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'word-to-pdf': {
     title: 'Word轉PDF',
-    metaDescription: '將Word文檔（DOCX）轉換為PDF。保留格式和布局。',
-    keywords: ['word轉pdf', 'docx轉pdf', '轉換word', 'word轉換器', '微軟word轉pdf'],
+    metaDescription: '免費Word轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['word to pdf', 'word轉pdf', '免費word轉pdf', 'docx轉pdf線上', 'word轉pdf轉換器無註冊', '免費word轉pdf工具', '免費word轉pdf線上', '最佳word轉pdf工具免費', 'word轉pdf無需註冊', 'word轉pdf瀏覽器端', '如何word轉pdf免費'],
     description: `
       <p>Word轉PDF將Microsoft Word文檔轉換為PDF格式，同時保留原始格式、布局和內容結構。</p>
       <p>上傳您的DOCX文件，獲得適合分享、列印或存檔的高品質PDF輸出。轉換過程保持文本格式、段落樣式和基本文檔結構。</p>
@@ -956,8 +956,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'excel-to-pdf': {
     title: 'Excel轉PDF',
-    metaDescription: '將Excel電子表格（XLSX）轉換為PDF。保留表格和數據。',
-    keywords: ['excel轉pdf', 'xlsx轉pdf', '轉換excel', '電子表格轉pdf', '微軟excel轉pdf'],
+    metaDescription: '免費Excel轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['excel to pdf', 'excel轉pdf', '免費excel轉pdf線上', '最佳excel轉pdf工具免費', 'excel轉pdf無需註冊', 'excel轉pdf瀏覽器端', '如何excel轉pdf免費'],
     description: `
       <p>Excel轉PDF將Microsoft Excel電子表格轉換為PDF格式，同時保留表格結構和數據組織。</p>
       <p>上傳您的XLSX文件，獲得具有正確格式化表格的清晰PDF輸出。工作簿中的每個工作表都會成為PDF中的單獨部分。</p>
@@ -982,8 +982,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pptx-to-pdf': {
     title: 'PowerPoint轉PDF',
-    metaDescription: '將PowerPoint演示文稿（PPTX）轉換為PDF。保留幻燈片內容便於分享。',
-    keywords: ['powerpoint轉pdf', 'pptx轉pdf', '轉換pptx', '演示文稿轉pdf', '幻燈片轉pdf'],
+    metaDescription: '免費PowerPoint轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pptx to pdf', 'powerpoint轉pdf', '免費powerpoint轉pdf線上', '最佳powerpoint轉pdf工具免費', 'powerpoint轉pdf無需註冊', 'powerpoint轉pdf瀏覽器端', '如何powerpoint轉pdf免費'],
     description: `
       <p>PowerPoint轉PDF將Microsoft PowerPoint演示文稿轉換為PDF格式，保留幻燈片內容和文本以便輕鬆分享和查看。</p>
       <p>每張幻燈片成為PDF中的一頁，保持演示流程。非常適合與沒有安裝PowerPoint的人分享演示文稿。</p>
@@ -1008,8 +1008,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'xps-to-pdf': {
     title: 'XPS轉PDF',
-    metaDescription: '將XPS文檔轉換為PDF格式。高保真轉換，保留布局和圖形。',
-    keywords: ['xps轉pdf', '轉換xps', 'xps轉換器', '微軟xps轉pdf', 'oxps轉pdf'],
+    metaDescription: '免費XPS轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['xps to pdf', 'xps轉pdf', '免費xps轉pdf線上', '最佳xps轉pdf工具免費', 'xps轉pdf無需註冊', 'xps轉pdf瀏覽器端', '如何xps轉pdf免費'],
     description: `
       <p>XPS轉PDF將Microsoft XPS（XML紙規範）文檔轉換為PDF格式，同時保留原始布局、文本和向量圖形。</p>
       <p>XPS是一種類似於PDF的固定文檔格式。此工具使用原生XPS解析提供高保真轉換，確保文檔的準確再現。</p>
@@ -1034,8 +1034,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'rtf-to-pdf': {
     title: 'RTF轉PDF',
-    metaDescription: '將RTF（富文本格式）文件轉換為PDF。保留文檔中的文本格式。',
-    keywords: ['rtf轉pdf', '轉換rtf', '富文本轉pdf', 'rtf轉換器'],
+    metaDescription: '免費RTF轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['rtf to pdf', 'rtf轉pdf', '免費rtf轉pdf線上', '最佳rtf轉pdf工具免費', 'rtf轉pdf無需註冊', 'rtf轉pdf瀏覽器端', '如何rtf轉pdf免費'],
     description: `
       <p>RTF轉PDF將富文本格式文件轉換為PDF文檔。RTF是一種廣泛支援的文本格式，包含基本格式如字體、顏色和樣式。</p>
       <p>上傳您的RTF文件，獲得乾淨的PDF輸出，同時保留文本內容和基本格式。非常適合將舊文檔轉換為現代PDF格式。</p>
@@ -1060,8 +1060,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'epub-to-pdf': {
     title: 'EPUB轉PDF',
-    metaDescription: '將EPUB電子書轉換為PDF。保留格式、圖片和章節結構。',
-    keywords: ['epub轉pdf', '轉換epub', '電子書轉pdf', 'epub轉換器'],
+    metaDescription: '免費EPUB轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['epub to pdf', 'epub轉pdf', '免費epub轉pdf線上', '最佳epub轉pdf工具免費', 'epub轉pdf無需註冊', 'epub轉pdf瀏覽器端', '如何epub轉pdf免費'],
     description: `
       <p>EPUB轉PDF將電子書文件轉換為高品質的PDF文檔。EPUB是最流行的電子書格式，被大多數電子閱讀器和數字圖書館使用。</p>
       <p>此工具可保留電子書的文本格式、圖片和章節結構。非常適合列印、存檔或以通用格式分享電子書。</p>
@@ -1086,8 +1086,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'mobi-to-pdf': {
     title: 'MOBI轉PDF',
-    metaDescription: '將MOBI電子書轉換為PDF。支援Kindle格式的高品質渲染。',
-    keywords: ['mobi轉pdf', '轉換mobi', 'kindle轉pdf', 'azw轉pdf', 'mobi轉換器'],
+    metaDescription: '免費MOBI轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['mobi to pdf', 'mobi轉pdf', '免費mobi轉pdf線上', '最佳mobi轉pdf工具免費', 'mobi轉pdf無需註冊', 'mobi轉pdf瀏覽器端', '如何mobi轉pdf免費'],
     description: `
       <p>MOBI轉PDF將亞馬遜Kindle電子書文件轉換為高品質的PDF文檔。MOBI格式（包括AZW和AZW3）是亞馬遜專有的電子書格式，用於Kindle設備。</p>
       <p>此工具可保留Kindle書籍的文本格式、圖片和結構。非常適合列印、存檔或在不支援MOBI格式的設備上閱讀。</p>
@@ -1112,8 +1112,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'djvu-to-pdf': {
     title: 'DJVU轉PDF',
-    metaDescription: '將DJVU文檔文件轉換為PDF。掃描文檔和書籍的高品質渲染。',
-    keywords: ['djvu轉pdf', '轉換djvu', 'djvu轉換器', 'djvu pdf', 'djv轉pdf'],
+    metaDescription: '免費DJVU轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['djvu to pdf', 'djvu轉pdf', '免費djvu轉pdf線上', '最佳djvu轉pdf工具免費', 'djvu轉pdf無需註冊', 'djvu轉pdf瀏覽器端', '如何djvu轉pdf免費'],
     description: `
       <p>DJVU轉PDF將DjVu文檔文件轉換為高品質的PDF文檔。DjVu是一種計算機文件格式，主要用於存儲掃描文檔，特別是包含文本、線條圖和照片組合的文檔。</p>
       <p>此工具以您選擇的DPI（每英寸點數）渲染DJVU文件的每一頁，並將它們合併為PDF文檔。非常適合轉換掃描書籍、技術手冊和檔案文檔。</p>
@@ -1138,8 +1138,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'fb2-to-pdf': {
     title: 'FB2轉PDF',
-    metaDescription: '將FictionBook (FB2)電子書轉換為PDF。支援多個文件的高品質渲染。',
-    keywords: ['fb2轉pdf', '轉換fb2', 'fictionbook轉pdf', 'fb2轉換器', 'fb2.zip轉pdf'],
+    metaDescription: '免費FB2轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['fb2 to pdf', 'fb2轉pdf', '免費fb2轉pdf線上', '最佳fb2轉pdf工具免費', 'fb2轉pdf無需註冊', 'fb2轉pdf瀏覽器端', '如何fb2轉pdf免費'],
     description: `
       <p>FB2轉PDF將FictionBook (FB2)電子書文件轉換為高品質的PDF文檔。FB2是一種流行的基於XML的電子書格式，在俄羅斯和東歐廣泛使用。</p>
       <p>此工具支援.fb2和.fb2.zip文件，並可一次處理多個文件。它保留電子書的文本格式、圖片和章節結構。</p>
@@ -1166,8 +1166,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-jpg': {
     title: 'PDF轉JPG',
-    metaDescription: '將PDF頁面轉換為JPG圖像。高品質提取，可自定義分辨率。',
-    keywords: ['pdf轉jpg', 'pdf轉jpeg', '轉換pdf為圖像', '提取pdf圖像'],
+    metaDescription: '免費PDF轉JPG線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to jpg', 'pdf轉jpg', '免費pdf轉jpg圖像', 'pdf轉jpg線上轉換器', '提取pdf頁面為jpg', 'pdf轉jpg高品質', '免費pdf轉jpg線上', '最佳pdf轉jpg工具免費', 'pdf轉jpg無需註冊', 'pdf轉jpg瀏覽器端', '如何pdf轉jpg免費'],
     description: `
       <p>PDF轉JPG將PDF文檔頁面轉換為高品質的JPG圖像。提取所有頁面或選擇特定頁面進行轉換，可自定義分辨率和品質設置。</p>
       <p>非常適合從PDF中提取圖像、創建縮略圖或轉換文檔以供網絡使用。</p>
@@ -1192,8 +1192,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-png': {
     title: 'PDF轉PNG',
-    metaDescription: '將PDF頁面轉換為PNG圖像。無損品質，支援透明度。',
-    keywords: ['pdf轉png', '轉換pdf為png', 'pdf圖像提取', '無損pdf轉換'],
+    metaDescription: '免費PDF轉PNG線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to png', 'pdf轉png', '免費pdf轉png線上', '最佳pdf轉png工具免費', 'pdf轉png無需註冊', 'pdf轉png瀏覽器端', '如何pdf轉png免費'],
     description: `
       <p>PDF轉PNG將PDF文檔頁面轉換為具有無損壓縮的高品質PNG圖像。PNG格式完美保留圖像品質並支援透明度。</p>
       <p>非常適合提取圖形、圖表或任何品質保持至關重要的內容。</p>
@@ -1218,8 +1218,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-webp': {
     title: 'PDF轉WebP',
-    metaDescription: '將PDF頁面轉換為WebP圖像。現代格式，出色的壓縮。',
-    keywords: ['pdf轉webp', '轉換pdf為webp', '現代圖像格式', '網絡優化圖像'],
+    metaDescription: '免費PDF轉WebP線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to webp', 'pdf轉webp', '免費pdf轉webp線上', '最佳pdf轉webp工具免費', 'pdf轉webp無需註冊', 'pdf轉webp瀏覽器端', '如何pdf轉webp免費'],
     description: `
       <p>PDF轉WebP將PDF文檔頁面轉換為WebP圖像，這是Google的現代圖像格式，提供出色的壓縮和高品質。</p>
       <p>WebP圖像比JPG或PNG更小，同時保持相當的品質，非常適合網絡使用。</p>
@@ -1244,8 +1244,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-bmp': {
     title: 'PDF轉BMP',
-    metaDescription: '將PDF頁面轉換為BMP位圖圖像。未壓縮格式，最大兼容性。',
-    keywords: ['pdf轉bmp', '轉換pdf為位圖', '未壓縮圖像', '傳統格式'],
+    metaDescription: '免費PDF轉BMP線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to bmp', 'pdf轉bmp', '免費pdf轉bmp線上', '最佳pdf轉bmp工具免費', 'pdf轉bmp無需註冊', 'pdf轉bmp瀏覽器端', '如何pdf轉bmp免費'],
     description: `
       <p>PDF轉BMP將PDF文檔頁面轉換為BMP位圖圖像。BMP是一種未壓縮格式，確保與傳統系統和應用程式的最大兼容性。</p>
       <p>雖然BMP文件比壓縮格式大，但它們提供完美的品質和通用兼容性。</p>
@@ -1270,8 +1270,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-tiff': {
     title: 'PDF轉TIFF',
-    metaDescription: '將PDF轉換為TIFF圖像。專業品質，支援多頁。',
-    keywords: ['pdf轉tiff', '轉換pdf為tiff', '專業圖像', '多頁tiff'],
+    metaDescription: '免費PDF轉TIFF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to tiff', 'pdf轉tiff', '免費pdf轉tiff線上', '最佳pdf轉tiff工具免費', 'pdf轉tiff無需註冊', 'pdf轉tiff瀏覽器端', '如何pdf轉tiff免費'],
     description: `
       <p>PDF轉TIFF將PDF文檔轉換為高品質的TIFF圖像。由於其無損壓縮，TIFF是專業列印和存檔的首選格式。</p>
       <p>創建單頁TIFF或將所有頁面合併成多頁TIFF文件。非常適合專業和存檔目的。</p>
@@ -1296,8 +1296,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-svg': {
     title: 'PDF轉SVG',
-    metaDescription: '將PDF頁面轉換為SVG向量圖形。任意尺寸完美縮放，支援單獨導出每頁。',
-    keywords: ['pdf轉svg', '轉換pdf為svg', '向量圖形', '可縮放pdf', 'svg轉換器'],
+    metaDescription: '免費PDF轉SVG線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to svg', 'pdf轉svg', '免費pdf轉svg線上', '最佳pdf轉svg工具免費', 'pdf轉svg無需註冊', 'pdf轉svg瀏覽器端', '如何pdf轉svg免費'],
     description: `
       <p>PDF轉SVG將您的PDF文檔的每一頁轉換為可縮放向量圖形（SVG）。SVG是一種向量格式，在任何縮放級別或列印尺寸下都能保持完美品質。</p>
       <p>與光柵格式（JPG、PNG）不同，SVG圖形在縮放時永遠不會變得模糊。這使其非常適合標誌、圖表、技術圖紙以及任何需要以不同尺寸顯示的內容。</p>
@@ -1325,8 +1325,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-greyscale': {
     title: 'PDF轉灰度',
-    metaDescription: '將彩色PDF轉換為灰度。減小文件大小並準備黑白列印。',
-    keywords: ['pdf轉灰度', '灰度pdf', '黑白pdf', '刪除顏色'],
+    metaDescription: '免費PDF轉灰度線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to greyscale', 'pdf轉灰度', '免費pdf轉灰度線上', '最佳pdf轉灰度工具免費', 'pdf轉灰度無需註冊', 'pdf轉灰度瀏覽器端', '如何pdf轉灰度免費'],
     description: `
       <p>PDF轉灰度將彩色PDF文檔轉換為灰度（黑白）。這可以減小文件大小並為黑白列印準備文檔。</p>
       <p>轉換過程在刪除顏色信息的同時保留文本清晰度和圖像細節。非常適合草稿列印或創建列印機友好版本。</p>
@@ -1351,8 +1351,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-json': {
     title: 'PDF轉JSON',
-    metaDescription: '將PDF內容提取為JSON格式。從PDF文檔獲取結構化數據。',
-    keywords: ['pdf轉json', '提取pdf數據', 'pdf解析器', '結構化pdf數據'],
+    metaDescription: '免費PDF轉JSON線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to json', 'pdf轉json', '免費pdf轉json線上', '最佳pdf轉json工具免費', 'pdf轉json無需註冊', 'pdf轉json瀏覽器端', '如何pdf轉json免費'],
     description: `
       <p>PDF轉JSON將PDF文檔中的內容提取為結構化的JSON格式。提取文本、後設資料、頁面信息和文檔結構以供程式化使用。</p>
       <p>非常適合數據提取、文檔分析或將PDF內容集成到應用程式和工作流程中。</p>
@@ -1377,8 +1377,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-pptx': {
     title: 'PDF轉PowerPoint',
-    metaDescription: '將PDF轉換為PowerPoint (PPTX)演示文稿。每一頁轉為高品質幻燈片。',
-    keywords: ['pdf轉ppt', 'pdf轉pptx', 'pdf轉powerpoint', 'pdf演示文稿'],
+    metaDescription: '免費PDF轉PowerPoint線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to pptx', 'pdf轉powerpoint', '免費pdf轉powerpoint線上', '最佳pdf轉powerpoint工具免費', 'pdf轉powerpoint無需註冊', 'pdf轉powerpoint瀏覽器端', '如何pdf轉powerpoint免費'],
     description: `
       <p>PDF轉PowerPoint將您的PDF文檔轉換為可編輯的PowerPoint演示文稿(PPTX)。每個PDF頁面都會轉換為保持完美視覺布局的高品質幻燈片。</p>
       <p>此工具非常適合將報告、講義或任何PDF內容轉換為演示格式。</p>
@@ -1403,8 +1403,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-excel': {
     title: 'PDF轉Excel',
-    metaDescription: '將PDF轉換為Excel表格。將表格提取為XLSX格式。',
-    keywords: ['pdf轉excel', 'pdf轉xlsx', '提取表格', 'pdf數據提取'],
+    metaDescription: '免費PDF轉Excel線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to excel', 'pdf轉excel', '免費pdf轉excel線上', '最佳pdf轉excel工具免費', 'pdf轉excel無需註冊', 'pdf轉excel瀏覽器端', '如何pdf轉excel免費'],
     description: `
       <p>PDF轉Excel將您的PDF文檔轉換為可編輯的Excel電子表格(XLSX)。工具自動檢測並提取表格。</p>
       <p>非常適合分析財務報告或數據表。每頁的表格提取到單獨的Sheet中。</p>
@@ -1429,8 +1429,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'psd-to-pdf': {
     title: 'PSD轉PDF',
-    metaDescription: '將Adobe Photoshop (PSD)文件轉換為PDF。保留圖層和高品質。',
-    keywords: ['psd轉pdf', '轉換psd', 'photoshop轉pdf', 'adobe psd轉pdf'],
+    metaDescription: '免費PSD轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['psd to pdf', 'psd轉pdf', '免費psd轉pdf線上', '最佳psd轉pdf工具免費', 'psd轉pdf無需註冊', 'psd轉pdf瀏覽器端', '如何psd轉pdf免費'],
     description: `
       <p>直接在瀏覽器中將Adobe Photoshop (PSD)文件轉換為PDF格式。此工具處理覆雜的PSD文件，並在轉換過程中保持高品質的視覺效果。</p>
       <p>非常適合設計師和藝術家與沒有安裝Photoshop的客戶或同事分享他們的作品。轉換生成乾淨、可視化的PDF文檔。</p>
@@ -1456,8 +1456,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   // ==================== 整理與管理 ====================
   'ocr-pdf': {
     title: 'OCR PDF',
-    metaDescription: '使用OCR使掃描的PDF可搜尋。從圖像和掃描文檔中提取文本。',
-    keywords: ['ocr pdf', '可搜尋pdf', '文本識別', '掃描轉文本'],
+    metaDescription: '免費OCR PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['ocr pdf', '免費ocr線上', '最佳ocr工具免費', 'ocr無需註冊', 'ocr瀏覽器端', '如何ocr免費'],
     description: `
       <p>OCR PDF使用光學字符識別從PDF中的掃描文檔和圖像中提取文本。將基於圖像的PDF轉換為可搜尋、可選擇文本的文檔。</p>
       <p>支援多種語言，確保無論文檔語言如何都能準確識別文本。在新增可搜尋文本層的同時保留原始布局。</p>
@@ -1482,8 +1482,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'alternate-merge': {
     title: '交替合併',
-    metaDescription: '通過交替頁面合併PDF。將正面和背面掃描合併成一個文檔。',
-    keywords: ['交替合併', '交錯pdf', '合併掃描', '正反面合併'],
+    metaDescription: '免費交替合併線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['alternate merge', '交替合併', '免費交替合併線上', '最佳交替合併工具免費', '交替合併無需註冊', '交替合併瀏覽器端', '如何交替合併免費'],
     description: `
       <p>交替合併通過交替交錯兩個PDF的頁面來合併它們。這非常適合將分別掃描的正面和背面頁面合併成一個文檔。</p>
       <p>上傳兩個PDF，工具將通過交替從每個PDF中取一頁來合併它們。您還可以反轉其中一個文檔的順序以適應從後到前的掃描。</p>
@@ -1508,8 +1508,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'add-attachments': {
     title: '新增附件',
-    metaDescription: '在PDF文檔中嵌入文件。將任何文件類型附加到您的PDF。',
-    keywords: ['pdf附件', '嵌入文件', '附加到pdf', 'pdf組合'],
+    metaDescription: '免費新增附件線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['add attachments', '新增附件', '免費新增附件線上', '最佳新增附件工具免費', '新增附件無需註冊', '新增附件瀏覽器端', '如何新增附件免費'],
     description: `
       <p>新增附件將任何類型的文件嵌入到您的PDF文檔中。附加電子表格、圖像、源文件或任何其他文檔以創建全面的PDF包。</p>
       <p>附件嵌入在PDF中，收件人可以使用任何PDF閱讀器提取。非常適合將相關文件一起分發。</p>
@@ -1534,8 +1534,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'extract-attachments': {
     title: '提取附件',
-    metaDescription: '從PDF中提取嵌入的文件。從PDF文檔下載所有附件。',
-    keywords: ['提取附件', 'pdf附件', '下載嵌入文件', 'pdf提取'],
+    metaDescription: '免費提取附件線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['extract attachments', '提取附件', '免費提取附件線上', '最佳提取附件工具免費', '提取附件無需註冊', '提取附件瀏覽器端', '如何提取附件免費'],
     description: `
       <p>提取附件從PDF文檔中檢索所有嵌入的文件。單獨下載附件或作為包含所有文件的ZIP壓縮包下載。</p>
       <p>非常適合訪問嵌入在PDF包中的源文件、數據或補充材料。</p>
@@ -1560,8 +1560,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'edit-attachments': {
     title: '編輯附件',
-    metaDescription: '管理PDF附件。查看、重命名和刪除嵌入的文件。',
-    keywords: ['編輯附件', '管理pdf文件', '刪除附件', '重命名附件'],
+    metaDescription: '免費編輯附件線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['edit attachments', '編輯附件', '免費編輯附件線上', '最佳編輯附件工具免費', '編輯附件無需註冊', '編輯附件瀏覽器端', '如何編輯附件免費'],
     description: `
       <p>編輯附件讓您管理PDF文檔中的嵌入文件。查看所有附件、重命名它們或從PDF中刪除不需要的文件。</p>
       <p>非常適合在分發前清理PDF包或更新附件信息。</p>
@@ -1586,8 +1586,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'divide-pages': {
     title: '分割頁面',
-    metaDescription: '將PDF頁面分割成多個部分。水平或垂直分割頁面。',
-    keywords: ['分割pdf頁面', '拆分頁面', '剪切pdf頁面', '頁面部分'],
+    metaDescription: '免費分割頁面線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['divide pages', '分割頁面', '免費分割頁面線上', '最佳分割頁面工具免費', '分割頁面無需註冊', '分割頁面瀏覽器端', '如何分割頁面免費'],
     description: `
       <p>分割頁面將單個PDF頁面分割成多個部分。水平、垂直或網格分割頁面，從一頁創建多頁。</p>
       <p>非常適合分割每頁包含多個項目的掃描文檔，或將大幅面頁面分割成標準尺寸。</p>
@@ -1612,8 +1612,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'add-blank-page': {
     title: '新增空白頁',
-    metaDescription: '在PDF文檔中插入空白頁。在任何位置新增空頁。',
-    keywords: ['新增空白頁', '插入頁面', '空頁', 'pdf頁面插入'],
+    metaDescription: '免費新增空白頁線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['add blank page', '新增空白頁', '免費新增空白頁線上', '最佳新增空白頁工具免費', '新增空白頁無需註冊', '新增空白頁瀏覽器端', '如何新增空白頁免費'],
     description: `
       <p>新增空白頁在PDF文檔的任何位置插入空頁。在現有頁面之前、之後或之間新增頁面，可自定義頁面大小。</p>
       <p>非常適合新增筆記空間、創建章節分隔符或為列印準備文檔。</p>
@@ -1638,8 +1638,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'reverse-pages': {
     title: '反轉頁面',
-    metaDescription: '反轉PDF頁面順序。將文檔頁面從最後翻到最前。',
-    keywords: ['反轉pdf', '翻轉頁面順序', '倒置頁面', '反轉文檔'],
+    metaDescription: '免費反轉頁面線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['reverse pages', '反轉頁面', '免費反轉頁面線上', '最佳反轉頁面工具免費', '反轉頁面無需註冊', '反轉頁面瀏覽器端', '如何反轉頁面免費'],
     description: `
       <p>反轉頁面翻轉PDF文檔中頁面的順序，將最後一頁放在最前，第一頁放在最後。對於以相反順序掃描的文檔或特定列印需求非常有用。</p>
       <p>該工具處理整個文檔或選定的頁面範圍，保持所有內容和格式。</p>
@@ -1664,8 +1664,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'rotate-pdf': {
     title: '旋轉PDF',
-    metaDescription: '旋轉PDF頁面。將頁面旋轉90、180或270度。',
-    keywords: ['旋轉pdf', '轉動pdf頁面', 'pdf旋轉', '修覆方向'],
+    metaDescription: '免費旋轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['rotate pdf', '旋轉pdf', '免費旋轉pdf頁面線上', '按度數旋轉pdf', '拉直pdf頁面', 'pdf旋轉工具免費', '免費旋轉pdf線上', '最佳旋轉pdf工具免費', '旋轉pdf無需註冊', '旋轉pdf瀏覽器端', '如何旋轉pdf免費'],
     description: `
       <p>旋轉PDF將文檔中的頁面旋轉90、180或270度。修覆方向不正確的掃描、旋轉橫向頁面或調整頁面方向以供查看。</p>
       <p>統一旋轉所有頁面或選擇特定頁面單獨旋轉。該工具保留所有內容和格式。</p>
@@ -1690,8 +1690,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'n-up-pdf': {
     title: 'N合一PDF',
-    metaDescription: '每張紙列印多個PDF頁面。創建2合1、4合1或自定義布局。',
-    keywords: ['n合一pdf', '每張多頁', '2合1列印', '頁面拼版'],
+    metaDescription: '免費N合一PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['n up pdf', 'n合一pdf', '免費n合一pdf線上', '最佳n合一pdf工具免費', 'n合一pdf無需註冊', 'n合一pdf瀏覽器端', '如何n合一pdf免費'],
     description: `
       <p>N合一PDF將多個頁面排列到單張紙上，創建2合1、4合1、6合1、9合1或自定義布局。非常適合列印時節省紙張或創建講義。</p>
       <p>從預設布局中選擇或創建自定義排列。該工具自動縮放和定位頁面以獲得最佳效果。</p>
@@ -1716,8 +1716,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'combine-single-page': {
     title: '合併為單頁',
-    metaDescription: '將PDF頁面拼接成一個連續頁面。創建可滾動的單頁文檔。',
-    keywords: ['合併頁面', '單頁pdf', '拼接頁面', '連續滾動'],
+    metaDescription: '免費合併為單頁線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['combine single page', '合併為單頁', '免費合併為單頁線上', '最佳合併為單頁工具免費', '合併為單頁無需註冊', '合併為單頁瀏覽器端', '如何合併為單頁免費'],
     description: `
       <p>合併為單頁將所有PDF頁面拼接成一個連續頁面。創建非常適合網絡查看或連續閱讀的可滾動文檔。</p>
       <p>頁面垂直連接，間距可自定義。結果是包含所有內容的單個長頁面。</p>
@@ -1742,8 +1742,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'view-metadata': {
     title: '查看後設資料',
-    metaDescription: '查看PDF文檔屬性。查看作者、標題、日期和其他後設資料。',
-    keywords: ['pdf後設資料', '文檔屬性', 'pdf信息', '查看pdf詳情'],
+    metaDescription: '免費查看後設資料線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['view metadata', '查看後設資料', '免費查看後設資料線上', '最佳查看後設資料工具免費', '查看後設資料無需註冊', '查看後設資料瀏覽器端', '如何查看後設資料免費'],
     description: `
       <p>查看後設資料顯示PDF文件中的所有文檔屬性和後設資料。查看作者、標題、主題、關鍵詞、創建日期、修改日期等。</p>
       <p>對於審核文檔、檢查文件信息或驗證文檔真實性非常有用。</p>
@@ -1768,8 +1768,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'edit-metadata': {
     title: '編輯後設資料',
-    metaDescription: '編輯PDF文檔屬性。更改標題、作者、主題和關鍵詞。',
-    keywords: ['編輯pdf後設資料', '更改pdf屬性', 'pdf作者', '文檔信息'],
+    metaDescription: '免費編輯後設資料線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['edit metadata', '編輯後設資料', '免費編輯後設資料線上', '最佳編輯後設資料工具免費', '編輯後設資料無需註冊', '編輯後設資料瀏覽器端', '如何編輯後設資料免費'],
     description: `
       <p>編輯後設資料允許您修改PDF文件中的文檔屬性。更改標題、作者、主題、關鍵詞和其他後設資料欄位。</p>
       <p>非常適合糾正文檔信息、新增正確的歸屬或為分發準備文件。</p>
@@ -1794,8 +1794,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-zip': {
     title: 'PDF轉ZIP',
-    metaDescription: '將多個PDF打包成ZIP壓縮包。壓縮和捆綁PDF文件。',
-    keywords: ['pdf轉zip', '壓縮pdf', '捆綁pdf', '存檔pdf'],
+    metaDescription: '免費PDF轉ZIP線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to zip', 'pdf轉zip', '免費pdf轉zip線上', '最佳pdf轉zip工具免費', 'pdf轉zip無需註冊', 'pdf轉zip瀏覽器端', '如何pdf轉zip免費'],
     description: `
       <p>PDF轉ZIP將多個PDF文件打包成一個ZIP壓縮包。壓縮和捆綁您的PDF以便於共享、存儲或備份。</p>
       <p>該工具創建包含所有PDF文件的壓縮存檔，減少總大小並簡化文件管理。</p>
@@ -1820,8 +1820,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'compare-pdfs': {
     title: '比較PDF',
-    metaDescription: '比較兩個PDF文檔。高亮顯示版本之間的差異。',
-    keywords: ['比較pdf', 'pdf差異', '文檔比較', '版本比較'],
+    metaDescription: '免費比較PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['compare pdfs', '比較pdf', '免費比較pdf線上', '最佳比較pdf工具免費', '比較pdf無需註冊', '比較pdf瀏覽器端', '如何比較pdf免費'],
     description: `
       <p>比較PDF分析兩個PDF文檔並高亮顯示它們之間的差異。非常適合審閱文檔修訂、檢查合同更改或驗證編輯。</p>
       <p>以並排或疊加模式查看文檔，差異會高亮顯示。該工具識別文本更改、新增和刪除。</p>
@@ -1846,8 +1846,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'posterize-pdf': {
     title: '海報化PDF',
-    metaDescription: '將大型PDF頁面分割成可列印的瓷磚。從PDF頁面創建海報。',
-    keywords: ['海報化pdf', '瓷磚pdf', '大幅面列印', 'pdf海報'],
+    metaDescription: '免費海報化PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['posterize pdf', '海報化pdf', '免費海報化pdf線上', '最佳海報化pdf工具免費', '海報化pdf無需註冊', '海報化pdf瀏覽器端', '如何海報化pdf免費'],
     description: `
       <p>海報化PDF將大型PDF頁面分割成可以在標準紙張上列印並組裝成海報的較小瓷磚。非常適合列印大型圖表、地圖或藝術品。</p>
       <p>配置網格大小和重疊以便於組裝。該工具自動計算目標輸出尺寸的瓷磚尺寸。</p>
@@ -1873,8 +1873,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   // ==================== 優化與修覆 ====================
   'fix-page-size': {
     title: '修覆頁面大小',
-    metaDescription: '標準化PDF頁面大小。將所有頁面轉換為統一尺寸。',
-    keywords: ['修覆頁面大小', '標準化pdf', '統一頁面', '調整pdf頁面大小'],
+    metaDescription: '免費修覆頁面大小線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['fix page size', '修覆頁面大小', '免費修覆頁面大小線上', '最佳修覆頁面大小工具免費', '修覆頁面大小無需註冊', '修覆頁面大小瀏覽器端', '如何修覆頁面大小免費'],
     description: `
       <p>修覆頁面大小將PDF中的所有頁面標準化為統一尺寸。將混合尺寸文檔轉換為一致的頁面大小，以便專業展示或列印。</p>
       <p>從標準尺寸（A4、Letter等）中選擇或設置自定義尺寸。內容會縮放或定位以適應新的頁面大小。</p>
@@ -1899,8 +1899,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'linearize-pdf': {
     title: '線性化PDF',
-    metaDescription: '優化PDF以實現快速網絡查看。啟用漸進式加載。',
-    keywords: ['線性化pdf', '快速網絡查看', '優化pdf', '漸進式pdf'],
+    metaDescription: '免費線性化PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['linearize pdf', '線性化pdf', '免費線性化pdf線上', '最佳線性化pdf工具免費', '線性化pdf無需註冊', '線性化pdf瀏覽器端', '如何線性化pdf免費'],
     description: `
       <p>線性化PDF優化您的文檔以實現快速網絡查看。線性化的PDF可以在整個文件下載完成之前開始顯示，改善使用者體驗。</p>
       <p>也稱為"快速網絡查看"，此優化重新組織PDF結構以實現網絡瀏覽器中的漸進式加載。</p>
@@ -1925,8 +1925,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'page-dimensions': {
     title: '頁面尺寸',
-    metaDescription: '分析PDF頁面大小。查看文檔中所有頁面的尺寸。',
-    keywords: ['pdf頁面大小', '頁面尺寸', 'pdf測量', '文檔大小'],
+    metaDescription: '免費頁面尺寸線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['page dimensions', '頁面尺寸', '免費頁面尺寸線上', '最佳頁面尺寸工具免費', '頁面尺寸無需註冊', '頁面尺寸瀏覽器端', '如何頁面尺寸免費'],
     description: `
       <p>頁面尺寸分析並顯示PDF文檔中每個頁面的大小。以各種單位（英寸、毫米、點）查看尺寸並識別非標準大小的頁面。</p>
       <p>對於列印準備、文檔分析或識別不一致的頁面大小非常有用。</p>
@@ -1951,8 +1951,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'remove-restrictions': {
     title: '刪除限制',
-    metaDescription: '刪除PDF限制。解鎖列印、複製和編輯權限。',
-    keywords: ['刪除pdf限制', '解鎖pdf', 'pdf權限', '取消pdf限制'],
+    metaDescription: '免費刪除限制線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['remove restrictions', '刪除限制', '免費刪除限制線上', '最佳刪除限制工具免費', '刪除限制無需註冊', '刪除限制瀏覽器端', '如何刪除限制免費'],
     description: `
       <p>刪除限制解鎖具有權限限制的PDF，這些限制阻止列印、複製或編輯。此工具在保留文檔內容的同時刪除所有者密碼限制。</p>
       <p>注意：此工具無法刪除阻止打開文檔的使用者密碼。對於受密碼保護的文件，請使用解密PDF。</p>
@@ -1977,8 +1977,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'repair-pdf': {
     title: '修覆PDF',
-    metaDescription: '修覆損壞的PDF文件。恢復和修覆受損文檔。',
-    keywords: ['修覆pdf', '修覆pdf', '恢復pdf', '損壞的pdf'],
+    metaDescription: '免費修覆PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['repair pdf', '修覆pdf', '免費修覆pdf線上', '最佳修覆pdf工具免費', '修覆pdf無需註冊', '修覆pdf瀏覽器端', '如何修覆pdf免費'],
     description: `
       <p>修覆PDF嘗試修覆損壞或受損的PDF文件。該工具分析文檔結構並重建它以盡可能多地恢復內容。</p>
       <p>對於恢復無法打開、顯示錯誤或由於損壞而缺少內容的文件非常有用。</p>
@@ -2004,8 +2004,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   // ==================== 安全PDF ====================
   'encrypt-pdf': {
     title: '加密PDF',
-    metaDescription: '為PDF文件新增密碼保護。新增加密並設置權限。',
-    keywords: ['加密pdf', '密碼保護pdf', '安全pdf', 'pdf加密'],
+    metaDescription: '免費加密PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['encrypt pdf', '加密pdf', '免費加密pdf線上', '最佳加密pdf工具免費', '加密pdf無需註冊', '加密pdf瀏覽器端', '如何加密pdf免費'],
     description: `
       <p>加密PDF為您的PDF文檔新增密碼保護和加密。設置使用者密碼以防止打開，設置所有者密碼以控制列印和複製等權限。</p>
       <p>根據不同的安全需求選擇不同的加密級別（128位或256位AES）。</p>
@@ -2030,8 +2030,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'sanitize-pdf': {
     title: '清理PDF',
-    metaDescription: '從PDF中刪除隱藏數據。清除後設資料、腳本和敏感信息。',
-    keywords: ['清理pdf', '清潔pdf', '刪除隱藏數據', 'pdf隱私'],
+    metaDescription: '免費清理PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['sanitize pdf', '清理pdf', '免費清理pdf線上', '最佳清理pdf工具免費', '清理pdf無需註冊', '清理pdf瀏覽器端', '如何清理pdf免費'],
     description: `
       <p>清理PDF從您的文檔中刪除隱藏數據和潛在敏感信息。去除後設資料、嵌入腳本、附件、評論和其他隱藏內容。</p>
       <p>對於準備公開分發的文檔或當隱私是關注點時至關重要。</p>
@@ -2056,8 +2056,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'find-and-redact': {
     title: '查找並遮蓋',
-    metaDescription: '搜尋並批量遮蓋PDF中的敏感文本。支援正規表達式匹配賬號、姓名等敏感信息。',
-    keywords: ['遮蓋pdf', '查找並遮蓋', '批量遮蓋', '刪除文本', 'pdf脫敏', '隱藏敏感數據'],
+    metaDescription: '免費查找並遮蓋線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['find and redact', '查找並遮蓋', '免費查找並遮蓋線上', '最佳查找並遮蓋工具免費', '查找並遮蓋無需註冊', '查找並遮蓋瀏覽器端', '如何查找並遮蓋免費'],
     description: `
       <p>查找並遮蓋允許您在PDF的所有頁面中搜尋特定文本、數字或模式，並一次性遮蓋所有匹配項。非常適合刪除敏感信息，如賬號、姓名、地址或任何機密數據。</p>
       <p>在應用遮蓋前預覽所有匹配項，並選擇性地選擇要遮蓋的出現次數。支援區分大小寫搜尋、全詞匹配和正規表達式以進行高級模式匹配。</p>
@@ -2083,8 +2083,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   },
   'decrypt-pdf': {
     title: '解密PDF',
-    metaDescription: '從PDF文件中刪除密碼。解鎖受密碼保護的文檔。',
-    keywords: ['解密pdf', '刪除pdf密碼', '解鎖pdf', 'pdf密碼刪除器'],
+    metaDescription: '免費解密PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['decrypt pdf', '解密pdf', '免費解密pdf線上', '最佳解密pdf工具免費', '解密pdf無需註冊', '解密pdf瀏覽器端', '如何解密pdf免費'],
     description: `
       <p>解密PDF從PDF文檔中刪除密碼保護。輸入當前密碼以解鎖文件並創建不受保護的副本。</p>
       <p>此工具要求您知道當前密碼。它無法破解或繞過未知密碼。</p>
@@ -2109,8 +2109,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'flatten-pdf': {
     title: '扁平化PDF',
-    metaDescription: '扁平化PDF表單和注釋。使內容不可編輯。',
-    keywords: ['扁平化pdf', '扁平化表單', '扁平化注釋', '不可編輯pdf'],
+    metaDescription: '免費扁平化PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['flatten pdf', '扁平化pdf', '免費扁平化pdf線上', '最佳扁平化pdf工具免費', '扁平化pdf無需註冊', '扁平化pdf瀏覽器端', '如何扁平化pdf免費'],
     description: `
       <p>扁平化PDF將表單欄位和注釋等交互元素轉換為靜態內容。扁平化的PDF看起來相同，但不能再編輯。</p>
       <p>非常適合完成已填寫的表單、保留注釋或創建不可編輯的文檔版本。</p>
@@ -2135,8 +2135,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'remove-metadata-full': {
     title: '後設資料的完全刪除',
-    metaDescription: '從 PDF 文件中剝離所有後設資料和屬性。清理以增加匿名性。',
-    keywords: ['pdf 後設資料 刪除', 'pdf 屬性 清除', 'pdf 匿名化', 'pdf 隱私'],
+    metaDescription: '免費後設資料的完全刪除線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['remove metadata full', '後設資料的完全刪除', '免費後設資料的完全刪除線上', '最佳後設資料的完全刪除工具免費', '後設資料的完全刪除無需註冊', '後設資料的完全刪除瀏覽器端', '如何後設資料的完全刪除免費'],
     description: `
       <p>刪除 PDF 文件中隱藏的所有信息，如作者、創建軟件和創建日期/時間。這在從公開發布的材料中清除內部信息時非常重要。</p>
     `,
@@ -2159,8 +2159,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'remove-metadata': {
     title: '刪除後設資料',
-    metaDescription: '從PDF文件中去除後設資料。刪除作者、日期和文檔屬性。',
-    keywords: ['刪除pdf後設資料', '去除後設資料', 'pdf隱私', '匿名pdf'],
+    metaDescription: '免費刪除後設資料線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['remove metadata', '刪除後設資料', '免費刪除後設資料線上', '最佳刪除後設資料工具免費', '刪除後設資料無需註冊', '刪除後設資料瀏覽器端', '如何刪除後設資料免費'],
     description: `
       <p>刪除後設資料從您的PDF文件中去除所有文檔屬性和後設資料。刪除作者姓名、創建日期、軟件信息和其他識別數據。</p>
       <p>在共享文檔或當後設資料可能泄露敏感信息時，對於隱私至關重要。</p>
@@ -2185,8 +2185,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'change-permissions': {
     title: '更改權限',
-    metaDescription: '修改PDF權限。控制列印、複製和編輯訪問。',
-    keywords: ['pdf權限', '更改pdf訪問', '限制pdf', 'pdf安全'],
+    metaDescription: '免費更改權限線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['change permissions', '更改權限', '免費更改權限線上', '最佳更改權限工具免費', '更改權限無需註冊', '更改權限瀏覽器端', '如何更改權限免費'],
     description: `
       <p>更改權限修改PDF文檔的訪問控制。啟用或禁用列印、複製、編輯和注釋權限。</p>
       <p>設置所有者密碼以強制執行這些限制。收件人可以查看文檔，但在可執行的操作上受到限制。</p>
@@ -2210,8 +2210,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   },
   'pdf-to-docx': {
     title: 'PDF轉Word',
-    metaDescription: '將PDF轉換為可編輯的Word文檔（DOCX）。保留原始布局、格式和圖像。',
-    keywords: ['pdf轉word', 'pdf轉docx', 'pdf轉可編輯文檔', 'pdf轉換器'],
+    metaDescription: '免費PDF轉Word線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to docx', 'pdf轉word', '免費pdf轉word線上', '最佳pdf轉word工具免費', 'pdf轉word無需註冊', 'pdf轉word瀏覽器端', '如何pdf轉word免費'],
     description: `
       <p>PDF轉Word工具可將您的PDF文檔轉換為完全可編輯的Microsoft Word (DOCX)文件。該工具采用先進的解析技術，能夠最大限度地保留原始文檔的排版、字體、表格和圖像。</p>
       <p>無需重新打字，即可輕鬆修改PDF內容。非常適合處理合同、報告、簡歷以及任何需要深度編輯的文檔。</p>
@@ -2238,8 +2238,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-txt': {
     title: 'PDF轉文本',
-    metaDescription: '從PDF中提取純文本。移除所有格式和圖像，獲取最簡潔的文字內容。',
-    keywords: ['pdf轉txt', 'pdf提取文本', '獲取pdf文字', 'pdf純文本'],
+    metaDescription: '免費PDF轉文本線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to txt', 'pdf轉文本', '免費pdf轉文本線上', '最佳pdf轉文本工具免費', 'pdf轉文本無需註冊', 'pdf轉文本瀏覽器端', '如何pdf轉文本免費'],
     description: `
       <p>PDF轉文本工具旨在為您提供最純粹的文字提取體驗。它會剝離文檔中的背景、圖像、超連結和覆雜的排版，僅保留最核心的文字內容。</p>
       <p>適合需要將PDF內容導入文本編輯器、進行代碼分析或準備機器翻譯語料的使用者。</p>
@@ -2263,8 +2263,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'deskew-pdf': {
     title: '校正PDF傾斜',
-    metaDescription: '自動校正掃描或傾斜的PDF頁面。使用精確的角度檢測修覆傾斜文檔。',
-    keywords: ['校正pdf傾斜', '修正pdf', '修覆傾斜掃描', '自動旋轉pdf', '校正pdf角度'],
+    metaDescription: '免費校正PDF傾斜線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['deskew pdf', '校正pdf傾斜', '免費校正pdf傾斜線上', '最佳校正pdf傾斜工具免費', '校正pdf傾斜無需註冊', '校正pdf傾斜瀏覽器端', '如何校正pdf傾斜免費'],
     description: `
       <p>校正PDF傾斜使用先進的投影輪廓方差分析自動檢測並校正PDF文檔中的傾斜或歪斜頁面。這對於以一定角度送入掃描儀的掃描文檔至關重要。</p>
       <p>該工具分析不同角度下的文本和內容對齊情況，找到最佳旋轉角度，然後應用校正。您可以調整敏感度閾值（1-30）和DPI設置（72-300）以獲得最佳結果。</p>
@@ -2290,8 +2290,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   },
   'pdf-to-pdfa': {
     title: 'PDF轉PDF/A',
-    metaDescription: '將普通PDF轉換為適合長期存檔的PDF/A格式。符合ISO標準。',
-    keywords: ['pdf轉pdfa', 'pdf長期存檔', '符合性轉換', 'iso標準pdf'],
+    metaDescription: '免費PDF轉PDF/A線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to pdfa', 'pdf轉pdf/a', '免費pdf轉pdf/a線上', '最佳pdf轉pdf/a工具免費', 'pdf轉pdf/a無需註冊', 'pdf轉pdf/a瀏覽器端', '如何pdf轉pdf/a免費'],
     description: `
       <p>PDF/A是PDF的ISO標準化版本，專門用於電子文檔的長期保存和存檔。它確保了文檔在未來幾十年內即使軟件環境發生變化，其顯示效果依然保持一致。</p>
       <p>該工具會嵌入所有字體並移除不符合存檔規範的動態元素（如JavaScript），使文檔變得更加穩健和透明。</p>
@@ -2315,8 +2315,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-html': {
     title: 'PDF轉HTML',
-    metaDescription: '將PDF頁面轉換為網頁格式（HTML）。支援自適應布局和跨平台瀏覽。',
-    keywords: ['pdf轉html', 'pdf轉網頁', 'pdf在線發布', 'pdf發布為網頁'],
+    metaDescription: '免費PDF轉HTML線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to html', 'pdf轉html', '免費pdf轉html線上', '最佳pdf轉html工具免費', 'pdf轉html無需註冊', 'pdf轉html瀏覽器端', '如何pdf轉html免費'],
     description: `
       <p>PDF轉HTML工具可以將您的靜態PDF文檔轉化為可直接在瀏覽器中瀏覽的網頁。轉換後的內容支援文字檢索，並能自適應不同的螢幕尺寸。</p>
       <p>非常適合將PDF手冊、宣傳冊或研究論文發布到網站上，提供比下載PDF文件更好的使用者體驗。</p>
@@ -2340,8 +2340,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'extract-images': {
     title: '從PDF提取圖片',
-    metaDescription: '從PDF文件中提取所有嵌入的圖片。支援單獨下載或打包成ZIP下載。自動過濾小尺寸圖片。',
-    keywords: ['提取pdf圖片', 'pdf圖片提取', '從pdf獲取圖片', '下載pdf圖片', 'pdf轉圖片'],
+    metaDescription: '免費從PDF提取圖片線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['extract images', '從pdf提取圖片', '免費從pdf提取圖片線上', '最佳從pdf提取圖片工具免費', '從pdf提取圖片無需註冊', '從pdf提取圖片瀏覽器端', '如何從pdf提取圖片免費'],
     description: `
       <p>從PDF提取圖片工具可以從您的PDF文檔中檢索所有嵌入的圖片。您可以單獨下載高品質圖片，也可以將所有圖片打包成ZIP壓縮包一次性下載。</p>
       <p>該工具會根據可自定義的尺寸閾值自動過濾掉小圖片（如圖標和裝飾圖案）。支援批量處理多個PDF文件，高效便捷。</p>
@@ -2367,8 +2367,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'ocg-manager': {
     title: 'PDF圖層管理器',
-    metaDescription: '管理PDF圖層。查看、切換、新增、刪除和重命名圖層。',
-    keywords: ['pdf圖層', 'ocg管理器'],
+    metaDescription: '免費PDF圖層管理器線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['ocg manager', 'pdf圖層管理器', '免費pdf圖層管理器線上', '最佳pdf圖層管理器工具免費', 'pdf圖層管理器無需註冊', 'pdf圖層管理器瀏覽器端', '如何pdf圖層管理器免費'],
     description: '<p>管理PDF文檔中的可選內容組（OCG）。</p>',
     howToUse: [
       { step: 1, title: '上傳PDF', description: '上傳包含圖層的PDF文件。' },
@@ -2389,8 +2389,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-reader': {
     title: 'PDF閱讀器',
-    metaDescription: '免費在線PDF閱讀器。在瀏覽器中查看PDF。',
-    keywords: ['pdf閱讀器', 'pdf查看器'],
+    metaDescription: '免費PDF閱讀器線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf reader', 'pdf閱讀器', '免費pdf閱讀器線上', '最佳pdf閱讀器工具免費', 'pdf閱讀器無需註冊', 'pdf閱讀器瀏覽器端', '如何pdf閱讀器免費'],
     description: '<p>在瀏覽器中查看PDF文檔。</p>',
     howToUse: [
       { step: 1, title: '打開PDF', description: '上傳PDF文件。' },
@@ -2411,8 +2411,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'digital-sign-pdf': {
     title: '數字簽名',
-    metaDescription: '為PDF文檔新增X.509數字簽名。使用PFX、P12或PEM證書籤署PDF，具有法律效力。',
-    keywords: ['pdf數字簽名', 'x509證書', 'pfx簽名', 'p12簽名', 'pem簽名', '電子簽名'],
+    metaDescription: '免費數字簽名線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['digital sign pdf', '數字簽名', '免費數字簽名線上', '最佳數字簽名工具免費', '數字簽名無需註冊', '數字簽名瀏覽器端', '如何數字簽名免費'],
     description: `
       <p>數字簽名工具允許您為PDF文檔新增加密的X.509數字簽名。與簡單的手繪簽名不同，數字簽名提供法律效力和文檔完整性驗證。</p>
       <p>上傳您的證書文件（PFX、P12或PEM格式），輸入密碼，即可簽署PDF。您可以新增帶有自定義文本、圖像和位置的可見簽名，或僅用於文檔完整性的不可見簽名。</p>
@@ -2438,8 +2438,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'validate-signature': {
     title: '驗證簽名',
-    metaDescription: '驗證PDF文檔中的數字簽名。檢查證書有效性、簽名者信息和文檔完整性。',
-    keywords: ['驗證pdf簽名', '驗證數字簽名', '檢查pdf證書', '簽名驗證'],
+    metaDescription: '免費驗證簽名線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['validate signature', '驗證簽名', '免費驗證簽名線上', '最佳驗證簽名工具免費', '驗證簽名無需註冊', '驗證簽名瀏覽器端', '如何驗證簽名免費'],
     description: `
       <p>驗證簽名工具允許您驗證PDF文檔中的數字簽名。檢查簽名是否有效，查看證書信息，並確認文檔完整性。</p>
       <p>上傳已簽名的PDF，查看所有簽名、其有效性狀態、簽名者信息，以及文檔在簽名後是否被修改。</p>
@@ -2464,8 +2464,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   },
   'email-to-pdf': {
     title: '郵件轉PDF',
-    metaDescription: '將郵件文件（.eml、.msg）轉換為PDF文檔。保留格式、內聯圖像、可點擊超連結和嵌入附件。',
-    keywords: ['郵件轉pdf', 'eml轉pdf', 'msg轉pdf', '轉換郵件', '郵件轉換器', '保存郵件為pdf', 'outlook轉pdf'],
+    metaDescription: '免費郵件轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['email to pdf', '郵件轉pdf', '免費郵件轉pdf線上', '最佳郵件轉pdf工具免費', '郵件轉pdf無需註冊', '郵件轉pdf瀏覽器端', '如何郵件轉pdf免費'],
     description: `
       <p>郵件轉PDF將您的郵件文件（.eml和.msg格式）轉換為格式良好的PDF文檔。該工具保留郵件頭信息、正文內容、內聯圖像（CID替換）、可點擊超連結，並將附件直接嵌入PDF中。</p>
       <p>自定義輸出選項，包括頁面大小（A4、Letter、Legal）、帶時區支援的日期格式，以及是否包含副本/密件副本欄位和附件信息。</p>
@@ -2492,8 +2492,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'cbz-to-pdf': {
     title: 'CBZ轉PDF',
-    metaDescription: '將漫畫書歸檔文件（CBZ）轉換為PDF。保留圖像順序和品質，適用於數字漫畫。',
-    keywords: ['cbz轉pdf', '漫畫轉pdf', '轉換cbz', '漫畫書轉換器', 'cbz轉換器'],
+    metaDescription: '免費CBZ轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['cbz to pdf', 'cbz轉pdf', '免費cbz轉pdf線上', '最佳cbz轉pdf工具免費', 'cbz轉pdf無需註冊', 'cbz轉pdf瀏覽器端', '如何cbz轉pdf免費'],
     description: `
       <p>CBZ轉PDF將漫畫書歸檔文件轉換為PDF文檔。該工具從CBZ歸檔中提取所有圖像，並將它們編譯成PDF，同時保持正確的閱讀順序。</p>
       <p>從各種頁面大小選項中選擇，包括原始圖像尺寸或標準化的漫畫書尺寸。非常適合在支援PDF但不支援CBZ的設備上閱讀漫畫。</p>
@@ -2518,8 +2518,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-booklet': {
     title: 'PDF小冊子制作',
-    metaDescription: '從PDF創建小冊子布局以供列印。為騎馬釘裝訂排列頁面，支援多種網格選項。',
-    keywords: ['pdf小冊子', '小冊子制作', '列印小冊子', '騎馬釘', '拼版'],
+    metaDescription: '免費PDF小冊子制作線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf booklet', 'pdf小冊子制作', '免費pdf小冊子制作線上', '最佳pdf小冊子制作工具免費', 'pdf小冊子制作無需註冊', 'pdf小冊子制作瀏覽器端', '如何pdf小冊子制作免費'],
     description: `
       <p>PDF小冊子制作將您的PDF頁面排列成適合列印和折疊制作的小冊子布局。非常適合創建宣傳冊、雜誌、小冊子和騎馬釘裝訂出版物。</p>
       <p>從各種網格模式（1x2、2x2、2x4、4x4）、紙張尺寸和方向選項中選擇。該工具自動處理頁面拼版以實現正確的折疊順序。</p>
@@ -2544,8 +2544,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'rasterize-pdf': {
     title: '光柵化PDF',
-    metaDescription: '將PDF頁面轉換為高品質圖像。導出為PNG、JPEG或WebP，支援自定義DPI設置。',
-    keywords: ['光柵化pdf', 'pdf轉圖像', 'pdf轉png', 'pdf轉jpeg', '轉換pdf頁面'],
+    metaDescription: '免費光柵化PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['rasterize pdf', '光柵化pdf', '免費光柵化pdf線上', '最佳光柵化pdf工具免費', '光柵化pdf無需註冊', '光柵化pdf瀏覽器端', '如何光柵化pdf免費'],
     description: `
       <p>光柵化PDF將您的PDF頁面轉換為高品質的光柵圖像。從PNG、JPEG或WebP輸出格式中選擇，完全控制DPI和品質設置。</p>
       <p>非常適合創建縮略圖、社交媒體圖形或將PDF內容歸檔為圖像。支援頁面範圍選擇和批量處理。</p>
@@ -2570,8 +2570,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'markdown-to-pdf': {
     title: 'Markdown轉PDF',
-    metaDescription: '將Markdown文件轉換為格式精美的PDF文檔。支援GitHub風格Markdown和語法高亮。',
-    keywords: ['markdown轉pdf', 'md轉pdf', '轉換markdown', 'gfm轉pdf', 'markdown轉換器'],
+    metaDescription: '免費Markdown轉PDF線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['markdown to pdf', 'markdown轉pdf', '免費markdown轉pdf線上', '最佳markdown轉pdf工具免費', 'markdown轉pdf無需註冊', 'markdown轉pdf瀏覽器端', '如何markdown轉pdf免費'],
     description: `
       <p>Markdown轉PDF將您的Markdown文件轉換為專業樣式的PDF文檔。支援CommonMark和GitHub風格Markdown（GFM），包括表格、任務列表和程式碼區塊。</p>
       <p>從多個主題（淺色、深色、GitHub）中選擇，並自定義頁面大小和邊距。程式碼區塊具有語法高亮以提高可讀性。</p>
@@ -2596,8 +2596,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'font-to-outline': {
     title: '字體轉輪廓',
-    metaDescription: '通過將頁面轉換為高品質圖像來刪除PDF文檔的字體依賴。確保在所有系統上的兼容性。',
-    keywords: ['字體轉輪廓', '輪廓字體', '刪除字體', '字體兼容性', '扁平化pdf字體', 'pdf字體刪除'],
+    metaDescription: '免費字體轉輪廓線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['font to outline', '字體轉輪廓', '免費字體轉輪廓線上', '最佳字體轉輪廓工具免費', '字體轉輪廓無需註冊', '字體轉輪廓瀏覽器端', '如何字體轉輪廓免費'],
     description: `
       <p>字體轉輪廓通過將每個頁面轉換為高品質的光柵化內容來刪除PDF中的所有字體依賴。這確保您的文檔在任何系統上看起來完全相同，即使未安裝原始字體。</p>
       <p>該工具以您選擇的DPI（150-600）渲染每個頁面，刪除嵌入的字體同時保留確切的視覺外觀。可選地，您可以新增不可見的文本層以保持可搜尋性。</p>
@@ -2625,8 +2625,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
 
   'pdf-to-markdown': {
     title: 'PDF轉Markdown',
-    metaDescription: '將PDF轉換為Markdown格式。提取文本並保留標題和列表等格式。',
-    keywords: ['pdf轉markdown', 'pdf轉md', 'pdf文本提取', 'markdown轉換器', 'pdf轉文本'],
+    metaDescription: '免費PDF轉Markdown線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['pdf to markdown', 'pdf轉markdown', '免費pdf轉markdown線上', '最佳pdf轉markdown工具免費', 'pdf轉markdown無需註冊', 'pdf轉markdown瀏覽器端', '如何pdf轉markdown免費'],
     description: `
       <p>PDF轉Markdown將您的PDF文檔轉換為乾淨、結構良好的Markdown文件。該工具智能提取文本內容，並嘗試保留標題、列表和段落等格式。</p>
       <p>非常適合將PDF文檔轉換為可編輯格式，用於文檔編寫、筆記記錄或支援Markdown的內容管理系統。</p>
@@ -2650,8 +2650,8 @@ export const toolContentZhTW: Record<string, ToolContent> = {
   },
   'extract-tables': {
     title: '從PDF提取表格',
-    metaDescription: '檢測並從PDF文檔中提取表格。導出為JSON、Markdown或CSV格式。',
-    keywords: ['提取表格', 'pdf表格提取', 'pdf轉csv', 'pdf轉excel', '表格檢測'],
+    metaDescription: '免費從PDF提取表格線上。無需註冊。快速、安全、瀏覽器端處理。立即試用！',
+    keywords: ['extract tables', '從pdf提取表格', '免費從pdf提取表格線上', '最佳從pdf提取表格工具免費', '從pdf提取表格無需註冊', '從pdf提取表格瀏覽器端', '如何從pdf提取表格免費'],
     description: `
       <p>從PDF提取表格檢測PDF文檔中的表格數據並以結構化格式導出。選擇JSON用於數據集成，Markdown用於文檔，或CSV用於電子表格。</p>
       <p>該工具使用智能檢測算法來識別表格結構，即使在覆雜文檔中也是如此。指定頁面範圍並調整檢測參數以獲得最佳結果。</p>
