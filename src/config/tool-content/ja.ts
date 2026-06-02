@@ -13,8 +13,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   // ==================== POPULAR TOOLS ====================
   'pdf-multi-tool': {
     title: 'PDFマルチツール',
-    metaDescription: 'オールインワンPDFエディター：結合、分割、整理、削除、回転、ページ抽出を1つの強力なツールで。',
-    keywords: ['pdfマルチツール', 'pdfエディター', 'pdf結合', 'pdf分割', 'pdf整理', 'オールインワンpdf'],
+    metaDescription: 'オールインワンPDFエディター：結合、分割、整理、削除、回転、ページ抽出を1つの強力なツールで。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfマルチツール', 'pdfエディター', 'pdf結合', 'pdf分割', 'pdf整理', 'オールインワンpdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>PDFマルチツールは、すべてのPDFページ管理タスクに対応する包括的なソリューションです。この強力なオールインワンツールは、複数のPDF操作を単一の直感的なインターフェースに統合し、時間と労力を節約します。</p>
       <p>複数のドキュメントの結合、大きなPDFの分割、ページの再編成、不要なコンテンツの削除、ページの回転、特定のセクションの抽出など、異なるアプリケーションを切り替えることなくすべてを処理できます。</p>
@@ -40,8 +40,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'merge-pdf': {
     title: 'PDF結合',
-    metaDescription: '複数のPDFファイルを1つのドキュメントに結合。ドラッグ＆ドロップで並べ替え可能な無料オンラインPDF結合ツール。',
-    keywords: ['pdf結合', 'pdfを結合', 'pdf合併', 'pdfマージャー', 'pdf連結'],
+    metaDescription: '複数のPDFファイルを1つのドキュメントに結合。ドラッグ＆ドロップで並べ替え可能な無料オンラインPDF結合ツール。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf結合', 'pdfを結合', 'pdf合併', 'pdfマージャー', 'pdf連結', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF結合を使用すると、複数のPDFドキュメントを素早く簡単に1つのファイルに結合できます。レポートの統合、スキャンしたドキュメントの結合、プレゼンテーションの作成など、このツールでプロセスがシームレスになります。</p>
       <p>ファイルをアップロードし、ドラッグ＆ドロップで希望の順序に並べ替え、1つのまとまったドキュメントに結合するだけです。ツールは元のファイルの品質を保持し、オプションで各ソースドキュメントのブックマークを維持できます。</p>
@@ -66,8 +66,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'split-pdf': {
     title: 'PDF分割',
-    metaDescription: 'PDFファイルを複数のドキュメントに分割。特定のページを抽出またはページ範囲で分割。',
-    keywords: ['pdf分割', 'pdfを分ける', 'pdf分離', 'ページ抽出', 'pdfスプリッター'],
+    metaDescription: 'PDFファイルを複数のドキュメントに分割。特定のページを抽出またはページ範囲で分割。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf分割', 'pdfを分ける', 'pdf分離', 'ページ抽出', 'pdfスプリッター', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF分割を使用すると、1つのPDFドキュメントを複数の小さなファイルに分割できます。特定の章の抽出、結合されたドキュメントの分離、複数ページのPDFから個別のファイルを作成するのに最適です。</p>
       <p>特定のページ範囲で分割、個別のページを抽出、または一定間隔でドキュメントを分割できます。ツールはページのビジュアルプレビューを提供し、必要なものを正確に選択しやすくなっています。</p>
@@ -93,8 +93,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'compress-pdf': {
     title: 'PDF圧縮',
-    metaDescription: '品質を維持しながらPDFファイルサイズを削減。小さなファイルのための無料オンラインPDF圧縮ツール。',
-    keywords: ['pdf圧縮', 'pdfサイズ削減', 'pdf圧縮ツール', 'pdf縮小', 'pdf最適化'],
+    metaDescription: '品質を維持しながらPDFファイルサイズを削減。小さなファイルのための無料オンラインPDF圧縮ツール。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf圧縮', 'pdfサイズ削減', 'pdf圧縮ツール', 'pdf縮小', 'pdf最適化', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF圧縮は、許容可能な品質を維持しながらPDFドキュメントのファイルサイズを削減します。メール添付、ウェブアップロード、ストレージスペースの節約に不可欠です。</p>
       <p>ツールは、ファイルサイズの削減と品質保持のバランスを取るための複数の圧縮レベルを提供します。最大サイズ削減のための積極的な圧縮、または高品質を維持するための軽い圧縮を選択できます。</p>
@@ -119,8 +119,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'edit-pdf': {
     title: 'PDF編集',
-    metaDescription: 'オンラインでPDFファイルを編集。テキスト、画像、注釈、ハイライト、図形をドキュメントに追加。',
-    keywords: ['pdf編集', 'pdfエディター', 'pdf注釈', 'pdfにテキスト追加', 'pdfマークアップ'],
+    metaDescription: 'オンラインでPDFファイルを編集。テキスト、画像、注釈、ハイライト、図形をドキュメントに追加。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf編集', 'pdfエディター', 'pdf注釈', 'pdfにテキスト追加', 'pdfマークアップ', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF編集は、PDFドキュメントを変更および注釈するための包括的なツールセットを提供します。高価なデスクトップソフトウェアなしで、テキスト、画像、図形、ハイライト、コメントなどを追加できます。</p>
       <p>直感的なエディターインターフェースにより、レビュー用のドキュメントのマークアップ、コラボレーション用のメモの追加、機密情報の墨消し、追加コンテンツでのドキュメントの強化が簡単にできます。</p>
@@ -146,8 +146,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'jpg-to-pdf': {
     title: 'JPGからPDF',
-    metaDescription: 'JPG画像をPDFに変換。複数のJPGファイルを1つのPDFドキュメントに結合。',
-    keywords: ['jpgからpdf', 'jpegからpdf', 'jpg変換', '画像からpdf', '写真からpdf'],
+    metaDescription: 'JPG画像をPDFに変換。複数のJPGファイルを1つのPDFドキュメントに結合。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['jpgからpdf', 'jpegからpdf', 'jpg変換', '画像からpdf', '写真からpdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>JPGからPDFは、JPEG画像を素早く簡単にPDFドキュメントに変換します。単一の写真でも複数の画像でも、このツールはプロフェッショナルな見た目のPDFファイルを作成します。</p>
       <p>複数のJPGファイルを1つのPDFに結合し、任意の順序に並べ替え、ページサイズと向きをカスタマイズできます。変換は画像品質を保持しながら、コンパクトで共有可能なPDFファイルを作成します。</p>
@@ -172,8 +172,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'sign-pdf': {
     title: 'PDF署名',
-    metaDescription: 'PDFドキュメントに電子署名を追加。描画、入力、または署名をアップロード。',
-    keywords: ['pdf署名', '電子署名', 'e署名', 'pdf署名', 'デジタル署名'],
+    metaDescription: 'PDFドキュメントに電子署名を追加。描画、入力、または署名をアップロード。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf署名', '電子署名', 'e署名', 'pdf署名', 'デジタル署名', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF署名を使用すると、PDFドキュメントに電子署名を素早く安全に追加できます。描画、入力、または画像のアップロードで署名を作成し、ドキュメントの任意の場所に配置できます。</p>
       <p>1つのドキュメントに複数の署名を追加し、正確にサイズ変更と配置を行い、将来の使用のために署名を保存できます。契約書、合意書、フォーム、署名が必要なあらゆるドキュメントに最適です。</p>
@@ -199,8 +199,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'crop-pdf': {
     title: 'PDFトリミング',
-    metaDescription: 'PDFページをトリミングして余白や不要な領域を削除。PDFドキュメントを正確にトリミング。',
-    keywords: ['pdfトリミング', 'pdf切り取り', 'pdf余白削除', 'pdfページサイズ変更', 'pdfクロッパー'],
+    metaDescription: 'PDFページをトリミングして余白や不要な領域を削除。PDFドキュメントを正確にトリミング。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfトリミング', 'pdf切り取り', 'pdf余白削除', 'pdfページサイズ変更', 'pdfクロッパー', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDFトリミングを使用すると、PDFページから余白や不要な領域をトリミングできます。余分な空白の削除、特定のコンテンツ領域への焦点、ページサイズの標準化に便利です。</p>
       <p>すべてのページを均一にトリミングするか、各ページを個別に調整できます。ビジュアルインターフェースは何が保持されるかを正確に表示し、正確な結果を簡単に達成できます。</p>
@@ -226,8 +226,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'extract-pages': {
     title: 'ページ抽出',
-    metaDescription: 'PDFファイルから特定のページを抽出。個別のページを選択して新しいドキュメントとして保存。',
-    keywords: ['pdfページ抽出', 'pdfページ保存', 'pdfページコピー', 'pdfページ抽出ツール'],
+    metaDescription: 'PDFファイルから特定のページを抽出。個別のページを選択して新しいドキュメントとして保存。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfページ抽出', 'pdfページ保存', 'pdfページコピー', 'pdfページ抽出ツール', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>ページ抽出を使用すると、PDFドキュメントから特定のページを選択して新しいファイルとして保存できます。関連するセクションの抽出、抜粋の作成、結合されたドキュメントの分離に最適です。</p>
       <p>個別のページ、ページ範囲、または複数の非連続ページを抽出できます。ビジュアルページプレビューにより、必要なページを正確に識別して選択しやすくなっています。</p>
@@ -252,8 +252,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'organize-pdf': {
     title: 'PDF整理',
-    metaDescription: 'PDFページの並べ替え、複製、削除。ドラッグ＆ドロップでドキュメントを再編成。',
-    keywords: ['pdf整理', 'pdfページ並べ替え', 'pdf再配置', 'pdfページオーガナイザー'],
+    metaDescription: 'PDFページの並べ替え、複製、削除。ドラッグ＆ドロップでドキュメントを再編成。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf整理', 'pdfページ並べ替え', 'pdf再配置', 'pdfページオーガナイザー', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF整理は、PDFドキュメント内のページを再配置するための直感的なドラッグ＆ドロップインターフェースを提供します。ページの並べ替え、重要なセクションの複製、不要なページの削除が簡単にできます。</p>
       <p>ビジュアルページサムネイルにより、コンテンツを識別し、必要に応じてページを正確に配置しやすくなっています。ドキュメントの再構成、カスタムページ順序の作成、スキャンファイルのクリーンアップに最適です。</p>
@@ -278,8 +278,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'delete-pages': {
     title: 'ページ削除',
-    metaDescription: 'PDFファイルから不要なページを削除。特定のページを簡単に選択して削除。',
-    keywords: ['pdfページ削除', 'pdfページ削除', 'pdfページリムーバー', 'pdfからページを削除'],
+    metaDescription: 'PDFファイルから不要なページを削除。特定のページを簡単に選択して削除。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfページ削除', 'pdfページ削除', 'pdfページリムーバー', 'pdfからページを削除', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>ページ削除を使用すると、PDFドキュメントから不要なページを素早く簡単に削除できます。空白ページ、古いコンテンツ、機密情報を削除する必要がある場合、このツールで簡単にできます。</p>
       <p>ビジュアルページサムネイルにより、削除するページを正確に識別できます。個別のページまたは複数のページを一度に削除できます。</p>
@@ -305,8 +305,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   // ==================== EDIT & ANNOTATE ====================
   'bookmark': {
     title: 'ブックマーク編集',
-    metaDescription: 'PDFブックマークの追加、編集、管理。ドキュメントのナビゲーション構造を作成。',
-    keywords: ['pdfブックマーク', 'ブックマーク編集', 'ブックマーク追加', 'pdfナビゲーション', '目次'],
+    metaDescription: 'PDFブックマークの追加、編集、管理。ドキュメントのナビゲーション構造を作成。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfブックマーク', 'ブックマーク編集', 'ブックマーク追加', 'pdfナビゲーション', '目次', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: '<p>PDFドキュメントのブックマークを作成、変更、整理できます。ブックマークは特定のセクションへの素早いナビゲーションを提供し、長いドキュメントを使いやすくします。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -327,8 +327,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'table-of-contents': {
     title: '目次',
-    metaDescription: 'PDFの目次を生成。ブックマークからクリック可能なナビゲーションを作成。',
-    keywords: ['pdf目次', '目次生成', 'pdfインデックス', 'ドキュメントナビゲーション'],
+    metaDescription: 'PDFの目次を生成。ブックマークからクリック可能なナビゲーションを作成。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf目次', '目次生成', 'pdfインデックス', 'ドキュメントナビゲーション', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントのナビゲーション可能な目次ページを生成します。既存のブックマークまたはカスタムエントリから目次を作成し、読者に概要と素早いナビゲーションを提供します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -349,8 +349,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'page-numbers': {
     title: 'ページ番号',
-    metaDescription: 'PDFドキュメントにページ番号を追加。位置、形式、開始番号をカスタマイズ。',
-    keywords: ['ページ番号追加', 'pdfページ番号', 'pdfページ番号付け', 'pdfページネーション'],
+    metaDescription: 'PDFドキュメントにページ番号を追加。位置、形式、開始番号をカスタマイズ。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['ページ番号追加', 'pdfページ番号', 'pdfページ番号付け', 'pdfページネーション', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントにカスタマイズ可能なページ番号を追加します。ドキュメントのデザインに合わせて、さまざまな形式、位置、スタイルから選択できます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -371,8 +371,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'add-watermark': {
     title: '透かし追加',
-    metaDescription: 'PDFファイルにテキストまたは画像の透かしを追加。ドキュメントを保護しブランド化。',
-    keywords: ['透かし追加', 'pdf透かし', 'pdfスタンプ', 'pdfブランド', 'pdf保護'],
+    metaDescription: 'PDFファイルにテキストまたは画像の透かしを追加。ドキュメントを保護しブランド化。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['透かし追加', 'pdf透かし', 'pdfスタンプ', 'pdfブランド', 'pdf保護', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: '<p>PDFドキュメントにテキストまたは画像の透かしを配置できます。透かしはドキュメントのステータス（下書き、機密）を示したり、ブランディングを追加したり、不正コピーを防止したりできます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -393,8 +393,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'header-footer': {
     title: 'ヘッダー＆フッター',
-    metaDescription: 'PDFドキュメントにヘッダーとフッターを追加。ページ番号、日付、カスタムテキストを含める。',
-    keywords: ['pdfヘッダー', 'pdfフッター', 'ヘッダーフッター追加', 'pdfレターヘッド'],
+    metaDescription: 'PDFドキュメントにヘッダーとフッターを追加。ページ番号、日付、カスタムテキストを含める。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfヘッダー', 'pdfフッター', 'ヘッダーフッター追加', 'pdfレターヘッド', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントにカスタマイズ可能なヘッダーとフッターを追加します。ページ番号、日付、ドキュメントタイトル、またはカスタムテキストをヘッダーまたはフッター領域に含めることができます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -415,8 +415,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'invert-colors': {
     title: '色反転',
-    metaDescription: 'ダークモード読書用にPDFの色を反転。ドキュメントをネガティブカラーに変換。',
-    keywords: ['pdf色反転', 'pdfダークモード', 'ネガティブpdf', '色を逆にする'],
+    metaDescription: 'ダークモード読書用にPDFの色を反転。ドキュメントをネガティブカラーに変換。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf色反転', 'pdfダークモード', 'ネガティブpdf', '色を逆にする', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントの色を反転し、ネガティブ画像効果を作成します。低照度条件での読みやすさを向上させるダークモードバージョンのドキュメントを作成するのに特に便利です。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -437,8 +437,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'background-color': {
     title: '背景色',
-    metaDescription: 'PDFの背景色を変更。ドキュメントページに色付き背景を追加。',
-    keywords: ['pdf背景色', 'pdf背景変更', '色付きpdf', 'pdfページ色'],
+    metaDescription: 'PDFの背景色を変更。ドキュメントページに色付き背景を追加。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf背景色', 'pdf背景変更', '色付きpdf', 'pdfページ色', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFページの背景色を変更または追加できます。読みやすさの向上、視覚的な興味の追加、ブランディング要件への対応に役立ちます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -459,8 +459,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'text-color': {
     title: 'テキスト色変更',
-    metaDescription: 'PDFドキュメントのテキスト色を変更。すべてのテキストコンテンツの色を変更。',
-    keywords: ['pdfテキスト色変更', 'pdfテキスト色', 'テキスト色変更', 'pdfテキスト再着色'],
+    metaDescription: 'PDFドキュメントのテキスト色を変更。すべてのテキストコンテンツの色を変更。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfテキスト色変更', 'pdfテキスト色', 'テキスト色変更', 'pdfテキスト再着色', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメント内のテキストの色を変更できます。コントラストの改善、ブランディングへの対応、ドキュメントの視覚的バリエーションの作成に便利です。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -481,8 +481,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'add-stamps': {
     title: 'スタンプ追加',
-    metaDescription: 'PDFドキュメントにスタンプを追加。承認、レビューなどのプリセットまたはカスタムスタンプを使用。',
-    keywords: ['pdfスタンプ', 'スタンプ追加', '承認スタンプ', 'pdfラバースタンプ'],
+    metaDescription: 'PDFドキュメントにスタンプを追加。承認、レビューなどのプリセットまたはカスタムスタンプを使用。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfスタンプ', 'スタンプ追加', '承認スタンプ', 'pdfラバースタンプ', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントにスタンプ画像を配置できます。「承認」、「却下」、「下書き」などのプリセットスタンプを使用するか、カスタムスタンプ画像をアップロードできます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -503,8 +503,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'remove-annotations': {
     title: '注釈削除',
-    metaDescription: 'PDFファイルから注釈を削除。コメント、ハイライト、マークアップを削除。',
-    keywords: ['pdf注釈削除', 'コメント削除', 'ハイライト削除', 'pdfクリーン'],
+    metaDescription: 'PDFファイルから注釈を削除。コメント、ハイライト、マークアップを削除。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf注釈削除', 'コメント削除', 'ハイライト削除', 'pdfクリーン', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントからコメント、ハイライト、付箋、その他の注釈を削除します。マークアップなしのクリーンなバージョンのドキュメントを作成します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -525,8 +525,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'form-filler': {
     title: 'フォーム記入',
-    metaDescription: 'オンラインでPDFフォームに記入。印刷せずにインタラクティブなPDFフォームを完成。',
-    keywords: ['pdfフォーム記入', 'pdfフォームフィラー', 'pdfフォーム完成', 'インタラクティブpdf'],
+    metaDescription: 'オンラインでPDFフォームに記入。印刷せずにインタラクティブなPDFフォームを完成。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfフォーム記入', 'pdfフォームフィラー', 'pdfフォーム完成', 'インタラクティブpdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>ブラウザで直接インタラクティブなPDFフォームに記入できます。ドキュメントを印刷せずに、テキストフィールドに記入、チェックボックスをチェック、オプションを選択、署名を追加できます。</p>',
     howToUse: [
       { step: 1, title: 'PDFフォームをアップロード', description: 'PDFフォームをドラッグ＆ドロップするか、クリックしてファイルを選択します。' },
@@ -547,8 +547,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'form-creator': {
     title: 'フォーム作成',
-    metaDescription: '記入可能なPDFフォームを作成。テキストフィールド、チェックボックス、ドロップダウンをドキュメントに追加。',
-    keywords: ['pdfフォーム作成', 'pdfフォームクリエーター', '記入可能pdf', 'フォームフィールド追加'],
+    metaDescription: '記入可能なPDFフォームを作成。テキストフィールド、チェックボックス、ドロップダウンをドキュメントに追加。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfフォーム作成', 'pdfフォームクリエーター', '記入可能pdf', 'フォームフィールド追加', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>静的なPDFドキュメントをインタラクティブな記入可能フォームに変換します。テキストフィールド、チェックボックス、ラジオボタン、ドロップダウンなどを追加してプロフェッショナルなフォームを作成できます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックしてフォームに変換するドキュメントを選択します。' },
@@ -569,8 +569,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'remove-blank-pages': {
     title: '空白ページ削除',
-    metaDescription: 'PDFドキュメントから空白ページを自動検出して削除。',
-    keywords: ['空白ページ削除', '空ページ削除', 'pdfクリーン', 'pdf空白ページリムーバー'],
+    metaDescription: 'PDFドキュメントから空白ページを自動検出して削除。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['空白ページ削除', '空ページ削除', 'pdfクリーン', 'pdf空白ページリムーバー', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントから空のページを自動的に検出して削除します。スキャンしたドキュメントのクリーンアップ、セパレーターページの削除、誤って含まれた空白ページの除去に便利です。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -592,8 +592,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   // ==================== CONVERT TO PDF ====================
   'image-to-pdf': {
     title: '画像からPDF',
-    metaDescription: 'あらゆる画像をPDFに変換。JPG、PNG、WebP、BMP、TIFF、SVG、HEIC形式をサポート。',
-    keywords: ['画像からpdf', '画像変換', '写真からpdf', '画像をpdfに'],
+    metaDescription: 'あらゆる画像をPDFに変換。JPG、PNG、WebP、BMP、TIFF、SVG、HEIC形式をサポート。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['画像からpdf', '画像変換', '写真からpdf', '画像をpdfに', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>あらゆる形式の画像をPDFドキュメントに変換します。JPG、PNG、WebP、BMP、TIFF、SVG、HEIC形式をサポートする万能画像コンバーターです。</p>',
     howToUse: [
       { step: 1, title: '画像をアップロード', description: 'サポートされている形式の画像をドラッグ＆ドロップするか、クリックしてファイルを選択します。' },
@@ -614,8 +614,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'png-to-pdf': {
     title: 'PNGからPDF',
-    metaDescription: 'PNG画像をPDFに変換。透明度を保持し、複数のPNGファイルを結合。',
-    keywords: ['pngからpdf', 'png変換', 'pngコンバーター', '透明画像からpdf'],
+    metaDescription: 'PNG画像をPDFに変換。透明度を保持し、複数のPNGファイルを結合。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pngからpdf', 'png変換', 'pngコンバーター', '透明画像からpdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PNG画像を透明度を保持しながらPDFドキュメントに変換します。グラフィックス、ロゴ、スクリーンショット、透明な背景を持つ画像に最適です。</p>',
     howToUse: [
       { step: 1, title: 'PNGファイルをアップロード', description: 'PNG画像をドラッグ＆ドロップするか、クリックしてファイルを選択します。' },
@@ -636,8 +636,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'webp-to-pdf': {
     title: 'WebPからPDF',
-    metaDescription: 'WebP画像をPDFに変換。品質を保持した最新画像形式の変換。',
-    keywords: ['webpからpdf', 'webp変換', 'webpコンバーター', 'ウェブ画像からpdf'],
+    metaDescription: 'WebP画像をPDFに変換。品質を保持した最新画像形式の変換。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['webpからpdf', 'webp変換', 'webpコンバーター', 'ウェブ画像からpdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>最新のWebP画像をPDFドキュメントに変換します。WebPは人気のあるウェブ画像形式であり、このツールでこれらの画像を印刷やアーカイブ用に簡単に変換できます。</p>',
     howToUse: [
       { step: 1, title: 'WebPファイルをアップロード', description: 'WebP画像をドラッグ＆ドロップするか、クリックしてファイルを選択します。' },
@@ -658,8 +658,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'svg-to-pdf': {
     title: 'SVGからPDF',
-    metaDescription: 'SVGベクターグラフィックスをPDFに変換。スケーラビリティと品質を保持。',
-    keywords: ['svgからpdf', 'svg変換', 'ベクターからpdf', 'スケーラブルグラフィックスからpdf'],
+    metaDescription: 'SVGベクターグラフィックスをPDFに変換。スケーラビリティと品質を保持。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['svgからpdf', 'svg変換', 'ベクターからpdf', 'スケーラブルグラフィックスからpdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>スケーラブルベクターグラフィックスをベクター品質を保持しながらPDFドキュメントに変換します。SVGファイルはどのサイズでもシャープなままであり、この品質はPDF出力で維持されます。</p>',
     howToUse: [
       { step: 1, title: 'SVGファイルをアップロード', description: 'SVGファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -680,8 +680,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'bmp-to-pdf': {
     title: 'BMPからPDF',
-    metaDescription: 'BMPビットマップ画像をPDFに変換。品質を保持したレガシー形式のサポート。',
-    keywords: ['bmpからpdf', 'bmp変換', 'ビットマップからpdf', 'bmpコンバーター'],
+    metaDescription: 'BMPビットマップ画像をPDFに変換。品質を保持したレガシー形式のサポート。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['bmpからpdf', 'bmp変換', 'ビットマップからpdf', 'bmpコンバーター', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>ビットマップ画像をPDFドキュメントに変換します。BMPはWindows環境で一般的に使用されるレガシー画像形式であり、このツールでこれらのファイルを最新のPDF形式に簡単に変換できます。</p>',
     howToUse: [
       { step: 1, title: 'BMPファイルをアップロード', description: 'BMP画像をドラッグ＆ドロップするか、クリックしてファイルを選択します。' },
@@ -702,8 +702,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'heic-to-pdf': {
     title: 'HEICからPDF',
-    metaDescription: 'iPhone HEIC写真をPDFに変換。Apple画像形式の変換を簡単に。',
-    keywords: ['heicからpdf', 'heic変換', 'iphone写真からpdf', 'apple画像からpdf'],
+    metaDescription: 'iPhone HEIC写真をPDFに変換。Apple画像形式の変換を簡単に。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['heicからpdf', 'heic変換', 'iphone写真からpdf', 'apple画像からpdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>AppleのHigh Efficiency Image Format写真をPDFドキュメントに変換します。HEICはiPhoneとiPadのデフォルトの写真形式であり、このツールでこれらの写真を簡単に共有できます。</p>',
     howToUse: [
       { step: 1, title: 'HEICファイルをアップロード', description: 'HEIC写真をドラッグ＆ドロップするか、クリックしてファイルを選択します。' },
@@ -724,8 +724,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'tiff-to-pdf': {
     title: 'TIFFからPDF',
-    metaDescription: 'TIFF画像をPDFに変換。マルチページTIFFファイルと高品質変換をサポート。',
-    keywords: ['tiffからpdf', 'tiff変換', 'tifからpdf', 'マルチページtiff'],
+    metaDescription: 'TIFF画像をPDFに変換。マルチページTIFFファイルと高品質変換をサポート。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['tiffからpdf', 'tiff変換', 'tifからpdf', 'マルチページtiff', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>マルチページTIFFファイルを含むTIFF画像をPDFドキュメントに変換します。TIFFは高品質スキャンやプロフェッショナルグラフィックスに一般的に使用されます。</p>',
     howToUse: [
       { step: 1, title: 'TIFFファイルをアップロード', description: 'TIFFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -746,8 +746,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'txt-to-pdf': {
     title: 'テキストからPDF',
-    metaDescription: 'プレーンテキストファイルをPDFに変換。フォント、余白、ページレイアウトをカスタマイズ。',
-    keywords: ['txtからpdf', 'テキストからpdf', 'テキストファイル変換', 'プレーンテキストからpdf'],
+    metaDescription: 'プレーンテキストファイルをPDFに変換。フォント、余白、ページレイアウトをカスタマイズ。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['txtからpdf', 'テキストからpdf', 'テキストファイル変換', 'プレーンテキストからpdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>プレーンテキストファイルをフォーマットされたPDFドキュメントに変換します。フォント、サイズ、余白、ページレイアウトをカスタマイズして、シンプルなテキストからプロフェッショナルな見た目のドキュメントを作成できます。</p>',
     howToUse: [
       { step: 1, title: 'テキストファイルをアップロード', description: '.txtファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -768,8 +768,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'json-to-pdf': {
     title: 'JSONからPDF',
-    metaDescription: 'JSONファイルをフォーマットされたPDFに変換。シンタックスハイライトと構造化出力。',
-    keywords: ['jsonからpdf', 'json変換', 'jsonビューアー', 'jsonフォーマッター'],
+    metaDescription: 'JSONファイルをフォーマットされたPDFに変換。シンタックスハイライトと構造化出力。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['jsonからpdf', 'json変換', 'jsonビューアー', 'jsonフォーマッター', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>JSONデータファイルをフォーマットされた読みやすいPDFドキュメントに変換します。出力にはシンタックスハイライトと適切なインデントが含まれ、読みやすくなっています。</p>',
     howToUse: [
       { step: 1, title: 'JSONファイルをアップロード', description: '.jsonファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -791,8 +791,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   // ==================== CONVERT FROM PDF ====================
   'pdf-to-jpg': {
     title: 'PDFからJPG',
-    metaDescription: 'PDFページをJPG画像に変換。カスタマイズ可能な解像度で高品質抽出。',
-    keywords: ['pdfからjpg', 'pdfからjpeg', 'pdfを画像に変換', 'pdf画像抽出'],
+    metaDescription: 'PDFページをJPG画像に変換。カスタマイズ可能な解像度で高品質抽出。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfからjpg', 'pdfからjpeg', 'pdfを画像に変換', 'pdf画像抽出', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントページを高品質のJPG画像に変換します。すべてのページまたは特定のページを抽出し、解像度と品質設定をカスタマイズできます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -813,8 +813,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'pdf-to-png': {
     title: 'PDFからPNG',
-    metaDescription: 'PDFページをPNG画像に変換。透明度サポート付きのロスレス品質。',
-    keywords: ['pdfからpng', 'pdfをpngに変換', 'pdf画像抽出', 'ロスレスpdf変換'],
+    metaDescription: 'PDFページをPNG画像に変換。透明度サポート付きのロスレス品質。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfからpng', 'pdfをpngに変換', 'pdf画像抽出', 'ロスレスpdf変換', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントページをロスレス圧縮の高品質PNG画像に変換します。PNG形式は画像品質を完全に保持し、透明度をサポートします。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -835,8 +835,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'pdf-to-webp': {
     title: 'PDFからWebP',
-    metaDescription: 'PDFページをWebP画像に変換。優れた圧縮を持つ最新形式。',
-    keywords: ['pdfからwebp', 'pdfをwebpに変換', '最新画像形式', 'ウェブ最適化画像'],
+    metaDescription: 'PDFページをWebP画像に変換。優れた圧縮を持つ最新形式。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfからwebp', 'pdfをwebpに変換', '最新画像形式', 'ウェブ最適化画像', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントページをWebP画像に変換します。Googleの最新画像形式で、高品質を維持しながら優れた圧縮を提供します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -857,8 +857,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'pdf-to-bmp': {
     title: 'PDFからBMP',
-    metaDescription: 'PDFページをBMPビットマップ画像に変換。最大互換性のための非圧縮形式。',
-    keywords: ['pdfからbmp', 'pdfをビットマップに変換', '非圧縮画像', 'レガシー形式'],
+    metaDescription: 'PDFページをBMPビットマップ画像に変換。最大互換性のための非圧縮形式。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfからbmp', 'pdfをビットマップに変換', '非圧縮画像', 'レガシー形式', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントページをBMPビットマップ画像に変換します。BMPはレガシーシステムやアプリケーションとの最大互換性を確保する非圧縮形式です。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -879,8 +879,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'pdf-to-tiff': {
     title: 'PDFからTIFF',
-    metaDescription: 'PDFをTIFF画像に変換。マルチページサポート付きのプロフェッショナル品質。',
-    keywords: ['pdfからtiff', 'pdfをtiffに変換', 'プロフェッショナル画像', 'マルチページtiff'],
+    metaDescription: 'PDFをTIFF画像に変換。マルチページサポート付きのプロフェッショナル品質。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfからtiff', 'pdfをtiffに変換', 'プロフェッショナル画像', 'マルチページtiff', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントを高品質のTIFF画像に変換します。TIFFはロスレス圧縮のため、プロフェッショナル印刷やアーカイブに好まれる形式です。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -901,8 +901,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'pdf-to-greyscale': {
     title: 'PDFをグレースケールに',
-    metaDescription: 'カラーPDFをグレースケールに変換。ファイルサイズを削減し、白黒印刷用に準備。',
-    keywords: ['pdfをグレースケールに', 'グレースケールpdf', '白黒pdf', '色を削除'],
+    metaDescription: 'カラーPDFをグレースケールに変換。ファイルサイズを削減し、白黒印刷用に準備。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfをグレースケールに', 'グレースケールpdf', '白黒pdf', '色を削除', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>カラーPDFドキュメントをグレースケール（白黒）に変換します。ファイルサイズを削減し、白黒印刷用にドキュメントを準備します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'カラーPDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -923,8 +923,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'pdf-to-json': {
     title: 'PDFからJSON',
-    metaDescription: 'PDFコンテンツをJSON形式に抽出。PDFドキュメントから構造化データを取得。',
-    keywords: ['pdfからjson', 'pdfデータ抽出', 'pdfパーサー', '構造化pdfデータ'],
+    metaDescription: 'PDFコンテンツをJSON形式に抽出。PDFドキュメントから構造化データを取得。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfからjson', 'pdfデータ抽出', 'pdfパーサー', '構造化pdfデータ', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントからコンテンツを構造化JSON形式に抽出します。プログラム的な使用のためにテキスト、メタデータ、ページ情報、ドキュメント構造を抽出します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -946,8 +946,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   // ==================== ORGANIZE & MANAGE ====================
   'ocr-pdf': {
     title: 'OCR PDF',
-    metaDescription: 'OCRでスキャンしたPDFを検索可能に。画像やスキャンドキュメントからテキストを抽出。',
-    keywords: ['ocr pdf', '検索可能pdf', 'テキスト認識', 'スキャンからテキスト'],
+    metaDescription: 'OCRでスキャンしたPDFを検索可能に。画像やスキャンドキュメントからテキストを抽出。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['ocr pdf', '検索可能pdf', 'テキスト認識', 'スキャンからテキスト', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>光学文字認識を使用してスキャンしたドキュメントやPDF内の画像からテキストを抽出します。画像ベースのPDFを検索可能で選択可能なテキストドキュメントに変換します。</p>',
     howToUse: [
       { step: 1, title: 'スキャンPDFをアップロード', description: 'スキャンしたPDFをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -968,8 +968,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'alternate-merge': {
     title: '交互結合',
-    metaDescription: 'ページを交互にしてPDFを結合。表と裏のスキャンを1つのドキュメントに結合。',
-    keywords: ['交互結合', 'インターリーブpdf', 'スキャン結合', '表裏結合'],
+    metaDescription: 'ページを交互にしてPDFを結合。表と裏のスキャンを1つのドキュメントに結合。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['交互結合', 'インターリーブpdf', 'スキャン結合', '表裏結合', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>2つのPDFをページを交互にインターリーブして結合します。別々にスキャンした表と裏のページを1つのドキュメントに結合するのに最適です。</p>',
     howToUse: [
       { step: 1, title: '2つのPDFをアップロード', description: '表ページPDFと裏ページPDFをアップロードします。' },
@@ -990,8 +990,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'add-attachments': {
     title: '添付ファイル追加',
-    metaDescription: 'PDFドキュメントにファイルを埋め込み。あらゆるファイルタイプをPDFに添付。',
-    keywords: ['pdf添付ファイル', 'ファイル埋め込み', 'pdfに添付', 'pdfポートフォリオ'],
+    metaDescription: 'PDFドキュメントにファイルを埋め込み。あらゆるファイルタイプをPDFに添付。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf添付ファイル', 'ファイル埋め込み', 'pdfに添付', 'pdfポートフォリオ', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>あらゆるタイプのファイルをPDFドキュメントに埋め込みます。スプレッドシート、画像、ソースファイル、その他のドキュメントを添付して包括的なPDFパッケージを作成します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1012,8 +1012,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'extract-attachments': {
     title: '添付ファイル抽出',
-    metaDescription: 'PDFから埋め込みファイルを抽出。PDFドキュメントからすべての添付ファイルをダウンロード。',
-    keywords: ['添付ファイル抽出', 'pdf添付ファイル', '埋め込みファイルダウンロード', 'pdf抽出'],
+    metaDescription: 'PDFから埋め込みファイルを抽出。PDFドキュメントからすべての添付ファイルをダウンロード。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['添付ファイル抽出', 'pdf添付ファイル', '埋め込みファイルダウンロード', 'pdf抽出', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントからすべての埋め込みファイルを取得します。添付ファイルを個別にまたはすべてのファイルを含むZIPアーカイブとしてダウンロードします。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1034,8 +1034,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'edit-attachments': {
     title: '添付ファイル編集',
-    metaDescription: 'PDF添付ファイルを管理。埋め込みファイルの表示、名前変更、削除。',
-    keywords: ['添付ファイル編集', 'pdfファイル管理', '添付ファイル削除', '添付ファイル名前変更'],
+    metaDescription: 'PDF添付ファイルを管理。埋め込みファイルの表示、名前変更、削除。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['添付ファイル編集', 'pdfファイル管理', '添付ファイル削除', '添付ファイル名前変更', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメント内の埋め込みファイルを管理できます。すべての添付ファイルを表示し、名前を変更したり、不要なファイルをPDFから削除したりできます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1056,8 +1056,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'divide-pages': {
     title: 'ページ分割',
-    metaDescription: 'PDFページを複数のセクションに分割。ページを水平または垂直に分割。',
-    keywords: ['pdfページ分割', 'ページ分割', 'pdfページカット', 'ページセクション'],
+    metaDescription: 'PDFページを複数のセクションに分割。ページを水平または垂直に分割。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfページ分割', 'ページ分割', 'pdfページカット', 'ページセクション', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>個々のPDFページを複数のセクションに分割します。ページを水平、垂直、またはグリッドにカットして、1つから複数のページを作成します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1078,8 +1078,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'add-blank-page': {
     title: '空白ページ追加',
-    metaDescription: 'PDFドキュメントに空白ページを挿入。任意の位置に空のページを追加。',
-    keywords: ['空白ページ追加', 'ページ挿入', '空ページ', 'pdfページ挿入'],
+    metaDescription: 'PDFドキュメントに空白ページを挿入。任意の位置に空のページを追加。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['空白ページ追加', 'ページ挿入', '空ページ', 'pdfページ挿入', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントの任意の位置に空のページを挿入します。既存のページの前、後、または間にカスタマイズ可能なページサイズでページを追加します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1100,8 +1100,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'reverse-pages': {
     title: 'ページ逆順',
-    metaDescription: 'PDFページ順序を逆に。ドキュメントページを最後から最初に反転。',
-    keywords: ['pdf逆順', 'ページ順序反転', 'ページ逆転', 'ドキュメント逆順'],
+    metaDescription: 'PDFページ順序を逆に。ドキュメントページを最後から最初に反転。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf逆順', 'ページ順序反転', 'ページ逆転', 'ドキュメント逆順', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメント内のページ順序を反転し、最後のページを最初に、最初のページを最後にします。逆順でスキャンされたドキュメントや特定の印刷ニーズに便利です。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1122,8 +1122,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'rotate-pdf': {
     title: 'PDF回転',
-    metaDescription: 'PDFページを回転。ページを90度、180度、または270度回転。',
-    keywords: ['pdf回転', 'pdfページ回転', 'pdf回転', '向き修正'],
+    metaDescription: 'PDFページを回転。ページを90度、180度、または270度回転。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf回転', 'pdfページ回転', 'pdf回転', '向き修正', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>ドキュメント内のページを90度、180度、または270度回転します。誤った向きのスキャンを修正したり、横向きページを回転したり、表示用にページの向きを調整したりします。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1144,8 +1144,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'n-up-pdf': {
     title: 'N-Up PDF',
-    metaDescription: '1枚に複数のPDFページを印刷。2-up、4-up、またはカスタムレイアウトを作成。',
-    keywords: ['n-up pdf', '1枚に複数ページ', '2-up印刷', 'ページ面付け'],
+    metaDescription: '1枚に複数のPDFページを印刷。2-up、4-up、またはカスタムレイアウトを作成。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['n-up pdf', '1枚に複数ページ', '2-up印刷', 'ページ面付け', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>複数のページを1枚のシートに配置し、2-up、4-up、6-up、9-up、またはカスタムレイアウトを作成します。印刷時の用紙節約や配布資料の作成に最適です。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1166,8 +1166,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'combine-single-page': {
     title: '単一ページに結合',
-    metaDescription: 'PDFページを1つの連続ページに結合。スクロール可能な単一ページドキュメントを作成。',
-    keywords: ['ページ結合', '単一ページpdf', 'ページ結合', '連続スクロール'],
+    metaDescription: 'PDFページを1つの連続ページに結合。スクロール可能な単一ページドキュメントを作成。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['ページ結合', '単一ページpdf', 'ページ結合', '連続スクロール', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>すべてのPDFページを1つの連続ページに結合します。ウェブ表示や連続読書に最適なスクロール可能なドキュメントを作成します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1188,8 +1188,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'view-metadata': {
     title: 'メタデータ表示',
-    metaDescription: 'PDFドキュメントプロパティを表示。作成者、タイトル、日付、その他のメタデータを確認。',
-    keywords: ['pdfメタデータ', 'ドキュメントプロパティ', 'pdf情報', 'pdf詳細表示'],
+    metaDescription: 'PDFドキュメントプロパティを表示。作成者、タイトル、日付、その他のメタデータを確認。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfメタデータ', 'ドキュメントプロパティ', 'pdf情報', 'pdf詳細表示', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFファイルからすべてのドキュメントプロパティとメタデータを表示します。作成者、タイトル、件名、キーワード、作成日、変更日などを確認できます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1210,8 +1210,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'edit-metadata': {
     title: 'メタデータ編集',
-    metaDescription: 'PDFドキュメントプロパティを編集。タイトル、作成者、件名、キーワードを変更。',
-    keywords: ['pdfメタデータ編集', 'pdfプロパティ変更', 'pdf作成者', 'ドキュメント情報'],
+    metaDescription: 'PDFドキュメントプロパティを編集。タイトル、作成者、件名、キーワードを変更。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfメタデータ編集', 'pdfプロパティ変更', 'pdf作成者', 'ドキュメント情報', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFファイル内のドキュメントプロパティを変更できます。タイトル、作成者、件名、キーワード、その他のメタデータフィールドを変更します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1232,8 +1232,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'pdf-to-zip': {
     title: 'PDFをZIPに',
-    metaDescription: '複数のPDFをZIPアーカイブにパッケージ。PDFファイルを圧縮してバンドル。',
-    keywords: ['pdfをzipに', 'pdf圧縮', 'pdfバンドル', 'pdfアーカイブ'],
+    metaDescription: '複数のPDFをZIPアーカイブにパッケージ。PDFファイルを圧縮してバンドル。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfをzipに', 'pdf圧縮', 'pdfバンドル', 'pdfアーカイブ', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>複数のPDFファイルを単一のZIPアーカイブにパッケージします。共有、保存、バックアップを容易にするためにPDFを圧縮してバンドルします。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: '複数のPDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1254,8 +1254,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'compare-pdfs': {
     title: 'PDF比較',
-    metaDescription: '2つのPDFドキュメントを比較。バージョン間の違いをハイライト。',
-    keywords: ['pdf比較', 'pdf差分', 'ドキュメント比較', 'バージョン比較'],
+    metaDescription: '2つのPDFドキュメントを比較。バージョン間の違いをハイライト。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf比較', 'pdf差分', 'ドキュメント比較', 'バージョン比較', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>2つのPDFドキュメントを分析し、それらの間の違いをハイライトします。ドキュメントの改訂をレビューしたり、契約の変更を確認したり、編集を検証したりするのに最適です。</p>',
     howToUse: [
       { step: 1, title: '2つのPDFをアップロード', description: '元のPDFと変更されたPDFドキュメントをアップロードします。' },
@@ -1276,8 +1276,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'posterize-pdf': {
     title: 'PDFポスター化',
-    metaDescription: '大きなPDFページを印刷可能なタイルに分割。PDFページからポスターを作成。',
-    keywords: ['pdfポスター化', 'pdfタイル', '大判印刷', 'pdfポスター'],
+    metaDescription: '大きなPDFページを印刷可能なタイルに分割。PDFページからポスターを作成。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfポスター化', 'pdfタイル', '大判印刷', 'pdfポスター', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>大きなPDFページを標準用紙に印刷してポスターに組み立てることができる小さなタイルに分割します。大きな図、地図、アートワークの印刷に最適です。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: '大判PDFをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1299,8 +1299,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   // ==================== OPTIMIZE & REPAIR ====================
   'fix-page-size': {
     title: 'ページサイズ修正',
-    metaDescription: 'PDFページサイズを標準化。すべてのページを均一な寸法に変換。',
-    keywords: ['ページサイズ修正', 'pdf標準化', '均一ページ', 'pdfページサイズ変更'],
+    metaDescription: 'PDFページサイズを標準化。すべてのページを均一な寸法に変換。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['ページサイズ修正', 'pdf標準化', '均一ページ', 'pdfページサイズ変更', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDF内のすべてのページを均一な寸法に標準化します。プロフェッショナルなプレゼンテーションや印刷のために、混合サイズのドキュメントを一貫したページサイズに変換します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1321,8 +1321,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'linearize-pdf': {
     title: 'PDF線形化',
-    metaDescription: '高速ウェブ表示用にPDFを最適化。プログレッシブ読み込みを有効化。',
-    keywords: ['pdf線形化', '高速ウェブ表示', 'pdf最適化', 'プログレッシブpdf'],
+    metaDescription: '高速ウェブ表示用にPDFを最適化。プログレッシブ読み込みを有効化。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf線形化', '高速ウェブ表示', 'pdf最適化', 'プログレッシブpdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>高速ウェブ表示用にドキュメントを最適化します。線形化されたPDFは、ファイル全体がダウンロードされる前に表示を開始でき、ユーザーエクスペリエンスを向上させます。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1343,8 +1343,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'page-dimensions': {
     title: 'ページ寸法',
-    metaDescription: 'PDFページサイズを分析。ドキュメント内のすべてのページの寸法を表示。',
-    keywords: ['pdfページサイズ', 'ページ寸法', 'pdf測定', 'ドキュメントサイズ'],
+    metaDescription: 'PDFページサイズを分析。ドキュメント内のすべてのページの寸法を表示。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfページサイズ', 'ページ寸法', 'pdf測定', 'ドキュメントサイズ', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメント内のすべてのページのサイズを分析して表示します。さまざまな単位（インチ、mm、ポイント）で寸法を表示し、非標準サイズのページを特定します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1365,8 +1365,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'remove-restrictions': {
     title: '制限削除',
-    metaDescription: 'PDF制限を削除。印刷、コピー、編集の権限をロック解除。',
-    keywords: ['pdf制限削除', 'pdfロック解除', 'pdf権限', 'pdf制限解除'],
+    metaDescription: 'PDF制限を削除。印刷、コピー、編集の権限をロック解除。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf制限削除', 'pdfロック解除', 'pdf権限', 'pdf制限解除', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>印刷、コピー、編集を防止する権限制限を持つPDFをロック解除します。このツールはドキュメントコンテンツを保持しながらオーナーパスワード制限を削除します。</p>',
     howToUse: [
       { step: 1, title: '制限付きPDFをアップロード', description: '制限付きPDFをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1387,8 +1387,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'repair-pdf': {
     title: 'PDF修復',
-    metaDescription: '破損したPDFファイルを修正。損傷したドキュメントを回復して修復。',
-    keywords: ['pdf修復', 'pdf修正', 'pdf回復', '破損pdf'],
+    metaDescription: '破損したPDFファイルを修正。損傷したドキュメントを回復して修復。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf修復', 'pdf修正', 'pdf回復', '破損pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>破損または損傷したPDFファイルの修正を試みます。ツールはドキュメント構造を分析し、できるだけ多くのコンテンツを回復するために再構築します。</p>',
     howToUse: [
       { step: 1, title: '損傷したPDFをアップロード', description: '破損したPDFをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1410,8 +1410,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   // ==================== SECURE PDF ====================
   'encrypt-pdf': {
     title: 'PDF暗号化',
-    metaDescription: 'PDFファイルをパスワード保護。暗号化を追加し、権限を設定。',
-    keywords: ['pdf暗号化', 'pdfパスワード保護', 'pdfセキュア', 'pdf暗号化'],
+    metaDescription: 'PDFファイルをパスワード保護。暗号化を追加し、権限を設定。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf暗号化', 'pdfパスワード保護', 'pdfセキュア', 'pdf暗号化', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントにパスワード保護と暗号化を追加します。開くことを防止するユーザーパスワードと、印刷やコピーなどの権限を制御するオーナーパスワードを設定します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1432,8 +1432,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'sanitize-pdf': {
     title: 'PDFサニタイズ',
-    metaDescription: 'PDFから隠しデータを削除。メタデータ、スクリプト、機密情報をクリーン。',
-    keywords: ['pdfサニタイズ', 'pdfクリーン', '隠しデータ削除', 'pdfプライバシー'],
+    metaDescription: 'PDFから隠しデータを削除。メタデータ、スクリプト、機密情報をクリーン。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfサニタイズ', 'pdfクリーン', '隠しデータ削除', 'pdfプライバシー', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>ドキュメントから隠しデータと潜在的に機密性の高い情報を削除します。メタデータ、埋め込みスクリプト、添付ファイル、コメント、その他の隠しコンテンツを削除します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1454,8 +1454,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'decrypt-pdf': {
     title: 'PDF復号化',
-    metaDescription: 'PDFファイルからパスワードを削除。パスワード保護されたドキュメントをロック解除。',
-    keywords: ['pdf復号化', 'pdfパスワード削除', 'pdfロック解除', 'pdfパスワードリムーバー'],
+    metaDescription: 'PDFファイルからパスワードを削除。パスワード保護されたドキュメントをロック解除。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf復号化', 'pdfパスワード削除', 'pdfロック解除', 'pdfパスワードリムーバー', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントからパスワード保護を削除します。現在のパスワードを入力してファイルをロック解除し、保護されていないコピーを作成します。</p>',
     howToUse: [
       { step: 1, title: '保護されたPDFをアップロード', description: 'パスワード保護されたPDFをドラッグ＆ドロップします。' },
@@ -1476,8 +1476,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'flatten-pdf': {
     title: 'PDFフラット化',
-    metaDescription: 'PDFフォームと注釈をフラット化。コンテンツを編集不可に。',
-    keywords: ['pdfフラット化', 'フォームフラット化', '注釈フラット化', '編集不可pdf'],
+    metaDescription: 'PDFフォームと注釈をフラット化。コンテンツを編集不可に。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfフラット化', 'フォームフラット化', '注釈フラット化', '編集不可pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>フォームフィールドや注釈などのインタラクティブ要素を静的コンテンツに変換します。フラット化されたPDFは同じように見えますが、編集できなくなります。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'フォームまたは注釈を含むPDFをドラッグ＆ドロップします。' },
@@ -1498,8 +1498,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'remove-metadata': {
     title: 'メタデータ削除',
-    metaDescription: 'PDFファイルからメタデータを削除。作成者、日付、ドキュメントプロパティを削除。',
-    keywords: ['pdfメタデータ削除', 'メタデータ削除', 'pdfプライバシー', '匿名pdf'],
+    metaDescription: 'PDFファイルからメタデータを削除。作成者、日付、ドキュメントプロパティを削除。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfメタデータ削除', 'メタデータ削除', 'pdfプライバシー', '匿名pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFファイルからすべてのドキュメントプロパティとメタデータを削除します。作成者名、作成日、ソフトウェア情報、その他の識別データを削除します。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1520,8 +1520,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'change-permissions': {
     title: '権限変更',
-    metaDescription: 'PDF権限を変更。印刷、コピー、編集アクセスを制御。',
-    keywords: ['pdf権限', 'pdfアクセス変更', 'pdf制限', 'pdfセキュリティ'],
+    metaDescription: 'PDF権限を変更。印刷、コピー、編集アクセスを制御。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf権限', 'pdfアクセス変更', 'pdf制限', 'pdfセキュリティ', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFドキュメントのアクセス制御を変更します。印刷、コピー、編集、注釈の権限を有効または無効にします。</p>',
     howToUse: [
       { step: 1, title: 'PDFをアップロード', description: 'PDFファイルをドラッグ＆ドロップするか、クリックして選択します。' },
@@ -1540,8 +1540,8 @@ export const toolContentJa: Record<string, ToolContent> = {
     ],
   }, 'pdf-to-docx': {
     title: 'PDFからWord',
-    metaDescription: 'PDFを編集可能なWord（DOCX）ドキュメントに変換。フォーマットとレイアウトを最大限に保持。',
-    keywords: ['pdf word 変換', 'pdf docx 変換', 'pdf 編集可能', 'pdf ワード 変換'],
+    metaDescription: 'PDFを編集可能なWord（DOCX）ドキュメントに変換。フォーマットとレイアウトを最大限に保持。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf word 変換', 'pdf docx 変換', 'pdf 編集可能', 'pdf ワード 変換', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDFドキュメントを完全に編集可能なMicrosoft Word（DOCX）ファイルに変換します。このツールは、元のレイアウト、フォント、画像、テキストのフローを可能な限り正確に保持します。</p>
       <p>再入力の手間を省き、Wordで簡単にPDFコンテンツを編集できます。契約書、レポート、履歴書の修正に最適です。</p>
@@ -1566,8 +1566,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'rotate-custom': {
     title: 'カスタム角度で回転',
-    metaDescription: 'PDFページを任意の角度で回転。スキャンしたドキュメントの傾き補正に最適な精密回転。',
-    keywords: ['pdf 回転 角度指定', 'pdf 傾き補正', 'pdf デスキュー', 'pdf 精密回転'],
+    metaDescription: 'PDFページを任意の角度で回転。スキャンしたドキュメントの傾き補正に最適な精密回転。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf 回転 角度指定', 'pdf 傾き補正', 'pdf デスキュー', 'pdf 精密回転', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>「カスタム角度で回転」は、PDFページの向きを細かく制御できるツールです。90度単位の標準的な回転とは異なり、任意の角度を入力して回転させることができます。</p>
       <p>スキャナーで斜めに読み取られたドキュメントの補正や、図面やチャートの微調整に最適です。特定のページのみ、またはドキュメント全体に適用できます。</p>
@@ -1592,8 +1592,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'grid-combine': {
     title: 'グリッド結合 PDF',
-    metaDescription: '複数のPDFファイルを柔軟なグリッドレイアウトで単一ページに結合します。1ページに2、4、6、9、またはそれ以上のPDFを境界線と間隔付きで配置します。',
-    keywords: ['グリッド結合', 'PDFグリッド結合', 'PDFコラージュ', '複数PDFを1ページに', 'PDF N-up', 'PDFグリッド'],
+    metaDescription: '複数のPDFファイルを柔軟なグリッドレイアウトで単一ページに結合します。1ページに2、4、6、9、またはそれ以上のPDFを境界線と間隔付きで配置します。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['グリッド結合', 'PDFグリッド結合', 'PDFコラージュ', '複数PDFを1ページに', 'PDF N-up', 'PDFグリッド', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>グリッド結合ツールは、複数の個別のPDFファイルを単一ページに結合するユニークな方法を提供します。ページを単純に追加する標準の「PDF結合」ツールや、単一のドキュメントからページを再配置する「N-Up」ツールとは異なり、グリッド結合は複数の入力ファイルを受け取り、カスタマイズ可能なグリッドレイアウトで並べて配置します。</p>
       <p>2x1、2x2、3x3などのさまざまなグリッド構成から選択できます。これは、複数のドキュメントを比較したり、異なるソースからの配布資料を作成したり、複数のファイルのコンパクト版を印刷したりするのに最適です。</p>
@@ -1622,8 +1622,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'remove-metadata-full': {
     title: 'メタデータの完全削除',
-    metaDescription: 'PDFファイルからすべてのメタデータとプロパティをストリップ。匿名性を高めるためのクリーンアップ。',
-    keywords: ['pdf メタデータ 削除', 'pdf プロパティ 消去', 'pdf 匿名化', 'pdf プライバシー'],
+    metaDescription: 'PDFファイルからすべてのメタデータとプロパティをストリップ。匿名性を高めるためのクリーンアップ。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf メタデータ 削除', 'pdf プロパティ 消去', 'pdf 匿名化', 'pdf プライバシー', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDFファイルに隠されている作成者、作成ソフト、作成日時などの情報をすべて削除します。外部へ公開する資料から内部情報を消去する際に非常に重要です。</p>
     `,
@@ -1646,8 +1646,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'psd-to-pdf': {
     title: 'PSDをPDFに変換',
-    metaDescription: 'PhotoshopのPSDファイルをPDFに変換します。レイヤーが統合された高品質なPDFを作成。',
-    keywords: ['psd pdf 変換', 'photoshop pdf 変換', 'psd 閲覧', 'psd 変換 フリー'],
+    metaDescription: 'PhotoshopのPSDファイルをPDFに変換します。レイヤーが統合された高品質なPDFを作成。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['psd pdf 変換', 'photoshop pdf 変換', 'psd 閲覧', 'psd 変換 フリー', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PSDをPDFに変換ツールは、Adobe Photoshopファイルを高品質なPDFドキュメントに変換します。デザインの確認用や印刷用として、PSDを汎用性の高いPDF形式に素早く出力できます。</p>
       <p>Photoshopを持っていない人でもデザインを確認できるようになり、配布や共有が容易になります。</p>
@@ -1671,8 +1671,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'excel-to-pdf': {
     title: 'ExcelをPDFに変換',
-    metaDescription: 'Excelスプレッドシート（XLSX）をPDFに変換します。表やグラフを綺麗に保存。',
-    keywords: ['excel pdf 変換', 'xlsx pdf 変換', 'エクセル pdf 保存', 'excel pdf 変換 フリー'],
+    metaDescription: 'Excelスプレッドシート（XLSX）をPDFに変換します。表やグラフを綺麗に保存。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['excel pdf 変換', 'xlsx pdf 変換', 'エクセル pdf 保存', 'excel pdf 変換 フリー', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>ExcelをPDFに変換ツールは、Microsoft Excelファイルを読みやすいPDF形式に変換します。セルの書式、グラフ、数式の結果をそのまま固定されたレイアウトで出力します。</p>
       <p>請求書、名簿、集計結果など、改ざんを防ぎたい書類の配布に最適です。</p>
@@ -1695,8 +1695,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'pptx-to-pdf': {
     title: 'PowerPointをPDFに変換',
-    metaDescription: 'PowerPointプレゼンテーション（PPTX）をPDFに変換します。スライドの見た目を維持。',
-    keywords: ['pptx pdf 変換', 'powerpoint pdf 変換', 'パワポ pdf 保存'],
+    metaDescription: 'PowerPointプレゼンテーション（PPTX）をPDFに変換します。スライドの見た目を維持。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pptx pdf 変換', 'powerpoint pdf 変換', 'パワポ pdf 保存', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PowerPointをPDFに変換ツールは、PPTXスライドを汎用的なPDF形式に変換します。フォントの置き換えによる崩れを防ぎ、どのデバイスでも意図した通りに表示されるようになります。</p>
     `,
@@ -1718,8 +1718,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'word-to-pdf': {
     title: 'WordをPDFに変換',
-    metaDescription: 'Word文書（DOCX）をPDFに迅速かつ正確に変換します。',
-    keywords: ['word pdf 変換', 'docx pdf 変換', 'ワード pdf 保存'],
+    metaDescription: 'Word文書（DOCX）をPDFに迅速かつ正確に変換します。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['word pdf 変換', 'docx pdf 変換', 'ワード pdf 保存', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>WordをPDFに変換ツールは、Microsoft Wordドキュメントを読み取り専用のPDF形式に変換します。公式な書類、課題、電子書籍の作成に最適です。</p>
     `,
@@ -1738,8 +1738,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'xps-to-pdf': {
     title: 'XPSをPDFに変換',
-    metaDescription: 'Microsoft XPSドキュメントをPDFに変換します。',
-    keywords: ['xps pdf 変換', 'oxps pdf 変換'],
+    metaDescription: 'Microsoft XPSドキュメントをPDFに変換します。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['xps pdf 変換', 'oxps pdf 変換', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>XPSファイルをより一般的なPDF形式に変換し、閲覧しやすくします。</p>`,
     howToUse: [
       { step: 1, title: 'アップロード', description: 'XPSファイルをアップロードします。' },
@@ -1754,8 +1754,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'rtf-to-pdf': {
     title: 'RTFをPDFに変換',
-    metaDescription: 'リッチテキスト（RTF）をPDFに変換します。',
-    keywords: ['rtf pdf 変換'],
+    metaDescription: 'リッチテキスト（RTF）をPDFに変換します。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['rtf pdf 変換', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>RTFファイルをPDFに変換し、どのデバイスでも同じように表示できるようにします。</p>`,
     howToUse: [
       { step: 1, title: 'アップロード', description: 'RTFファイルをアップロードします。' },
@@ -1770,8 +1770,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'epub-to-pdf': {
     title: 'EPUBをPDFに変換',
-    metaDescription: '電子書籍（EPUB）をPDFに変換します。印刷や注釈付けに便利。',
-    keywords: ['epub pdf 変換', '電子書籍 変換'],
+    metaDescription: '電子書籍（EPUB）をPDFに変換します。印刷や注釈付けに便利。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['epub pdf 変換', '電子書籍 変換', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>EPUB形式の電子書籍を、レイアウトを固定したPDFに変換します。これにより、PDF対応のリーダーで注釈を付けたり、印刷したりすることが可能になります。</p>`,
     howToUse: [
       { step: 1, title: 'アップロード', description: 'EPUBファイルをアップロードします。' },
@@ -1787,8 +1787,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'mobi-to-pdf': {
     title: 'MOBIをPDFに変換',
-    metaDescription: 'Kindle形式（MOBI/AZW）をPDFに変換します。',
-    keywords: ['mobi pdf 変換', 'kindle pdf 変換'],
+    metaDescription: 'Kindle形式（MOBI/AZW）をPDFに変換します。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['mobi pdf 変換', 'kindle pdf 変換', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>MOBIまたはAZW形式のKindle本をPDFに変換して、他のデバイスで読めるようにします。</p>`,
     howToUse: [
       { step: 1, title: 'アップロード', description: 'MOBIファイルをアップロードします。' },
@@ -1804,8 +1804,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'djvu-to-pdf': {
     title: 'DJVUをPDFに変換',
-    metaDescription: 'DJVU文書ファイルをPDFに変換。スキャン文書と書籍の高品質レンダリング。',
-    keywords: ['djvu pdf 変換', 'djvu 変換', 'djvu変換器', 'djvu pdf', 'djv pdf'],
+    metaDescription: 'DJVU文書ファイルをPDFに変換。スキャン文書と書籍の高品質レンダリング。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['djvu pdf 変換', 'djvu 変換', 'djvu変換器', 'djvu pdf', 'djv pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>DJVUをPDFに変換は、DjVu文書ファイルを高品質なPDF文書に変換します。DjVuは、主にスキャン文書、特にテキスト、線画、写真の組み合わせを含む文書を保存するために設計されたコンピュータファイル形式です。</p>
       <p>このツールは、選択したDPI（インチあたりのドット数）でDJVUファイルの各ページをレンダリングし、それらを検索可能なPDF文書に結合します。スキャンした書籍、技術マニュアル、アーカイブ文書の変換に最適です。</p>
@@ -1830,8 +1830,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'fb2-to-pdf': {
     title: 'FB2をPDFに変換',
-    metaDescription: 'FictionBook (FB2)電子書籍をPDFに変換。複数ファイルの高品質レンダリングをサポート。',
-    keywords: ['fb2 pdf 変換', 'fb2 変換', 'fictionbook pdf', 'fb2変換器', 'fb2.zip pdf'],
+    metaDescription: 'FictionBook (FB2)電子書籍をPDFに変換。複数ファイルの高品質レンダリングをサポート。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['fb2 pdf 変換', 'fb2 変換', 'fictionbook pdf', 'fb2変換器', 'fb2.zip pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>FB2をPDFに変換は、FictionBook (FB2)電子書籍ファイルを高品質なPDF文書に変換します。FB2は、ロシアと東ヨーロッパで広く使用されている人気のXMLベースの電子書籍形式です。</p>
       <p>このツールは.fb2と.fb2.zipファイルの両方をサポートし、一度に複数のファイルを処理できます。電子書籍のテキスト書式、画像、章構造を保持します。</p>
@@ -1855,8 +1855,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'pdf-to-excel': {
     title: 'PDFをExcelに変換',
-    metaDescription: 'PDFの表を編集可能なExcel（XLSX）に変換。',
-    keywords: ['pdf excel 変換', 'pdf 表 抽出'],
+    metaDescription: 'PDFの表を編集可能なExcel（XLSX）に変換。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf excel 変換', 'pdf 表 抽出', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF内の表を検出し、その構造を維持したままExcelファイルに出力します。</p>`,
     howToUse: [
       { step: 1, title: 'アップロード', description: 'PDFをアップロードします。' },
@@ -1871,8 +1871,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'pdf-to-pptx': {
     title: 'PDFをPowerPointに変換',
-    metaDescription: 'PDFを編集可能なPowerPointスライドに変換。',
-    keywords: ['pdf powerpoint 変換', 'pdf pptx 変換'],
+    metaDescription: 'PDFを編集可能なPowerPointスライドに変換。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf powerpoint 変換', 'pdf pptx 変換', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDFの各ページをPowerPointのスライドに変換し、図形やテキストを編集可能な状態で出力します。</p>`,
     howToUse: [
       { step: 1, title: 'アップロード', description: 'PDFをアップロードします。' },
@@ -1887,8 +1887,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'pdf-to-svg': {
     title: 'PDFをSVGに変換',
-    metaDescription: 'PDFのページをベクター画像（SVG）に変換。',
-    keywords: ['pdf svg 変換', 'ベクター 変換'],
+    metaDescription: 'PDFのページをベクター画像（SVG）に変換。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf svg 変換', 'ベクター 変換', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDFを高品質なベクター画像形式であるSVGに変換します。拡大してもぼやけないため、Web素材やロゴの抽出に最適です。</p>`,
     howToUse: [
       { step: 1, title: 'アップロード', description: 'PDFをアップロードします。' },
@@ -1903,8 +1903,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'extract-images': {
     title: 'PDFから画像を抽出',
-    metaDescription: 'PDF内の全画像を高品質で抽出・保存。一括ダウンロード可能。',
-    keywords: ['pdf 画像 抽出', 'pdf 画像 保存', 'pdf 写真 取り出し'],
+    metaDescription: 'PDF内の全画像を高品質で抽出・保存。一括ダウンロード可能。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf 画像 抽出', 'pdf 画像 保存', 'pdf 写真 取り出し', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF内の画像を自動検出し、個別の画像ファイルとして取り出します。高解像度の写真をそのままの品質で抽出できます。</p>
     `,
@@ -1923,8 +1923,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'email-to-pdf': {
     title: 'メールをPDFに変換',
-    metaDescription: 'メールファイル（.eml、.msg）をPDF文書に変換。書式、インライン画像、クリック可能なリンク、添付ファイルを保持。',
-    keywords: ['メール pdf 変換', 'eml pdf', 'msg pdf', 'メール変換', 'outlook pdf'],
+    metaDescription: 'メールファイル（.eml、.msg）をPDF文書に変換。書式、インライン画像、クリック可能なリンク、添付ファイルを保持。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['メール pdf 変換', 'eml pdf', 'msg pdf', 'メール変換', 'outlook pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>メールをPDFに変換は、メールファイル（.emlおよび.msg形式）を適切にフォーマットされたPDF文書に変換します。このツールは、メールヘッダー情報、本文、CID置換によるインライン画像、クリック可能なリンクを保持し、添付ファイルを直接PDFに埋め込みます。</p>
       <p>ページサイズ（A4、Letter、Legal）、タイムゾーンサポート付きの日付形式、CC/BCCフィールドと添付ファイル情報を含めるかどうかなど、出力オプションをカスタマイズできます。</p>
@@ -1951,8 +1951,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'cbz-to-pdf': {
     title: 'CBZをPDFに変換',
-    metaDescription: 'コミックブックアーカイブ（CBZ）をPDFに変換。デジタルコミックの画像順序と品質を保持。',
-    keywords: ['cbz pdf 変換', 'コミック pdf', 'cbz 変換', 'コミックブック変換', 'cbz変換器'],
+    metaDescription: 'コミックブックアーカイブ（CBZ）をPDFに変換。デジタルコミックの画像順序と品質を保持。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['cbz pdf 変換', 'コミック pdf', 'cbz 変換', 'コミックブック変換', 'cbz変換器', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>CBZをPDFに変換は、コミックブックアーカイブファイルをPDF文書に変換します。このツールはCBZアーカイブからすべての画像を抽出し、正しい読み順を維持しながらPDFにコンパイルします。</p>
       <p>元の画像サイズや標準化されたコミックブックサイズなど、さまざまなページサイズオプションから選択できます。PDFをサポートするがCBZをサポートしないデバイスでコミックを読むのに最適です。</p>
@@ -1977,8 +1977,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'pdf-booklet': {
     title: 'PDF小冊子作成',
-    metaDescription: '印刷用のPDFから小冊子レイアウトを作成。複数のグリッドオプションで中綴じ製本用にページを配置。',
-    keywords: ['pdf 小冊子', '小冊子作成', '小冊子印刷', '中綴じ', '面付け'],
+    metaDescription: '印刷用のPDFから小冊子レイアウトを作成。複数のグリッドオプションで中綴じ製本用にページを配置。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf 小冊子', '小冊子作成', '小冊子印刷', '中綴じ', '面付け', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF小冊子作成は、PDFページを印刷して折りたたむ準備ができた小冊子レイアウトに配置します。パンフレット、ジン、小冊子、中綴じ製本出版物の作成に最適です。</p>
       <p>さまざまなグリッドモード（1x2、2x2、2x4、4x4）、用紙サイズ、向きオプションから選択できます。ツールは適切な折りたたみ順序のためのページ面付けを自動的に処理します。</p>
@@ -2003,8 +2003,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'rasterize-pdf': {
     title: 'PDFをラスタライズ',
-    metaDescription: 'PDFページを高品質画像に変換。カスタムDPI設定でPNG、JPEG、またはWebPとしてエクスポート。',
-    keywords: ['pdf ラスタライズ', 'pdf 画像変換', 'pdf png', 'pdf jpeg', 'pdfページ変換'],
+    metaDescription: 'PDFページを高品質画像に変換。カスタムDPI設定でPNG、JPEG、またはWebPとしてエクスポート。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf ラスタライズ', 'pdf 画像変換', 'pdf png', 'pdf jpeg', 'pdfページ変換', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDFをラスタライズは、PDFページを高品質のラスター画像に変換します。DPIと品質設定を完全に制御しながら、PNG、JPEG、またはWebP出力形式から選択できます。</p>
       <p>サムネイルの作成、ソーシャルメディアグラフィックス、またはPDFコンテンツを画像としてアーカイブするのに最適です。ページ範囲選択とバッチ処理をサポートします。</p>
@@ -2029,8 +2029,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'markdown-to-pdf': {
     title: 'MarkdownをPDFに変換',
-    metaDescription: 'Markdownファイルを美しくフォーマットされたPDF文書に変換。GitHub Flavored Markdownと構文ハイライトをサポート。',
-    keywords: ['markdown pdf 変換', 'md pdf', 'markdown 変換', 'gfm pdf', 'markdown変換器'],
+    metaDescription: 'Markdownファイルを美しくフォーマットされたPDF文書に変換。GitHub Flavored Markdownと構文ハイライトをサポート。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['markdown pdf 変換', 'md pdf', 'markdown 変換', 'gfm pdf', 'markdown変換器', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>MarkdownをPDFに変換は、Markdownファイルをプロフェッショナルにスタイル化されたPDF文書に変換します。テーブル、タスクリスト、コードブロックを含むCommonMarkとGitHub Flavored Markdown（GFM）をサポートします。</p>
       <p>複数のテーマ（ライト、ダーク、GitHub）から選択し、ページサイズと余白をカスタマイズできます。コードブロックは読みやすさを向上させるために構文ハイライトされます。</p>
@@ -2055,8 +2055,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'font-to-outline': {
     title: 'フォントをアウトライン化',
-    metaDescription: 'ページを高品質画像に変換してPDF文書からフォント依存を削除。すべてのシステムでの互換性を確保。',
-    keywords: ['フォント アウトライン', 'アウトライン フォント', 'フォント削除', 'フォント互換性', 'pdfフォント平坦化', 'pdfフォント削除'],
+    metaDescription: 'ページを高品質画像に変換してPDF文書からフォント依存を削除。すべてのシステムでの互換性を確保。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['フォント アウトライン', 'アウトライン フォント', 'フォント削除', 'フォント互換性', 'pdfフォント平坦化', 'pdfフォント削除', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>フォントをアウトライン化は、各ページを高品質のラスタライズされたコンテンツに変換することで、PDFからすべてのフォント依存を削除します。これにより、元のフォントがインストールされていなくても、文書がどのシステムでも全く同じに見えることが保証されます。</p>
       <p>ツールは選択したDPI（150-600）で各ページをレンダリングし、正確な視覚的外観を保持しながら埋め込まれたフォントを削除します。オプションで、検索可能性を維持するために不可視のテキストレイヤーを追加できます。</p>
@@ -2084,8 +2084,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'deskew-pdf': {
     title: 'PDFの傾き補正',
-    metaDescription: 'スキャンまたは傾いたPDFページを自動的にまっすぐに。精密な角度検出で傾いた文書を修正。',
-    keywords: ['pdf傾き補正', 'pdfまっすぐ', '傾きスキャン修正', '自動pdf回転', 'pdf角度補正'],
+    metaDescription: 'スキャンまたは傾いたPDFページを自動的にまっすぐに。精密な角度検出で傾いた文書を修正。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf傾き補正', 'pdfまっすぐ', '傾きスキャン修正', '自動pdf回転', 'pdf角度補正', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDFの傾き補正は、高度な投影プロファイル分散分析を使用してPDF文書内の傾いたまたは歪んだページを自動的に検出して補正します。これは、スキャナーに一定の角度で送り込まれたスキャン文書に不可欠です。</p>
       <p>ツールは、異なる角度でのテキストとコンテンツの配置を分析して最適な回転を見つけ、その後補正を適用します。より良い検出のために感度しきい値（1-30）とDPI設定（72-300）を調整できます。</p>
@@ -2112,8 +2112,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'pdf-to-pdfa': {
     title: 'PDFをPDF/Aに変換',
-    metaDescription: 'PDFをPDF/Aアーカイブ形式に変換。ISO標準で長期文書保存を確保。',
-    keywords: ['pdf pdfa 変換', 'pdfa変換器', 'pdfアーカイブ', 'pdf長期保存', '長期保存'],
+    metaDescription: 'PDFをPDF/Aアーカイブ形式に変換。ISO標準で長期文書保存を確保。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf pdfa 変換', 'pdfa変換器', 'pdfアーカイブ', 'pdf長期保存', '長期保存', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDFをPDF/Aに変換は、PDF文書をPDF/A形式に変換します。PDF/Aは、長期文書アーカイブのためのISO標準です。PDF/Aは、文書が数十年間表示可能で再現可能であることを保証します。</p>
       <p>PDF/A-1b（基本準拠）、PDF/A-2b（推奨、透明度をサポート）、またはPDF/A-3b（埋め込みファイルを許可）から選択できます。ツールは必要に応じてフォントを埋め込み、透明度を平坦化します。</p>
@@ -2137,8 +2137,8 @@ export const toolContentJa: Record<string, ToolContent> = {
   },
   'extract-tables': {
     title: 'PDFから表を抽出',
-    metaDescription: 'PDF文書から表を検出して抽出。JSON、Markdown、またはCSV形式にエクスポート。',
-    keywords: ['表抽出', 'pdf表抽出', 'pdf csv', 'pdf excel', '表検出'],
+    metaDescription: 'PDF文書から表を検出して抽出。JSON、Markdown、またはCSV形式にエクスポート。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['表抽出', 'pdf表抽出', 'pdf csv', 'pdf excel', '表検出', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDFから表を抽出は、PDF文書内の表データを検出し、構造化された形式でエクスポートします。データ統合にはJSON、ドキュメントにはMarkdown、スプレッドシートにはCSVを選択します。</p>
       <p>ツールは、複雑な文書でも表構造を識別するためにインテリジェントな検出アルゴリズムを使用します。最適な結果を得るためにページ範囲を指定し、検出パラメータを調整します。</p>
@@ -2163,8 +2163,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'digital-sign-pdf': {
     title: 'デジタル署名',
-    metaDescription: 'PDF文書にX.509デジタル署名を追加。PFX、P12、またはPEM証明書でPDFに署名し、法的効力を持たせます。',
-    keywords: ['pdfデジタル署名', 'x509証明書', 'pfx署名', 'p12署名', 'pem署名', '電子署名'],
+    metaDescription: 'PDF文書にX.509デジタル署名を追加。PFX、P12、またはPEM証明書でPDFに署名し、法的効力を持たせます。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdfデジタル署名', 'x509証明書', 'pfx署名', 'p12署名', 'pem署名', '電子署名', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>デジタル署名ツールを使用すると、PDF文書に暗号化されたX.509デジタル署名を追加できます。単純な手書き署名とは異なり、デジタル署名は法的効力と文書の完全性検証を提供します。</p>
       <p>証明書ファイル（PFX、P12、またはPEM形式）をアップロードし、パスワードを入力してPDFに署名します。カスタムテキスト、画像、位置を持つ可視署名、または文書の完全性のみの不可視署名を追加できます。</p>
@@ -2190,8 +2190,8 @@ export const toolContentJa: Record<string, ToolContent> = {
 
   'validate-signature': {
     title: '署名を検証',
-    metaDescription: 'PDF文書のデジタル署名を検証。証明書の有効性、署名者情報、文書の完全性を確認。',
-    keywords: ['pdf署名検証', 'デジタル署名検証', 'pdf証明書確認', '署名検証'],
+    metaDescription: 'PDF文書のデジタル署名を検証。証明書の有効性、署名者情報、文書の完全性を確認。. 登録不要。100%無料。今すぐお試しください！',
+    keywords: ['pdf署名検証', 'デジタル署名検証', 'pdf証明書確認', '署名検証', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>署名を検証ツールを使用すると、PDF文書のデジタル署名を検証できます。署名が有効かどうかを確認し、証明書情報を表示し、文書の完全性を確認します。</p>
       <p>署名済みPDFをアップロードして、すべての署名、その有効性ステータス、署名者情報、および署名後に文書が変更されたかどうかを確認します。</p>

@@ -16,7 +16,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-multi-tool': {
     title: 'Strumento PDF multifunzione',
     metaDescription: 'Editor PDF tutto-in-uno: unisci, dividi, organizza, elimina, ruota ed estrai pagine in un unico potente strumento.',
-    keywords: ['pdf multifunzione', 'editor pdf', 'unisci pdf', 'dividi pdf', 'organizza pdf', 'pdf tutto in uno'],
+    keywords: ['pdf multifunzione', 'editor pdf', 'unisci pdf', 'dividi pdf', 'organizza pdf', 'pdf tutto in uno', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Lo Strumento PDF multifunzione è la tua soluzione completa per tutte le attività di gestione delle pagine PDF. Questo potente strumento tutto‑in‑uno combina più operazioni PDF in un'unica interfaccia intuitiva, facendoti risparmiare tempo e fatica.</p>
       <p>Che tu debba unire più documenti, dividere un PDF grande in file più piccoli, riorganizzare le pagine, eliminare contenuti indesiderati, ruotare le pagine o estrarre sezioni specifiche, questo strumento gestisce tutto senza passare tra applicazioni diverse.</p>
@@ -43,7 +43,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'merge-pdf': {
     title: 'Unisci PDF',
     metaDescription: 'Combina più file PDF in un unico documento. Unione PDF online gratuita con riordinamento tramite drag‑and‑drop.',
-    keywords: ['unisci pdf', 'combina pdf', 'unire pdf', 'unione pdf', 'concatena pdf'],
+    keywords: ['unisci pdf', 'combina pdf', 'unire pdf', 'unione pdf', 'concatena pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Unisci PDF ti consente di combinare rapidamente e facilmente più documenti PDF in un unico file. Che tu stia consolidando report, unendo documenti scansionati o assemblando una presentazione, questo strumento rende il processo fluido.</p>
       <p>Carica i file, disponili nell’ordine desiderato tramite drag‑and‑drop e uniscili in un unico documento coerente. Il tool preserva la qualità dei file originali e può opzionalmente mantenere i segnalibri di ciascun documento sorgente.</p>
@@ -69,7 +69,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'rotate-custom': {
     title: 'Ruota con gradi personalizzati',
     metaDescription: 'Ruota le pagine PDF con qualsiasi angolo. Rotazione personalizzata precisa per raddrizzare documenti scansionati.',
-    keywords: ['ruota pdf angolo personalizzato', 'raddrizza pdf', 'correggi inclinazione pdf', 'rotazione pdf personalizzata'],
+    keywords: ['ruota pdf angolo personalizzato', 'raddrizza pdf', 'correggi inclinazione pdf', 'rotazione pdf personalizzata', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>La rotazione con gradi personalizzati ti offre un controllo preciso sull’orientamento delle pagine PDF. A differenza degli strumenti standard che supportano solo incrementi di 90°, questo tool consente di ruotare le pagine con qualsiasi angolo specifico.</p>
       <p>È perfetto per raddrizzare documenti scansionati leggermente inclinati o per regolare diagrammi e grafici alla corretta orientazione. Puoi correggere singole pagine oppure applicare la stessa rotazione all’intero documento.</p>
@@ -96,7 +96,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'grid-combine': {
     title: 'Combina PDF in griglia',
     metaDescription: 'Combina più file PDF su pagine singole con un layout a griglia flessibile. Disponi 2, 4, 6, 9 o più PDF per pagina con bordi e spaziatura.',
-    keywords: ['griglia pdf', 'unisci pdf in griglia', 'collage pdf', 'più pdf su una pagina', 'pdf n-up', 'combina pdf in griglia'],
+    keywords: ['griglia pdf', 'unisci pdf in griglia', 'collage pdf', 'più pdf su una pagina', 'pdf n-up', 'combina pdf in griglia', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Lo strumento “Combina in griglia” offre un modo unico per unire più file PDF distinti su pagine singole. Diversamente da “Unisci PDF”, che accoda le pagine, o da “N‑Up”, che riorganizza le pagine di un singolo documento, la griglia prende più file in input e li dispone affiancati in un layout personalizzabile.</p>
       <p>Puoi scegliere tra diverse configurazioni di griglia, come 2×1, 2×2, 3×3, ecc. È ideale per confrontare più documenti, creare dispense da fonti diverse o stampare versioni compatte di vari file.</p>
@@ -123,7 +123,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'split-pdf': {
     title: 'Dividi PDF',
     metaDescription: 'Dividi i file PDF in più documenti. Estrai pagine specifiche o suddividi per intervalli di pagine.',
-    keywords: ['dividi pdf', 'separa pdf', 'estrai pagine', 'divisione pdf'],
+    keywords: ['dividi pdf', 'separa pdf', 'estrai pagine', 'divisione pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Dividi PDF consente di suddividere un singolo documento PDF in più file più piccoli. È ideale per estrarre capitoli specifici, separare documenti combinati o creare file individuali da un PDF multipagina.</p>
       <p>Puoi dividere per intervalli di pagine, estrarre pagine singole o suddividere il documento a intervalli regolari. Il tool offre un’anteprima visiva delle pagine, rendendo facile selezionare esattamente ciò che ti serve.</p>
@@ -150,7 +150,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'compress-pdf': {
     title: 'Comprimi PDF',
     metaDescription: 'Riduci la dimensione dei file PDF mantenendo una qualità accettabile. Compressione PDF online gratuita per file più leggeri.',
-    keywords: ['comprimi pdf', 'riduci dimensione pdf', 'compressore pdf', 'riduci pdf', 'ottimizza pdf'],
+    keywords: ['comprimi pdf', 'riduci dimensione pdf', 'compressore pdf', 'riduci pdf', 'ottimizza pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Comprimi PDF riduce la dimensione dei tuoi documenti PDF mantenendo una qualità accettabile. È fondamentale per allegati email, caricamenti web o risparmio di spazio di archiviazione.</p>
       <p>Il tool offre più livelli di compressione per bilanciare riduzione della dimensione e preservazione della qualità. Puoi scegliere una compressione aggressiva per la massima riduzione o leggera per mantenere maggiore qualità.</p>
@@ -176,7 +176,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'edit-pdf': {
     title: 'Modifica PDF',
     metaDescription: 'Modifica i file PDF online. Aggiungi testo, immagini, annotazioni, evidenziazioni e forme ai tuoi documenti.',
-    keywords: ['modifica pdf', 'editor pdf', 'annota pdf', 'aggiungi testo a pdf', 'markup pdf'],
+    keywords: ['modifica pdf', 'editor pdf', 'annota pdf', 'aggiungi testo a pdf', 'markup pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Modifica PDF offre un set completo di strumenti per modificare e annotare i tuoi documenti PDF. Aggiungi testo, immagini, forme, evidenziazioni, commenti e altro senza software desktop costosi.</p>
       <p>L’interfaccia intuitiva rende facile contrassegnare i documenti per la revisione, aggiungere note per la collaborazione, oscurare informazioni sensibili o arricchire i documenti con contenuti aggiuntivi.</p>
@@ -203,7 +203,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'jpg-to-pdf': {
     title: 'JPG in PDF',
     metaDescription: 'Converti immagini JPG in PDF. Combina più file JPG in un unico documento PDF.',
-    keywords: ['jpg in pdf', 'jpeg in pdf', 'converti jpg', 'immagine in pdf', 'foto in pdf'],
+    keywords: ['jpg in pdf', 'jpeg in pdf', 'converti jpg', 'immagine in pdf', 'foto in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>JPG in PDF converte rapidamente e facilmente le tue immagini JPEG in documenti PDF. Che si tratti di una singola foto o di più immagini, questo tool crea PDF dall’aspetto professionale.</p>
       <p>Puoi combinare più file JPG in un unico PDF, ordinarli in qualsiasi ordine e personalizzare dimensione e orientamento della pagina. La conversione preserva la qualità delle immagini creando PDF compatti e condivisibili.</p>
@@ -229,7 +229,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'sign-pdf': {
     title: 'Firma PDF',
     metaDescription: 'Aggiungi firme elettroniche ai documenti PDF. Disegna, digita o carica la tua firma.',
-    keywords: ['firma pdf', 'firma elettronica', 'e-signature', 'firma digitale', 'firma documento pdf'],
+    keywords: ['firma pdf', 'firma elettronica', 'e-signature', 'firma digitale', 'firma documento pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Firma PDF ti consente di aggiungere firme elettroniche ai tuoi documenti PDF in modo rapido e sicuro. Crea la tua firma disegnandola, digitando il nome o caricando un’immagine, quindi posizionala dove preferisci.</p>
       <p>Puoi aggiungere più firme allo stesso documento, ridimensionarle e posizionarle con precisione, e salvare la firma per utilizzi futuri. Lo strumento è ideale per contratti, accordi, moduli e qualsiasi documento che richieda la tua firma.</p>
@@ -256,7 +256,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'crop-pdf': {
     title: 'Taglia PDF',
     metaDescription: 'Taglia le pagine PDF per rimuovere margini e aree indesiderate. Rifila i documenti PDF con precisione.',
-    keywords: ['taglia pdf', 'rifila pdf', 'rimuovi margini pdf', 'ridimensiona pagine pdf', 'taglierina pdf'],
+    keywords: ['taglia pdf', 'rifila pdf', 'rimuovi margini pdf', 'ridimensiona pagine pdf', 'taglierina pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Taglia PDF consente di rifilare i margini e rimuovere aree indesiderate dalle pagine PDF. È utile per eliminare spazi bianchi in eccesso, focalizzarsi su aree di contenuto specifiche o standardizzare le dimensioni delle pagine.</p>
       <p>Puoi ritagliare tutte le pagine in modo uniforme oppure regolare ciascuna pagina individualmente. L’interfaccia visiva mostra esattamente cosa verrà mantenuto, facilitando risultati precisi.</p>
@@ -283,7 +283,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'extract-pages': {
     title: 'Estrai pagine',
     metaDescription: 'Estrai pagine specifiche dai file PDF. Seleziona e salva pagine singole come nuovi documenti.',
-    keywords: ['estrai pagine pdf', 'salva pagine pdf', 'copia pagine pdf', 'estrattore pagine pdf'],
+    keywords: ['estrai pagine pdf', 'salva pagine pdf', 'copia pagine pdf', 'estrattore pagine pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Estrai pagine consente di selezionare e salvare pagine specifiche di un documento PDF come nuovi file. È perfetto per estrarre sezioni rilevanti, creare estratti o separare documenti combinati.</p>
       <p>Puoi estrarre pagine singole, intervalli di pagine o più pagine non consecutive. L’anteprima visiva rende facile identificare e selezionare esattamente le pagine necessarie.</p>
@@ -309,7 +309,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'organize-pdf': {
     title: 'Organizza PDF',
     metaDescription: 'Riordina, duplica ed elimina pagine PDF. Trascina e rilascia per riorganizzare i tuoi documenti.',
-    keywords: ['organizza pdf', 'riordina pagine pdf', 'riallinea pdf', 'organizzatore pagine pdf'],
+    keywords: ['organizza pdf', 'riordina pagine pdf', 'riallinea pdf', 'organizzatore pagine pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Organizza PDF offre un’interfaccia intuitiva di drag‑and‑drop per riordinare le pagine dei tuoi documenti PDF. Riordina pagine, duplica sezioni importanti o rimuovi pagine indesiderate con facilità.</p>
       <p>Le miniature delle pagine facilitano l’identificazione dei contenuti e la disposizione esattamente come ti serve. Perfetto per ristrutturare documenti, creare ordini di pagina personalizzati o pulire file scansionati.</p>
@@ -335,7 +335,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'delete-pages': {
     title: 'Elimina pagine',
     metaDescription: 'Rimuovi pagine indesiderate dai file PDF. Seleziona ed elimina pagine specifiche con facilità.',
-    keywords: ['elimina pagine pdf', 'rimuovi pagine pdf', 'rimozione pagine pdf', 'elimina pagine da pdf'],
+    keywords: ['elimina pagine pdf', 'rimuovi pagine pdf', 'rimozione pagine pdf', 'elimina pagine da pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Elimina pagine consente di rimuovere rapidamente e facilmente pagine indesiderate dai tuoi PDF. Che tu debba eliminare pagine vuote, contenuti obsoleti o informazioni sensibili, questo strumento semplifica il processo.</p>
       <p>Le miniature delle pagine aiutano a identificare esattamente quali pagine rimuovere. Puoi eliminare singole pagine o più pagine contemporaneamente.</p>
@@ -363,7 +363,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'bookmark': {
     title: 'Modifica segnalibri',
     metaDescription: 'Aggiungi, modifica e gestisci i segnalibri PDF. Crea una struttura di navigazione per i tuoi documenti.',
-    keywords: ['segnalibri pdf', 'modifica segnalibri', 'aggiungi segnalibri', 'navigazione pdf', 'sommario'],
+    keywords: ['segnalibri pdf', 'modifica segnalibri', 'aggiungi segnalibri', 'navigazione pdf', 'sommario', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Modifica segnalibri consente di creare, modificare e organizzare i segnalibri nei tuoi documenti PDF. I segnalibri offrono una navigazione rapida verso sezioni specifiche, rendendo più semplici i documenti lunghi.</p>
       <p>Puoi aggiungere nuovi segnalibri, modificare quelli esistenti, riorganizzare la gerarchia o importare segnalibri da fonti esterne. Questo strumento è essenziale per creare documenti professionali e ben navigabili.</p>
@@ -389,7 +389,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'table-of-contents': {
     title: 'Sommario',
     metaDescription: 'Genera un sommario per il tuo PDF. Crea una navigazione cliccabile dai segnalibri.',
-    keywords: ['sommario pdf', 'generatore toc', 'indice pdf', 'navigazione documento'],
+    keywords: ['sommario pdf', 'generatore toc', 'indice pdf', 'navigazione documento', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Sommario genera una pagina di indice navigabile per i tuoi documenti PDF. Il TOC può essere creato da segnalibri esistenti o da voci personalizzate, offrendo ai lettori una panoramica e una navigazione rapida.</p>
       <p>Personalizza l’aspetto con stili, font e layout differenti. Il TOC generato include link cliccabili che portano direttamente alle pagine di riferimento.</p>
@@ -415,7 +415,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'page-numbers': {
     title: 'Numeri di pagina',
     metaDescription: 'Aggiungi numeri di pagina ai documenti PDF. Personalizza posizione, formato e numero iniziale.',
-    keywords: ['aggiungi numeri di pagina', 'numeri di pagina pdf', 'numerazione pagine pdf', 'paginazione pdf'],
+    keywords: ['aggiungi numeri di pagina', 'numeri di pagina pdf', 'numerazione pagine pdf', 'paginazione pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Numeri di pagina aggiunge una numerazione personalizzabile ai tuoi documenti PDF. Scegli tra vari formati, posizioni e stili per adattarti al design del documento.</p>
       <p>Puoi impostare il numero iniziale, saltare determinate pagine e usare formati diversi (1, 2, 3 oppure i, ii, iii). Perfetto per creare documenti professionali con paginazione corretta.</p>
@@ -441,7 +441,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'add-watermark': {
     title: 'Aggiungi filigrana',
     metaDescription: 'Aggiungi filigrane di testo o immagine ai file PDF. Proteggi e personalizza i tuoi documenti.',
-    keywords: ['aggiungi filigrana', 'filigrana pdf', 'timbra pdf', 'brandizza pdf', 'proteggi pdf'],
+    keywords: ['aggiungi filigrana', 'filigrana pdf', 'timbra pdf', 'brandizza pdf', 'proteggi pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Aggiungi filigrana ti consente di inserire filigrane di testo o immagine sui tuoi documenti PDF. Le filigrane possono indicare lo stato del documento (Bozza, Riservato), aggiungere branding o scoraggiare copie non autorizzate.</p>
       <p>Personalizza posizione, dimensione, opacità, rotazione e colore della filigrana. Applica a tutte le pagine o seleziona pagine specifiche. Il tool supporta sia filigrane di testo sia filigrane immagine.</p>
@@ -467,7 +467,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'header-footer': {
     title: 'Intestazione e piè di pagina',
     metaDescription: 'Aggiungi intestazioni e piè di pagina ai documenti PDF. Includi numeri di pagina, date e testo personalizzato.',
-    keywords: ['intestazione pdf', 'piè di pagina pdf', 'aggiungi intestazione piè di pagina', 'carta intestata pdf'],
+    keywords: ['intestazione pdf', 'piè di pagina pdf', 'aggiungi intestazione piè di pagina', 'carta intestata pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Intestazione e piè di pagina aggiunge intestazioni e piè di pagina personalizzabili ai tuoi PDF. Includi numeri di pagina, date, titoli del documento o qualsiasi testo personalizzato nelle aree dedicate.</p>
       <p>Posiziona il contenuto a sinistra, al centro o a destra di intestazione/piè di pagina. Usa contenuti differenti per pagine pari e dispari, se necessario. Perfetto per creare documenti professionali con formattazione coerente.</p>
@@ -493,7 +493,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'invert-colors': {
     title: 'Inverti colori',
     metaDescription: 'Inverti i colori dei PDF per la lettura in modalità scura. Converti i documenti in colori negativi.',
-    keywords: ['inverti colori pdf', 'pdf modalità scura', 'pdf negativo', 'inverti colori'],
+    keywords: ['inverti colori pdf', 'pdf modalità scura', 'pdf negativo', 'inverti colori', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Inverti colori invertisce i colori nei tuoi documenti PDF, creando un effetto immagine negativa. È particolarmente utile per creare versioni in modalità scura dei documenti, facilitando la lettura in condizioni di scarsa luminosità.</p>
       <p>Il tool può invertire tutti i colori oppure preservare selettivamente alcuni elementi come le immagini. Perfetto per ridurre l’affaticamento visivo durante la lettura notturna.</p>
@@ -519,7 +519,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'background-color': {
     title: 'Colore di sfondo',
     metaDescription: 'Cambia il colore di sfondo del PDF. Aggiungi sfondi colorati alle pagine del documento.',
-    keywords: ['pdf colore sfondo', 'cambia sfondo pdf', 'pdf colorato', 'colore pagina pdf'],
+    keywords: ['pdf colore sfondo', 'cambia sfondo pdf', 'pdf colorato', 'colore pagina pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Colore di sfondo consente di cambiare o aggiungere colori di sfondo alle pagine del tuo PDF. Può migliorare la leggibilità, aggiungere interesse visivo o rispettare i requisiti di branding.</p>
       <p>Scegli qualsiasi colore e applicalo a tutte le pagine o solo a quelle selezionate. Lo strumento preserva i contenuti esistenti aggiungendo uno strato di sfondo.</p>
@@ -545,7 +545,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'text-color': {
     title: 'Cambia colore del testo',
     metaDescription: 'Modifica il colore del testo nei documenti PDF. Cambia il colore di tutti i contenuti testuali.',
-    keywords: ['cambia colore testo pdf', 'colore testo pdf', 'modifica colore testo', 'ricolora testo pdf'],
+    keywords: ['cambia colore testo pdf', 'colore testo pdf', 'modifica colore testo', 'ricolora testo pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Cambia colore del testo consente di modificare il colore del testo nei tuoi documenti PDF. È utile per migliorare il contrasto, rispettare il branding o creare varianti visive dei documenti.</p>
       <p>Seleziona un nuovo colore e applicalo a tutto il testo del documento. Lo strumento elabora gli elementi testuali preservando immagini e altri contenuti.</p>
@@ -571,7 +571,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'add-stamps': {
     title: 'Aggiungi timbri',
     metaDescription: 'Aggiungi timbri ai documenti PDF. Usa timbri predefiniti o personalizzati per approvazioni, revisioni e altro.',
-    keywords: ['timbri pdf', 'aggiungi timbro', 'timbro approvazione', 'timbro pdf'],
+    keywords: ['timbri pdf', 'aggiungi timbro', 'timbro approvazione', 'timbro pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Aggiungi timbri consente di posizionare immagini di timbri sui tuoi documenti PDF. Usa timbri predefiniti come “Approvato”, “Respinto”, “Bozza”, oppure carica immagini di timbri personalizzati.</p>
       <p>Posiziona i timbri ovunque nella pagina, ridimensionali e applicali a singole o multiple pagine. Perfetto per flussi documentali, approvazioni e indicatori di stato.</p>
@@ -597,7 +597,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'remove-annotations': {
     title: 'Rimuovi annotazioni',
     metaDescription: 'Rimuovi annotazioni dai file PDF. Elimina commenti, evidenziazioni e markup.',
-    keywords: ['rimuovi annotazioni pdf', 'elimina commenti', 'rimuovi evidenziazioni', 'pulisci pdf'],
+    keywords: ['rimuovi annotazioni pdf', 'elimina commenti', 'rimuovi evidenziazioni', 'pulisci pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Rimuovi annotazioni elimina commenti, evidenziazioni, note adesive e altre annotazioni dai tuoi documenti PDF. Crea una versione pulita del documento senza marcature.</p>
       <p>Puoi rimuovere tutte le annotazioni o scegliere selettivamente i tipi da rimuovere. Ideale per creare versioni finali di documenti revisionati o per togliere commenti sensibili.</p>
@@ -623,7 +623,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'form-filler': {
     title: 'Compila moduli',
     metaDescription: 'Compila moduli PDF online. Completa moduli PDF interattivi senza stampare.',
-    keywords: ['compila modulo pdf', 'compilatore moduli pdf', 'compila moduli', 'pdf interattivo'],
+    keywords: ['compila modulo pdf', 'compilatore moduli pdf', 'compila moduli', 'pdf interattivo', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Compila moduli consente di completare moduli PDF interattivi direttamente nel browser. Compila campi di testo, seleziona caselle di controllo, scegli opzioni e aggiungi firme senza stampare.</p>
       <p>Lo strumento supporta moduli PDF standard e moduli XFA. I dati inseriti possono essere salvati e il modulo può essere “piatto” (flatten) per impedire ulteriori modifiche.</p>
@@ -649,7 +649,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'form-creator': {
     title: 'Crea moduli',
     metaDescription: 'Crea moduli PDF compilabili. Aggiungi campi di testo, caselle di selezione e menu a discesa ai documenti.',
-    keywords: ['crea modulo pdf', 'creatore moduli pdf', 'pdf compilabile', 'aggiungi campi modulo'],
+    keywords: ['crea modulo pdf', 'creatore moduli pdf', 'pdf compilabile', 'aggiungi campi modulo', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Crea moduli trasforma documenti PDF statici in moduli interattivi compilabili. Aggiungi campi di testo, caselle di selezione, pulsanti di opzione, menu a discesa e altro per creare moduli professionali.</p>
       <p>Trascina e rilascia gli elementi del modulo sul documento, configura le proprietà dei campi e crea moduli compilabili elettronicamente. Perfetto per candidature, sondaggi e moduli di raccolta dati.</p>
@@ -675,7 +675,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'remove-blank-pages': {
     title: 'Rimuovi pagine vuote',
     metaDescription: 'Rileva e rimuove automaticamente le pagine vuote dai documenti PDF.',
-    keywords: ['rimuovi pagine vuote', 'elimina pagine vuote', 'pulisci pdf', 'rimozione pagine vuote pdf'],
+    keywords: ['rimuovi pagine vuote', 'elimina pagine vuote', 'pulisci pdf', 'rimozione pagine vuote pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Rimuovi pagine vuote rileva automaticamente e rimuove le pagine vuote dai tuoi documenti PDF. Utile per ripulire documenti scansionati, rimuovere pagine separatrici o eliminare pagine vuote inserite accidentalmente.</p>
       <p>Il tool usa un rilevamento intelligente per identificare le pagine realmente vuote, preservando quelle con contenuto minimo. Puoi regolare la soglia di sensibilità per controllare cosa viene considerato “vuoto”.</p>
@@ -701,7 +701,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'image-to-pdf': {
     title: 'Immagine in PDF',
     metaDescription: 'Converti qualsiasi immagine in PDF. Supporto per i formati JPG, PNG, WebP, BMP, TIFF, SVG e HEIC.',
-    keywords: ['immagine in pdf', 'converti immagine', 'foto in pdf', 'immagini in pdf'],
+    keywords: ['immagine in pdf', 'converti immagine', 'foto in pdf', 'immagini in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Immagine in PDF converte immagini di qualsiasi formato in documenti PDF. Il supporto per JPG, PNG, WebP, BMP, TIFF, SVG e HEIC rende questo uno strumento universale di conversione.</p>
       <p>Combina più immagini in un unico PDF, disponile nell’ordine preferito e personalizza dimensioni e orientamento della pagina. Perfetto per album fotografici, archivi documentali o portfolio.</p>
@@ -727,7 +727,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'png-to-pdf': {
     title: 'PNG in PDF',
     metaDescription: 'Converti immagini PNG in PDF. Preserva la trasparenza e combina più file PNG.',
-    keywords: ['png in pdf', 'converti png', 'convertitore png', 'immagine trasparente in pdf'],
+    keywords: ['png in pdf', 'converti png', 'convertitore png', 'immagine trasparente in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PNG in PDF converte le tue immagini PNG in documenti PDF preservando la trasparenza. Perfetto per grafiche, loghi, screenshot e immagini con sfondi trasparenti.</p>
       <p>Combina più file PNG in un unico PDF, disponili nell’ordine preferito e personalizza le impostazioni di pagina. La conversione mantiene l’alta qualità delle immagini originali.</p>
@@ -753,7 +753,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'webp-to-pdf': {
     title: 'WebP in PDF',
     metaDescription: 'Converti immagini WebP in PDF. Conversione del formato moderno con preservazione della qualità.',
-    keywords: ['webp in pdf', 'converti webp', 'convertitore webp', 'immagine web in pdf'],
+    keywords: ['webp in pdf', 'converti webp', 'convertitore webp', 'immagine web in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>WebP in PDF converte immagini WebP moderne in documenti PDF. WebP è un formato molto diffuso sul web e questo strumento semplifica la conversione per stampa o archiviazione.</p>
       <p>Combina più file WebP in un unico PDF con impostazioni di pagina personalizzabili. La conversione preserva la qualità delle immagini creando file PDF compatti.</p>
@@ -779,7 +779,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'svg-to-pdf': {
     title: 'SVG in PDF',
     metaDescription: 'Converti grafica vettoriale SVG in PDF. Mantieni scalabilità e qualità.',
-    keywords: ['svg in pdf', 'converti svg', 'vettoriale in pdf', 'grafica scalabile in pdf'],
+    keywords: ['svg in pdf', 'converti svg', 'vettoriale in pdf', 'grafica scalabile in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>SVG in PDF converte grafica vettoriale scalabile in documenti PDF preservando la qualità vettoriale. I file SVG restano nitidi a qualsiasi dimensione e questa qualità è mantenuta nell’output PDF.</p>
       <p>Perfetto per convertire loghi, icone, illustrazioni e disegni tecnici. Il PDF risultante mantiene la scalabilità della grafica vettoriale originale.</p>
@@ -805,7 +805,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'bmp-to-pdf': {
     title: 'BMP in PDF',
     metaDescription: 'Converti immagini bitmap BMP in PDF. Supporto al formato legacy con preservazione della qualità.',
-    keywords: ['bmp in pdf', 'converti bmp', 'bitmap in pdf', 'convertitore bmp'],
+    keywords: ['bmp in pdf', 'converti bmp', 'bitmap in pdf', 'convertitore bmp', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>BMP in PDF converte immagini bitmap in documenti PDF. BMP è un formato immagine legacy comunemente usato negli ambienti Windows; questo strumento semplifica la conversione in moderno formato PDF.</p>
       <p>Combina più file BMP in un unico PDF con impostazioni personalizzabili. La conversione comprime i file BMP solitamente grandi preservando la qualità dell’immagine.</p>
@@ -831,7 +831,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'psd-to-pdf': {
     title: 'PSD in PDF',
     metaDescription: 'Converti file Adobe Photoshop (PSD) in formato PDF. Supporta più file e preserva la qualità delle immagini.',
-    keywords: ['psd in pdf', 'converti psd', 'photoshop in pdf', 'convertitore psd', 'adobe psd in pdf'],
+    keywords: ['psd in pdf', 'converti psd', 'photoshop in pdf', 'convertitore psd', 'adobe psd in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PSD in PDF converte file Adobe Photoshop (PSD) in documenti PDF. Questo strumento ti permette di visualizzare e condividere i design PSD senza avere Photoshop installato.</p>
       <p>Puoi convertire più file PSD contemporaneamente e combinarli in un unico documento PDF. Lo strumento elabora ogni PSD renderizzando i livelli visibili in pagine PDF di alta qualità.</p>
@@ -857,7 +857,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'heic-to-pdf': {
     title: 'HEIC in PDF',
     metaDescription: 'Converti foto HEIC di iPhone in PDF. Conversione del formato immagine Apple semplificata.',
-    keywords: ['heic in pdf', 'converti heic', 'foto iphone in pdf', 'immagine apple in pdf'],
+    keywords: ['heic in pdf', 'converti heic', 'foto iphone in pdf', 'immagine apple in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>HEIC in PDF converte le foto in formato HEIC (High Efficiency Image Format) di Apple in documenti PDF. HEIC è il formato predefinito su iPhone e iPad; questo strumento rende facile condividere queste foto.</p>
       <p>Combina più foto HEIC in un unico PDF, perfetto per creare album fotografici o archivi di documenti dalle foto del tuo iPhone.</p>
@@ -883,7 +883,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'tiff-to-pdf': {
     title: 'TIFF in PDF',
     metaDescription: 'Converti immagini TIFF in PDF. Supporto per TIFF multipagina e conversione di alta qualità.',
-    keywords: ['tiff in pdf', 'converti tiff', 'tif in pdf', 'tiff multipagina'],
+    keywords: ['tiff in pdf', 'converti tiff', 'tif in pdf', 'tiff multipagina', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>TIFF in PDF converte immagini TIFF, inclusi file TIFF multipagina, in documenti PDF. TIFF è comunemente usato per scansioni di alta qualità e grafica professionale.</p>
       <p>I file TIFF multipagina vengono convertiti automaticamente in PDF multipagina. La conversione preserva l’alta qualità delle immagini originali.</p>
@@ -909,7 +909,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'txt-to-pdf': {
     title: 'Testo in PDF',
     metaDescription: 'Converti file di testo in PDF. Personalizza font, margini e layout pagina.',
-    keywords: ['txt in pdf', 'testo in pdf', 'converti file di testo', 'testo semplice in pdf'],
+    keywords: ['txt in pdf', 'testo in pdf', 'converti file di testo', 'testo semplice in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Testo in PDF converte file di testo semplice in documenti PDF formattati. Personalizza font, dimensioni, margini e layout pagina per creare documenti professionali a partire da testo semplice.</p>
       <p>Perfetto per convertire file di codice, log, note o qualsiasi contenuto di testo semplice in formato PDF condivisibile.</p>
@@ -935,7 +935,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'json-to-pdf': {
     title: 'JSON in PDF',
     metaDescription: 'Converti file JSON in PDF formattato. Evidenziazione sintattica e output strutturato.',
-    keywords: ['json in pdf', 'converti json', 'visualizzatore json', 'formattatore json'],
+    keywords: ['json in pdf', 'converti json', 'visualizzatore json', 'formattatore json', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>JSON in PDF converte file di dati JSON in documenti PDF formattati e leggibili. L’output include evidenziazione sintattica e corretta indentazione per una lettura facilitata.</p>
       <p>Perfetto per documentare risposte API, file di configurazione o qualsiasi dato JSON da condividere o archiviare in formato leggibile.</p>
@@ -961,7 +961,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'word-to-pdf': {
     title: 'Word in PDF',
     metaDescription: 'Converti documenti Word (DOCX) in PDF. Preserva formattazione e layout nei documenti convertiti.',
-    keywords: ['word in pdf', 'docx in pdf', 'converti word', 'convertitore word', 'microsoft word in pdf'],
+    keywords: ['word in pdf', 'docx in pdf', 'converti word', 'convertitore word', 'microsoft word in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Word in PDF converte documenti Microsoft Word in formato PDF preservando formattazione originale, layout e struttura del contenuto.</p>
       <p>Carica i tuoi file DOCX e ottieni PDF di alta qualità, adatti a condivisione, stampa o archiviazione. La conversione mantiene formattazione del testo, stili di paragrafo e struttura base del documento.</p>
@@ -987,7 +987,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'excel-to-pdf': {
     title: 'Excel in PDF',
     metaDescription: 'Converti fogli di calcolo Excel (XLSX) in PDF. Preserva tabelle e dati nei documenti convertiti.',
-    keywords: ['excel in pdf', 'xlsx in pdf', 'converti excel', 'foglio di calcolo in pdf', 'microsoft excel in pdf'],
+    keywords: ['excel in pdf', 'xlsx in pdf', 'converti excel', 'foglio di calcolo in pdf', 'microsoft excel in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Excel in PDF converte fogli di calcolo Microsoft Excel in formato PDF preservando struttura delle tabelle e organizzazione dei dati.</p>
       <p>Carica i tuoi file XLSX e ottieni un PDF pulito con tabelle formattate correttamente. Ogni foglio del workbook diventa una sezione separata nel PDF.</p>
@@ -1013,7 +1013,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pptx-to-pdf': {
     title: 'PowerPoint in PDF',
     metaDescription: 'Converti presentazioni PowerPoint (PPTX) in PDF. Preserva slide e contenuti per una facile condivisione.',
-    keywords: ['powerpoint in pdf', 'pptx in pdf', 'converti pptx', 'presentazione in pdf', 'slide in pdf'],
+    keywords: ['powerpoint in pdf', 'pptx in pdf', 'converti pptx', 'presentazione in pdf', 'slide in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PowerPoint in PDF converte presentazioni Microsoft PowerPoint in formato PDF, preservando contenuti delle slide e testo per una facile condivisione e visualizzazione.</p>
       <p>Ogni slide diventa una pagina nel PDF, mantenendo il flusso della presentazione. Perfetto per condividere presentazioni con chi non ha PowerPoint installato.</p>
@@ -1039,7 +1039,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'xps-to-pdf': {
     title: 'XPS in PDF',
     metaDescription: 'Converti documenti XPS in PDF. Conversione ad alta fedeltà che preserva layout e grafica.',
-    keywords: ['xps in pdf', 'converti xps', 'convertitore xps', 'microsoft xps in pdf', 'oxps in pdf'],
+    keywords: ['xps in pdf', 'converti xps', 'convertitore xps', 'microsoft xps in pdf', 'oxps in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>XPS in PDF converte documenti Microsoft XPS (XML Paper Specification) in formato PDF preservando layout originale, testo e grafica vettoriale.</p>
       <p>XPS è un formato a documento fisso simile al PDF. Questo strumento offre conversione ad alta fedeltà usando parsing XPS nativo, garantendo riproduzione accurata dei documenti.</p>
@@ -1065,7 +1065,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'rtf-to-pdf': {
     title: 'RTF in PDF',
     metaDescription: 'Converti file RTF (Rich Text Format) in PDF. Preserva la formattazione del testo nei documenti.',
-    keywords: ['rtf in pdf', 'converti rtf', 'rich text in pdf', 'convertitore rtf'],
+    keywords: ['rtf in pdf', 'converti rtf', 'rich text in pdf', 'convertitore rtf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>RTF in PDF converte file in formato Rich Text in documenti PDF. RTF è un formato di testo ampiamente supportato che include formattazioni base come font, colori e stili.</p>
       <p>Carica i tuoi file RTF e ottieni un PDF pulito preservando contenuto testuale e formattazione base. Perfetto per convertire documenti legacy in formato PDF moderno.</p>
@@ -1091,7 +1091,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'epub-to-pdf': {
     title: 'EPUB in PDF',
     metaDescription: 'Converti e-book EPUB in PDF. Preserva formattazione, immagini e struttura dei capitoli.',
-    keywords: ['epub in pdf', 'converti epub', 'ebook in pdf', 'convertitore epub'],
+    keywords: ['epub in pdf', 'converti epub', 'ebook in pdf', 'convertitore epub', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>EPUB in PDF converte file di e-book in documenti PDF di alta qualità. EPUB è il formato di e-book più popolare, usato dalla maggior parte dei lettori e delle biblioteche digitali.</p>
       <p>Questo strumento preserva formattazione del testo, immagini e struttura dei capitoli dei tuoi e-book. Perfetto per stampa, archiviazione o condivisione in formato universalmente visualizzabile.</p>
@@ -1117,7 +1117,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'mobi-to-pdf': {
     title: 'MOBI in PDF',
     metaDescription: 'Converti e-book MOBI in PDF. Supporto per formato Kindle con rendering di alta qualità.',
-    keywords: ['mobi in pdf', 'converti mobi', 'kindle in pdf', 'azw in pdf', 'convertitore mobi'],
+    keywords: ['mobi in pdf', 'converti mobi', 'kindle in pdf', 'azw in pdf', 'convertitore mobi', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>MOBI in PDF converte file e-book Amazon Kindle in documenti PDF di alta qualità. Il formato MOBI (inclusi AZW e AZW3) è il formato proprietario di Amazon usato sui dispositivi Kindle.</p>
       <p>Questo strumento preserva formattazione del testo, immagini e struttura dei tuoi libri Kindle. Perfetto per stampa, archiviazione o lettura su dispositivi che non supportano il formato MOBI.</p>
@@ -1143,7 +1143,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'djvu-to-pdf': {
     title: 'DJVU in PDF',
     metaDescription: 'Converti file documento DJVU in PDF. Rendering di alta qualità per documenti e libri scansionati.',
-    keywords: ['djvu in pdf', 'converti djvu', 'convertitore djvu', 'djvu pdf', 'djv in pdf'],
+    keywords: ['djvu in pdf', 'converti djvu', 'convertitore djvu', 'djvu pdf', 'djv in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>DJVU in PDF converte file documento DjVu in PDF di alta qualità. DjVu è un formato ideato principalmente per archiviare documenti scansionati, specialmente con combinazioni di testo, disegni e fotografie.</p>
       <p>Questo strumento renderizza ogni pagina del tuo file DJVU al DPI scelto (punti per pollice) e le combina in un PDF ricercabile. Perfetto per convertire libri scansionati, manuali tecnici e documenti d’archivio.</p>
@@ -1169,7 +1169,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'fb2-to-pdf': {
     title: 'FB2 in PDF',
     metaDescription: 'Converti e-book FictionBook (FB2) in PDF. Supporta più file con rendering di alta qualità.',
-    keywords: ['fb2 in pdf', 'converti fb2', 'fictionbook in pdf', 'convertitore fb2', 'fb2.zip in pdf'],
+    keywords: ['fb2 in pdf', 'converti fb2', 'fictionbook in pdf', 'convertitore fb2', 'fb2.zip in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>FB2 in PDF converte file e-book FictionBook (FB2) in documenti PDF di alta qualità. FB2 è un formato e-book XML molto diffuso in Russia e nell’Europa orientale.</p>
       <p>Questo strumento supporta sia file .fb2 sia .fb2.zip e può elaborare più file contemporaneamente. Preserva formattazione del testo, immagini e struttura dei capitoli dei tuoi e-book.</p>
@@ -1197,7 +1197,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-jpg': {
     title: 'PDF in JPG',
     metaDescription: 'Converti pagine PDF in immagini JPG. Estrazione di alta qualità con risoluzione personalizzabile.',
-    keywords: ['pdf in jpg', 'pdf in jpeg', 'converti pdf in immagine', 'estrai immagini pdf'],
+    keywords: ['pdf in jpg', 'pdf in jpeg', 'converti pdf in immagine', 'estrai immagini pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in JPG converte le pagine dei documenti PDF in immagini JPG di alta qualità. Estrai tutte le pagine o selezionane alcune, con impostazioni personalizzabili di risoluzione e qualità.</p>
       <p>Perfetto per estrarre immagini dai PDF, creare miniature o convertire documenti per uso web.</p>
@@ -1223,7 +1223,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-png': {
     title: 'PDF in PNG',
     metaDescription: 'Converti pagine PDF in immagini PNG. Qualità senza perdita con supporto alla trasparenza.',
-    keywords: ['pdf in png', 'converti pdf in png', 'estrazione immagini pdf', 'conversione pdf lossless'],
+    keywords: ['pdf in png', 'converti pdf in png', 'estrazione immagini pdf', 'conversione pdf lossless', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in PNG converte le pagine dei documenti PDF in immagini PNG di alta qualità con compressione senza perdita. Il formato PNG preserva perfettamente la qualità e supporta la trasparenza.</p>
       <p>Ideale per estrarre grafici, diagrammi o qualsiasi contenuto in cui la preservazione della qualità è critica.</p>
@@ -1249,7 +1249,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-webp': {
     title: 'PDF in WebP',
     metaDescription: 'Converti pagine PDF in immagini WebP. Formato moderno con ottima compressione.',
-    keywords: ['pdf in webp', 'converti pdf in webp', 'formato immagine moderno', 'immagini ottimizzate web'],
+    keywords: ['pdf in webp', 'converti pdf in webp', 'formato immagine moderno', 'immagini ottimizzate web', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in WebP converte le pagine dei documenti PDF in immagini WebP, il formato moderno di Google che offre ottima compressione con alta qualità.</p>
       <p>Le immagini WebP sono più piccole di JPG o PNG mantenendo qualità comparabile, ideali per uso web.</p>
@@ -1275,7 +1275,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-bmp': {
     title: 'PDF in BMP',
     metaDescription: 'Converti pagine PDF in immagini bitmap BMP. Formato non compresso per massima compatibilità.',
-    keywords: ['pdf in bmp', 'converti pdf in bitmap', 'immagini non compresse', 'formato legacy'],
+    keywords: ['pdf in bmp', 'converti pdf in bitmap', 'immagini non compresse', 'formato legacy', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in BMP converte le pagine dei documenti PDF in immagini bitmap BMP. BMP è un formato non compresso che garantisce massima compatibilità con sistemi e applicazioni legacy.</p>
       <p>Sebbene i file BMP siano più grandi dei formati compressi, offrono qualità perfetta e compatibilità universale.</p>
@@ -1301,7 +1301,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-tiff': {
     title: 'PDF in TIFF',
     metaDescription: 'Converti PDF in immagini TIFF. Qualità professionale con supporto multipagina.',
-    keywords: ['pdf in tiff', 'converti pdf in tiff', 'immagini professionali', 'tiff multipagina'],
+    keywords: ['pdf in tiff', 'converti pdf in tiff', 'immagini professionali', 'tiff multipagina', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in TIFF converte i documenti PDF in immagini TIFF di alta qualità. TIFF è il formato preferito per stampa professionale e archiviazione grazie alla compressione senza perdita.</p>
       <p>Crea TIFF a pagina singola oppure combina tutte le pagine in un file TIFF multipagina. Perfetto per scopi professionali e di archivio.</p>
@@ -1327,7 +1327,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-svg': {
     title: 'PDF in SVG',
     metaDescription: 'Converti pagine PDF in grafica vettoriale SVG. Scalabilità perfetta a qualsiasi dimensione con esportazione per pagina.',
-    keywords: ['pdf in svg', 'converti pdf in svg', 'grafica vettoriale', 'pdf scalabile', 'convertitore svg'],
+    keywords: ['pdf in svg', 'converti pdf in svg', 'grafica vettoriale', 'pdf scalabile', 'convertitore svg', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF in SVG converte ogni pagina del tuo documento PDF in grafica vettoriale scalabile (SVG). SVG è un formato vettoriale che mantiene qualità perfetta a qualsiasi livello di zoom o dimensione di stampa.</p>
       <p>A differenza dei formati raster (JPG, PNG), la grafica SVG non diventa mai pixelata quando viene scalata. Ideale per loghi, diagrammi, disegni tecnici e contenuti da mostrare a dimensioni diverse.</p>
@@ -1356,7 +1356,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-greyscale': {
     title: 'PDF in scala di grigi',
     metaDescription: 'Converti PDF a colori in scala di grigi. Riduci la dimensione del file e prepara per stampa in bianco e nero.',
-    keywords: ['pdf in scala di grigi', 'pdf in bianco e nero', 'rimuovi colori pdf', 'grayscale pdf'],
+    keywords: ['pdf in scala di grigi', 'pdf in bianco e nero', 'rimuovi colori pdf', 'grayscale pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in scala di grigi converte documenti PDF a colori in bianco e nero (scala di grigi). Questo riduce la dimensione del file e prepara i documenti alla stampa in bianco e nero.</p>
       <p>La conversione preserva la nitidezza del testo e il dettaglio delle immagini rimuovendo le informazioni di colore. Perfetto per stampe di bozza o versioni ottimizzate per la stampante.</p>
@@ -1382,7 +1382,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-json': {
     title: 'PDF in JSON',
     metaDescription: 'Estrai contenuti PDF in formato JSON. Ottieni dati strutturati dai documenti PDF.',
-    keywords: ['pdf in json', 'estrai dati pdf', 'parser pdf', 'dati pdf strutturati'],
+    keywords: ['pdf in json', 'estrai dati pdf', 'parser pdf', 'dati pdf strutturati', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in JSON estrae contenuti dai documenti PDF in formato JSON strutturato. Estrai testo, metadati, informazioni sulle pagine e struttura del documento per uso programmatico.</p>
       <p>Perfetto per estrazione dati, analisi documenti o integrazione dei contenuti PDF in applicazioni e flussi di lavoro.</p>
@@ -1408,7 +1408,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-pptx': {
     title: 'PDF in PowerPoint',
     metaDescription: 'Converti PDF in presentazioni PowerPoint. Ogni pagina diventa una slide di alta qualità.',
-    keywords: ['pdf in pptx', 'pdf in powerpoint', 'converti slide pdf', 'presentazione pdf'],
+    keywords: ['pdf in pptx', 'pdf in powerpoint', 'converti slide pdf', 'presentazione pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in PowerPoint converte i tuoi documenti PDF in presentazioni PowerPoint (PPTX) modificabili. Ogni pagina PDF viene trasformata in una slide di alta qualità, preservando perfettamente il layout visivo.</p>
       <p>Ideale per convertire report, dispense o qualsiasi contenuto PDF in formato presentazione. Puoi scegliere la qualità immagine (DPI) per bilanciare dimensione del file e nitidezza.</p>
@@ -1434,7 +1434,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-excel': {
     title: 'PDF in Excel',
     metaDescription: 'Converti PDF in fogli di calcolo Excel. Estrai tabelle in formato XLSX.',
-    keywords: ['pdf in excel', 'pdf in xlsx', 'converti tabelle pdf', 'estrai tabelle'],
+    keywords: ['pdf in excel', 'pdf in xlsx', 'converti tabelle pdf', 'estrai tabelle', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in Excel converte i tuoi documenti PDF in fogli di calcolo Microsoft Excel (XLSX) modificabili. Lo strumento rileva automaticamente le tabelle nel PDF ed estrae ciascuna in fogli separati.</p>
       <p>Ideale per analizzare report finanziari, fatture o qualsiasi dato presentato in tabelle. Le tabelle di ogni pagina vengono organizzate in fogli per una facile manipolazione.</p>
@@ -1461,7 +1461,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'ocr-pdf': {
     title: 'OCR PDF',
     metaDescription: 'Rendi i PDF scansionati ricercabili con OCR. Estrai testo da immagini e documenti scansionati.',
-    keywords: ['ocr pdf', 'pdf ricercabile', 'riconoscimento testo', 'scansione in testo'],
+    keywords: ['ocr pdf', 'pdf ricercabile', 'riconoscimento testo', 'scansione in testo', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>OCR PDF utilizza il Riconoscimento Ottico dei Caratteri per estrarre testo da documenti scansionati e immagini contenute nei PDF. Converte PDF basati su immagini in documenti con testo ricercabile e selezionabile.</p>
       <p>Il supporto multilingue garantisce un riconoscimento accurato indipendentemente dalla lingua del documento. Il layout originale viene preservato aggiungendo un livello di testo ricercabile.</p>
@@ -1487,7 +1487,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'alternate-merge': {
     title: 'Unione alternata',
     metaDescription: 'Unisci PDF alternando le pagine. Combina scansioni fronte/retro in un unico documento.',
-    keywords: ['unione alternata', 'intercalare pagine pdf', 'combina scansioni', 'unisci fronte-retro'],
+    keywords: ['unione alternata', 'intercalare pagine pdf', 'combina scansioni', 'unisci fronte-retro', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>L’Unione alternata combina due PDF intercalando le loro pagine in modo alternato. Perfetta per unire in un unico documento le pagine fronte e retro scansionate separatamente.</p>
       <p>Carica due PDF e lo strumento li unirà prendendo a turno una pagina da ciascuno. Puoi anche invertire l’ordine di uno dei documenti per scansioni retro→fronte.</p>
@@ -1513,7 +1513,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'add-attachments': {
     title: 'Aggiungi allegati',
     metaDescription: 'Incorpora file nei documenti PDF. Allega qualsiasi tipo di file ai tuoi PDF.',
-    keywords: ['allegati pdf', 'incorpora file', 'allega a pdf', 'portfolio pdf'],
+    keywords: ['allegati pdf', 'incorpora file', 'allega a pdf', 'portfolio pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Aggiungi allegati incorpora file di qualsiasi tipo nei tuoi documenti PDF. Allega fogli di calcolo, immagini, file sorgente o altri documenti per creare pacchetti PDF completi.</p>
       <p>Gli allegati sono incorporati nel PDF e possono essere estratti dai destinatari con qualsiasi lettore PDF. Perfetto per distribuire file correlati insieme.</p>
@@ -1539,7 +1539,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'extract-attachments': {
     title: 'Estrai allegati',
     metaDescription: 'Estrai i file incorporati dai PDF. Scarica tutti gli allegati dai documenti PDF.',
-    keywords: ['estrai allegati', 'allegati pdf', 'scarica file incorporati', 'estrazione pdf'],
+    keywords: ['estrai allegati', 'allegati pdf', 'scarica file incorporati', 'estrazione pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Estrai allegati recupera tutti i file incorporati nei documenti PDF. Scarica gli allegati singolarmente o come archivio ZIP contenente tutti i file.</p>
       <p>Perfetto per accedere a file sorgente, dati o materiali supplementari incorporati nei pacchetti PDF.</p>
@@ -1565,7 +1565,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'extract-images': {
     title: 'Estrai immagini dal PDF',
     metaDescription: 'Estrai tutte le immagini incorporate dai PDF. Scarica singolarmente o come archivio ZIP. Filtra automaticamente le immagini troppo piccole.',
-    keywords: ['estrai immagini pdf', 'estrazione immagini pdf', 'recupera immagini da pdf', 'scarica immagini pdf', 'pdf in immagini'],
+    keywords: ['estrai immagini pdf', 'estrazione immagini pdf', 'recupera immagini da pdf', 'scarica immagini pdf', 'pdf in immagini', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Estrai immagini dal PDF recupera tutte le immagini incorporate nei tuoi documenti PDF. Scarica immagini di alta qualità singolarmente o come comodo archivio ZIP.</p>
       <p>Lo strumento filtra automaticamente immagini piccole come icone e decorazioni in base a soglie di dimensione personalizzabili. Elabora più PDF contemporaneamente per un’estrazione efficiente in batch.</p>
@@ -1592,7 +1592,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'edit-attachments': {
     title: 'Modifica allegati',
     metaDescription: 'Gestisci gli allegati nei PDF. Visualizza, rinomina e rimuovi i file incorporati.',
-    keywords: ['modifica allegati', 'gestisci file pdf', 'rimuovi allegati', 'rinomina allegati'],
+    keywords: ['modifica allegati', 'gestisci file pdf', 'rimuovi allegati', 'rinomina allegati', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Modifica allegati ti consente di gestire i file incorporati nei documenti PDF. Visualizza tutti gli allegati, rinominali oppure rimuovi i file indesiderati dal PDF.</p>
       <p>Perfetto per ripulire i pacchetti PDF o aggiornare le informazioni degli allegati prima della distribuzione.</p>
@@ -1618,7 +1618,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'divide-pages': {
     title: 'Dividi pagine',
     metaDescription: 'Dividi le pagine PDF in più sezioni. Suddivisione orizzontale, verticale o a griglia.',
-    keywords: ['dividi pagine pdf', 'suddividi pagina', 'taglia pagina pdf', 'sezioni pagina'],
+    keywords: ['dividi pagine pdf', 'suddividi pagina', 'taglia pagina pdf', 'sezioni pagina', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Dividi pagine suddivide le singole pagine PDF in più sezioni. Taglia le pagine in orizzontale, verticale o in una griglia per creare più pagine da una sola.</p>
       <p>Perfetto per dividere documenti scansionati con più elementi per pagina o per separare pagine in grande formato in dimensioni standard.</p>
@@ -1644,7 +1644,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'add-blank-page': {
     title: 'Aggiungi pagina vuota',
     metaDescription: 'Inserisci pagine vuote nei PDF. Aggiungi pagine vuote in qualsiasi posizione.',
-    keywords: ['aggiungi pagina vuota', 'inserisci pagina', 'pagina vuota', 'inserimento pagine pdf'],
+    keywords: ['aggiungi pagina vuota', 'inserisci pagina', 'pagina vuota', 'inserimento pagine pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Aggiungi pagina vuota inserisce pagine vuote nei tuoi PDF in qualsiasi posizione. Aggiungi pagine prima, dopo o tra quelle esistenti con dimensione personalizzabile.</p>
       <p>Perfetto per aggiungere spazio per note, creare divisori di sezione o preparare i documenti per la stampa.</p>
@@ -1670,7 +1670,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'reverse-pages': {
     title: 'Inverti pagine',
     metaDescription: 'Inverti l’ordine delle pagine PDF. Capovolgi le pagine dalla fine all’inizio.',
-    keywords: ['inverti pdf', 'inverti ordine pagine', 'capovolgi pagine', 'inverti documento'],
+    keywords: ['inverti pdf', 'inverti ordine pagine', 'capovolgi pagine', 'inverti documento', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Inverti pagine capovolge l’ordine delle pagine nel tuo PDF, mettendo l’ultima per prima e la prima per ultima. Utile per documenti scansionati al contrario o per esigenze di stampa specifiche.</p>
       <p>Lo strumento elabora l’intero documento o intervalli di pagine selezionati, mantenendo intatti contenuti e formattazione.</p>
@@ -1696,7 +1696,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'rotate-pdf': {
     title: 'Ruota PDF',
     metaDescription: 'Ruota le pagine PDF di 90, 180 o 270 gradi.',
-    keywords: ['ruota pdf', 'ruota pagine pdf', 'rotazione pdf', 'correggi orientamento'],
+    keywords: ['ruota pdf', 'ruota pagine pdf', 'rotazione pdf', 'correggi orientamento', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Ruota PDF gira le pagine del documento di 90, 180 o 270 gradi. Correggi scansioni con orientamento errato, ruota pagine orizzontali o regola l’orientamento per la visualizzazione.</p>
       <p>Ruota tutte le pagine in modo uniforme oppure seleziona pagine specifiche da ruotare singolarmente. Lo strumento preserva contenuti e formattazione.</p>
@@ -1722,7 +1722,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'n-up-pdf': {
     title: 'N-up PDF',
     metaDescription: 'Stampa più pagine PDF per foglio. Crea layout 2-up, 4-up o personalizzati.',
-    keywords: ['n-up pdf', 'più pagine per foglio', 'stampa 2-up', 'imposizione pagine'],
+    keywords: ['n-up pdf', 'più pagine per foglio', 'stampa 2-up', 'imposizione pagine', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>N-up PDF dispone più pagine su un unico foglio, creando layout 2-up, 4-up, 6-up, 9-up o personalizzati. Perfetto per risparmiare carta in stampa o creare dispense.</p>
       <p>Scegli tra layout predefiniti o crea disposizioni personalizzate. Lo strumento ridimensiona e posiziona automaticamente le pagine per risultati ottimali.</p>
@@ -1748,7 +1748,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'combine-single-page': {
     title: 'Combina in pagina singola',
     metaDescription: 'Cuci le pagine PDF in un’unica pagina continua. Crea documenti scorrevoli su una sola pagina.',
-    keywords: ['combina pagine', 'pdf pagina singola', 'unisci pagine', 'scorrimento continuo'],
+    keywords: ['combina pagine', 'pdf pagina singola', 'unisci pagine', 'scorrimento continuo', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Combina in pagina singola unisce tutte le pagine del PDF in un’unica pagina continua. Ideale per documenti scorrevoli perfetti per la visualizzazione web o la lettura continua.</p>
       <p>Le pagine sono unite verticalmente con spaziatura personalizzabile. Il risultato è una singola pagina lunga contenente tutto il contenuto.</p>
@@ -1774,7 +1774,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'view-metadata': {
     title: 'Visualizza metadati',
     metaDescription: 'Visualizza le proprietà dei PDF. Vedi autore, titolo, date e altri metadati.',
-    keywords: ['metadati pdf', 'proprietà documento', 'info pdf', 'dettagli pdf'],
+    keywords: ['metadati pdf', 'proprietà documento', 'info pdf', 'dettagli pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Visualizza metadati mostra tutte le proprietà e i metadati dei tuoi file PDF. Vedi autore, titolo, oggetto, parole chiave, data di creazione, data di modifica e altro.</p>
       <p>Utile per audit dei documenti, verifica delle informazioni del file o controllo dell’autenticità.</p>
@@ -1800,7 +1800,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'edit-metadata': {
     title: 'Modifica metadati',
     metaDescription: 'Modifica le proprietà dei PDF. Cambia titolo, autore, oggetto e parole chiave.',
-    keywords: ['modifica metadati pdf', 'cambia proprietà pdf', 'autore pdf', 'info documento'],
+    keywords: ['modifica metadati pdf', 'cambia proprietà pdf', 'autore pdf', 'info documento', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Modifica metadati ti consente di aggiornare le proprietà del documento nei tuoi PDF. Cambia titolo, autore, oggetto, parole chiave e altri campi di metadati.</p>
       <p>Perfetto per correggere informazioni, aggiungere attribuzioni corrette o preparare i file alla distribuzione.</p>
@@ -1826,7 +1826,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-zip': {
     title: 'PDF in ZIP',
     metaDescription: 'Raggruppa più PDF in un archivio ZIP. Comprimi e combina i file PDF.',
-    keywords: ['pdf in zip', 'comprimere pdf', 'raggruppa pdf', 'archiviare pdf'],
+    keywords: ['pdf in zip', 'comprimere pdf', 'raggruppa pdf', 'archiviare pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in ZIP raggruppa più file PDF in un unico archivio ZIP. Comprimi e combina i tuoi PDF per condivisione, archiviazione o backup più semplici.</p>
       <p>Lo strumento crea un archivio compresso con tutti i file PDF, riducendo la dimensione totale e semplificando la gestione dei file.</p>
@@ -1852,7 +1852,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'compare-pdfs': {
     title: 'Confronta PDF',
     metaDescription: 'Confronta due documenti PDF. Evidenzia le differenze tra versioni.',
-    keywords: ['confronta pdf', 'diff pdf', 'confronto documenti', 'confronto versioni'],
+    keywords: ['confronta pdf', 'diff pdf', 'confronto documenti', 'confronto versioni', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Confronta PDF analizza due documenti PDF ed evidenzia le differenze tra di essi. Perfetto per rivedere revisioni, controllare modifiche ai contratti o verificare gli interventi.</p>
       <p>Visualizza i documenti affiancati o in modalità sovrapposizione con differenze evidenziate. Lo strumento identifica modifiche al testo, aggiunte e cancellazioni.</p>
@@ -1878,7 +1878,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'posterize-pdf': {
     title: 'Posterizza PDF',
     metaDescription: 'Dividi grandi pagine PDF in riquadri stampabili. Crea poster da pagine PDF.',
-    keywords: ['posterizza pdf', 'suddividi pdf in riquadri', 'stampa grande formato', 'poster pdf'],
+    keywords: ['posterizza pdf', 'suddividi pdf in riquadri', 'stampa grande formato', 'poster pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Posterizza PDF divide grandi pagine PDF in riquadri più piccoli stampabili su carta standard e assemblabili in poster. Perfetto per stampare diagrammi, mappe o illustrazioni di grande formato.</p>
       <p>Configura dimensione della griglia e sovrapposizione per un facile assemblaggio. Lo strumento calcola automaticamente le dimensioni dei riquadri per l’output desiderato.</p>
@@ -1905,7 +1905,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'fix-page-size': {
     title: 'Uniforma dimensione pagina',
     metaDescription: 'Standardizza le dimensioni delle pagine PDF. Converte tutte le pagine a misure uniformi.',
-    keywords: ['uniforma dimensione pagina', 'standardizza pdf', 'pagine uniformi', 'ridimensiona pagine pdf'],
+    keywords: ['uniforma dimensione pagina', 'standardizza pdf', 'pagine uniformi', 'ridimensiona pagine pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Uniforma dimensione pagina rende tutte le pagine del tuo PDF di dimensioni uniformi. Converte documenti con pagine di misure diverse in formati coerenti per una presentazione o stampa professionale.</p>
       <p>Scegli tra formati standard (A4, Letter, ecc.) oppure imposta dimensioni personalizzate. Il contenuto viene ridimensionato o posizionato per adattarsi alla nuova pagina.</p>
@@ -1931,7 +1931,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'linearize-pdf': {
     title: 'Linearizza PDF',
     metaDescription: 'Ottimizza i PDF per la visualizzazione web veloce. Abilita il caricamento progressivo.',
-    keywords: ['linearizza pdf', 'visualizzazione web veloce', 'ottimizza pdf', 'pdf progressivo'],
+    keywords: ['linearizza pdf', 'visualizzazione web veloce', 'ottimizza pdf', 'pdf progressivo', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Linearizza PDF ottimizza i documenti per una visualizzazione rapida sul web. I PDF linearizzati possono iniziare a essere mostrati prima che l’intero file sia scaricato, migliorando l’esperienza utente.</p>
       <p>Conosciuta anche come "Visualizzazione web veloce", questa ottimizzazione riorganizza la struttura del PDF per il caricamento progressivo nei browser.</p>
@@ -1957,7 +1957,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'page-dimensions': {
     title: 'Dimensioni pagina',
     metaDescription: 'Analizza le dimensioni delle pagine PDF. Visualizza le misure di tutte le pagine del documento.',
-    keywords: ['dimensione pagina pdf', 'dimensioni pagine', 'misure pdf', 'dimensione documento'],
+    keywords: ['dimensione pagina pdf', 'dimensioni pagine', 'misure pdf', 'dimensione documento', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Dimensioni pagina analizza e mostra la misura di ogni pagina del tuo PDF. Visualizza le dimensioni in varie unità (pollici, mm, punti) e identifica pagine con formati non standard.</p>
       <p>Utile per preparazione alla stampa, analisi del documento o per individuare incoerenze nelle dimensioni delle pagine.</p>
@@ -1983,7 +1983,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'remove-restrictions': {
     title: 'Rimuovi restrizioni',
     metaDescription: 'Rimuovi le restrizioni dai PDF. Sblocca permessi di stampa, copia e modifica.',
-    keywords: ['rimuovi restrizioni pdf', 'sblocca pdf', 'permessi pdf', 'rimuovi limitazioni'],
+    keywords: ['rimuovi restrizioni pdf', 'sblocca pdf', 'permessi pdf', 'rimuovi limitazioni', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Rimuovi restrizioni sblocca i PDF che hanno limitazioni di permesso che impediscono stampa, copia o modifica. Questo strumento rimuove le restrizioni protette da password proprietario preservando i contenuti.</p>
       <p>Nota: questo strumento non può rimuovere password utente che impediscono l’apertura del documento. Usa Decrypt PDF per i file protetti da password.</p>
@@ -2009,7 +2009,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'repair-pdf': {
     title: 'Ripara PDF',
     metaDescription: 'Correggi file PDF danneggiati. Recupera e ripara documenti corrotti.',
-    keywords: ['ripara pdf', 'correggi pdf', 'recupera pdf', 'pdf danneggiato'],
+    keywords: ['ripara pdf', 'correggi pdf', 'recupera pdf', 'pdf danneggiato', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Ripara PDF tenta di correggere file PDF corrotti o danneggiati. Lo strumento analizza la struttura del documento e la ricostruisce per recuperare il maggior contenuto possibile.</p>
       <p>Utile per recuperare file che non si aprono, mostrano errori o hanno contenuti mancanti a causa di corruzione.</p>
@@ -2036,7 +2036,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'encrypt-pdf': {
     title: 'Crittografa PDF',
     metaDescription: 'Proteggi i PDF con password. Aggiungi crittografia e imposta i permessi.',
-    keywords: ['crittografa pdf', 'proteggi pdf con password', 'pdf sicuro', 'crittografia pdf'],
+    keywords: ['crittografa pdf', 'proteggi pdf con password', 'pdf sicuro', 'crittografia pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Crittografa PDF aggiunge protezione con password e crittografia ai tuoi documenti PDF. Imposta la password utente per impedirne l’apertura e la password proprietario per controllare permessi come stampa e copia.</p>
       <p>Scegli tra diversi livelli di crittografia (AES a 128 o 256 bit) in base alle tue esigenze di sicurezza.</p>
@@ -2062,7 +2062,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'sanitize-pdf': {
     title: 'Pulisci PDF',
     metaDescription: 'Rimuovi dati nascosti dai PDF. Pulisci metadati, script e informazioni sensibili.',
-    keywords: ['pulisci pdf', 'sanifica pdf', 'rimuovi dati nascosti', 'privacy pdf'],
+    keywords: ['pulisci pdf', 'sanifica pdf', 'rimuovi dati nascosti', 'privacy pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Pulisci PDF rimuove dati nascosti e potenzialmente sensibili dai tuoi documenti. Elimina metadati, script incorporati, allegati, commenti e altri contenuti nascosti.</p>
       <p>Essenziale per preparare documenti alla distribuzione pubblica o quando la privacy è una priorità.</p>
@@ -2088,7 +2088,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'decrypt-pdf': {
     title: 'Decripta PDF',
     metaDescription: 'Rimuovi la password dai PDF. Sblocca documenti protetti da password.',
-    keywords: ['decripta pdf', 'rimuovi password pdf', 'sblocca pdf', 'rimozione password pdf'],
+    keywords: ['decripta pdf', 'rimuovi password pdf', 'sblocca pdf', 'rimozione password pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Decripta PDF rimuove la protezione con password dai documenti PDF. Inserisci la password attuale per sbloccare il file e creare una copia non protetta.</p>
       <p>Questo strumento richiede che tu conosca la password attuale. Non può decifrare o aggirare password sconosciute.</p>
@@ -2114,7 +2114,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'flatten-pdf': {
     title: 'Appiattisci PDF',
     metaDescription: 'Appiattisci moduli e annotazioni nei PDF. Rendi il contenuto non modificabile.',
-    keywords: ['appiattisci pdf', 'appiattisci moduli', 'appiattisci annotazioni', 'pdf non modificabile'],
+    keywords: ['appiattisci pdf', 'appiattisci moduli', 'appiattisci annotazioni', 'pdf non modificabile', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Appiattisci PDF converte elementi interattivi come campi modulo e annotazioni in contenuto statico. Il PDF appiattito appare uguale ma non può più essere modificato.</p>
       <p>Perfetto per finalizzare moduli compilati, preservare annotazioni o creare versioni non modificabili.</p>
@@ -2140,7 +2140,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'remove-metadata': {
     title: 'Rimuovi metadati',
     metaDescription: 'Elimina i metadati dai PDF. Rimuovi autore, date e proprietà del documento.',
-    keywords: ['rimuovi metadati pdf', 'elimina metadati', 'privacy pdf', 'pdf anonimo'],
+    keywords: ['rimuovi metadati pdf', 'elimina metadati', 'privacy pdf', 'pdf anonimo', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Rimuovi metadati elimina tutte le proprietà e i metadati dai tuoi PDF. Rimuovi nomi dell’autore, date di creazione, informazioni sul software e altri dati identificativi.</p>
       <p>Essenziale per la privacy nella condivisione di documenti o quando i metadati potrebbero rivelare informazioni sensibili.</p>
@@ -2166,7 +2166,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'change-permissions': {
     title: 'Modifica permessi',
     metaDescription: 'Modifica i permessi dei PDF. Controlla accesso a stampa, copia e modifica.',
-    keywords: ['permessi pdf', 'modifica accesso pdf', 'restrizioni pdf', 'sicurezza pdf'],
+    keywords: ['permessi pdf', 'modifica accesso pdf', 'restrizioni pdf', 'sicurezza pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Modifica permessi aggiorna i controlli di accesso sui tuoi PDF. Abilita o disabilita permessi di stampa, copia, modifica e annotazione.</p>
       <p>Imposta una password proprietario per far rispettare queste restrizioni. I destinatari possono vedere il documento ma hanno azioni limitate.</p>
@@ -2192,7 +2192,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-docx': {
     title: 'PDF in Word',
     metaDescription: 'Converti PDF in documenti Word (DOCX) modificabili. Preserva formattazione e layout.',
-    keywords: ['pdf in word', 'converti pdf in docx', 'pdf in doc', 'pdf modificabile'],
+    keywords: ['pdf in word', 'converti pdf in docx', 'pdf in doc', 'pdf modificabile', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF in Word converte i tuoi PDF in file Microsoft Word (DOCX) modificabili. Lo strumento preserva il layout originale, la formattazione, le immagini e il flusso del testo.</p>
       <p>Modifica facilmente i contenuti del PDF in Word senza dover riscrivere. Perfetto per contratti, report e curriculum.</p>
@@ -2218,7 +2218,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-markdown': {
     title: 'PDF in Markdown',
     metaDescription: 'Converti PDF in formato Markdown. Estrai testo e preserva formattazione come titoli e liste.',
-    keywords: ['pdf in markdown', 'converti pdf in md', 'estrazione testo pdf', 'convertitore markdown', 'pdf in testo'],
+    keywords: ['pdf in markdown', 'converti pdf in md', 'estrazione testo pdf', 'convertitore markdown', 'pdf in testo', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF in Markdown converte i tuoi documenti PDF in file Markdown puliti e ben strutturati. Lo strumento estrae intelligentemente il testo e cerca di preservare la formattazione come titoli, liste e paragrafi.</p>
       <p>Perfetto per convertire PDF in formati modificabili per documentazione, appunti o sistemi di gestione contenuti che supportano Markdown.</p>
@@ -2245,7 +2245,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'deskew-pdf': {
     title: 'Raddrizza PDF',
     metaDescription: 'Raddrizza automaticamente pagine PDF scansionate o inclinate. Correggi l’inclinazione con rilevamento preciso dell’angolo.',
-    keywords: ['raddrizza pdf', 'allinea pdf', 'correggi scansione inclinata', 'rotazione automatica pdf', 'correggi angolo pdf'],
+    keywords: ['raddrizza pdf', 'allinea pdf', 'correggi scansione inclinata', 'rotazione automatica pdf', 'correggi angolo pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Raddrizza PDF rileva e corregge automaticamente pagine inclinate nei tuoi documenti PDF usando analisi avanzata della varianza del profilo di proiezione. È essenziale per documenti scansionati inseriti nello scanner con angolo.</p>
       <p>Lo strumento analizza l’allineamento di testo e contenuti a diversi angoli per trovare la rotazione ottimale, quindi applica la correzione. Puoi regolare la soglia di sensibilità (1-30) e il DPI (72-300) per risultati ottimali.</p>
@@ -2273,7 +2273,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-booklet': {
     title: 'Creatore opuscoli PDF',
     metaDescription: 'Crea layout opuscolo da PDF per la stampa. Dispone le pagine per rilegatura a sella con varie griglie.',
-    keywords: ['opuscolo pdf', 'creatore opuscoli', 'stampa opuscolo', 'saddle stitch', 'imposizione'],
+    keywords: ['opuscolo pdf', 'creatore opuscoli', 'stampa opuscolo', 'saddle stitch', 'imposizione', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Creatore opuscoli PDF dispone le pagine del tuo PDF in layout opuscolo pronti per stampa e piega. Perfetto per creare brochure, zine, opuscoli e pubblicazioni con rilegatura a sella.</p>
       <p>Scegli fra varie modalità di griglia (1x2, 2x2, 2x4, 4x4), formati carta e opzioni di orientamento. Lo strumento gestisce automaticamente l’imposizione per la sequenza di piega corretta.</p>
@@ -2299,7 +2299,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'rasterize-pdf': {
     title: 'Rasterizza PDF',
     metaDescription: 'Converti pagine PDF in immagini di alta qualità. Esporta in PNG, JPEG o WebP con DPI personalizzato.',
-    keywords: ['rasterizza pdf', 'pdf in immagine', 'pdf in png', 'pdf in jpeg', 'converti pagine pdf'],
+    keywords: ['rasterizza pdf', 'pdf in immagine', 'pdf in png', 'pdf in jpeg', 'converti pagine pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Rasterizza PDF converte le pagine del tuo PDF in immagini raster di alta qualità. Scegli tra formati di output PNG, JPEG o WebP con pieno controllo su DPI e qualità.</p>
       <p>Perfetto per creare miniature, grafiche social o archiviare contenuti PDF come immagini. Supporta selezione dell’intervallo pagine e elaborazione in batch.</p>
@@ -2325,7 +2325,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'markdown-to-pdf': {
     title: 'Markdown in PDF',
     metaDescription: 'Converti file Markdown in PDF ben formattati. Supporta GFM e evidenziazione della sintassi.',
-    keywords: ['markdown in pdf', 'md in pdf', 'converti markdown', 'gfm in pdf', 'convertitore markdown'],
+    keywords: ['markdown in pdf', 'md in pdf', 'converti markdown', 'gfm in pdf', 'convertitore markdown', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Markdown in PDF converte i tuoi file Markdown in documenti PDF con stile professionale. Supporta CommonMark e GitHub Flavored Markdown (GFM), inclusi tabelle, liste di attività e blocchi di codice.</p>
       <p>Scegli tra più temi (chiaro, scuro, GitHub) e personalizza dimensione e margini pagina. I blocchi di codice sono evidenziati per migliorare la leggibilità.</p>
@@ -2351,7 +2351,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'email-to-pdf': {
     title: 'Email in PDF',
     metaDescription: 'Converti file email (.eml, .msg) in documenti PDF. Preserva formattazione, immagini inline, link cliccabili e incorpora allegati.',
-    keywords: ['email in pdf', 'eml in pdf', 'msg in pdf', 'converti email', 'convertitore email', 'salva email come pdf', 'outlook in pdf'],
+    keywords: ['email in pdf', 'eml in pdf', 'msg in pdf', 'converti email', 'convertitore email', 'salva email come pdf', 'outlook in pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf'],
     description: `
       <p>Email in PDF converte i tuoi file email (.eml e .msg) in documenti PDF ben formattati. Lo strumento preserva intestazioni, corpo del messaggio, immagini inline con sostituzione CID, link cliccabili e incorpora gli allegati direttamente nel PDF.</p>
       <p>Personalizza le opzioni di output tra dimensione pagina (A4, Letter, Legal), formato data con supporto fuso orario e inclusione dei campi CC/BCC e informazioni sugli allegati.</p>
@@ -2379,7 +2379,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'cbz-to-pdf': {
     title: 'CBZ in PDF',
     metaDescription: 'Converti archivi di fumetti (CBZ) in PDF. Preserva ordine e qualità delle immagini per fumetti digitali.',
-    keywords: ['cbz in pdf', 'fumetti in pdf', 'converti cbz', 'convertitore fumetti', 'convertitore cbz'],
+    keywords: ['cbz in pdf', 'fumetti in pdf', 'converti cbz', 'convertitore fumetti', 'convertitore cbz', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>CBZ in PDF converte gli archivi di fumetti (Comic Book Archive) in documenti PDF. Lo strumento estrae tutte le immagini dall’archivio CBZ e le compila in un PDF mantenendo l’ordine di lettura corretto.</p>
       <p>Scegli tra opzioni di dimensione pagina, inclusa la dimensione originale dell’immagine o formati standard dei fumetti. Perfetto per leggere fumetti su dispositivi che supportano PDF ma non CBZ.</p>
@@ -2405,7 +2405,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-to-pdfa': {
     title: 'PDF in PDF/A',
     metaDescription: 'Converti PDF in formato d’archivio PDF/A. Garantisci conservazione a lungo termine conforme agli standard ISO.',
-    keywords: ['pdf in pdfa', 'convertitore pdfa', 'archivia pdf', 'archivio pdf', 'conservazione lungo termine'],
+    keywords: ['pdf in pdfa', 'convertitore pdfa', 'archivia pdf', 'archivio pdf', 'conservazione lungo termine', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF in PDF/A converte i tuoi documenti PDF in formato PDF/A, lo standard ISO per l’archiviazione a lungo termine. PDF/A garantisce che i documenti saranno visualizzabili e riproducibili per decenni.</p>
       <p>Scegli tra PDF/A-1b (conformità base), PDF/A-2b (raccomandato, supporta trasparenze) o PDF/A-3b (consente file incorporati). Lo strumento incorpora i font e appiattisce le trasparenze quando necessario.</p>
@@ -2431,7 +2431,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'font-to-outline': {
     title: 'Font in tracciati',
     metaDescription: 'Rimuovi dipendenze dai font convertendo le pagine in immagini di alta qualità. Garantisce compatibilità su tutti i sistemi.',
-    keywords: ['font in tracciati', 'converti font in contorni', 'rimuovi font', 'compatibilità font', 'appiattisci font pdf', 'rimozione font pdf'],
+    keywords: ['font in tracciati', 'converti font in contorni', 'rimuovi font', 'compatibilità font', 'appiattisci font pdf', 'rimozione font pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Font in tracciati rimuove tutte le dipendenze dai font nel tuo PDF convertendo ogni pagina in contenuto raster ad alta qualità. Garantisce che il documento appaia identico su qualsiasi sistema, anche senza i font originali installati.</p>
       <p>Lo strumento renderizza ogni pagina al DPI scelto (150–600), rimuovendo i font incorporati e preservando l’aspetto visivo esatto. Facoltativamente, puoi aggiungere un livello di testo invisibile per mantenere la ricercabilità.</p>
@@ -2460,7 +2460,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'extract-tables': {
     title: 'Estrai tabelle dal PDF',
     metaDescription: 'Rileva ed estrai tabelle dai PDF. Esporta in JSON, Markdown o CSV.',
-    keywords: ['estrai tabelle', 'estrazione tabelle pdf', 'pdf in csv', 'pdf in excel', 'rilevamento tabelle'],
+    keywords: ['estrai tabelle', 'estrazione tabelle pdf', 'pdf in csv', 'pdf in excel', 'rilevamento tabelle', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Estrai tabelle dal PDF rileva dati tabellari nei tuoi documenti PDF e li esporta in formati strutturati. Scegli JSON per integrazione dati, Markdown per documentazione o CSV per fogli di calcolo.</p>
       <p>Lo strumento usa algoritmi di rilevamento intelligenti per identificare strutture di tabelle anche in documenti complessi. Specifica intervalli di pagine e regola parametri di rilevamento per risultati ottimali.</p>
@@ -2486,7 +2486,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'ocg-manager': {
     title: 'Gestore livelli PDF (OCG)',
     metaDescription: 'Gestisci i livelli PDF (Optional Content Groups). Visualizza, attiva/disattiva, aggiungi, elimina e rinomina i livelli nei tuoi PDF.',
-    keywords: ['livelli pdf', 'gestore ocg', 'optional content groups', 'visibilità livelli pdf', 'gestisci livelli pdf'],
+    keywords: ['livelli pdf', 'gestore ocg', 'optional content groups', 'visibilità livelli pdf', 'gestisci livelli pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Gestore livelli PDF ti consente di visualizzare e gestire gli Optional Content Groups (OCG) nei tuoi documenti PDF. I livelli OCG sono usati in disegni tecnici, mappe e documenti complessi per organizzare contenuti in livelli attivabili/disattivabili.</p>
       <p>Visualizza tutti i livelli nel PDF, alterna la visibilità, aggiungi nuovi livelli, elimina quelli indesiderati o rinomina quelli esistenti. Strumento essenziale per PDF a livelli come planimetrie, esportazioni CAD e documenti pronti per la stampa.</p>
@@ -2513,7 +2513,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'pdf-reader': {
     title: 'Lettore PDF',
     metaDescription: 'Lettore PDF online gratuito. Visualizza, naviga, zooma, ruota e stampa documenti PDF direttamente nel browser.',
-    keywords: ['lettore pdf', 'visualizzatore pdf', 'visualizza pdf online', 'leggi pdf', 'viewer pdf browser'],
+    keywords: ['lettore pdf', 'visualizzatore pdf', 'visualizza pdf online', 'leggi pdf', 'viewer pdf browser', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Lettore PDF è un visualizzatore completo che ti consente di leggere e navigare documenti PDF direttamente nel browser. Nessuna installazione richiesta: carica il PDF e inizia a leggere.</p>
       <p>Passa tra le pagine, esegui zoom in/out, ruota la vista e usa la modalità a schermo intero per una lettura senza distrazioni. Puoi anche stampare o scaricare i documenti per l’accesso offline.</p>
@@ -2540,7 +2540,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'digital-sign-pdf': {
     title: 'Firma Digitale',
     metaDescription: 'Aggiungi firme digitali X.509 ai documenti PDF. Firma PDF con certificati PFX, P12 o PEM per validità legale.',
-    keywords: ['firma digitale pdf', 'certificato x509', 'firma pfx', 'firma p12', 'firma pem', 'firma elettronica'],
+    keywords: ['firma digitale pdf', 'certificato x509', 'firma pfx', 'firma p12', 'firma pem', 'firma elettronica', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: '<p>Lo strumento Firma Digitale ti permette di aggiungere firme digitali X.509 crittografiche ai documenti PDF.</p>',
     howToUse: [
       { step: 1, title: 'Carica PDF', description: 'Carica il documento PDF che vuoi firmare digitalmente.' },
@@ -2562,7 +2562,7 @@ export const toolContentIt: Record<string, ToolContent> = {
   'validate-signature': {
     title: 'Valida Firma',
     metaDescription: 'Verifica le firme digitali nei documenti PDF. Controlla la validità del certificato, le informazioni del firmatario e l\'integrità del documento.',
-    keywords: ['valida firma pdf', 'verifica firma digitale', 'controlla certificato pdf', 'verifica firma'],
+    keywords: ['valida firma pdf', 'verifica firma digitale', 'controlla certificato pdf', 'verifica firma', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Lo strumento Valida Firma ti permette di verificare le firme digitali nei documenti PDF.</p>',
     howToUse: [
       { step: 1, title: 'Carica PDF Firmato', description: 'Carica un documento PDF che contiene firme digitali.' },

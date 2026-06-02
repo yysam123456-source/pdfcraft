@@ -12,8 +12,8 @@ export const toolContentAr: Record<string, ToolContent> = {
     // ==================== POPULAR TOOLS ====================
     'pdf-multi-tool': {
         title: 'أداة PDF المتعددة',
-        metaDescription: 'محرر PDF شامل: دمج، تقسيم، تنظيم، حذف، تدوير، واستخراج الصفحات في أداة واحدة قوية.',
-        keywords: ['أداة pdf المتعددة', 'محرر pdf', 'دمج pdf', 'تقسيم pdf', 'تنظيم pdf', 'أداة pdf شاملة'],
+        metaDescription: 'محرر PDF شامل: دمج، تقسيم، تنظيم، حذف، تدوير، واستخراج الصفحات في أداة واحدة قوية.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['أداة pdf المتعددة', 'محرر pdf', 'دمج pdf', 'تقسيم pdf', 'تنظيم pdf', 'أداة pdf شاملة', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
         description: `
       <p>أداة PDF المتعددة هي حلك الشامل لجميع مهام إدارة صفحات PDF. تدمج هذه الأداة القوية والشاملة عمليات متعددة لملفات PDF في واجهة واحدة بديهية، مما يوفر لك الوقت والجهد.</p>
       <p>سواء كنت بحاجة إلى دمج مستندات متعددة، أو تقسيم ملف PDF كبير إلى ملفات أصغر، أو إعادة تنظيم الصفحات، أو حذف محتوى غير مرغوب فيه، أو تدوير الصفحات، أو استخراج أقسام محددة، فإن هذه الأداة تتعامل مع كل ذلك دون الحاجة للتنقل بين تطبيقات مختلفة.</p>
@@ -39,8 +39,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'merge-pdf': {
         title: 'دمج PDF',
-        metaDescription: 'دمج ملفات PDF متعددة في مستند واحد. أداة دمج PDF مجانية عبر الإنترنت مع ميزة إعادة الترتيب بالسحب والإفلات.',
-        keywords: ['دمج pdf', 'تجميع pdf', 'ربط pdf', 'دمج ملفات pdf', 'جمع pdf'],
+        metaDescription: 'دمج ملفات PDF متعددة في مستند واحد. أداة دمج PDF مجانية عبر الإنترنت مع ميزة إعادة الترتيب بالسحب والإفلات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['دمج pdf', 'تجميع pdf', 'ربط pdf', 'دمج ملفات pdf', 'جمع pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
         description: `
       <p>تتيح لك أداة دمج PDF دمج مستندات PDF متعددة في ملف واحد بسرعة وسهولة. سواء كنت تقوم بتوحيد التقارير، أو دمج المستندات الممسوحة ضوئياً، أو تجميع عرض تقديمي، فإن هذه الأداة تجعل العملية سلسة.</p>
       <p>بساطة ارفع ملفاتك، ورتبها بالترتيب المطلوب باستخدام السحب والإفلات، وادمجهما في مستند واحد متماسك. تحافظ الأداة على جودة ملفاتك الأصلية ويمكنها اختيارياً الحفاظ على الإشارات المرجعية من كل مستند مصدر.</p>
@@ -65,8 +65,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'rotate-custom': {
         title: 'تدوير بزوايا مخصصة',
-        metaDescription: 'تدوير صفحات PDF بأي زاوية. تدوير مخصص دقيق لتعديل المستندات الممسوحة ضوئياً المائلة.',
-        keywords: ['تدوير pdf بزاوية مخصصة', 'تعديل ميل pdf', 'تصحيح انحراف pdf', 'تدوير صفحات pdf'],
+        metaDescription: 'تدوير صفحات PDF بأي زاوية. تدوير مخصص دقيق لتعديل المستندات الممسوحة ضوئياً المائلة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تدوير pdf بزاوية مخصصة', 'تعديل ميل pdf', 'تصحيح انحراف pdf', 'تدوير صفحات pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تمنحك أداة التدوير بزوايا مخصصة تحكماً دقيقاً في اتجاه صفحات PDF الخاصة بك. على عكس أدوات التدوير القياسية التي تدعم فقط زوايا 90 درجة، تتيح لك هذه الأداة تدوير الصفحات بأي زاوية محددة.</p>
       <p>مثالية لتعديل المستندات الممسوحة ضوئياً التي تم إدخالها بشكل مائل قليلاً، أو ضبط المخططات والرسوم البيانية إلى اتجاهها الصحيح. يمكنك تصحيح صفحات فردية أو تطبيق نفس التدوير على المستند بأكمله.</p>
@@ -93,7 +93,7 @@ export const toolContentAr: Record<string, ToolContent> = {
     'grid-combine': {
         title: 'دمج شبكي لملفات PDF',
         metaDescription: 'دمج ملفات PDF متعددة في صفحات واحدة بتنسيق شبكي مرن. رتب 2، 4، 6، 9 أو أكثر من ملفات PDF في الصفحة الواحدة مع التحكم في الهوامش والمسافات.',
-        keywords: ['دمج شبكي', 'دمج pdf في شبكة', 'كولاج pdf', 'عدة ملفات pdf في صفحة واحدة', 'دمج ملفات pdf متعددة'],
+        keywords: ['دمج شبكي', 'دمج pdf في شبكة', 'كولاج pdf', 'عدة ملفات pdf في صفحة واحدة', 'دمج ملفات pdf متعددة', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
         description: `
       <p>توفر أداة الدمج الشبكي طريقة فريدة لدمج ملفات PDF منفصلة متعددة في صفحات واحدة. على عكس أداة "دمج PDF" القياسية التي تقوم ببساطة بإلحاق الصفحات، أو أداة "N-Up" التي تعيد ترتيب صفحات من مستند واحد، تقوم أداة "دمج الشبكة" بأخذ ملفات مدخلة متعددة وترتيبها جنباً إلى جنب في تخطيط شبكي قابل للتخصيص.</p>
       <p>يمكنك الاختيار من بين تكوينات شبكية متنوعة مثل 2x1، 2x2، 3x3، إلخ. هذا مثالي لمقارنة مستندات متعددة، أو إنشاء منشورات من مصادر مختلفة، أو طباعة نسخ مضغوطة من عدة ملفات.</p>
@@ -119,8 +119,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'split-pdf': {
         title: 'تقسيم PDF',
-        metaDescription: 'تقسيم ملفات PDF إلى مستندات متعددة. استخراج صفحات محددة أو التقسيم حسب نطاقات الصفحات.',
-        keywords: ['تقسيم pdf', 'فصل pdf', 'تجزئة pdf', 'استخراج صفحات pdf', 'مقسم pdf'],
+        metaDescription: 'تقسيم ملفات PDF إلى مستندات متعددة. استخراج صفحات محددة أو التقسيم حسب نطاقات الصفحات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تقسيم pdf', 'فصل pdf', 'تجزئة pdf', 'استخراج صفحات pdf', 'مقسم pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
         description: `
       <p>تتيح لك أداة تقسيم PDF تقسيم مستند PDF واحد إلى ملفات أصغر متعددة. هذا مثالي لاستخراج فصول محددة، أو فصل المستندات المدمجة، أو إنشاء ملفات فردية من ملف PDF متعدد الصفحات.</p>
       <p>يمكنك التقسيم حسب نطاقات صفحات محددة، أو استخراج صفحات فردية، أو تقسيم المستند بفواصل منتظمة. توفر الأداة معاينة مرئية لصفحاتك، مما يسهل اختيار ما تحتاجه بالضبط.</p>
@@ -146,8 +146,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'compress-pdf': {
         title: 'ضغط PDF',
-        metaDescription: 'تقليل حجم ملف PDF مع الحفاظ على الجودة. ضاغط PDF مجاني عبر الإنترنت لملفات أصغر.',
-        keywords: ['ضغط pdf', 'تقليل حجم pdf', 'تصغير حجم ملف pdf', 'تحسين pdf', 'تقليل حجم الملف'],
+        metaDescription: 'تقليل حجم ملف PDF مع الحفاظ على الجودة. ضاغط PDF مجاني عبر الإنترنت لملفات أصغر.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['ضغط pdf', 'تقليل حجم pdf', 'تصغير حجم ملف pdf', 'تحسين pdf', 'تقليل حجم الملف', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
         description: `
       <p>تعمل أداة ضغط PDF على تقليل حجم ملفات PDF الخاصة بك مع الحفاظ على جودة مقبولة. هذا أمر ضروري لمرفقات البريد الإلكتروني، أو الرفع على الويب، أو توفير مساحة التخزين.</p>
       <p>توفر الأداة مستويات ضغط متعددة للموازنة بين تقليل حجم الملف والحفاظ على الجودة. يمكنك اختيار الضغط القوي لأقصى تقليل للحجم أو الضغط الخفيف للحفاظ على جودة أعلى.</p>
@@ -172,8 +172,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'edit-pdf': {
         title: 'تعديل PDF',
-        metaDescription: 'تعديل ملفات PDF عبر الإنترنت. أضف نصوصاً، صوراً، تعليقات توضيحية، تمييزاً، وأشكالاً إلى مستنداتك.',
-        keywords: ['تعديل pdf', 'محرر pdf', 'التعليق على pdf', 'إضافة نص إلى pdf', 'تخطيط pdf'],
+        metaDescription: 'تعديل ملفات PDF عبر الإنترنت. أضف نصوصاً، صوراً، تعليقات توضيحية، تمييزاً، وأشكالاً إلى مستنداتك.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تعديل pdf', 'محرر pdf', 'التعليق على pdf', 'إضافة نص إلى pdf', 'تخطيط pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
         description: `
       <p>يوفر "تعديل PDF" مجموعة شاملة من الأدوات لتعديل وتذييل مستندات PDF الخاصة بك. أضف نصوصاً وصوراً وأشكالاً وتمييزاً وتعليقات والمزيد دون الحاجة إلى برامج سطح مكتب باهظة الثمن.</p>
       <p>واجهة المحرر البديهية تجعل من السهل وضع علامات على المستندات للمراجعة، أو إضافة ملاحظات للتعاون، أو تنقيح المعلومات الحساسة، أو تحسين المستندات بمحتوى إضافي.</p>
@@ -199,8 +199,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'jpg-to-pdf': {
         title: 'تحويل JPG إلى PDF',
-        metaDescription: 'تحويل صور JPG إلى PDF. دمج ملفات JPG متعددة في مستند PDF واحد.',
-        keywords: ['تحويل jpg إلى pdf', 'تحويل jpeg إلى pdf', 'تحويل صورة إلى pdf', 'تحويل الصور لـ pdf'],
+        metaDescription: 'تحويل صور JPG إلى PDF. دمج ملفات JPG متعددة في مستند PDF واحد.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل jpg إلى pdf', 'تحويل jpeg إلى pdf', 'تحويل صورة إلى pdf', 'تحويل الصور لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم أداة JPG إلى PDF بتحويل صور JPEG الخاصة بك إلى مستندات PDF بسرعة وسهولة. سواء كان لديك صورة واحدة أو صور متعددة، فإن هذه الأداة تنشئ ملفات PDF ذات مظهر احترافي.</p>
       <p>يمكنك دمج ملفات JPG متعددة في ملف PDF واحد، وترتيبها بأي تسلسل، وتخصيص حجم الصفحة واتجاهها. يحافظ التحويل على جودة الصورة مع إنشاء ملفات PDF مدمجة وسهلة المشاركة.</p>
@@ -225,8 +225,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'sign-pdf': {
         title: 'توقيع PDF',
-        metaDescription: 'إضافة تواقيع إلكترونية إلى مستندات PDF. ارسم، اكتب، أو ارفع توقيعك.',
-        keywords: ['توقيع pdf', 'توقيع إلكتروني', 'توقيع مستندات pdf', 'توقيع رقمي'],
+        metaDescription: 'إضافة تواقيع إلكترونية إلى مستندات PDF. ارسم، اكتب، أو ارفع توقيعك.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['توقيع pdf', 'توقيع إلكتروني', 'توقيع مستندات pdf', 'توقيع رقمي', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تتيح لك أداة توقيع PDF إضافة تواقيع إلكترونية إلى مستندات PDF الخاصة بك بسرعة وأمان. قم بإنشاء توقيعك عن طريق الرسم أو الكتابة أو رفع صورة، ثم ضعه في أي مكان في مستندك.</p>
       <p>يمكنك إضافة تواقيع متعددة إلى مستند واحد، وتغيير حجمها وتحديد موضعها بدقة، وحفظ توقيعك لاستخدامه في المستقبل. الأداة مثالية للعقود والاتفاقيات والنماذج وأي مستند يتطلب توقيعك.</p>
@@ -252,8 +252,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'crop-pdf': {
         title: 'قص PDF',
-        metaDescription: 'قص صفحات PDF لإزالة الهوامش والمناطق غير المرغوب فيها. قص مستندات PDF بدقة.',
-        keywords: ['قص pdf', 'تقليم pdf', 'قص هوامش pdf', 'تغيير حجم صفحات pdf', 'أداة قص pdf'],
+        metaDescription: 'قص صفحات PDF لإزالة الهوامش والمناطق غير المرغوب فيها. قص مستندات PDF بدقة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['قص pdf', 'تقليم pdf', 'قص هوامش pdf', 'تغيير حجم صفحات pdf', 'أداة قص pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
         description: `
       <p>تتيح لك أداة قص PDF تقليم الهوامش وإزالة المناطق غير المرغوب فيها من صفحات PDF الخاصة بك. هذا مفيد لإزالة المساحات البيضاء الزائدة، أو التركيز على مناطق محتوى محددة، أو توحيد أبعاد الصفحات.</p>
       <p>يمكنك قص جميع الصفحات بشكل موحد أو ضبط كل صفحة على حدة. تظهر الواجهة المرئية بالضبط ما سيتم الاحتفاظ به، مما يسهل تحقيق نتائج دقيقة.</p>
@@ -279,8 +279,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'extract-pages': {
         title: 'استخراج الصفحات',
-        metaDescription: 'استخراج صفحات محددة من ملفات PDF. اختر واحفظ الصفحات الفردية كمستندات جديدة.',
-        keywords: ['استخراج صفحات pdf', 'حفظ صفحات pdf', 'نسخ صفحات pdf', 'مستخرج صفحات pdf'],
+        metaDescription: 'استخراج صفحات محددة من ملفات PDF. اختر واحفظ الصفحات الفردية كمستندات جديدة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['استخراج صفحات pdf', 'حفظ صفحات pdf', 'نسخ صفحات pdf', 'مستخرج صفحات pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تتيح لك أداة استخراج الصفحات اختيار وحفظ صفحات معينة من مستند PDF كملفات جديدة. هذا مثالي لسحب الأقسام ذات الصلة، أو إنشاء مقتطفات، أو فصل المستندات المدمجة.</p>
       <p>يمكنك استخراج صفحات فردية، أو نطاقات صفحات، أو صفحات متعددة غير متتالية. تسهل المعاينة المرئية للصفحات تحديد واختيار الصفحات التي تحتاجها بالضبط.</p>
@@ -305,8 +305,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'organize-pdf': {
         title: 'تنظيم PDF',
-        metaDescription: 'إعادة ترتيب، وتكرار، وحذف صفحات PDF. استخدم السحب والإفلات لإعادة تنظيم مستنداتك.',
-        keywords: ['تنظيم pdf', 'إعادة ترتيب صفحات pdf', 'ترتيب pdf', 'منظم صفحات pdf'],
+        metaDescription: 'إعادة ترتيب، وتكرار، وحذف صفحات PDF. استخدم السحب والإفلات لإعادة تنظيم مستنداتك.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تنظيم pdf', 'إعادة ترتيب صفحات pdf', 'ترتيب pdf', 'منظم صفحات pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>يوفر تنظيم PDF واجهة بديهية تعتمد على السحب والإفلات لإعادة ترتيب الصفحات في مستندات PDF الخاصة بك. أعد ترتيب الصفحات، أو كرر الأقسام الهامة، أو أزل الصفحات غير المرغوب فيها بكل سهولة.</p>
       <p>تسهل الصور المصغرة للصفحات تحديد المحتوى وترتيب الصفحات تماماً كما تحتاجها. مثالي لإعادة هيكلة المستندات، أو إنشاء ترتيب صفحات مخصص، أو تنظيف الملفات الممسوحة ضوئياً.</p>
@@ -331,8 +331,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'delete-pages': {
         title: 'حذف الصفحات',
-        metaDescription: 'إزالة الصفحات غير المرغوب فيها من ملفات PDF. اختر واحذف صفحات محددة بسهولة.',
-        keywords: ['حذف صفحات pdf', 'إزالة صفحات pdf', 'مزيل صفحات pdf', 'حذف صفحات من ملف pdf'],
+        metaDescription: 'إزالة الصفحات غير المرغوب فيها من ملفات PDF. اختر واحذف صفحات محددة بسهولة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['حذف صفحات pdf', 'إزالة صفحات pdf', 'مزيل صفحات pdf', 'حذف صفحات من ملف pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تتيح لك أداة حذف الصفحات إزالة الصفحات غير المرغوب فيها من مستندات PDF بسرعة وسهولة. سواء كنت بحاجة إلى إزالة صفحات فارغة، أو محتوى قديم، أو معلومات حساسة، فإن هذه الأداة تجعل الأمر بسيطاً.</p>
       <p>تساعدك الصور المصغرة للصفحات في تحديد الصفحات التي تريد إزالتها بدقة. يمكنك حذف صفحات فردية أو صفحات متعددة دفعة واحدة.</p>
@@ -358,8 +358,8 @@ export const toolContentAr: Record<string, ToolContent> = {
     // ==================== EDIT & ANNOTATE ====================
     'bookmark': {
         title: 'تعديل الإشارات المرجعية',
-        metaDescription: 'إضافة وتعديل وإدارة الإشارات المرجعية في PDF. قم بإنشاء هيكل تنقلي لمستنداتك.',
-        keywords: ['إشارات مرجعية pdf', 'تعديل الإشارات المرجعية', 'إضافة إشارات مرجعية', 'التنقل في pdf', 'فهرس المحتويات'],
+        metaDescription: 'إضافة وتعديل وإدارة الإشارات المرجعية في PDF. قم بإنشاء هيكل تنقلي لمستنداتك.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إشارات مرجعية pdf', 'تعديل الإشارات المرجعية', 'إضافة إشارات مرجعية', 'التنقل في pdf', 'فهرس المحتويات', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
         description: `
       <p>تسمح لك أداة تعديل الإشارات المرجعية بإنشاء وتعديل وتنظيم الإشارات المرجعية في مستندات PDF. توفر الإشارات المرجعية تنقلاً سريعاً إلى أقسام محددة، مما يجعل المستندات الطويلة أسهل في الاستخدام.</p>
       <p>يمكنك إضافة إشارات مرجعية جديدة، أو تعديل الموجودة، أو إعادة تنظيم التسلسل الهرمي، أو استيراد إشارات مرجعية من مصادر خارجية. هذه الأداة أساسية لإنشاء مستندات احترافية سهلة التصفح.</p>
@@ -384,8 +384,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'table-of-contents': {
         title: 'جدول المحتويات',
-        metaDescription: 'إنشاء جدول محتويات لملف PDF الخاص بك. أنشئ نظام تنقل قابل للنقر من الإشارات المرجعية.',
-        keywords: ['جدول محتويات pdf', 'منشئ الفهرس', 'فهرس pdf', 'التنقل في المستند'],
+        metaDescription: 'إنشاء جدول محتويات لملف PDF الخاص بك. أنشئ نظام تنقل قابل للنقر من الإشارات المرجعية.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['جدول محتويات pdf', 'منشئ الفهرس', 'فهرس pdf', 'التنقل في المستند', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم هذه الأداة بإنشاء صفحة جدول محتويات قابلة للتنقل لمستندات PDF الخاصة بك. يمكن إنشاء الجدول من الإشارات المرجعية الموجودة أو من إدخالات مخصصة، مما يوفر للقراء نظرة عامة وتنقلًا سريعًا.</p>
       <p>خصص المظهر بأنماط وخطوط وتخطيطات مختلفة. يتضمن جدول المحتويات الناتج روابط قابلة للنقر تقفز مباشرة إلى الصفحات المشار إليها.</p>
@@ -410,8 +410,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'page-numbers': {
         title: 'أرقام الصفحات',
-        metaDescription: 'إضافة أرقام الصفحات إلى مستندات PDF. خصص الموضع والتنسيق ورقم البداية.',
-        keywords: ['إضافة أرقام الصفحات', 'ترقيم pdf', 'أرقام صفحات pdf', 'ترقيم الصفحات'],
+        metaDescription: 'إضافة أرقام الصفحات إلى مستندات PDF. خصص الموضع والتنسيق ورقم البداية.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إضافة أرقام الصفحات', 'ترقيم pdf', 'أرقام صفحات pdf', 'ترقيم الصفحات', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تضيف أداة أرقام الصفحات ترقيماً قابلاً للتخصيص إلى مستندات PDF الخاصة بك. اختر من بين تنسيقات ومواقع وأنماط متنوعة لتتناسب مع تصميم مستندك.</p>
       <p>يمكنك ضبط رقم البداية، وتخطي صفحات معينة، واستخدام تنسيقات ترقيم مختلفة (1، 2، 3 أو i، ii، iii). مثالي لإنشاء مستندات احترافية بترقيم صحيح.</p>
@@ -436,8 +436,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'add-watermark': {
         title: 'إضافة علامة مائية',
-        metaDescription: 'إضافة علامات مائية نصية أو صور إلى ملفات PDF. احمِ علامتك التجارية ومستنداتك.',
-        keywords: ['إضافة علامة مائية', 'علامة مائية pdf', 'ختم pdf', 'حماية pdf'],
+        metaDescription: 'إضافة علامات مائية نصية أو صور إلى ملفات PDF. احمِ علامتك التجارية ومستنداتك.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إضافة علامة مائية', 'علامة مائية pdf', 'ختم pdf', 'حماية pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تسمح لك أداة إضافة العلامة المائية بوضع نصوص أو صور كعلامات مائية على مستندات PDF. يمكن للعلامات المائية الإشارة إلى حالة المستند (مسودة، سري)، أو إضافة هوية تجارية، أو منع النسخ غير المصرح به.</p>
       <p>خصص موضع العلامة المائية، حجمها، شفافيتها، تدويرها، ولونها. طبقها على جميع الصفحات أو صفحات مختارة. تدعم الأداة كلاً من العلامات المائية النصية والصورية.</p>
@@ -462,8 +462,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'header-footer': {
         title: 'الرأس والتذييل',
-        metaDescription: 'إضافة رؤوس وتذييلات إلى مستندات PDF. تضمن أرقام الصفحات، والتواريخ، والنصوص المخصصة.',
-        keywords: ['رأس pdf', 'تذييل pdf', 'إضافة رأس وتذييل', 'ترويسة pdf'],
+        metaDescription: 'إضافة رؤوس وتذييلات إلى مستندات PDF. تضمن أرقام الصفحات، والتواريخ، والنصوص المخصصة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['رأس pdf', 'تذييل pdf', 'إضافة رأس وتذييل', 'ترويسة pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تضيف أداة الرأس والتذييل مساحات قابلة للتخصيص في أعلى وأسفل صفحات PDF. قم بتضمين أرقام الصفحات، أو التواريخ، أو عناوين المستندات، أو أي نص مخصص في مناطق الرأس أو التذييل.</p>
       <p>حدد موضع المحتوى في اليسار أو الوسط أو اليمين. استخدم محتوى مختلفاً للصفحات الفردية والزوجية إذا لزم الأمر. مثالي لإنشاء مستندات احترافية بتنسيق ثابت.</p>
@@ -488,8 +488,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'invert-colors': {
         title: 'عكس الألوان',
-        metaDescription: 'عكس ألوان PDF للقراءة في الوضع الليلي. تحويل المستندات إلى ألوان سالبة.',
-        keywords: ['عكس ألوان pdf', 'الوضع المظلم لـ pdf', 'pdf سالب', 'عكس الألوان'],
+        metaDescription: 'عكس ألوان PDF للقراءة في الوضع الليلي. تحويل المستندات إلى ألوان سالبة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['عكس ألوان pdf', 'الوضع المظلم لـ pdf', 'pdf سالب', 'عكس الألوان', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم أداة عكس الألوان بقلب الألوان في مستندات PDF الخاصة بك، مما يخلق تأثيراً مشاباً للأفلام السالبة. هذا مفيد بشكل خاص لإنشاء نسخ "الوضع المظلم" من المستندات لتسهيل القراءة في ظروف الإضاءة المنخفضة.</p>
       <p>يمكن للأداة عكس جميع الألوان أو الحفاظ بشكل انتقائي على عناصر معينة مثل الصور. مثالي لتقليل إجهاد العين عند قراءة المستندات ليلاً.</p>
@@ -514,8 +514,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'background-color': {
         title: 'لون الخلفية',
-        metaDescription: 'تغيير لون خلفية PDF. إضافة خلفيات ملونة لصفحات المستند.',
-        keywords: ['لون خلفية pdf', 'تغيير خلفية pdf', 'pdf ملون', 'لون صفحة pdf'],
+        metaDescription: 'تغيير لون خلفية PDF. إضافة خلفيات ملونة لصفحات المستند.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['لون خلفية pdf', 'تغيير خلفية pdf', 'pdf ملون', 'لون صفحة pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تسمح لك أداة لون الخلفية بتغيير أو إضافة ألوان لخلفية صفحات PDF. يمكن أن يحسن ذلك من قابلية القراءة، أو يضيف جاذبية بصرية، أو يطابق متطلبات هويتك التجارية.</p>
       <p>اختر أي لون للخلفية وقم بتطبيقه على جميع الصفحات أو صفحات مختارة. تحافظ الأداة على جميع المحتويات الموجودة مع إضافة طبقة الخلفية تحتها.</p>
@@ -540,8 +540,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'text-color': {
         title: 'تغيير لون النص',
-        metaDescription: 'تغيير لون النص في مستندات PDF. تعديل لون كل محتوى النص.',
-        keywords: ['تغيير لون نص pdf', 'لون نص pdf', 'تعديل لون النص', 'إعادة تلوين نص pdf'],
+        metaDescription: 'تغيير لون النص في مستندات PDF. تعديل لون كل محتوى النص.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تغيير لون نص pdf', 'لون نص pdf', 'تعديل لون النص', 'إعادة تلوين نص pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تسمح لك أداة تغيير لون النص بتعديل لون النصوص في مستندات PDF الخاصة بك. هذا مفيد لتحسين التباين، أو مطابقة الهوية التجارية، أو إنشاء تنويعات بصرية للمستندات.</p>
       <p>اختر لوناً جديداً وطبقه على جميع النصوص في المستند. تقوم الأداة بمعالجة عناصر النص مع الحفاظ على الصور والمحتويات الأخرى.</p>
@@ -566,8 +566,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'add-stamps': {
         title: 'إضافة طوابع',
-        metaDescription: 'إضافة طوابع إلى مستندات PDF. استخدم طوابع جاهزة أو مخصصة للاعتماد، المراجعة، والمزيد.',
-        keywords: ['طوابع pdf', 'إضافة ختم', 'ختم اعتماد', 'ختم مطاطي pdf'],
+        metaDescription: 'إضافة طوابع إلى مستندات PDF. استخدم طوابع جاهزة أو مخصصة للاعتماد، المراجعة، والمزيد.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['طوابع pdf', 'إضافة ختم', 'ختم اعتماد', 'ختم مطاطي pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تسمح لك أداة إضافة الطوابع بوضع صور طوابع على مستندات PDF الخاصة بك. استخدم طوابع جاهزة مثل "معتمد"، "مرفوض"، "مسودة"، أو ارفع صور طوابع مخصصة.</p>
       <p>ضع الطوابع في أي مكان على الصفحة، وغير حجمها، وطبقها على صفحة واحدة أو صفحات متعددة. مثالي لسير عمل المستندات والاعتمادات ومؤشرات الحالة.</p>
@@ -592,8 +592,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'remove-annotations': {
         title: 'إزالة التعليقات التوضيحية',
-        metaDescription: 'إزالة التعليقات التوضيحية من ملفات PDF. احذف التعليقات، والتمييز، والعلامات.',
-        keywords: ['إزالة تعليقات pdf', 'حذف التعليقات', 'إزالة التمييز', 'تنظيف pdf'],
+        metaDescription: 'إزالة التعليقات التوضيحية من ملفات PDF. احذف التعليقات، والتمييز، والعلامات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إزالة تعليقات pdf', 'حذف التعليقات', 'إزالة التمييز', 'تنظيف pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم أداة إزالة التعليقات التوضيحية بتجريد المستند من التعليقات، التمييز، الملاحظات اللاصقة، وغيرها من العلامات. يؤدي ذلك لإنشاء نسخة نظيفة من المستند بدون أي تخطيطات إضافية.</p>
       <p>يمكنك إزالة جميع التعليقات أو اختيار أنواع معينة لإزالتها. مثالي لإنشاء النسخ النهائية من المستندات التي تمت مراجعتها أو إزالة التعليقات الحساسة.</p>
@@ -618,8 +618,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'form-filler': {
         title: 'تعبئة النماذج',
-        metaDescription: 'تعبئة نماذج PDF عبر الإنترنت. أكمل نماذج PDF التفاعلية دون الحاجة للطباعة.',
-        keywords: ['تعبئة نموذج pdf', 'معبئ نماذج pdf', 'إكمال نموذج pdf', 'pdf تفاعلي'],
+        metaDescription: 'تعبئة نماذج PDF عبر الإنترنت. أكمل نماذج PDF التفاعلية دون الحاجة للطباعة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تعبئة نموذج pdf', 'معبئ نماذج pdf', 'إكمال نموذج pdf', 'pdf تفاعلي', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تسمح لك أداة تعبئة النماذج بإكمال نماذج PDF التفاعلية مباشرة في متصفحك. املأ حقول النص، وحدد المربعات، واختر الخيارات، وأضف التواقيع دون طباعة المستند.</p>
       <p>تدعم الأداة نماذج PDF القياسية ونماذج XFA. يمكن حفظ بياناتك المعبأة ويمكن "تسطيح" النموذج لمنع المزيد من التعديل.</p>
@@ -644,8 +644,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'form-creator': {
         title: 'منشئ النماذج',
-        metaDescription: 'إنشاء نماذج PDF قابلة للتعبئة. أضف حقول نصية، مربعات اختيار، وقوائم منسدلة للمستندات.',
-        keywords: ['إنشاء نموذج pdf', 'منشئ نماذج pdf', 'pdf قابل للتعبئة', 'إضافة حقول نموذج'],
+        metaDescription: 'إنشاء نماذج PDF قابلة للتعبئة. أضف حقول نصية، مربعات اختيار، وقوائم منسدلة للمستندات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إنشاء نموذج pdf', 'منشئ نماذج pdf', 'pdf قابل للتعبئة', 'إضافة حقول نموذج', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>يقوم منشئ النماذج بتحويل مستندات PDF الثابتة إلى نماذج تفاعلية قابلة للتعبئة. أضف حقول نصية، مربعات اختيار، أزرار اختيار، قوائم منسدلة، والمزيد لإنشاء نماذج احترافية.</p>
       <p>قم بسحب وإفلات عناصر النموذج على مستندك، وتهيئة خصائص الحقول، وإنشاء نماذج يمكن تعبئتها إلكترونياً. مثالي لإنشاء الطلبات، والاستبيانات، ونماذج جمع البيانات.</p>
@@ -670,8 +670,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'remove-blank-pages': {
         title: 'إزالة الصفحات الفارغة',
-        metaDescription: 'اكتشف وحذف الصفحات الفارغة تلقائياً من مستندات PDF.',
-        keywords: ['إزالة صفحات فارغة', 'حذف صفحات خالية', 'تنظيف pdf', 'مزيل صفحات pdf الفارغة'],
+        metaDescription: 'اكتشف وحذف الصفحات الفارغة تلقائياً من مستندات PDF.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إزالة صفحات فارغة', 'حذف صفحات خالية', 'تنظيف pdf', 'مزيل صفحات pdf الفارغة', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم أداة إزالة الصفحات الفارغة باكتشاف وحذف الصفحات الخالية تلقائياً من مستندات PDF. هذا مفيد لتنظيف الممسوحات الضوئية، أو إزالة صفحات الفواصل، أو التخلص من الصفحات الفارغة المضافة بالخطأ.</p>
       <p>تستخدم الأداة اكتشافاً ذكياً لتحديد الصفحات الفارغة حقاً مع الحفاظ على الصفحات ذات المحتوى الضئيل. يمكنك ضبط حساسية الاكتشاف للتحكم في ما يعتبر "فارغاً".</p>
@@ -697,8 +697,8 @@ export const toolContentAr: Record<string, ToolContent> = {
     // ==================== CONVERT TO PDF ====================
     'image-to-pdf': {
         title: 'تحويل الصور إلى PDF',
-        metaDescription: 'تحويل أي صورة إلى PDF. يدعم صيغ JPG, PNG, WebP, BMP, TIFF, SVG, و HEIC.',
-        keywords: ['تحويل صورة لـ pdf', 'تحويل الصور', 'تحويل الصور إلى مستند pdf'],
+        metaDescription: 'تحويل أي صورة إلى PDF. يدعم صيغ JPG, PNG, WebP, BMP, TIFF, SVG, و HEIC.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل صورة لـ pdf', 'تحويل الصور', 'تحويل الصور إلى مستند pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة الصور من أي صيغة إلى مستندات PDF. دعم صيغ JPG, PNG, WebP, BMP, TIFF, SVG, و HEIC يجعل منها محول صور عالمي.</p>
       <p>ادمج صوراً متعددة في ملف PDF واحد، ورتبها بأي تسلسل، وخصص حجم الصفحة واتجاهها. مثالي لإنشاء ألبومات الصور، أو أرشفة المستندات، أو ملفات الأعمال.</p>
@@ -723,8 +723,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'png-to-pdf': {
         title: 'تحويل PNG إلى PDF',
-        metaDescription: 'تحويل صور PNG إلى PDF. الحفاظ على الشفافية ودمج ملفات PNG متعددة.',
-        keywords: ['تحويل png لـ pdf', 'محول png', 'تحويل الصور الشفافة لـ pdf'],
+        metaDescription: 'تحويل صور PNG إلى PDF. الحفاظ على الشفافية ودمج ملفات PNG متعددة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل png لـ pdf', 'محول png', 'تحويل الصور الشفافة لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صور PNG الخاصة بك إلى مستندات PDF مع الحفاظ على الشفافية. مثالية للرسومات، الشعارات، لقطات الشاشة، والصور ذات الخلفيات الشفافة.</p>
       <p>ادمج ملفات PNG متعددة في ملف PDF واحد، ورتبها كما تشاء، وخصص إعدادات الصفحة. يحافظ التحويل على الجودة العالية لصورك الأصلية.</p>
@@ -749,8 +749,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'webp-to-pdf': {
         title: 'تحويل WebP إلى PDF',
-        metaDescription: 'تحويل صور WebP إلى PDF. تحويل صيغ الصور الحديثة مع الحفاظ على الجودة.',
-        keywords: ['تحويل webp لـ pdf', 'محول webp', 'تحويل صور الويب لـ pdf'],
+        metaDescription: 'تحويل صور WebP إلى PDF. تحويل صيغ الصور الحديثة مع الحفاظ على الجودة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل webp لـ pdf', 'محول webp', 'تحويل صور الويب لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صور WebP الحديثة إلى مستندات PDF. WebP هي صيغة صور شهيرة للويب، وتسهل هذه الأداة تحويل هذه الصور للطباعة أو الأرشفة.</p>
       <p>ادمج ملفات WebP متعددة في PDF واحد مع إعدادات صفحة قابلة للتخصيص. يحافظ التحويل على جودة الصورة مع إنشاء ملفات PDF مدمجة.</p>
@@ -775,8 +775,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'svg-to-pdf': {
         title: 'تحويل SVG إلى PDF',
-        metaDescription: 'تحويل رسومات SVG المتجهة إلى PDF. الحفاظ على القابلية للتوسع والجودة.',
-        keywords: ['تحويل svg لـ pdf', 'تحويل المتجهات لـ pdf', 'رسومات قابلة للتوسع لـ pdf'],
+        metaDescription: 'تحويل رسومات SVG المتجهة إلى PDF. الحفاظ على القابلية للتوسع والجودة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل svg لـ pdf', 'تحويل المتجهات لـ pdf', 'رسومات قابلة للتوسع لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة رسومات المتجهات القابلة للتوسع (SVG) إلى مستندات PDF مع الحفاظ على طبيعتها المتجهة. تظل ملفات SVG حادة بأي حجم، ويتم الحفاظ على هذه الجودة في مخرجات PDF.</p>
       <p>مثالية لتحويل الشعارات والأيقونات والرسوم التوضيحية والرسومات التقنية. يحافظ ملف PDF الناتج على قابلية التوسع لرسومات المتجهات الأصلية.</p>
@@ -801,8 +801,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'bmp-to-pdf': {
         title: 'تحويل BMP إلى PDF',
-        metaDescription: 'تحويل صور BMP النقطية إلى PDF. دعم الصيغ القديمة مع الحفاظ على الجودة.',
-        keywords: ['تحويل bmp لـ pdf', 'تحويل الصور النقطية لـ pdf', 'محول bmp'],
+        metaDescription: 'تحويل صور BMP النقطية إلى PDF. دعم الصيغ القديمة مع الحفاظ على الجودة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل bmp لـ pdf', 'تحويل الصور النقطية لـ pdf', 'محول bmp', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صور الـ Bitmap (BMP) إلى مستندات PDF. BMP هي صيغة صور قديمة شائعة في بيئات ويندوز، وتسهل هذه الأداة تحويلها إلى صيغة PDF الحديثة.</p>
       <p>ادمج ملفات BMP متعددة في PDF واحد بإعدادات مخصصة. يقوم التحويل بضغط ملفات BMP الكبيرة عادةً مع الحفاظ على جودة الصورة.</p>
@@ -827,8 +827,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'psd-to-pdf': {
         title: 'تحويل PSD إلى PDF',
-        metaDescription: 'تحويل ملفات Adobe Photoshop (PSD) إلى صيغة PDF. يدعم ملفات متعددة ويحافظ على جودة الصورة.',
-        keywords: ['تحويل psd لـ pdf', 'محول فوتوشوب لـ pdf', 'تحويل ملفات psd'],
+        metaDescription: 'تحويل ملفات Adobe Photoshop (PSD) إلى صيغة PDF. يدعم ملفات متعددة ويحافظ على جودة الصورة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل psd لـ pdf', 'محول فوتوشوب لـ pdf', 'تحويل ملفات psd', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات أدوبي فوتوشوب (PSD) إلى مستندات PDF. تتيح لك هذه الأداة عرض ومشاركة تصاميم PSD دون الحاجة لتثبيت برنامج فوتوشوب.</p>
       <p>يمكنك تحويل ملفات PSD متعددة في وقت واحد ودمجها في مستند PDF واحد. تعالج الأداة كل ملف PSD، محولة الطبقات المرئية إلى صفحات PDF عالية الجودة.</p>
@@ -853,8 +853,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'heic-to-pdf': {
         title: 'تحويل HEIC إلى PDF',
-        metaDescription: 'تحويل صور آيفون HEIC إلى PDF. تحويل صيغة صور أبل أصبح سهلاً.',
-        keywords: ['تحويل heic لـ pdf', 'تحويل صور آيفون لـ pdf', 'محول صور أبل'],
+        metaDescription: 'تحويل صور آيفون HEIC إلى PDF. تحويل صيغة صور أبل أصبح سهلاً.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل heic لـ pdf', 'تحويل صور آيفون لـ pdf', 'محول صور أبل', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صور HEIC (صيغة الصور عالية الكفاءة) من أبل إلى مستندات PDF. HEIC هي الصيغة الافتراضية للصور في أجهزة آيفون وآيباد، وهذه الأداة تسهل مشاركتها.</p>
       <p>ادمج صور HEIC متعددة في ملف PDF واحد، وهو أمر مثالي لإنشاء ألبومات صور أو أرشيفات مستندات من صور آيفون الخاصة بك.</p>
@@ -879,8 +879,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'tiff-to-pdf': {
         title: 'تحويل TIFF إلى PDF',
-        metaDescription: 'تحويل صور TIFF إلى PDF. دعم ملفات TIFF متعددة الصفحات وتحويل عالي الجودة.',
-        keywords: ['تحويل tiff لـ pdf', 'محول tif لـ pdf', 'tiff متعدد الصفحات'],
+        metaDescription: 'تحويل صور TIFF إلى PDF. دعم ملفات TIFF متعددة الصفحات وتحويل عالي الجودة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل tiff لـ pdf', 'محول tif لـ pdf', 'tiff متعدد الصفحات', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صور TIFF، بما في ذلك ملفات TIFF متعددة الصفحات، إلى مستندات PDF. تستخدم صيغة TIFF عادةً للمسوحات الضوئية عالية الجودة والرسومات الاحترافية.</p>
       <p>يتم تحويل ملفات TIFF متعددة الصفحات تلقائياً إلى ملفات PDF متعددة الصفحات. يحافظ التحويل على الجودة العالية لصورك الأصلية.</p>
@@ -905,8 +905,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'txt-to-pdf': {
         title: 'تحويل النص إلى PDF',
-        metaDescription: 'تحويل ملفات النص العادي إلى PDF. خصص الخطوط، الهوامش، وتخطيط الصفحة.',
-        keywords: ['تحويل txt لـ pdf', 'محول نص لـ pdf', 'تحويل ملف نصي'],
+        metaDescription: 'تحويل ملفات النص العادي إلى PDF. خصص الخطوط، الهوامش، وتخطيط الصفحة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل txt لـ pdf', 'محول نص لـ pdf', 'تحويل ملف نصي', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات النص العادي (Plain Text) إلى مستندات PDF منسقة. خصص الخطوط والأحجام والهوامش وتخطيط الصفحة لإنشاء مستندات ذات مظهر احترافي من نص بسيط.</p>
       <p>مثالية لتحويل ملفات الأكواد، السجلات (Logs)، الملاحظات، أو أي محتوى نصي عادي إلى صيغة PDF قابلة للمشاركة.</p>
@@ -931,8 +931,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'json-to-pdf': {
         title: 'تحويل JSON إلى PDF',
-        metaDescription: 'تحويل ملفات JSON إلى PDF منسق. تمييز الأكواد وإخراج منظم.',
-        keywords: ['تحويل json لـ pdf', 'عارض json', 'منسق json'],
+        metaDescription: 'تحويل ملفات JSON إلى PDF منسق. تمييز الأكواد وإخراج منظم.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل json لـ pdf', 'عارض json', 'منسق json', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات بيانات JSON إلى مستندات PDF منسقة وسهلة القراءة. يتضمن المخرج تمييزاً للأكواد وبادئات صحيحة لسهولة القراءة.</p>
       <p>مثالية لتوثيق استجابات API، ملفات الإعدادات، أو أي بيانات JSON تحتاج لمشاركتها أو أرشفتها بصيغة مقروءة.</p>
@@ -957,8 +957,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'word-to-pdf': {
         title: 'تحويل Word إلى PDF',
-        metaDescription: 'تحويل مستندات Word (DOCX) إلى PDF. الحفاظ على التنسيق والتخطيط.',
-        keywords: ['تحويل word لـ pdf', 'محول docx لـ pdf', 'تحويل ملفات مايكروسوفت وورد'],
+        metaDescription: 'تحويل مستندات Word (DOCX) إلى PDF. الحفاظ على التنسيق والتخطيط.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل word لـ pdf', 'محول docx لـ pdf', 'تحويل ملفات مايكروسوفت وورد', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة مستندات مايكروسوفت وورد إلى صيغة PDF مع الحفاظ على التنسيق الأصلي والتخطيط وهيكل المحتوى.</p>
       <p>ارفع ملفات DOCX الخاصة بك واحصل على مخرج PDF عالي الجودة مناسب للمشاركة أو الطباعة أو الأرشفة. يحافظ التحويل على تنسيق النص وأنماط الفقرات وهيكل المستند الأساسي.</p>
@@ -983,8 +983,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'excel-to-pdf': {
         title: 'تحويل Excel إلى PDF',
-        metaDescription: 'تحويل جداول بيانات إكسل (XLSX) إلى PDF. الحفاظ على الجداول والبيانات.',
-        keywords: ['تحويل excel لـ pdf', 'محول xlsx لـ pdf', 'تحويل جداول البيانات لـ pdf'],
+        metaDescription: 'تحويل جداول بيانات إكسل (XLSX) إلى PDF. الحفاظ على الجداول والبيانات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل excel لـ pdf', 'محول xlsx لـ pdf', 'تحويل جداول البيانات لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة جداول بيانات مايكروسوفت إكسل إلى صيغة PDF مع الحفاظ على هيكل الجداول وتنظيم البيانات.</p>
       <p>ارفع ملفات XLSX الخاصة بك واحصل على مخرج PDF نظيف بجداول منسقة بشكل صحيح. تتحول كل ورقة عمل في ملفك إلى قسم منفصل في الـ PDF.</p>
@@ -1009,8 +1009,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pptx-to-pdf': {
         title: 'تحويل PowerPoint إلى PDF',
-        metaDescription: 'تحويل عروض PowerPoint التقديمية (PPTX) إلى PDF. الحفاظ على الشرائح والمحتوى.',
-        keywords: ['تحويل powerpoint لـ pdf', 'محول pptx لـ pdf', 'تحويل العروض التقديمية لـ pdf'],
+        metaDescription: 'تحويل عروض PowerPoint التقديمية (PPTX) إلى PDF. الحفاظ على الشرائح والمحتوى.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل powerpoint لـ pdf', 'محول pptx لـ pdf', 'تحويل العروض التقديمية لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة عروض مايكروسوفت باوربوينت التقديمية إلى صيغة PDF، مع الحفاظ على محتوى الشرائح والنصوص لسهولة المشاركة والعرض.</p>
       <p>تتحول كل شريحة إلى صفحة في الـ PDF، مما يحافظ على تدفق العرض التقديمي. مثالية لمشاركة العروض مع أشخاص لا يملكون برنامج باوربوينت.</p>
@@ -1035,8 +1035,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'xps-to-pdf': {
         title: 'تحويل XPS إلى PDF',
-        metaDescription: 'تحويل مستندات XPS إلى صيغة PDF. تحويل عالي الدقة يحافظ على التخطيط والرسومات.',
-        keywords: ['تحويل xps لـ pdf', 'محول xps لـ pdf', 'تحويل oxps لـ pdf'],
+        metaDescription: 'تحويل مستندات XPS إلى صيغة PDF. تحويل عالي الدقة يحافظ على التخطيط والرسومات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل xps لـ pdf', 'محول xps لـ pdf', 'تحويل oxps لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة مستندات مايكروسوفت XPS (مواصفات ورقة XML) إلى صيغة PDF مع الحفاظ على التخطيط الأصلي والنصوص ورسومات المتجهات.</p>
       <p>XPS هي صيغة مستندات ثابتة تشبه PDF. توفر هذه الأداة تحويلاً عالي الدقة باستخدام تحليل XPS أصلي، مما يضمن إعادة إنتاج دقيقة لمستنداتك.</p>
@@ -1061,8 +1061,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'rtf-to-pdf': {
         title: 'تحويل RTF إلى PDF',
-        metaDescription: 'تحويل ملفات RTF (النص الغني) إلى PDF. الحفاظ على تنسيق النص في مستنداتك.',
-        keywords: ['تحويل rtf لـ pdf', 'محول نص غني لـ pdf', 'تحويل ملفات rtf'],
+        metaDescription: 'تحويل ملفات RTF (النص الغني) إلى PDF. الحفاظ على تنسيق النص في مستنداتك.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل rtf لـ pdf', 'محول نص غني لـ pdf', 'تحويل ملفات rtf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات النص الغني (RTF) إلى مستندات PDF. RTF هي صيغة نصية مدعومة على نطاق واسع تتضمن تنسيقات أساسية مثل الخطوط والألوان والأنماط.</p>
       <p>ارفع ملفات RTF الخاصة بك واحصل على مخرج PDF نظيف مع الحفاظ على محتوى النص والتنسيق الأساسي. مثالية لتحويل المستندات القديمة إلى صيغة PDF الحديثة.</p>
@@ -1087,8 +1087,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'epub-to-pdf': {
         title: 'تحويل EPUB إلى PDF',
-        metaDescription: 'تحويل كتب EPUB الإلكترونية إلى PDF. الحفاظ على التنسيق والصور وهيكل الفصول.',
-        keywords: ['تحويل epub لـ pdf', 'محول كتب إلكترونية', 'تحويل ملفات الكتب'],
+        metaDescription: 'تحويل كتب EPUB الإلكترونية إلى PDF. الحفاظ على التنسيق والصور وهيكل الفصول.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل epub لـ pdf', 'محول كتب إلكترونية', 'تحويل ملفات الكتب', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات الكتب الإلكترونية بصيغة EPUB إلى مستندات PDF عالية الجودة. EPUB هي الصيغة الأكثر شهرة للكتب الإلكترونية، وتستخدمها معظم أجهزة القراءة والمكتبات الرقمية.</p>
       <p>تحافظ هذه الأداة على تنسيق النص والصور وهيكل الفصول في كتبك. مثالية للطباعة، الأرشفة، أو مشاركة الكتب بصيغة قابلة للعرض عالمياً.</p>
@@ -1113,8 +1113,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'mobi-to-pdf': {
         title: 'تحويل MOBI إلى PDF',
-        metaDescription: 'تحويل كتب MOBI الإلكترونية إلى PDF. دعم صيغ كيندل مع رندرة عالية الجودة.',
-        keywords: ['تحويل mobi لـ pdf', 'محول kindle لـ pdf', 'تحويل azw لـ pdf'],
+        metaDescription: 'تحويل كتب MOBI الإلكترونية إلى PDF. دعم صيغ كيندل مع رندرة عالية الجودة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل mobi لـ pdf', 'محول kindle لـ pdf', 'تحويل azw لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات كتب أمازون كيندل (MOBI) إلى مستندات PDF عالية الجودة. صيغة MOBI (بما في ذلك AZW و AZW3) هي صيغة الكتب الخاصة بأمازون والمستخدمة في أجهزة كيندل.</p>
       <p>تحافظ هذه الأداة على تنسيق النص والصور وهيكل كتب كيندل الخاصة بك. مثالية للطباعة، الأرشفة، أو القراءة على أجهزة لا تدعم صيغة MOBI.</p>
@@ -1139,8 +1139,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'djvu-to-pdf': {
         title: 'تحويل DJVU إلى PDF',
-        metaDescription: 'تحويل ملفات DJVU إلى PDF. رندرة عالية الجودة للمستندات والكتب الممسوحة ضوئياً.',
-        keywords: ['تحويل djvu لـ pdf', 'محول djvu', 'تحويل الكتب الممسوحة لـ pdf'],
+        metaDescription: 'تحويل ملفات DJVU إلى PDF. رندرة عالية الجودة للمستندات والكتب الممسوحة ضوئياً.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل djvu لـ pdf', 'محول djvu', 'تحويل الكتب الممسوحة لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات DjVu إلى مستندات PDF عالية الجودة. DjVu هي صيغة ملفات مصممة أساساً لتخزين المستندات الممسوحة ضوئياً، خاصة تلك التي تحتوي على مزيج من النصوص والرسومات والصور الفوتوغرافية.</p>
       <p>تقوم هذه الأداة برندرة كل صفحة من ملف DJVU الخاص بك بالدقة التي تختارها (DPI) وتجمعها في مستند PDF. مثالية لتحويل الكتب الممسوحة ضوئياً والأدلة التقنية والوثائق الأرشيفية.</p>
@@ -1165,8 +1165,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'fb2-to-pdf': {
         title: 'تحويل FB2 إلى PDF',
-        metaDescription: 'تحويل كتب FictionBook (FB2) الإلكترونية إلى PDF. يدعم ملفات متعددة مع رندرة عالية الجودة.',
-        keywords: ['تحويل fb2 لـ pdf', 'محول كتب fb2', 'تحويل fb2.zip لـ pdf'],
+        metaDescription: 'تحويل كتب FictionBook (FB2) الإلكترونية إلى PDF. يدعم ملفات متعددة مع رندرة عالية الجودة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل fb2 لـ pdf', 'محول كتب fb2', 'تحويل fb2.zip لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات الكتب الإلكترونية بصيغة FictionBook (FB2) إلى مستندات PDF عالية الجودة. FB2 هي صيغة كتب إلكترونية شهيرة تعتمد على XML وتستخدم على نطاق واسع.</p>
       <p>تدعم هذه الأداة ملفات .fb2 و .fb2.zip، ويمكنها معالجة ملفات متعددة في آن واحد. تحافظ على تنسيق النص والصور وهيكل فصول كتبك.</p>
@@ -1193,8 +1193,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-jpg': {
         title: 'تحويل PDF إلى JPG',
-        metaDescription: 'تحويل صفحات PDF إلى صور JPG. استخراج عالي الجودة بدقة قابلة للتخصيص.',
-        keywords: ['تحويل pdf لـ jpg', 'pdf لـ jpeg', 'تحويل مستند لصور', 'استخراج صور من pdf'],
+        metaDescription: 'تحويل صفحات PDF إلى صور JPG. استخراج عالي الجودة بدقة قابلة للتخصيص.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لـ jpg', 'pdf لـ jpeg', 'تحويل مستند لصور', 'استخراج صور من pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صفحات مستندات PDF إلى صور JPG عالية الجودة. استخرج كل الصفحات أو اختر صفحات محددة للتحويل، مع خيارات تخصيص الدقة والجودة.</p>
       <p>مثالية لاستخراج الصور من ملفات PDF، إنشاء صور مصغرة، أو تحويل المستندات للاستخدام على الويب.</p>
@@ -1219,8 +1219,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-png': {
         title: 'تحويل PDF إلى PNG',
-        metaDescription: 'تحويل صفحات PDF إلى صور PNG. جودة بدون فقدان مع دعم الشفافية.',
-        keywords: ['تحويل pdf لـ png', 'استخراج صور png من pdf', 'تحويل pdf بدون فقدان جودة'],
+        metaDescription: 'تحويل صفحات PDF إلى صور PNG. جودة بدون فقدان مع دعم الشفافية.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لـ png', 'استخراج صور png من pdf', 'تحويل pdf بدون فقدان جودة', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صفحات مستندات PDF إلى صور PNG عالية الجودة مع ضغط بدون فقدان للجودة. تحافظ صيغة PNG على جودة الصورة تماماً وتدعم الشفافية.</p>
       <p>مثالية لاستخراج الرسومات أو المخططات أو أي محتوى يكون فيه الحفاظ على الجودة أمراً حاسماً.</p>
@@ -1245,8 +1245,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-webp': {
         title: 'تحويل PDF إلى WebP',
-        metaDescription: 'تحويل صفحات PDF إلى صور WebP. صيغة حديثة بضغط ممتاز.',
-        keywords: ['تحويل pdf لـ webp', 'محول صور حديث', 'صور محسنة للويب'],
+        metaDescription: 'تحويل صفحات PDF إلى صور WebP. صيغة حديثة بضغط ممتاز.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لـ webp', 'محول صور حديث', 'صور محسنة للويب', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صفحات مستندات PDF إلى صور WebP، وهي صيغة الصور الحديثة من جوجل التي توفر ضغطاً ممتازاً مع جودة عالية.</p>
       <p>تكون صور WebP أصغر حجماً من JPG أو PNG مع الحفاظ على جودة مماثلة، مما يجعلها مثالية للاستخدام على الويب.</p>
@@ -1271,8 +1271,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-bmp': {
         title: 'تحويل PDF إلى BMP',
-        metaDescription: 'تحويل صفحات PDF إلى صور BMP النقطية. صيغة غير مضغوطة لأقصى توافق.',
-        keywords: ['تحويل pdf لـ bmp', 'تحويل pdf لصور نقطية', 'صور غير مضغوطة'],
+        metaDescription: 'تحويل صفحات PDF إلى صور BMP النقطية. صيغة غير مضغوطة لأقصى توافق.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لـ bmp', 'تحويل pdf لصور نقطية', 'صور غير مضغوطة', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صفحات مستندات PDF إلى صور BMP النقطية (Bitmap). BMP هي صيغة غير مضغوطة تضمن أقصى قدر من التوافق مع الأنظمة والتطبيقات القديمة.</p>
       <p>بينما تكون ملفات BMP أكبر حجماً من الصيغ المضغوطة، إلا أنها توفر جودة مثالية وتوافقاً عالمياً.</p>
@@ -1297,8 +1297,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-tiff': {
         title: 'تحويل PDF إلى TIFF',
-        metaDescription: 'تحويل PDF إلى صور TIFF. جودة احترافية مع دعم الصفحات المتعددة.',
-        keywords: ['تحويل pdf لـ tiff', 'صور احترافية', 'tiff متعدد الصفحات'],
+        metaDescription: 'تحويل PDF إلى صور TIFF. جودة احترافية مع دعم الصفحات المتعددة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لـ tiff', 'صور احترافية', 'tiff متعدد الصفحات', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة مستندات PDF إلى صور TIFF عالية الجودة. TIFF هي الصيغة المفضلة للطباعة الاحترافية والأرشفة بسبب ضغطها الخالي من فقدان الجودة.</p>
       <p>يمكنك إنشاء صور TIFF لصفحة واحدة أو دمج كافة الصفحات في ملف TIFF واحد متعدد الصفحات. مثالي للأغراض الاحترافية والأرشفة.</p>
@@ -1323,8 +1323,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-svg': {
         title: 'تحويل PDF إلى SVG',
-        metaDescription: 'تحويل صفحات PDF إلى رسومات SVG متجهة. قابلية توسع مثالية بأي حجم مع تصدير الصفحات الفردية.',
-        keywords: ['تحويل pdf لـ svg', 'رسومات متجهة', 'pdf قابل للتوسع', 'محول svg'],
+        metaDescription: 'تحويل صفحات PDF إلى رسومات SVG متجهة. قابلية توسع مثالية بأي حجم مع تصدير الصفحات الفردية.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لـ svg', 'رسومات متجهة', 'pdf قابل للتوسع', 'محول svg', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة كل صفحة من مستند PDF الخاص بك إلى رسم متجه قابل للتوسع (SVG). SVG هي صيغة متجهة تحافظ على جودة مثالية عند أي مستوى زوم أو حجم طباعة.</p>
       <p>على عكس الصيغ النقطية (JPG, PNG)، لا تصبح رسومات SVG منقطة (Pixelated) أبداً عند تكبيرها. هذا يجعلها مثالية للشعارات، المخططات، الرسومات التقنية، وأي محتوى يحتاج للعرض بأحجام مختلفة.</p>
@@ -1352,8 +1352,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-greyscale': {
         title: 'تحويل PDF إلى تدرج الرمادي',
-        metaDescription: 'تحويل ملف PDF ملون إلى تدرج الرمادي. تقليل حجم الملف وتجهيزه للطباعة بالأبيض والأسود.',
-        keywords: ['تحويل pdf لتدرج الرمادي', 'pdf أبيض وأسود', 'إزالة الألوان من pdf'],
+        metaDescription: 'تحويل ملف PDF ملون إلى تدرج الرمادي. تقليل حجم الملف وتجهيزه للطباعة بالأبيض والأسود.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لتدرج الرمادي', 'pdf أبيض وأسود', 'إزالة الألوان من pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة مستندات PDF الملونة إلى تدرج الرمادي (أبيض وأسود). يقلل ذلك من حجم الملف ويجهز المستندات للطباعة باللونين الأبيض والأسود فقط.</p>
       <p>يحافظ التحويل على وضوح النص وتفاصيل الصور مع إزالة معلومات الألوان. مثالي لطباعة المسودات أو إنشاء نسخ صديقة للطابعات.</p>
@@ -1378,8 +1378,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-json': {
         title: 'تحويل PDF إلى JSON',
-        metaDescription: 'استخراج محتوى PDF إلى صيغة JSON. الحصول على بيانات منظمة من مستندات PDF.',
-        keywords: ['تحويل pdf لـ json', 'استخراج بيانات pdf', 'محلل pdf', 'بيانات منظمة'],
+        metaDescription: 'استخراج محتوى PDF إلى صيغة JSON. الحصول على بيانات منظمة من مستندات PDF.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لـ json', 'استخراج بيانات pdf', 'محلل pdf', 'بيانات منظمة', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تستخرج هذه الأداة المحتوى من مستندات PDF إلى صيغة JSON منظمة. استخرج النص، البيانات الوصفية، معلومات الصفحات، وهيكل المستند للاستخدام البرمجي.</p>
       <p>مثالية لاستخراج البيانات، تحليل المستندات، أو دمج محتوى PDF في التطبيقات وسير العمل البرمجي.</p>
@@ -1404,8 +1404,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-pptx': {
         title: 'تحويل PDF إلى PowerPoint',
-        metaDescription: 'تحويل PDF إلى عرض PowerPoint تقديمي. كل صفحة تصبح شريحة عالية الجودة.',
-        keywords: ['تحويل pdf لـ pptx', 'تحويل pdf لـ powerpoint', 'تحويل شرائح pdf'],
+        metaDescription: 'تحويل PDF إلى عرض PowerPoint تقديمي. كل صفحة تصبح شريحة عالية الجودة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لـ pptx', 'تحويل pdf لـ powerpoint', 'تحويل شرائح pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة مستندات PDF الخاصة بك إلى عروض PowerPoint تقديمية قابلة للتعديل (PPTX). تتحول كل صفحة PDF إلى شريحة عالية الجودة، مع الحفاظ على التخطيط البصري تماماً.</p>
       <p>هذه الأداة مثالية لتحويل التقارير أو المذكرات أو أي محتوى PDF إلى صيغة عرض تقديمي. يمكنك اختيار جودة الصورة (DPI) للموازنة بين حجم الملف والوضوح البصري.</p>
@@ -1430,8 +1430,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-excel': {
         title: 'تحويل PDF إلى Excel',
-        metaDescription: 'تحويل PDF إلى جداول بيانات إكسل. استخراج الجداول إلى صيغة XLSX.',
-        keywords: ['تحويل pdf لـ excel', 'تحويل جداول pdf', 'استخراج جداول'],
+        metaDescription: 'تحويل PDF إلى جداول بيانات إكسل. استخراج الجداول إلى صيغة XLSX.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل pdf لـ excel', 'تحويل جداول pdf', 'استخراج جداول', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة مستندات PDF الخاصة بك إلى جداول بيانات مايكروسوفت إكسل قابلة للتعديل (XLSX). تقوم الأداة تلقائياً باكتشاف الجداول في ملفك واستخراجها في أوراق عمل منفصلة.</p>
       <p>هذه الأداة مثالية لتحليل التقارير المالية، الفواتير، أو أي بيانات مقدمة في جداول. يتم تنظيم جداول كل صفحة في أوراق عمل لتسهيل معالجة البيانات.</p>
@@ -1457,8 +1457,8 @@ export const toolContentAr: Record<string, ToolContent> = {
     // ==================== ORGANIZE & MANAGE ====================
     'ocr-pdf': {
         title: 'التعرف الضوئي (OCR PDF)',
-        metaDescription: 'اجعل ملفات PDF الممسوحة ضوئياً قابلة للبحث باستخدام OCR. استخرج النص من الصور والمستندات الممسوحة.',
-        keywords: ['ocr pdf', 'pdf قابل للبحث', 'التعرف على النص', 'تحويل المسح لنص'],
+        metaDescription: 'اجعل ملفات PDF الممسوحة ضوئياً قابلة للبحث باستخدام OCR. استخرج النص من الصور والمستندات الممسوحة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['ocr pdf', 'pdf قابل للبحث', 'التعرف على النص', 'تحويل المسح لنص', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تستخدم أداة OCR PDF تقنية التعرف الضوئي على الحروف لاستخراج النصوص من المستندات الممسوحة ضوئياً والصور داخل ملفات PDF. حول ملفات PDF المعتمدة على الصور إلى مستندات نصية قابلة للبحث والتحديد.</p>
       <p>دعم اللغات المتعددة يضمن دقة التعرف على النص بغض النظر عن لغة المستند. يتم الحفاظ على التخطيط الأصلي مع إضافة طبقة نصية قابلة للبحث.</p>
@@ -1483,8 +1483,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'alternate-merge': {
         title: 'الدمج المتناوب',
-        metaDescription: 'دمج ملفات PDF بالتناوب بين الصفحات. اجمع مسوحات الوجه والظهر في مستند واحد.',
-        keywords: ['دمج متناوب', 'تداخل pdf', 'دمج المسوحات الضوئية', 'دمج وجه وظهر'],
+        metaDescription: 'دمج ملفات PDF بالتناوب بين الصفحات. اجمع مسوحات الوجه والظهر في مستند واحد.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['دمج متناوب', 'تداخل pdf', 'دمج المسوحات الضوئية', 'دمج وجه وظهر', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تجمع أداة الدمج المتناوب بين ملفي PDF عن طريق تداخل صفحاتهما بالتناوب. هذا مثالي لدمج الصفحات الأمامية والخلفية الممسوحة ضوئياً بشكل منفصل في مستند واحد.</p>
       <p>ارفع ملفي PDF وستقوم الأداة بدمجهما بأخذ صفحة من كل ملف بالتناوب. يمكنك أيضاً عكس ترتيب أحد المستندات للمسوحات التي تمت من الخلف للأمام.</p>
@@ -1509,8 +1509,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'add-attachments': {
         title: 'إضافة مرفقات',
-        metaDescription: 'تضمين ملفات داخل مستندات PDF. أرفق أي نوع من الملفات بملفات الـ PDF الخاصة بك.',
-        keywords: ['مرفقات pdf', 'تضمين ملفات', 'إرفاق بـ pdf', 'حقيبة pdf'],
+        metaDescription: 'تضمين ملفات داخل مستندات PDF. أرفق أي نوع من الملفات بملفات الـ PDF الخاصة بك.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['مرفقات pdf', 'تضمين ملفات', 'إرفاق بـ pdf', 'حقيبة pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم هذه الأداة بتضمين ملفات من أي نوع داخل مستندات PDF الخاصة بك. أرفق جداول بيانات، صور، ملفات مصدر، أو أي مستندات أخرى لإنشاء حزم PDF شاملة.</p>
       <p>يتم دمج المرفقات داخل الـ PDF ويمكن للمستلمين استخراجها باستخدام أي قارئ PDF. مثالية لتوزيع الملفات المرتبطة ببعضها البعض.</p>
@@ -1535,8 +1535,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'extract-attachments': {
         title: 'استخراج المرفقات',
-        metaDescription: 'استخراج الملفات المدمجة من الـ PDF. تحميل كافة المرفقات من مستندات PDF.',
-        keywords: ['استخراج المرفقات', 'مرفقات pdf', 'تحميل الملفات المدمجة', 'استخراج من pdf'],
+        metaDescription: 'استخراج الملفات المدمجة من الـ PDF. تحميل كافة المرفقات من مستندات PDF.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['استخراج المرفقات', 'مرفقات pdf', 'تحميل الملفات المدمجة', 'استخراج من pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تستعيد هذه الأداة كافة الملفات المدمجة من مستندات PDF. حمل المرفقات بشكل فردي أو كأرشيف ZIP يحتوي على كافة الملفات.</p>
       <p>مثالية للوصول إلى الملفات المصدر أو البيانات أو المواد التكميلية المدمجة داخل حزم PDF.</p>
@@ -1561,8 +1561,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'extract-images': {
         title: 'استخراج الصور من PDF',
-        metaDescription: 'استخراج كافة الصور المدمجة من ملفات PDF. حمل الصور بشكل فردي أو كأرشيف ZIP. فلترة الصور الصغيرة تلقائياً.',
-        keywords: ['استخراج صور pdf', 'استخراج الصور من pdf', 'تحميل صور pdf', 'pdf لصور'],
+        metaDescription: 'استخراج كافة الصور المدمجة من ملفات PDF. حمل الصور بشكل فردي أو كأرشيف ZIP. فلترة الصور الصغيرة تلقائياً.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['استخراج صور pdf', 'استخراج الصور من pdf', 'تحميل صور pdf', 'pdf لصور', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تستعيد هذه الأداة كافة الصور المدمجة من مستندات PDF الخاصة بك. حمل صوراً عالية الجودة بشكل فردي أو كأرشيف ZIP مريح.</p>
       <p>تقوم الأداة تلقائياً بفلترة الصور الصغيرة مثل الأيقونات والزخارف بناءً على عتبات حجم قابلة للتخصيص. قم بمعالجة عدة ملفات PDF في آن واحد لاستخراج الصور بكفاءة.</p>
@@ -1588,8 +1588,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'edit-attachments': {
         title: 'تعديل المرفقات',
-        metaDescription: 'إدارة مرفقات PDF. عرض، إعادة تسمية، وحذف الملفات المدمجة.',
-        keywords: ['تعديل مرفقات pdf', 'إدارة ملفات pdf', 'إزالة مرفقات', 'إعادة تسمية المرفقات'],
+        metaDescription: 'إدارة مرفقات PDF. عرض، إعادة تسمية، وحذف الملفات المدمجة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تعديل مرفقات pdf', 'إدارة ملفات pdf', 'إزالة مرفقات', 'إعادة تسمية المرفقات', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تتيح لك أداة تعديل المرفقات إدارة الملفات المدمجة في مستندات PDF. اعرض كافة المرفقات، أعد تسميتها، أو احذف الملفات غير المرغوب فيها من الـ PDF.</p>
       <p>مثالية لتنظيف حزم PDF أو تحديث معلومات المرفقات قبل التوزيع.</p>
@@ -1614,8 +1614,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'divide-pages': {
         title: 'تقسيم الصفحات',
-        metaDescription: 'تقسيم صفحات PDF إلى أقسام متعددة. تقسيم الصفحات أفقياً أو عمودياً.',
-        keywords: ['تقسيم صفحات pdf', 'قسم الصفحة', 'قطع صفحة pdf', 'أجزاء الصفحة'],
+        metaDescription: 'تقسيم صفحات PDF إلى أقسام متعددة. تقسيم الصفحات أفقياً أو عمودياً.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تقسيم صفحات pdf', 'قسم الصفحة', 'قطع صفحة pdf', 'أجزاء الصفحة', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقسم هذه الأداة صفحات PDF الفردية إلى أقسام متعددة. اقطع الصفحات أفقياً أو عمودياً أو إلى شبكة لإنشاء صفحات متعددة من صفحة واحدة.</p>
       <p>مثالية لتقسيم المستندات الممسوحة ضوئياً التي تحتوي على عدة عناصر في الصفحة الواحدة، أو تقسيم الصفحات ذات التنسيق الكبير إلى أحجام قياسية.</p>
@@ -1640,8 +1640,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'add-blank-page': {
         title: 'إضافة صفحة فارغة',
-        metaDescription: 'إدراج صفحات فارغة في مستندات PDF. أضف صفحات خالية في أي موضع.',
-        keywords: ['إضافة صفحة فارغة', 'إدراج صفحة', 'صفحة خالية', 'إدراج صفحات pdf'],
+        metaDescription: 'إدراج صفحات فارغة في مستندات PDF. أضف صفحات خالية في أي موضع.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إضافة صفحة فارغة', 'إدراج صفحة', 'صفحة خالية', 'إدراج صفحات pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تدرج هذه الأداة صفحات فارغة في مستندات PDF الخاصة بك في أي موضع. أضف صفحات قبل أو بعد أو بين الصفحات الحالية مع حجم صفحة قابل للتخصيص.</p>
       <p>مثالية لإضافة مساحة للملاحظات، أو إنشاء فواصل للأقسام، أو تجهيز المستندات للطباعة.</p>
@@ -1666,8 +1666,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'reverse-pages': {
         title: 'عكس الصفحات',
-        metaDescription: 'عكس ترتيب صفحات PDF. قلب صفحات المستند من الأخيرة للأولى.',
-        keywords: ['عكس pdf', 'قلب ترتيب الصفحات', 'عكس المستند'],
+        metaDescription: 'عكس ترتيب صفحات PDF. قلب صفحات المستند من الأخيرة للأولى.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['عكس pdf', 'قلب ترتيب الصفحات', 'عكس المستند', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقلب هذه الأداة ترتيب الصفحات في مستند PDF الخاص بك، بحيث تصبح الصفحة الأخيرة هي الأولى والأولى هي الأخيرة. مفيد للمستندات الممسوحة ضوئياً بترتيب عكسي أو لاحتياجات الطباعة المحددة.</p>
       <p>تعالج الأداة المستند بأكمله أو نطاقات صفحات محددة، مع الحفاظ على كافة المحتويات والتنسيقات.</p>
@@ -1692,8 +1692,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'rotate-pdf': {
         title: 'تدوير PDF',
-        metaDescription: 'تدوير صفحات PDF. قم بتدوير الصفحات 90، 180، أو 270 درجة.',
-        keywords: ['تدوير pdf', 'قلب صفحات pdf', 'دوران pdf', 'إصلاح الاتجاه'],
+        metaDescription: 'تدوير صفحات PDF. قم بتدوير الصفحات 90، 180، أو 270 درجة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تدوير pdf', 'قلب صفحات pdf', 'دوران pdf', 'إصلاح الاتجاه', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم هذه الأداة بتدوير صفحات مستندك بمقدار 90 أو 180 أو 270 درجة. أصلح المسوحات الممسوحة بشكل خاطئ، أو قم بتدوير الصفحات العرضية (Landscape)، أو اضبط اتجاه الصفحة للعرض.</p>
       <p>قم بتدوير كل الصفحات بشكل موحد أو اختر صفحات معينة لتدويرها بشكل فردي. تحافظ الأداة على كافة المحتويات والتنسيقات.</p>
@@ -1718,8 +1718,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'n-up-pdf': {
         title: 'طباعة عدة صفحات في ورقة (N-Up)',
-        metaDescription: 'طباعة صفحات PDF متعددة في ورقة واحدة. أنشئ تخطيطات 2 في 1، 4 في 1، أو تخطيطات مخصصة.',
-        keywords: ['n-up pdf', 'عدة صفحات في ورقة', 'طباعة مصغرة', 'تخطيط الصفحة'],
+        metaDescription: 'طباعة صفحات PDF متعددة في ورقة واحدة. أنشئ تخطيطات 2 في 1، 4 في 1، أو تخطيطات مخصصة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['n-up pdf', 'عدة صفحات في ورقة', 'طباعة مصغرة', 'تخطيط الصفحة', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم أداة N-Up بترتيب صفحات متعددة في ورقة واحدة، مما ينشئ تخطيطات 2 في 1 أو 4 في 1 أو 6 في 1 أو 9 في 1 أو تخطيطات مخصصة. مثالية لتوفير الورق عند الطباعة أو إنشاء مذكرات.</p>
       <p>اختر من بين التخطيطات الجاهزة أو أنشئ ترتيبات مخصصة. تقوم الأداة تلقائياً بتغيير حجم الصفحات ووضعها لتحقيق أفضل النتائج.</p>
@@ -1744,8 +1744,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'combine-single-page': {
         title: 'دمج في صفحة واحدة',
-        metaDescription: 'ربط صفحات PDF في صفحة واحدة مستمرة. إنشاء مستندات قابلة للتمرير بصفحة واحدة.',
-        keywords: ['دمج الصفحات', 'pdf صفحة واحدة', 'ربط الصفحات', 'تمرير مستمر'],
+        metaDescription: 'ربط صفحات PDF في صفحة واحدة مستمرة. إنشاء مستندات قابلة للتمرير بصفحة واحدة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['دمج الصفحات', 'pdf صفحة واحدة', 'ربط الصفحات', 'تمرير مستمر', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم هذه الأداة بربط كافة صفحات PDF في صفحة واحدة مستمرة. أنشئ مستندات قابلة للتمرير مثالية للعرض على الويب أو القراءة المتصلة.</p>
       <p>يتم ضم الصفحات عمودياً مع مسافات قابلة للتخصيص. النتيجة هي صفحة واحدة طويلة تحتوي على كافة المحتويات.</p>
@@ -1770,8 +1770,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'view-metadata': {
         title: 'عرض البيانات الوصفية',
-        metaDescription: 'عرض خصائص مستند PDF. شاهد المؤلف، العنوان، التواريخ، والبيانات الوصفية الأخرى.',
-        keywords: ['البيانات الوصفية لـ pdf', 'خصائص المستند', 'معلومات pdf', 'تفاصيل pdf'],
+        metaDescription: 'عرض خصائص مستند PDF. شاهد المؤلف، العنوان، التواريخ، والبيانات الوصفية الأخرى.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['البيانات الوصفية لـ pdf', 'خصائص المستند', 'معلومات pdf', 'تفاصيل pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تعرض هذه الأداة كافة خصائص المستند والبيانات الوصفية (Metadata) من ملفات PDF الخاصة بك. شاهد المؤلف، العنوان، الموضوع، الكلمات المفتاحية، تاريخ الإنشاء، تاريخ التعديل، والمزيد.</p>
       <p>مفيد لتدقيق المستندات، التحقق من معلومات الملف، أو التأكد من أصالة المستند.</p>
@@ -1796,8 +1796,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'edit-metadata': {
         title: 'تعديل البيانات الوصفية',
-        metaDescription: 'تعديل خصائص مستند PDF. غير العنوان، المؤلف، الموضوع، والكلمات المفتاحية.',
-        keywords: ['تعديل بيانات pdf', 'تغيير خصائص pdf', 'مؤلف pdf', 'معلومات المستند'],
+        metaDescription: 'تعديل خصائص مستند PDF. غير العنوان، المؤلف، الموضوع، والكلمات المفتاحية.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تعديل بيانات pdf', 'تغيير خصائص pdf', 'مؤلف pdf', 'معلومات المستند', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تسمح لك هذه الأداة بتعديل خصائص المستند في ملفات PDF الخاصة بك. غير العنوان، المؤلف، الموضوع، الكلمات المفتاحية، وحقول البيانات الوصفية الأخرى.</p>
       <p>مثالية لتصحيح معلومات المستند، أو إضافة الإسناد الصحيح، أو تجهيز الملفات للتوزيع.</p>
@@ -1822,8 +1822,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-zip': {
         title: 'تحويل ملفات PDF إلى ZIP',
-        metaDescription: 'حزم ملفات PDF متعددة في أرشيف ZIP واحد. ضغط وتجميع ملفات PDF.',
-        keywords: ['pdf لـ zip', 'ضغط ملفات pdf', 'تجميع pdf', 'أرشفة pdf'],
+        metaDescription: 'حزم ملفات PDF متعددة في أرشيف ZIP واحد. ضغط وتجميع ملفات PDF.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['pdf لـ zip', 'ضغط ملفات pdf', 'تجميع pdf', 'أرشفة pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم هذه الأداة بحزم ملفات PDF متعددة في أرشيف ZIP واحد. قم بضغط وتجميع ملفات PDF الخاصة بك لتسهيل مشاركتها أو تخزينها أو نسخها احتياطياً.</p>
       <p>تنشئ الأداة أرشيفاً مضغوطاً يحتوي على كافة ملفاتك، مما يقلل الحجم الإجمالي ويبسط إدارة الملفات.</p>
@@ -1848,8 +1848,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'compare-pdfs': {
         title: 'مقارنة ملفات PDF',
-        metaDescription: 'مقارنة مستندين من نوع PDF. إبراز الاختلافات بين الإصدارات.',
-        keywords: ['مقارنة pdf', 'فروقات pdf', 'مقارنة المستندات', 'مقارنة الإصدارات'],
+        metaDescription: 'مقارنة مستندين من نوع PDF. إبراز الاختلافات بين الإصدارات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['مقارنة pdf', 'فروقات pdf', 'مقارنة المستندات', 'مقارنة الإصدارات', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحلل هذه الأداة مستندين من نوع PDF وتبرز الاختلافات بينهما. مثالية لمراجعة مراجعات المستندات، أو التحقق من تغييرات العقود، أو التأكد من التعديلات.</p>
       <p>اعرض المستندات جنباً إلى جنب أو في وضع التراكب (Overlay) مع إبراز الاختلافات. تحدد الأداة التغييرات في النص، والإضافات، والحذف.</p>
@@ -1874,8 +1874,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'posterize-pdf': {
         title: 'تحويل PDF لبوستر',
-        metaDescription: 'تقسيم صفحات PDF الكبيرة إلى أجزاء قابلة للطباعة. إنشاء بوسترات من صفحات PDF.',
-        keywords: ['pdf لبوستر', 'تقسيم pdf', 'طباعة كبيرة', 'بوستر pdf'],
+        metaDescription: 'تقسيم صفحات PDF الكبيرة إلى أجزاء قابلة للطباعة. إنشاء بوسترات من صفحات PDF.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['pdf لبوستر', 'تقسيم pdf', 'طباعة كبيرة', 'بوستر pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقسم هذه الأداة صفحات PDF ذات الحجم الكبير إلى أجزاء (Tiles) أصغر يمكن طباعتها على ورق قياسي وتجميعها لتكوين بوستر. مثالية لطباعة المخططات الكبيرة، أو الخرائط، أو الأعمال الفنية.</p>
       <p>قم بتهيئة حجم الشبكة والتداخل (Overlap) لسهولة التجميع. تحسب الأداة تلقائياً أبعاد الأجزاء لحجم المخرج المستهدف.</p>
@@ -1901,8 +1901,8 @@ export const toolContentAr: Record<string, ToolContent> = {
     // ==================== OPTIMIZE & REPAIR ====================
     'fix-page-size': {
         title: 'إصلاح حجم الصفحة',
-        metaDescription: 'توحيد أحجام صفحات PDF. تحويل كافة الصفحات إلى أبعاد موحدة.',
-        keywords: ['إصلاح حجم الصفحة', 'توحيد pdf', 'صفحات موحدة', 'تغيير حجم صفحات pdf'],
+        metaDescription: 'توحيد أحجام صفحات PDF. تحويل كافة الصفحات إلى أبعاد موحدة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إصلاح حجم الصفحة', 'توحيد pdf', 'صفحات موحدة', 'تغيير حجم صفحات pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم هذه الأداة بتوحيد أبعاد كافة صفحات مستند PDF الخاص بك. حول المستندات ذات الأحجام المختلطة إلى أحجام صفحات متسقة لتقديمها بشكل احترافي أو لطباعتها.</p>
       <p>اختر من بين الأحجام القياسية (A4، Letter، إلخ) أو اضبط أبعاداً مخصصة. يتم تغيير حجم المحتوى أو وضعه في المنتصف ليتناسب مع حجم الصفحة الجديد.</p>
@@ -1927,8 +1927,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'linearize-pdf': {
         title: 'تحسين الويب (Linearization)',
-        metaDescription: 'تحسين PDF للعرض السريع على الويب. تمكين التحميل التدريجي.',
-        keywords: ['تحسين الويب لـ pdf', 'عرض الويب السريع', 'تحسين pdf', 'pdf تدريجي'],
+        metaDescription: 'تحسين PDF للعرض السريع على الويب. تمكين التحميل التدريجي.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحسين الويب لـ pdf', 'عرض الويب السريع', 'تحسين pdf', 'pdf تدريجي', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحسن هذه الأداة مستنداتك للعرض السريع على الويب. يمكن لملفات PDF المحسنة (Linearized) البدء في العرض قبل اكتمال تحميل الملف بالكامل، مما يحسن تجربة المستخدم.</p>
       <p>يُعرف هذا أيضاً باسم "Fast Web View"، حيث تقوم هذه العملية بإعادة تنظيم هيكل PDF للتحميل التدريجي في متصفحات الويب.</p>
@@ -1953,8 +1953,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'page-dimensions': {
         title: 'أبعاد الصفحة',
-        metaDescription: 'تحليل أحجام صفحات PDF. عرض أبعاد كافة الصفحات في مستندك.',
-        keywords: ['حجم صفحة pdf', 'أبعاد الصفحة', 'قياسات pdf', 'حجم المستند'],
+        metaDescription: 'تحليل أحجام صفحات PDF. عرض أبعاد كافة الصفحات في مستندك.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['حجم صفحة pdf', 'أبعاد الصفحة', 'قياسات pdf', 'حجم المستند', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحلل هذه الأداة وتعرض حجم كل صفحة في مستند PDF الخاص بك. اعرض الأبعاد بوحدات مختلفة (بوصة، ملم، نقاط) وحدد الصفحات ذات الأحجام غير القياسية.</p>
       <p>مفيد لتجهيز الطباعة، تحليل المستندات، أو تحديد أحجام الصفحات غير المتسقة.</p>
@@ -1979,8 +1979,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'remove-restrictions': {
         title: 'إزالة القيود',
-        metaDescription: 'إزالة قيود PDF. فك قفل أذونات الطباعة والنسخ والتعديل.',
-        keywords: ['إزالة قيود pdf', 'فك قفل pdf', 'أذونات pdf', 'إلغاء قيود pdf'],
+        metaDescription: 'إزالة قيود PDF. فك قفل أذونات الطباعة والنسخ والتعديل.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إزالة قيود pdf', 'فك قفل pdf', 'أذونات pdf', 'إلغاء قيود pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم هذه الأداة بفك قفل ملفات PDF التي تحتوي على قيود أذونات تمنع الطباعة أو النسخ أو التعديل. تزيل هذه الأداة قيود "كلمة مرور المالك" مع الحفاظ على محتوى المستند.</p>
       <p>ملاحظة: لا يمكن لهذه الأداة إزالة "كلمة مرور المستخدم" التي تمنع فتح المستند. استخدم أداة "فك تشفير PDF" للملفات المحمية بكلمة مرور للفتح.</p>
@@ -2005,8 +2005,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'repair-pdf': {
         title: 'إصلاح PDF',
-        metaDescription: 'إصلاح ملفات PDF التالفة. استعادة وتصليح المستندات المتضررة.',
-        keywords: ['إصلاح pdf', 'تصليح pdf', 'استعادة pdf', 'pdf تالف'],
+        metaDescription: 'إصلاح ملفات PDF التالفة. استعادة وتصليح المستندات المتضررة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إصلاح pdf', 'تصليح pdf', 'استعادة pdf', 'pdf تالف', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحاول أداة إصلاح PDF تصليح الملفات المتضررة أو التالفة. تحلل الأداة هيكل المستند وتعيد بناءه لاستعادة أكبر قدر ممكن من المحتوى.</p>
       <p>مفيدة لاستعادة الملفات التي لا تفتح، أو تظهر أخطاء، أو تحتوي على محتوى مفقود بسبب التلف.</p>
@@ -2032,8 +2032,8 @@ export const toolContentAr: Record<string, ToolContent> = {
     // ==================== SECURE PDF ====================
     'encrypt-pdf': {
         title: 'تشفير PDF',
-        metaDescription: 'حماية ملفات PDF بكلمة مرور. أضف التشفير واضبط الأذونات.',
-        keywords: ['تشفير pdf', 'حماية pdf بكلمة مرور', 'تأمين pdf', 'تشفير المستند'],
+        metaDescription: 'حماية ملفات PDF بكلمة مرور. أضف التشفير واضبط الأذونات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تشفير pdf', 'حماية pdf بكلمة مرور', 'تأمين pdf', 'تشفير المستند', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تضيف أداة تشفير PDF حماية بكلمة مرور وتشفير لمستنداتك. اضبط كلمات مرور المستخدم لمنع الفتح، وكلمات مرور المالك للتحكم في الأذونات مثل الطباعة والنسخ.</p>
       <p>اختر من بين مستويات تشفير مختلفة (128 بت أو 256 بت AES) لتلبية احتياجاتك الأمنية.</p>
@@ -2058,8 +2058,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'sanitize-pdf': {
         title: 'تطهير PDF (Sanitize)',
-        metaDescription: 'إزالة البيانات المخفية من ملفات PDF. تنظيف البيانات الوصفية، السكريبتات، والمعلومات الحساسة.',
-        keywords: ['تطهير pdf', 'تنظيف pdf', 'إزالة البيانات المخفية', 'خصوصية pdf'],
+        metaDescription: 'إزالة البيانات المخفية من ملفات PDF. تنظيف البيانات الوصفية، السكريبتات، والمعلومات الحساسة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تطهير pdf', 'تنظيف pdf', 'إزالة البيانات المخفية', 'خصوصية pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم أداة تطهير PDF بإزالة البيانات المخفية والمعلومات التي قد تكون حساسة من مستنداتك. جرد الملف من البيانات الوصفية، والسكريبتات المدمجة، والمرفقات، والتعليقات، وغيرها من المحتويات المخفية.</p>
       <p>ضرورية لتجهيز المستندات للتوزيع العام أو عندما تكون الخصوصية أمراً بالغ الأهمية.</p>
@@ -2084,8 +2084,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'decrypt-pdf': {
         title: 'فك تشفير PDF',
-        metaDescription: 'إزالة كلمة المرور من ملفات PDF. فك قفل المستندات المحمية بكلمة مرور.',
-        keywords: ['فك تشفير pdf', 'إزالة كلمة مرور pdf', 'فك قفل pdf', 'مزيل كلمة مرور pdf'],
+        metaDescription: 'إزالة كلمة المرور من ملفات PDF. فك قفل المستندات المحمية بكلمة مرور.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['فك تشفير pdf', 'إزالة كلمة مرور pdf', 'فك قفل pdf', 'مزيل كلمة مرور pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم أداة فك تشفير PDF بإزالة الحماية بكلمة مرور من مستندات PDF. أدخل كلمة المرور الحالية لفك قفل الملف وإنشاء نسخة غير محمية.</p>
       <p>تتطلب هذه الأداة معرفتك بكلمة المرور الحالية. لا يمكنها كسر أو تجاوز كلمات المرور غير المعروفة.</p>
@@ -2110,8 +2110,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'flatten-pdf': {
         title: 'تسطيح PDF (Flatten)',
-        metaDescription: 'تسطيح نماذج PDF والتعليقات التوضيحية. جعل المحتوى غير قابل للتعديل.',
-        keywords: ['تسطيح pdf', 'تسطيح النماذج', 'تسطيح التعليقات', 'pdf غير قابل للتعديل'],
+        metaDescription: 'تسطيح نماذج PDF والتعليقات التوضيحية. جعل المحتوى غير قابل للتعديل.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تسطيح pdf', 'تسطيح النماذج', 'تسطيح التعليقات', 'pdf غير قابل للتعديل', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول أداة تسطيح PDF العناصر التفاعلية مثل حقول النماذج والتعليقات التوضيحية إلى محتوى ثابت. يبدو ملف الـ PDF المسطح كما هو ولكنه لا يعود قابلاً للتعديل.</p>
       <p>مثالية لنهائية النماذج المعبأة، الحفاظ على التعليقات، أو إنشاء نسخ من المستندات غير قابلة للتعديل.</p>
@@ -2136,8 +2136,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'remove-metadata': {
         title: 'إزالة البيانات الوصفية',
-        metaDescription: 'تجريد البيانات الوصفية من ملفات PDF. إزالة المؤلف، التواريخ، وخصائص المستند.',
-        keywords: ['إزالة بيانات pdf', 'تجريد البيانات الوصفية', 'خصوصية pdf', 'pdf مجهول'],
+        metaDescription: 'تجريد البيانات الوصفية من ملفات PDF. إزالة المؤلف، التواريخ، وخصائص المستند.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إزالة بيانات pdf', 'تجريد البيانات الوصفية', 'خصوصية pdf', 'pdf مجهول', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم هذه الأداة بتجريد كافة خصائص المستند والبيانات الوصفية من ملفات PDF الخاصة بك. أزل أسماء المؤلفين، تواريخ الإنشاء، معلومات البرامج، وأي بيانات تعريفية أخرى.</p>
       <p>ضرورية للخصوصية عند مشاركة المستندات أو عندما قد تكشف البيانات الوصفية عن معلومات حساسة.</p>
@@ -2162,8 +2162,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'change-permissions': {
         title: 'تغيير الأذونات',
-        metaDescription: 'تعديل أذونات PDF. التحكم في الوصول للطباعة والنسخ والتعديل.',
-        keywords: ['أذونات pdf', 'تغيير الوصول لـ pdf', 'تقييد pdf', 'أمن pdf'],
+        metaDescription: 'تعديل أذونات PDF. التحكم في الوصول للطباعة والنسخ والتعديل.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['أذونات pdf', 'تغيير الوصول لـ pdf', 'تقييد pdf', 'أمن pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تعدل هذه الأداة ضوابط الوصول لمستندات PDF الخاصة بك. قم بتمكين أو تعطيل أذونات الطباعة والنسخ والتعديل والتعليق.</p>
       <p>اضبط كلمة مرور مالك لفرض هذه القيود. يمكن للمستلمين عرض المستند ولكنهم مقيدون في الأفعال التي يمكنهم القيام بها.</p>
@@ -2188,8 +2188,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-docx': {
         title: 'تحويل PDF إلى Word',
-        metaDescription: 'تحويل PDF إلى مستندات Word (DOCX) قابلة للتعديل. الحفاظ على التنسيق والتخطيط.',
-        keywords: ['pdf لـ word', 'تحويل pdf لـ docx', 'pdf لـ doc', 'pdf قابل للتعديل'],
+        metaDescription: 'تحويل PDF إلى مستندات Word (DOCX) قابلة للتعديل. الحفاظ على التنسيق والتخطيط.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['pdf لـ word', 'تحويل pdf لـ docx', 'pdf لـ doc', 'pdf قابل للتعديل', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة مستندات PDF الخاصة بك إلى ملفات مايكروسوفت وورد (DOCX) قابلة للتعديل. تحافظ الأداة على التخطيط الأصلي والتنسيق والصور وتدفق النصوص.</p>
       <p>عدل محتوى PDF الخاص بك بسهولة في برنامج Word دون الحاجة لإعادة الكتابة. مثالية للعقود والتقارير والسير الذاتية.</p>
@@ -2215,8 +2215,8 @@ export const toolContentAr: Record<string, ToolContent> = {
     // ==================== NEW TOOLS ====================
     'deskew-pdf': {
         title: 'تصحيح ميل PDF',
-        metaDescription: 'تصحيح ميل صفحات PDF الممسوحة ضوئياً تلقائياً. إصلاح المستندات المائلة بدقة كشف الزاوية.',
-        keywords: ['تصحيح ميل pdf', 'تعديل استقامة pdf', 'إصلاح المسح المائل', 'تدوير تلقائي لـ pdf'],
+        metaDescription: 'تصحيح ميل صفحات PDF الممسوحة ضوئياً تلقائياً. إصلاح المستندات المائلة بدقة كشف الزاوية.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تصحيح ميل pdf', 'تعديل استقامة pdf', 'إصلاح المسح المائل', 'تدوير تلقائي لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تقوم هذه الأداة تلقائياً باكتشاف وتصحيح الصفحات المائلة أو المنحرفة في مستندات PDF الخاصة بك. هذا أمر ضروري للمستندات الممسوحة ضوئياً التي تم إدخالها في الماسح بزاوية مائلة.</p>
       <p>تستخدم الأداة تحليلاً متقدماً للصور لاكتشاف زاوية الدوران الدقيقة لكل صفحة وتصحيحها للمحاذاة العمودية. يمكنك ضبط حساسية الاكتشاف وإعدادات الـ DPI للحصول على أفضل النتائج.</p>
@@ -2241,8 +2241,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-booklet': {
         title: 'منشئ كتيبات PDF',
-        metaDescription: 'إنشاء تخطيطات كتيبات من PDF للطباعة. ترتيب الصفحات لعمليات التجميع والطي مع خيارات شبكة متعددة.',
-        keywords: ['كتيب pdf', 'منشئ كتيبات', 'طباعة كتيب', 'تجميع الصفحات'],
+        metaDescription: 'إنشاء تخطيطات كتيبات من PDF للطباعة. ترتيب الصفحات لعمليات التجميع والطي مع خيارات شبكة متعددة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['كتيب pdf', 'منشئ كتيبات', 'طباعة كتيب', 'تجميع الصفحات', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>يقوم منشئ كتيبات PDF بترتيب صفحاتك في تخطيطات جاهزة للطباعة والطي. مثالي لإنشاء البروشورات والمجلات الصغيرة (Zines) والكتيبات والمنشورات المجمعة مركزياً.</p>
       <p>اختر من بين أوضاع شبكية متنوعة (1x2، 2x2، 2x4، 4x4)، وأحجام الورق، وخيارات الاتجاه. تتعامل الأداة تلقائياً مع فرض الصفحات (Imposition) لضمان تسلسل الطي الصحيح.</p>
@@ -2267,8 +2267,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'rasterize-pdf': {
         title: 'تنقيط PDF (Rasterize)',
-        metaDescription: 'تحويل صفحات PDF إلى صور عالية الجودة. تصدير بصيغ PNG، JPEG، أو WebP مع إعدادات DPI مخصصة.',
-        keywords: ['تنقيط pdf', 'pdf لصور', 'pdf لـ png', 'pdf لـ jpeg'],
+        metaDescription: 'تحويل صفحات PDF إلى صور عالية الجودة. تصدير بصيغ PNG، JPEG، أو WebP مع إعدادات DPI مخصصة.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تنقيط pdf', 'pdf لصور', 'pdf لـ png', 'pdf لـ jpeg', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة صفحات PDF الخاصة بك إلى صور نقطية عالية الجودة. اختر من بين صيغ PNG أو JPEG أو WebP مع تحكم كامل في إعدادات الـ DPI والجودة.</p>
       <p>مثالية لإنشاء صور مصغرة، رسومات لوسائل التواصل الاجتماعي، أو أرشفة محتوى PDF كصور. تدعم اختيار نطاق الصفحات والمعالجة الجماعية.</p>
@@ -2293,8 +2293,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'markdown-to-pdf': {
         title: 'تحويل Markdown إلى PDF',
-        metaDescription: 'تحويل ملفات Markdown إلى مستندات PDF منسقة بشكل جميل. دعم GitHub Flavored Markdown وتمييز الأكواد.',
-        keywords: ['markdown لـ pdf', 'md لـ pdf', 'تحويل markdown', 'gfm لـ pdf'],
+        metaDescription: 'تحويل ملفات Markdown إلى مستندات PDF منسقة بشكل جميل. دعم GitHub Flavored Markdown وتمييز الأكواد.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['markdown لـ pdf', 'md لـ pdf', 'تحويل markdown', 'gfm لـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات Markdown الخاصة بك إلى مستندات PDF منسقة باحترافية. تدعم CommonMark و GitHub Flavored Markdown (GFM) بما في ذلك الجداول وقوائم المهام وبلوكات الأكواد.</p>
       <p>اختر من بين سمات (Themes) متعددة (فاتح، مظلم، GitHub) وخصص حجم الصفحة والهوامش. يتم تمييز الأكواد البرمجية لضمان قراءة أفضل.</p>
@@ -2319,8 +2319,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'email-to-pdf': {
         title: 'تحويل الإيميل إلى PDF',
-        metaDescription: 'تحويل ملفات الإيميل (.eml) إلى مستندات PDF. الحفاظ على التنسيق والصور المضمنة والمرفقات.',
-        keywords: ['إيميل لـ pdf', 'eml لـ pdf', 'تحويل الإيميل', 'حفظ الإيميل كـ pdf'],
+        metaDescription: 'تحويل ملفات الإيميل (.eml) إلى مستندات PDF. الحفاظ على التنسيق والصور المضمنة والمرفقات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['إيميل لـ pdf', 'eml لـ pdf', 'تحويل الإيميل', 'حفظ الإيميل كـ pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات الإيميل (بصيغة .eml) إلى مستندات PDF جيدة التنسيق. تحافظ الأداة على معلومات ترويسة الإيميل، والمحتوى، والصور المضمنة، وقائمة المرفقات.</p>
       <p>خصص خيارات المخرج بما في ذلك حجم الصفحة وتنسيق التاريخ، واختيار ما إذا كنت تريد تضمين حقول CC/BCC ومعلومات المرفقات.</p>
@@ -2345,8 +2345,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'cbz-to-pdf': {
         title: 'تحويل CBZ إلى PDF',
-        metaDescription: 'تحويل أرشيفات القصص المصورة (CBZ) إلى PDF. الحفاظ على ترتيب الصور وجودتها للكوميكس الرقمي.',
-        keywords: ['cbz لـ pdf', 'كوميك لـ pdf', 'تحويل ملفات الكوميكس'],
+        metaDescription: 'تحويل أرشيفات القصص المصورة (CBZ) إلى PDF. الحفاظ على ترتيب الصور وجودتها للكوميكس الرقمي.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['cbz لـ pdf', 'كوميك لـ pdf', 'تحويل ملفات الكوميكس', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة ملفات أرشيف القصص المصورة (Comic Book Archive) إلى مستندات PDF. تستخرج الأداة كافة الصور من أرشيف CBZ وتجمعها في ملف PDF مع الحفاظ على ترتيب القراءة الصحيح.</p>
       <p>اختر من بين خيارات أحجام الصفحات المتنوعة بما في ذلك أبعاد الصور الأصلية أو أحجام الكوميكس القياسية. مثالية لقراءة الكوميكس على الأجهزة التي تدعم PDF ولا تدعم CBZ.</p>
@@ -2371,8 +2371,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-to-pdfa': {
         title: 'تحويل PDF إلى PDF/A',
-        metaDescription: 'تحويل PDF إلى صيغة PDF/A الأرشيفية. ضمان الحفاظ على المستندات طويل الأمد بمعايير ISO.',
-        keywords: ['pdf لـ pdfa', 'محول pdfa', 'أرشفة pdf', 'حفظ طويل الأمد'],
+        metaDescription: 'تحويل PDF إلى صيغة PDF/A الأرشيفية. ضمان الحفاظ على المستندات طويل الأمد بمعايير ISO.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['pdf لـ pdfa', 'محول pdfa', 'أرشفة pdf', 'حفظ طويل الأمد', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة مستندات PDF الخاصة بك إلى صيغة PDF/A، وهو معيار ISO للأرشفة الإلكترونية طويلة الأمد للمستندات. يضمن PDF/A أن المستندات ستكون قابلة للعرض وإعادة الإنتاج لعقود قادمة.</p>
       <p>اختر من بين مستويات PDF/A-1b (التوافق الأساسي)، أو PDF/A-2b (الموصى به، يدعم الشفافية)، أو PDF/A-3b (يسمح بالملفات المدمجة). تقوم الأداة بدمج الخطوط وتسطيح الشفافية حسب الحاجة.</p>
@@ -2397,8 +2397,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'font-to-outline': {
         title: 'تحويل الخطوط لمسارات (Outline)',
-        metaDescription: 'تحويل خطوط PDF إلى مسارات متجهة. ضمان التوافق عند عدم توفر الخطوط.',
-        keywords: ['تحويل الخط لمسار', 'خطوط متجهة', 'تحويل الخطوط', 'توافق الخطوط'],
+        metaDescription: 'تحويل خطوط PDF إلى مسارات متجهة. ضمان التوافق عند عدم توفر الخطوط.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['تحويل الخط لمسار', 'خطوط متجهة', 'تحويل الخطوط', 'توافق الخطوط', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تحول هذه الأداة كافة النصوص في ملف PDF الخاص بك إلى مسارات متجهة (Outlines). يضمن ذلك أن يبدو مستندك تماماً كما هو على أي نظام، حتى لو لم تكن الخطوط الأصلية مثبتة.</p>
       <p>هذا أمر أساسي لتجهيز الطباعة، وضمان عرض الرسومات بشكل صحيح، وتجنب مشاكل تراخيص الخطوط عند مشاركة المستندات.</p>
@@ -2423,8 +2423,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'extract-tables': {
         title: 'استخراج الجداول من PDF',
-        metaDescription: 'اكتشاف واستخراج الجداول من مستندات PDF. تصدير بصيغ JSON، Markdown، أو CSV.',
-        keywords: ['استخراج الجداول', 'pdf لـ csv', 'pdf لـ excel', 'اكتشاف الجداول'],
+        metaDescription: 'اكتشاف واستخراج الجداول من مستندات PDF. تصدير بصيغ JSON، Markdown، أو CSV.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['استخراج الجداول', 'pdf لـ csv', 'pdf لـ excel', 'اكتشاف الجداول', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>تكتشف هذه الأداة البيانات الجدولية داخل مستندات PDF وتصدرها بصيغ منظمة. اختر JSON للتكامل البرمجي، أو Markdown للتوثيق، أو CSV لجداول البيانات.</p>
       <p>تستخدم الأداة خوارزميات اكتشاف ذكية لتحديد هياكل الجداول حتى في المستندات المعقدة. حدد نطاق الصفحات واضبط بارامترات الاكتشاف لأفضل النتائج.</p>
@@ -2449,8 +2449,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'ocg-manager': {
         title: 'مدير طبقات PDF (OCG)',
-        metaDescription: 'إدارة طبقات PDF (مجموعات المحتوى الاختياري). عرض، تبديل، إضافة، حذف، وإعادة تسمية الطبقات.',
-        keywords: ['طبقات pdf', 'مدير ocg', 'رؤية طبقات pdf', 'إدارة طبقات المستند'],
+        metaDescription: 'إدارة طبقات PDF (مجموعات المحتوى الاختياري). عرض، تبديل، إضافة، حذف، وإعادة تسمية الطبقات.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['طبقات pdf', 'مدير ocg', 'رؤية طبقات pdf', 'إدارة طبقات المستند', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>يسمح لك مدير طبقات PDF بعرض وإدارة مجموعات المحتوى الاختياري (OCG) في مستنداتك. تستخدم طبقات OCG في الرسومات التقنية والخرائط والمستندات المعقدة لتنظيم المحتوى في طبقات قابلة للتبديل.</p>
       <p>اعرض كافة الطبقات، بدل رؤيتها، أضف طبقات جديدة، احذف غير المرغوب فيها، أو أعد تسمية الطبقات الحالية. هذه الأداة أساسية للعمل مع ملفات PDF الطبقية مثل المخططات المعمارية وصادرات الـ CAD.</p>
@@ -2476,8 +2476,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'pdf-reader': {
         title: 'قارئ PDF',
-        metaDescription: 'قارئ PDF مجاني عبر الإنترنت. عرض، تنقل، زوم، تدوير، وطباعة مستندات PDF مباشرة في متصفحك.',
-        keywords: ['قارئ pdf', 'عارض pdf', 'عرض pdf أونلاين', 'قراءة pdf'],
+        metaDescription: 'قارئ PDF مجاني عبر الإنترنت. عرض، تنقل، زوم، تدوير، وطباعة مستندات PDF مباشرة في متصفحك.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['قارئ pdf', 'عارض pdf', 'عرض pdf أونلاين', 'قراءة pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: `
       <p>قارئ PDF هو عارض متكامل الميزات يتيح لك قراءة والتنقل في مستندات PDF مباشرة في متصفحك. لا حاجة لتثبيت أي برامج - فقط ارفع الملف وابدأ القراءة.</p>
       <p>تنقل بين الصفحات، قم بالتكبير والتصغير، قم بتدوير المنظر، واستخدم وضع ملء الشاشة لقراءة خالية من المشتتات. يمكنك أيضاً طباعة المستندات أو تحميلها للوصول إليها دون اتصال.</p>
@@ -2503,8 +2503,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'digital-sign-pdf': {
         title: 'التوقيع الرقمي',
-        metaDescription: 'أضف توقيعات رقمية X.509 إلى مستندات PDF. وقّع ملفات PDF بشهادات PFX أو P12 أو PEM للصلاحية القانونية.',
-        keywords: ['توقيع رقمي pdf', 'شهادة x509', 'توقيع pfx', 'توقيع p12', 'توقيع pem', 'توقيع إلكتروني'],
+        metaDescription: 'أضف توقيعات رقمية X.509 إلى مستندات PDF. وقّع ملفات PDF بشهادات PFX أو P12 أو PEM للصلاحية القانونية.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['توقيع رقمي pdf', 'شهادة x509', 'توقيع pfx', 'توقيع p12', 'توقيع pem', 'توقيع إلكتروني', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
         description: '<p>تتيح لك أداة التوقيع الرقمي إضافة توقيعات رقمية X.509 مشفرة إلى مستندات PDF.</p>',
         howToUse: [
             { step: 1, title: 'رفع PDF', description: 'ارفع مستند PDF الذي تريد توقيعه رقمياً.' },
@@ -2525,8 +2525,8 @@ export const toolContentAr: Record<string, ToolContent> = {
 
     'validate-signature': {
         title: 'التحقق من التوقيع',
-        metaDescription: 'تحقق من التوقيعات الرقمية في مستندات PDF. تحقق من صلاحية الشهادة ومعلومات الموقّع وسلامة المستند.',
-        keywords: ['التحقق من توقيع pdf', 'التحقق من التوقيع الرقمي', 'فحص شهادة pdf', 'التحقق من التوقيع'],
+        metaDescription: 'تحقق من التوقيعات الرقمية في مستندات PDF. تحقق من صلاحية الشهادة ومعلومات الموقّع وسلامة المستند.. لا تسجيل مطلوب. مجاني 100%. جرّب الآن!',
+        keywords: ['التحقق من توقيع pdf', 'التحقق من التوقيع الرقمي', 'فحص شهادة pdf', 'التحقق من التوقيع', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
         description: '<p>تتيح لك أداة التحقق من التوقيع التحقق من التوقيعات الرقمية في مستندات PDF.</p>',
         howToUse: [
             { step: 1, title: 'رفع PDF موقّع', description: 'ارفع مستند PDF يحتوي على توقيعات رقمية.' },

@@ -13,8 +13,8 @@ export const toolContentKo: Record<string, ToolContent> = {
   // ==================== POPULAR TOOLS ====================
   'pdf-multi-tool': {
     title: 'PDF 멀티 도구',
-    metaDescription: '올인원 PDF 편집기: 병합, 분할, 정리, 삭제, 회전, 페이지 추출을 하나의 강력한 도구로.',
-    keywords: ['pdf 멀티 도구', 'pdf 편집기', 'pdf 병합', 'pdf 분할', 'pdf 정리', '올인원 pdf'],
+    metaDescription: '올인원 PDF 편집기: 병합, 분할, 정리, 삭제, 회전, 페이지 추출을 하나의 강력한 도구로.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 멀티 도구', 'pdf 편집기', 'pdf 병합', 'pdf 분할', 'pdf 정리', '올인원 pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>PDF 멀티 도구는 모든 PDF 페이지 관리 작업을 위한 포괄적인 솔루션입니다. 이 강력한 올인원 도구는 여러 PDF 작업을 단일 직관적인 인터페이스로 통합하여 시간과 노력을 절약합니다.</p>
       <p>여러 문서 병합, 큰 PDF 분할, 페이지 재정렬, 불필요한 콘텐츠 삭제, 페이지 회전, 특정 섹션 추출 등 다른 애플리케이션 간 전환 없이 모든 작업을 처리할 수 있습니다.</p>
@@ -40,8 +40,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'merge-pdf': {
     title: 'PDF 병합',
-    metaDescription: '여러 PDF 파일을 하나의 문서로 결합. 드래그 앤 드롭 재정렬이 가능한 무료 온라인 PDF 병합 도구.',
-    keywords: ['pdf 병합', 'pdf 결합', 'pdf 합치기', 'pdf 머저', 'pdf 연결'],
+    metaDescription: '여러 PDF 파일을 하나의 문서로 결합. 드래그 앤 드롭 재정렬이 가능한 무료 온라인 PDF 병합 도구.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 병합', 'pdf 결합', 'pdf 합치기', 'pdf 머저', 'pdf 연결', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `<p>PDF 병합을 사용하면 여러 PDF 문서를 빠르고 쉽게 하나의 파일로 결합할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 파일 업로드', description: '여러 PDF 파일을 업로드 영역에 드래그 앤 드롭하거나 클릭하여 장치에서 파일을 선택합니다.' },
@@ -62,8 +62,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'split-pdf': {
     title: 'PDF 분할',
-    metaDescription: 'PDF 파일을 여러 문서로 분할. 특정 페이지 추출 또는 페이지 범위로 나누기.',
-    keywords: ['pdf 분할', 'pdf 나누기', 'pdf 분리', '페이지 추출', 'pdf 스플리터'],
+    metaDescription: 'PDF 파일을 여러 문서로 분할. 특정 페이지 추출 또는 페이지 범위로 나누기.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 분할', 'pdf 나누기', 'pdf 분리', '페이지 추출', 'pdf 스플리터', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `<p>PDF 분할을 사용하면 하나의 PDF 문서를 여러 개의 작은 파일로 나눌 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 분할할 파일을 선택합니다.' },
@@ -85,8 +85,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'compress-pdf': {
     title: 'PDF 압축',
-    metaDescription: '품질을 유지하면서 PDF 파일 크기 줄이기.',
-    keywords: ['pdf 압축', 'pdf 크기 줄이기', 'pdf 압축기', 'pdf 축소', 'pdf 최적화'],
+    metaDescription: '품질을 유지하면서 PDF 파일 크기 줄이기.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 압축', 'pdf 크기 줄이기', 'pdf 압축기', 'pdf 축소', 'pdf 최적화', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `<p>PDF 압축은 허용 가능한 품질을 유지하면서 PDF 문서의 파일 크기를 줄입니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 압축할 문서를 선택합니다.' },
@@ -107,8 +107,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'edit-pdf': {
     title: 'PDF 편집',
-    metaDescription: '온라인으로 PDF 파일 편집. 문서에 텍스트, 이미지, 주석 추가.',
-    keywords: ['pdf 편집', 'pdf 편집기', 'pdf 주석', 'pdf에 텍스트 추가'],
+    metaDescription: '온라인으로 PDF 파일 편집. 문서에 텍스트, 이미지, 주석 추가.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 편집', 'pdf 편집기', 'pdf 주석', 'pdf에 텍스트 추가', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 편집은 PDF 문서를 수정하고 주석을 달기 위한 포괄적인 도구 세트를 제공합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 편집할 문서를 선택합니다.' },
@@ -130,8 +130,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'jpg-to-pdf': {
     title: 'JPG를 PDF로',
-    metaDescription: 'JPG 이미지를 PDF로 변환. 여러 JPG 파일을 하나의 PDF로 결합.',
-    keywords: ['jpg를 pdf로', 'jpeg를 pdf로', 'jpg 변환', '이미지를 pdf로'],
+    metaDescription: 'JPG 이미지를 PDF로 변환. 여러 JPG 파일을 하나의 PDF로 결합.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['jpg를 pdf로', 'jpeg를 pdf로', 'jpg 변환', '이미지를 pdf로', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>JPG를 PDF로는 JPEG 이미지를 빠르고 쉽게 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'JPG 이미지 업로드', description: 'JPG 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -152,8 +152,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'sign-pdf': {
     title: 'PDF 서명',
-    metaDescription: 'PDF 문서에 전자 서명 추가.',
-    keywords: ['pdf 서명', '전자 서명', 'e-서명', '디지털 서명'],
+    metaDescription: 'PDF 문서에 전자 서명 추가.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 서명', '전자 서명', 'e-서명', '디지털 서명', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 서명을 사용하면 PDF 문서에 전자 서명을 빠르고 안전하게 추가할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -175,8 +175,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'crop-pdf': {
     title: 'PDF 자르기',
-    metaDescription: 'PDF 페이지를 잘라 여백과 원하지 않는 영역 제거.',
-    keywords: ['pdf 자르기', 'pdf 트리밍', 'pdf 여백 제거'],
+    metaDescription: 'PDF 페이지를 잘라 여백과 원하지 않는 영역 제거.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 자르기', 'pdf 트리밍', 'pdf 여백 제거', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 자르기를 사용하면 PDF 페이지에서 여백과 원하지 않는 영역을 트리밍할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -198,8 +198,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'extract-pages': {
     title: '페이지 추출',
-    metaDescription: 'PDF 파일에서 특정 페이지 추출.',
-    keywords: ['pdf 페이지 추출', 'pdf 페이지 저장', 'pdf 페이지 복사'],
+    metaDescription: 'PDF 파일에서 특정 페이지 추출.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 페이지 추출', 'pdf 페이지 저장', 'pdf 페이지 복사', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>페이지 추출을 사용하면 PDF 문서에서 특정 페이지를 선택하여 새 파일로 저장할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -220,8 +220,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'organize-pdf': {
     title: 'PDF 정리',
-    metaDescription: 'PDF 페이지 재정렬, 복제, 삭제.',
-    keywords: ['pdf 정리', 'pdf 페이지 재정렬', 'pdf 재배열'],
+    metaDescription: 'PDF 페이지 재정렬, 복제, 삭제.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 정리', 'pdf 페이지 재정렬', 'pdf 재배열', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 정리는 PDF 문서 내 페이지를 재배열하기 위한 직관적인 드래그 앤 드롭 인터페이스를 제공합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -242,8 +242,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'delete-pages': {
     title: '페이지 삭제',
-    metaDescription: 'PDF 파일에서 원하지 않는 페이지 제거.',
-    keywords: ['pdf 페이지 삭제', 'pdf 페이지 제거'],
+    metaDescription: 'PDF 파일에서 원하지 않는 페이지 제거.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 페이지 삭제', 'pdf 페이지 제거', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>페이지 삭제를 사용하면 PDF 문서에서 원하지 않는 페이지를 빠르고 쉽게 제거할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -265,8 +265,8 @@ export const toolContentKo: Record<string, ToolContent> = {
   // ==================== EDIT & ANNOTATE ====================
   'bookmark': {
     title: '북마크 편집',
-    metaDescription: 'PDF 북마크 추가, 편집, 관리. 문서 탐색 구조 생성.',
-    keywords: ['pdf 북마크', '북마크 편집', '북마크 추가', 'pdf 탐색'],
+    metaDescription: 'PDF 북마크 추가, 편집, 관리. 문서 탐색 구조 생성.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 북마크', '북마크 편집', '북마크 추가', 'pdf 탐색', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서의 북마크를 생성, 수정, 정리할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -287,8 +287,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'table-of-contents': {
     title: '목차',
-    metaDescription: 'PDF 목차 생성. 북마크에서 클릭 가능한 탐색 생성.',
-    keywords: ['pdf 목차', '목차 생성', 'pdf 인덱스'],
+    metaDescription: 'PDF 목차 생성. 북마크에서 클릭 가능한 탐색 생성.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 목차', '목차 생성', 'pdf 인덱스', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서의 탐색 가능한 목차 페이지를 생성합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -309,8 +309,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'page-numbers': {
     title: '페이지 번호',
-    metaDescription: 'PDF 문서에 페이지 번호 추가. 위치, 형식, 시작 번호 사용자 정의.',
-    keywords: ['페이지 번호 추가', 'pdf 페이지 번호', 'pdf 페이지 매기기'],
+    metaDescription: 'PDF 문서에 페이지 번호 추가. 위치, 형식, 시작 번호 사용자 정의.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['페이지 번호 추가', 'pdf 페이지 번호', 'pdf 페이지 매기기', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서에 사용자 정의 가능한 페이지 번호를 추가합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -331,8 +331,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'add-watermark': {
     title: '워터마크 추가',
-    metaDescription: 'PDF 파일에 텍스트 또는 이미지 워터마크 추가.',
-    keywords: ['워터마크 추가', 'pdf 워터마크', 'pdf 스탬프', 'pdf 보호'],
+    metaDescription: 'PDF 파일에 텍스트 또는 이미지 워터마크 추가.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['워터마크 추가', 'pdf 워터마크', 'pdf 스탬프', 'pdf 보호', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서에 텍스트 또는 이미지 워터마크를 배치할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -353,8 +353,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'header-footer': {
     title: '머리글 및 바닥글',
-    metaDescription: 'PDF 문서에 머리글과 바닥글 추가.',
-    keywords: ['pdf 머리글', 'pdf 바닥글', '머리글 바닥글 추가'],
+    metaDescription: 'PDF 문서에 머리글과 바닥글 추가.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 머리글', 'pdf 바닥글', '머리글 바닥글 추가', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서에 사용자 정의 가능한 머리글과 바닥글을 추가합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -375,8 +375,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'invert-colors': {
     title: '색상 반전',
-    metaDescription: '다크 모드 읽기를 위해 PDF 색상 반전.',
-    keywords: ['pdf 색상 반전', 'pdf 다크 모드', '네거티브 pdf'],
+    metaDescription: '다크 모드 읽기를 위해 PDF 색상 반전.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 색상 반전', 'pdf 다크 모드', '네거티브 pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서의 색상을 반전하여 네거티브 이미지 효과를 만듭니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -397,8 +397,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'background-color': {
     title: '배경색',
-    metaDescription: 'PDF 배경색 변경. 문서 페이지에 색상 배경 추가.',
-    keywords: ['pdf 배경색', 'pdf 배경 변경', '색상 pdf'],
+    metaDescription: 'PDF 배경색 변경. 문서 페이지에 색상 배경 추가.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 배경색', 'pdf 배경 변경', '색상 pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 페이지의 배경색을 변경하거나 추가할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -419,8 +419,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'text-color': {
     title: '텍스트 색상 변경',
-    metaDescription: 'PDF 문서의 텍스트 색상 변경.',
-    keywords: ['pdf 텍스트 색상 변경', 'pdf 텍스트 색상'],
+    metaDescription: 'PDF 문서의 텍스트 색상 변경.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 텍스트 색상 변경', 'pdf 텍스트 색상', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서 내 텍스트의 색상을 변경할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -441,8 +441,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'add-stamps': {
     title: '스탬프 추가',
-    metaDescription: 'PDF 문서에 스탬프 추가. 승인, 검토 등을 위한 프리셋 또는 사용자 정의 스탬프 사용.',
-    keywords: ['pdf 스탬프', '스탬프 추가', '승인 스탬프'],
+    metaDescription: 'PDF 문서에 스탬프 추가. 승인, 검토 등을 위한 프리셋 또는 사용자 정의 스탬프 사용.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 스탬프', '스탬프 추가', '승인 스탬프', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서에 스탬프 이미지를 배치할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -463,8 +463,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'remove-annotations': {
     title: '주석 제거',
-    metaDescription: 'PDF 파일에서 주석 제거. 코멘트, 하이라이트, 마크업 삭제.',
-    keywords: ['pdf 주석 제거', '코멘트 삭제', '하이라이트 제거'],
+    metaDescription: 'PDF 파일에서 주석 제거. 코멘트, 하이라이트, 마크업 삭제.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 주석 제거', '코멘트 삭제', '하이라이트 제거', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서에서 코멘트, 하이라이트, 스티커 노트 및 기타 주석을 제거합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -485,8 +485,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'form-filler': {
     title: '양식 작성',
-    metaDescription: '온라인으로 PDF 양식 작성. 인쇄 없이 대화형 PDF 양식 완성.',
-    keywords: ['pdf 양식 작성', 'pdf 양식 필러', 'pdf 양식 완성'],
+    metaDescription: '온라인으로 PDF 양식 작성. 인쇄 없이 대화형 PDF 양식 완성.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 양식 작성', 'pdf 양식 필러', 'pdf 양식 완성', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>브라우저에서 직접 대화형 PDF 양식을 작성할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 양식 업로드', description: 'PDF 양식을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -507,8 +507,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'form-creator': {
     title: '양식 생성',
-    metaDescription: '작성 가능한 PDF 양식 생성. 문서에 텍스트 필드, 체크박스, 드롭다운 추가.',
-    keywords: ['pdf 양식 생성', 'pdf 양식 크리에이터', '작성 가능한 pdf'],
+    metaDescription: '작성 가능한 PDF 양식 생성. 문서에 텍스트 필드, 체크박스, 드롭다운 추가.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 양식 생성', 'pdf 양식 크리에이터', '작성 가능한 pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>정적 PDF 문서를 대화형 작성 가능한 양식으로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -529,8 +529,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'remove-blank-pages': {
     title: '빈 페이지 제거',
-    metaDescription: 'PDF 문서에서 빈 페이지 자동 감지 및 제거.',
-    keywords: ['빈 페이지 제거', '빈 페이지 삭제', 'pdf 정리'],
+    metaDescription: 'PDF 문서에서 빈 페이지 자동 감지 및 제거.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['빈 페이지 제거', '빈 페이지 삭제', 'pdf 정리', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서에서 빈 페이지를 자동으로 감지하고 제거합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -552,8 +552,8 @@ export const toolContentKo: Record<string, ToolContent> = {
   // ==================== CONVERT TO PDF ====================
   'image-to-pdf': {
     title: '이미지를 PDF로',
-    metaDescription: '모든 이미지를 PDF로 변환. JPG, PNG, WebP, BMP, TIFF, SVG, HEIC 형식 지원.',
-    keywords: ['이미지를 pdf로', '이미지 변환', '사진을 pdf로'],
+    metaDescription: '모든 이미지를 PDF로 변환. JPG, PNG, WebP, BMP, TIFF, SVG, HEIC 형식 지원.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['이미지를 pdf로', '이미지 변환', '사진을 pdf로', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>모든 형식의 이미지를 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: '이미지 업로드', description: '지원되는 형식의 이미지를 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -574,8 +574,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'png-to-pdf': {
     title: 'PNG를 PDF로',
-    metaDescription: 'PNG 이미지를 PDF로 변환. 투명도 보존 및 여러 PNG 파일 결합.',
-    keywords: ['png를 pdf로', 'png 변환', 'png 변환기'],
+    metaDescription: 'PNG 이미지를 PDF로 변환. 투명도 보존 및 여러 PNG 파일 결합.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['png를 pdf로', 'png 변환', 'png 변환기', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PNG 이미지를 투명도를 보존하면서 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PNG 파일 업로드', description: 'PNG 이미지를 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -596,8 +596,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'webp-to-pdf': {
     title: 'WebP를 PDF로',
-    metaDescription: 'WebP 이미지를 PDF로 변환. 품질 보존과 함께 현대적인 이미지 형식 변환.',
-    keywords: ['webp를 pdf로', 'webp 변환', 'webp 변환기'],
+    metaDescription: 'WebP 이미지를 PDF로 변환. 품질 보존과 함께 현대적인 이미지 형식 변환.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['webp를 pdf로', 'webp 변환', 'webp 변환기', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>현대적인 WebP 이미지를 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'WebP 파일 업로드', description: 'WebP 이미지를 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -618,8 +618,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'svg-to-pdf': {
     title: 'SVG를 PDF로',
-    metaDescription: 'SVG 벡터 그래픽을 PDF로 변환. 확장성과 품질 보존.',
-    keywords: ['svg를 pdf로', 'svg 변환', '벡터를 pdf로'],
+    metaDescription: 'SVG 벡터 그래픽을 PDF로 변환. 확장성과 품질 보존.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['svg를 pdf로', 'svg 변환', '벡터를 pdf로', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>확장 가능한 벡터 그래픽을 벡터 품질을 보존하면서 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'SVG 파일 업로드', description: 'SVG 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -640,8 +640,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'bmp-to-pdf': {
     title: 'BMP를 PDF로',
-    metaDescription: 'BMP 비트맵 이미지를 PDF로 변환. 품질 보존과 함께 레거시 형식 지원.',
-    keywords: ['bmp를 pdf로', 'bmp 변환', '비트맵을 pdf로'],
+    metaDescription: 'BMP 비트맵 이미지를 PDF로 변환. 품질 보존과 함께 레거시 형식 지원.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['bmp를 pdf로', 'bmp 변환', '비트맵을 pdf로', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>비트맵 이미지를 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'BMP 파일 업로드', description: 'BMP 이미지를 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -662,8 +662,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'heic-to-pdf': {
     title: 'HEIC를 PDF로',
-    metaDescription: 'iPhone HEIC 사진을 PDF로 변환. Apple 이미지 형식 변환이 쉬워집니다.',
-    keywords: ['heic를 pdf로', 'heic 변환', 'iphone 사진을 pdf로'],
+    metaDescription: 'iPhone HEIC 사진을 PDF로 변환. Apple 이미지 형식 변환이 쉬워집니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['heic를 pdf로', 'heic 변환', 'iphone 사진을 pdf로', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>Apple의 고효율 이미지 형식 사진을 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'HEIC 파일 업로드', description: 'HEIC 사진을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -684,8 +684,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'tiff-to-pdf': {
     title: 'TIFF를 PDF로',
-    metaDescription: 'TIFF 이미지를 PDF로 변환. 다중 페이지 TIFF 파일 지원 및 고품질 변환.',
-    keywords: ['tiff를 pdf로', 'tiff 변환', 'tif를 pdf로'],
+    metaDescription: 'TIFF 이미지를 PDF로 변환. 다중 페이지 TIFF 파일 지원 및 고품질 변환.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['tiff를 pdf로', 'tiff 변환', 'tif를 pdf로', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>다중 페이지 TIFF 파일을 포함한 TIFF 이미지를 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'TIFF 파일 업로드', description: 'TIFF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -706,8 +706,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'txt-to-pdf': {
     title: '텍스트를 PDF로',
-    metaDescription: '일반 텍스트 파일을 PDF로 변환. 글꼴, 여백, 페이지 레이아웃 사용자 정의.',
-    keywords: ['txt를 pdf로', '텍스트를 pdf로', '텍스트 파일 변환'],
+    metaDescription: '일반 텍스트 파일을 PDF로 변환. 글꼴, 여백, 페이지 레이아웃 사용자 정의.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['txt를 pdf로', '텍스트를 pdf로', '텍스트 파일 변환', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>일반 텍스트 파일을 서식이 지정된 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: '텍스트 파일 업로드', description: '.txt 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -728,8 +728,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'json-to-pdf': {
     title: 'JSON을 PDF로',
-    metaDescription: 'JSON 파일을 서식이 지정된 PDF로 변환. 구문 강조 및 구조화된 출력.',
-    keywords: ['json을 pdf로', 'json 변환', 'json 뷰어'],
+    metaDescription: 'JSON 파일을 서식이 지정된 PDF로 변환. 구문 강조 및 구조화된 출력.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['json을 pdf로', 'json 변환', 'json 뷰어', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>JSON 데이터 파일을 서식이 지정되고 읽기 쉬운 PDF 문서로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'JSON 파일 업로드', description: '.json 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -751,8 +751,8 @@ export const toolContentKo: Record<string, ToolContent> = {
   // ==================== CONVERT FROM PDF ====================
   'pdf-to-jpg': {
     title: 'PDF를 JPG로',
-    metaDescription: 'PDF 페이지를 JPG 이미지로 변환. 사용자 정의 가능한 해상도로 고품질 추출.',
-    keywords: ['pdf를 jpg로', 'pdf를 jpeg로', 'pdf를 이미지로 변환'],
+    metaDescription: 'PDF 페이지를 JPG 이미지로 변환. 사용자 정의 가능한 해상도로 고품질 추출.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf를 jpg로', 'pdf를 jpeg로', 'pdf를 이미지로 변환', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서 페이지를 고품질 JPG 이미지로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -773,8 +773,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'pdf-to-png': {
     title: 'PDF를 PNG로',
-    metaDescription: 'PDF 페이지를 PNG 이미지로 변환. 투명도 지원과 함께 무손실 품질.',
-    keywords: ['pdf를 png로', 'pdf를 png로 변환', 'pdf 이미지 추출'],
+    metaDescription: 'PDF 페이지를 PNG 이미지로 변환. 투명도 지원과 함께 무손실 품질.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf를 png로', 'pdf를 png로 변환', 'pdf 이미지 추출', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서 페이지를 무손실 압축의 고품질 PNG 이미지로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -795,8 +795,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'pdf-to-webp': {
     title: 'PDF를 WebP로',
-    metaDescription: 'PDF 페이지를 WebP 이미지로 변환. 우수한 압축의 현대적인 형식.',
-    keywords: ['pdf를 webp로', 'pdf를 webp로 변환', '현대적인 이미지 형식'],
+    metaDescription: 'PDF 페이지를 WebP 이미지로 변환. 우수한 압축의 현대적인 형식.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf를 webp로', 'pdf를 webp로 변환', '현대적인 이미지 형식', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서 페이지를 Google의 현대적인 이미지 형식인 WebP 이미지로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -817,8 +817,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'pdf-to-bmp': {
     title: 'PDF를 BMP로',
-    metaDescription: 'PDF 페이지를 BMP 비트맵 이미지로 변환. 최대 호환성을 위한 비압축 형식.',
-    keywords: ['pdf를 bmp로', 'pdf를 비트맵으로 변환', '비압축 이미지'],
+    metaDescription: 'PDF 페이지를 BMP 비트맵 이미지로 변환. 최대 호환성을 위한 비압축 형식.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf를 bmp로', 'pdf를 비트맵으로 변환', '비압축 이미지', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서 페이지를 BMP 비트맵 이미지로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -839,8 +839,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'pdf-to-tiff': {
     title: 'PDF를 TIFF로',
-    metaDescription: 'PDF를 TIFF 이미지로 변환. 다중 페이지 지원과 함께 전문 품질.',
-    keywords: ['pdf를 tiff로', 'pdf를 tiff로 변환', '전문 이미지'],
+    metaDescription: 'PDF를 TIFF 이미지로 변환. 다중 페이지 지원과 함께 전문 품질.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf를 tiff로', 'pdf를 tiff로 변환', '전문 이미지', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서를 고품질 TIFF 이미지로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -861,8 +861,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'pdf-to-greyscale': {
     title: 'PDF를 그레이스케일로',
-    metaDescription: '컬러 PDF를 그레이스케일로 변환. 파일 크기 줄이기 및 흑백 인쇄 준비.',
-    keywords: ['pdf를 그레이스케일로', '그레이스케일 pdf', '흑백 pdf'],
+    metaDescription: '컬러 PDF를 그레이스케일로 변환. 파일 크기 줄이기 및 흑백 인쇄 준비.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf를 그레이스케일로', '그레이스케일 pdf', '흑백 pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>컬러 PDF 문서를 그레이스케일(흑백)로 변환합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: '컬러 PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -883,8 +883,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'pdf-to-json': {
     title: 'PDF를 JSON으로',
-    metaDescription: 'PDF 콘텐츠를 JSON 형식으로 추출. PDF 문서에서 구조화된 데이터 가져오기.',
-    keywords: ['pdf를 json으로', 'pdf 데이터 추출', 'pdf 파서'],
+    metaDescription: 'PDF 콘텐츠를 JSON 형식으로 추출. PDF 문서에서 구조화된 데이터 가져오기.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf를 json으로', 'pdf 데이터 추출', 'pdf 파서', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서에서 콘텐츠를 구조화된 JSON 형식으로 추출합니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: 'PDF 파일을 드래그 앤 드롭하거나 클릭하여 선택합니다.' },
@@ -904,8 +904,8 @@ export const toolContentKo: Record<string, ToolContent> = {
   },
   'ocr-pdf': {
     title: 'OCR PDF (텍스트 인식)',
-    metaDescription: '스캔한 PDF를 검색 가능한 문서로 변환. 이미지에서 텍스트를 추출하고 인식합니다.',
-    keywords: ['ocr pdf', 'pdf 텍스트 인식', '스캔 pdf 검색', 'pdf 글자 추출'],
+    metaDescription: '스캔한 PDF를 검색 가능한 문서로 변환. 이미지에서 텍스트를 추출하고 인식합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['ocr pdf', 'pdf 텍스트 인식', '스캔 pdf 검색', 'pdf 글자 추출', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>OCR PDF 도구는 광학 문자 인식 기술을 사용하여 스캔된 문서나 이미지 기반 PDF에서 텍스트를 추출합니다. 읽기 전용 이미지를 검색과 선택이 가능한 스마트한 문서로 변환하세요.</p>
       <p>한국어, 영어 등 다양한 언어를 지원하며 원본 레이아웃을 최대한 유지하면서 검색 가능한 텍스트 레이어를 추가합니다.</p>
@@ -929,8 +929,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'alternate-merge': {
     title: '교차 병합',
-    metaDescription: '두 PDF의 페이지를 번갈아 가며 병합. 앞면과 뒷면 스캔 파일을 하나로 합치기에 최적입니다.',
-    keywords: ['pdf 교차 병합', 'pdf 번갈아 합치기', '양면 스캔 병합'],
+    metaDescription: '두 PDF의 페이지를 번갈아 가며 병합. 앞면과 뒷면 스캔 파일을 하나로 합치기에 최적입니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 교차 병합', 'pdf 번갈아 합치기', '양면 스캔 병합', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>두 개의 PDF 파일을 한 페이지씩 번갈아 가며 섞어 병합합니다. 앞면만 스캔한 파일과 뒷면만 스캔한 파일을 합칠 때 유용합니다.</p>`,
     howToUse: [
       { step: 1, title: '두 PDF 업로드', description: '앞면(홀수) PDF와 뒷면(짝수) PDF를 각각 선택합니다.' },
@@ -949,8 +949,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'add-attachments': {
     title: '첨부파일 추가',
-    metaDescription: 'PDF 내부에 다른 파일을 포함시킵니다. 엑셀, 이미지 등 모든 형식을 첨부할 수 있습니다.',
-    keywords: ['pdf 첨부파일 추가', 'pdf 파일 임베드', 'pdf 포트폴리오'],
+    metaDescription: 'PDF 내부에 다른 파일을 포함시킵니다. 엑셀, 이미지 등 모든 형식을 첨부할 수 있습니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 첨부파일 추가', 'pdf 파일 임베드', 'pdf 포트폴리오', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>PDF 문서 안에 엑셀, 코드, 이미지 등 관련 참고 자료를 파일 형태로 직접 임베드합니다. 배포 시 여러 파일을 하나로 묶는 효과가 있습니다.</p>`,
     howToUse: [
       { step: 1, title: '메인 PDF 업로드', description: '파일을 담을 베이스가 되는 PDF를 선택합니다.' },
@@ -970,8 +970,8 @@ export const toolContentKo: Record<string, ToolContent> = {
   // ==================== SECURE & PROTECT ====================
   'encrypt-pdf': {
     title: 'PDF 암호 설정',
-    metaDescription: 'PDF 파일에 비밀번호를 설정하여 문서를 보호합니다. 열기 제한 및 권한 설정을 제어하세요.',
-    keywords: ['pdf 암호 설정', 'pdf 비밀번호 잠금', 'pdf 보안 설정'],
+    metaDescription: 'PDF 파일에 비밀번호를 설정하여 문서를 보호합니다. 열기 제한 및 권한 설정을 제어하세요.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 암호 설정', 'pdf 비밀번호 잠금', 'pdf 보안 설정', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>강력한 암호화 알고리즘으로 PDF를 보호합니다. 문서를 열 때 필요한 비밀번호와 인쇄/복사 제한을 위한 마스터 비밀번호를 설정할 수 있습니다.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: '보호할 파일을 선택합니다.' },
@@ -990,8 +990,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'decrypt-pdf': {
     title: 'PDF 암호 해제',
-    metaDescription: '암호로 보호된 PDF의 비밀번호를 제거하여 자유롭게 열람 및 편집할 수 있도록 합니다.',
-    keywords: ['pdf 암호 해제', 'pdf 비밀번호 제거', 'pdf 잠금 풀기'],
+    metaDescription: '암호로 보호된 PDF의 비밀번호를 제거하여 자유롭게 열람 및 편집할 수 있도록 합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 암호 해제', 'pdf 비밀번호 제거', 'pdf 잠금 풀기', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>매번 입력해야 하는 번거로운 PDF 비밀번호를 제거합니다. 비밀번호를 알고 있는 경우 이를 완전히 삭제하여 일반 PDF로 만듭니다.</p>`,
     howToUse: [
       { step: 1, title: '암호화된 PDF 업로드', description: '잠금을 풀고자 하는 파일을 선택합니다.' },
@@ -1011,8 +1011,8 @@ export const toolContentKo: Record<string, ToolContent> = {
   // ==================== OPTIMIZE & REPAIR ====================
   'repair-pdf': {
     title: 'PDF 복구',
-    metaDescription: '손상되거나 열리지 않는 PDF 파일을 분석하여 복구합니다.',
-    keywords: ['pdf 복구', '깨진 pdf 고치기', 'pdf 파일 수리'],
+    metaDescription: '손상되거나 열리지 않는 PDF 파일을 분석하여 복구합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 복구', '깨진 pdf 고치기', 'pdf 파일 수리', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>파일 전송 오류나 시스템 충돌로 인해 깨진 PDF 구조를 분석하고 가능한 한 많은 데이터를 복구하여 다시 열 수 있는 상태로 만듭니다.</p>`,
     howToUse: [
       { step: 1, title: '손상된 PDF 업로드', description: '열리지 않거나 에러가 발생하는 파일을 선택합니다.' },
@@ -1031,8 +1031,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'pdf-to-docx': {
     title: 'PDF를 Word로 변환',
-    metaDescription: 'PDF 문서를 편집 가능한 Word(DOCX) 파일로 변환합니다. 레이아웃과 서식을 완벽하게 유지하세요.',
-    keywords: ['pdf word 변환', 'pdf 워드 변환', 'pdf docx 변환', 'pdf 편집 가능하게'],
+    metaDescription: 'PDF 문서를 편집 가능한 Word(DOCX) 파일로 변환합니다. 레이아웃과 서식을 완벽하게 유지하세요.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf word 변환', 'pdf 워드 변환', 'pdf docx 변환', 'pdf 편집 가능하게', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF 문서를 완벽하게 편집 가능한 Microsoft Word(DOCX) 파일로 변환합니다. 최신 알고리즘을 통해 텍스트 흐름, 글꼴, 표 및 이미지를 원본과 거의 동일하게 재현합니다.</p>
       <p>번거로운 타이핑 없이 PDF 내용을 Word에서 직접 수정하세요. 계약서 수정이나 보고서 재작성에 최적입니다.</p>
@@ -1056,8 +1056,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'rotate-custom': {
     title: '사용자 지정 각도 회전',
-    metaDescription: 'PDF 페이지를 원하는 각도로 정밀하게 회전합니다. 기울어진 스캔 문서 교정에 적합합니다.',
-    keywords: ['pdf 각도 회전', 'pdf 기울기 보정', 'pdf 수평 맞추기'],
+    metaDescription: 'PDF 페이지를 원하는 각도로 정밀하게 회전합니다. 기울어진 스캔 문서 교정에 적합합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 각도 회전', 'pdf 기울기 보정', 'pdf 수평 맞추기', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `<p>표준 90도 회전뿐만 아니라 1도 단위의 미세한 회전도 가능합니다. 잘못 들어간 스캔 문서의 수평을 맞추거나 도면의 방향을 정밀하게 조정할 때 사용하세요.</p>`,
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: '회전이 필요한 페이지가 포함된 파일을 선택합니다.' },
@@ -1076,8 +1076,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'grid-combine': {
     title: '그리드 결합 PDF',
-    metaDescription: '여러 PDF 파일을 유연한 그리드 레이아웃으로 단일 페이지에 결합합니다. 2개, 4개, 6개, 9개 이상의 PDF를 경계선 및 간격과 함께 한 페이지에 배치하세요.',
-    keywords: ['그리드 결합', 'PDF 그리드 결합', 'PDF 콜라주', '여러 PDF 한 페이지에', 'PDF N-up', 'PDF 그리드'],
+    metaDescription: '여러 PDF 파일을 유연한 그리드 레이아웃으로 단일 페이지에 결합합니다. 2개, 4개, 6개, 9개 이상의 PDF를 경계선 및 간격과 함께 한 페이지에 배치하세요.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['그리드 결합', 'PDF 그리드 결합', 'PDF 콜라주', '여러 PDF 한 페이지에', 'PDF N-up', 'PDF 그리드', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>그리드 결합 도구는 여러 개의 개별 PDF 파일을 단일 페이지로 결합하는 독특한 방법을 제공합니다. 페이지를 단순히 추가하는 표준 'PDF 병합' 도구나 단일 문서에서 페이지를 재배치하는 'N-Up' 도구와 달리, 그리드 결합은 여러 입력 파일을 받아 사용자 정의 가능한 그리드 레이아웃에 나란히 배치합니다.</p>
       <p>2x1, 2x2, 3x3 등 다양한 그리드 구성을 선택할 수 있습니다. 이는 여러 문서를 비교하거나, 다른 소스의 유인물을 만들거나, 여러 파일의 컴팩트 버전을 인쇄하는 데 이상적입니다.</p>
@@ -1103,8 +1103,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'email-to-pdf': {
     title: '이메일을 PDF로',
-    metaDescription: '이메일 파일(.eml, .msg)을 PDF 문서로 변환합니다. 서식, 인라인 이미지, 클릭 가능한 링크 및 첨부 파일을 보존합니다.',
-    keywords: ['이메일 pdf 변환', 'eml pdf', 'msg pdf', '이메일 변환', '아웃룩 pdf'],
+    metaDescription: '이메일 파일(.eml, .msg)을 PDF 문서로 변환합니다. 서식, 인라인 이미지, 클릭 가능한 링크 및 첨부 파일을 보존합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['이메일 pdf 변환', 'eml pdf', 'msg pdf', '이메일 변환', '아웃룩 pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>이메일을 PDF로는 이메일 파일(.eml 및 .msg 형식)을 잘 포맷된 PDF 문서로 변환합니다. 이 도구는 이메일 헤더 정보, 본문 내용, CID 교체를 통한 인라인 이미지, 클릭 가능한 링크를 보존하고 첨부 파일을 PDF에 직접 포함합니다.</p>
       <p>페이지 크기(A4, Letter, Legal), 시간대 지원이 포함된 날짜 형식, CC/BCC 필드 및 첨부 파일 정보 포함 여부 등 출력 옵션을 사용자 지정할 수 있습니다.</p>
@@ -1131,8 +1131,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'djvu-to-pdf': {
     title: 'DJVU를 PDF로 변환',
-    metaDescription: 'DJVU 문서 파일을 PDF로 변환합니다. 스캔된 문서와 책을 위한 고품질 렌더링.',
-    keywords: ['djvu pdf 변환', 'djvu 변환', 'djvu 변환기', 'djvu pdf', 'djv pdf'],
+    metaDescription: 'DJVU 문서 파일을 PDF로 변환합니다. 스캔된 문서와 책을 위한 고품질 렌더링.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['djvu pdf 변환', 'djvu 변환', 'djvu 변환기', 'djvu pdf', 'djv pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>DJVU를 PDF로 변환은 DjVu 문서 파일을 고품질 PDF 문서로 변환합니다. DjVu는 주로 스캔된 문서, 특히 텍스트, 선화 및 사진의 조합을 포함하는 문서를 저장하도록 설계된 컴퓨터 파일 형식입니다.</p>
       <p>이 도구는 선택한 DPI(인치당 도트 수)로 DJVU 파일의 각 페이지를 렌더링하고 검색 가능한 PDF 문서로 결합합니다. 스캔된 책, 기술 매뉴얼 및 아카이브 문서를 변환하는 데 완벽합니다.</p>
@@ -1157,8 +1157,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'fb2-to-pdf': {
     title: 'FB2를 PDF로 변환',
-    metaDescription: 'FictionBook (FB2) 전자책을 PDF로 변환합니다. 여러 파일의 고품질 렌더링을 지원합니다.',
-    keywords: ['fb2 pdf 변환', 'fb2 변환', 'fictionbook pdf', 'fb2 변환기', 'fb2.zip pdf'],
+    metaDescription: 'FictionBook (FB2) 전자책을 PDF로 변환합니다. 여러 파일의 고품질 렌더링을 지원합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['fb2 pdf 변환', 'fb2 변환', 'fictionbook pdf', 'fb2 변환기', 'fb2.zip pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>FB2를 PDF로 변환은 FictionBook (FB2) 전자책 파일을 고품질 PDF 문서로 변환합니다. FB2는 러시아와 동유럽에서 널리 사용되는 인기 있는 XML 기반 전자책 형식입니다.</p>
       <p>이 도구는 .fb2 및 .fb2.zip 파일을 모두 지원하며 한 번에 여러 파일을 처리할 수 있습니다. 전자책의 텍스트 서식, 이미지 및 장 구조를 보존합니다.</p>
@@ -1183,8 +1183,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'deskew-pdf': {
     title: 'PDF 기울기 보정',
-    metaDescription: '스캔되거나 기울어진 PDF 페이지를 자동으로 똑바로 만듭니다. 정밀한 각도 감지로 기울어진 문서를 수정합니다.',
-    keywords: ['pdf 기울기 보정', 'pdf 똑바로', '기울어진 스캔 수정', '자동 pdf 회전', 'pdf 각도 보정'],
+    metaDescription: '스캔되거나 기울어진 PDF 페이지를 자동으로 똑바로 만듭니다. 정밀한 각도 감지로 기울어진 문서를 수정합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 기울기 보정', 'pdf 똑바로', '기울어진 스캔 수정', '자동 pdf 회전', 'pdf 각도 보정', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF 기울기 보정은 고급 투영 프로파일 분산 분석을 사용하여 PDF 문서의 기울어진 또는 왜곡된 페이지를 자동으로 감지하고 보정합니다. 스캐너에 일정한 각도로 공급된 스캔 문서에 필수적입니다.</p>
       <p>도구는 다른 각도에서 텍스트와 콘텐츠 정렬을 분석하여 최적의 회전을 찾은 다음 보정을 적용합니다. 최적의 결과를 위해 감도 임계값(1-30)과 DPI 설정(72-300)을 조정할 수 있습니다.</p>
@@ -1211,8 +1211,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'pdf-to-pdfa': {
     title: 'PDF를 PDF/A로 변환',
-    metaDescription: 'PDF를 PDF/A 아카이브 형식으로 변환합니다. ISO 표준으로 장기 문서 보존을 보장합니다.',
-    keywords: ['pdf pdfa 변환', 'pdfa 변환기', 'pdf 아카이브', 'pdf 장기 보존', '장기 보존'],
+    metaDescription: 'PDF를 PDF/A 아카이브 형식으로 변환합니다. ISO 표준으로 장기 문서 보존을 보장합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf pdfa 변환', 'pdfa 변환기', 'pdf 아카이브', 'pdf 장기 보존', '장기 보존', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF를 PDF/A로 변환은 PDF 문서를 PDF/A 형식으로 변환합니다. PDF/A는 장기 문서 아카이빙을 위한 ISO 표준입니다. PDF/A는 문서가 수십 년 동안 볼 수 있고 재현 가능하도록 보장합니다.</p>
       <p>PDF/A-1b(기본 준수), PDF/A-2b(권장, 투명도 지원) 또는 PDF/A-3b(임베드된 파일 허용) 중에서 선택할 수 있습니다. 도구는 필요에 따라 폰트를 임베드하고 투명도를 평탄화합니다.</p>
@@ -1237,8 +1237,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'digital-sign-pdf': {
     title: '디지털 서명',
-    metaDescription: 'PDF 문서에 X.509 디지털 서명을 추가합니다. PFX, P12 또는 PEM 인증서로 PDF에 서명하여 법적 효력을 부여합니다.',
-    keywords: ['pdf 디지털 서명', 'x509 인증서', 'pfx 서명', 'p12 서명', 'pem 서명', '전자 서명'],
+    metaDescription: 'PDF 문서에 X.509 디지털 서명을 추가합니다. PFX, P12 또는 PEM 인증서로 PDF에 서명하여 법적 효력을 부여합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 디지털 서명', 'x509 인증서', 'pfx 서명', 'p12 서명', 'pem 서명', '전자 서명', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: '<p>디지털 서명 도구를 사용하면 PDF 문서에 암호화된 X.509 디지털 서명을 추가할 수 있습니다.</p>',
     howToUse: [
       { step: 1, title: 'PDF 업로드', description: '디지털 서명할 PDF 문서를 업로드합니다.' },
@@ -1259,8 +1259,8 @@ export const toolContentKo: Record<string, ToolContent> = {
 
   'validate-signature': {
     title: '서명 검증',
-    metaDescription: 'PDF 문서의 디지털 서명을 검증합니다. 인증서 유효성, 서명자 정보 및 문서 무결성을 확인합니다.',
-    keywords: ['pdf 서명 검증', '디지털 서명 검증', 'pdf 인증서 확인', '서명 검증'],
+    metaDescription: 'PDF 문서의 디지털 서명을 검증합니다. 인증서 유효성, 서명자 정보 및 문서 무결성을 확인합니다.. 가입 불필요. 100% 무료. 지금 바로 사용하세요!',
+    keywords: ['pdf 서명 검증', '디지털 서명 검증', 'pdf 인증서 확인', '서명 검증', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>서명 검증 도구를 사용하면 PDF 문서의 디지털 서명을 검증할 수 있습니다.</p>',
     howToUse: [
       { step: 1, title: '서명된 PDF 업로드', description: '디지털 서명이 포함된 PDF 문서를 업로드합니다.' },

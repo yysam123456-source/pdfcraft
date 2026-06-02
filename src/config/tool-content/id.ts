@@ -14,8 +14,8 @@ export const toolContentId: Record<string, ToolContent> = {
   // ==================== ALAT POPULER ====================
   'pdf-multi-tool': {
     title: 'Alat PDF Multi-Fungsi',
-    metaDescription: 'Editor PDF serbaguna: gabungkan, pisahkan, atur, hapus, putar, dan ekstrak halaman dalam satu alat yang tangguh.',
-    keywords: ['alat pdf multi', 'editor pdf', 'gabung pdf', 'pisah pdf', 'atur pdf', 'pdf serbaguna'],
+    metaDescription: 'Editor PDF serbaguna: gabungkan, pisahkan, atur, hapus, putar, dan ekstrak halaman dalam satu alat yang tangguh.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['alat pdf multi', 'editor pdf', 'gabung pdf', 'pisah pdf', 'atur pdf', 'pdf serbaguna', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Alat PDF Multi-Fungsi adalah solusi komprehensif untuk semua tugas manajemen halaman PDF Anda. Alat serbaguna yang tangguh ini menggabungkan berbagai operasi PDF ke dalam satu antarmuka yang intuitif, sehingga menghemat waktu dan tenaga Anda.</p>
       <p>Baik Anda perlu menggabungkan beberapa dokumen, memisahkan PDF besar menjadi file yang lebih kecil, mengatur ulang halaman, menghapus konten yang tidak diinginkan, memutar halaman, atau mengekstrak bagian tertentu, alat ini menangani semuanya tanpa perlu berpindah aplikasi.</p>
@@ -42,7 +42,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'merge-pdf': {
     title: 'Gabungkan PDF',
     metaDescription: 'Gabungkan beberapa file PDF menjadi satu dokumen. Penggabung PDF online gratis dengan fitur tarik-dan-lepas untuk menyusun ulang.',
-    keywords: ['gabung pdf', 'kombinasi pdf', 'satukan pdf', 'penggabung pdf'],
+    keywords: ['gabung pdf', 'kombinasi pdf', 'satukan pdf', 'penggabung pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Gabungkan PDF memungkinkan Anda menggabungkan beberapa dokumen PDF menjadi satu file dengan cepat dan mudah. Baik Anda sedang mengonsolidasikan laporan, menggabungkan dokumen pindaian, atau merakit presentasi, alat ini membuat prosesnya menjadi mulus.</p>
       <p>Cukup unggah file Anda, susun sesuai urutan yang Anda inginkan menggunakan fitur tarik-dan-lepas (drag-and-drop), lalu gabungkan menjadi satu dokumen yang kohesif. Alat ini mempertahankan kualitas file asli Anda dan dapat secara opsional mempertahankan markah dari setiap dokumen sumber.</p>
@@ -67,8 +67,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'rotate-custom': {
     title: 'Putar dengan Derajat Kustom',
-    metaDescription: 'Putar halaman PDF dengan sudut berapa pun. Rotasi kustom yang presisi untuk meluruskan dokumen hasil pindaian.',
-    keywords: ['putar pdf sudut kustom', 'luruskan pdf', 'deskew pdf', 'rotasi pdf kustom'],
+    metaDescription: 'Putar halaman PDF dengan sudut berapa pun. Rotasi kustom yang presisi untuk meluruskan dokumen hasil pindaian.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['putar pdf sudut kustom', 'luruskan pdf', 'deskew pdf', 'rotasi pdf kustom', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Putar dengan Derajat Kustom memberi Anda kendali presisi atas orientasi halaman PDF Anda. Tidak seperti alat rotasi standar yang hanya mendukung kelipatan 90 derajat, alat ini memungkinkan Anda memutar halaman pada sudut tertentu.</p>
       <p>Sangat cocok untuk meluruskan dokumen hasil pindaian yang dimasukkan agak miring, atau menyesuaikan diagram dan bagan ke orientasi yang benar. Anda dapat mengoreksi halaman satu per satu atau menerapkan rotasi yang sama ke seluruh dokumen.</p>
@@ -95,7 +95,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'grid-combine': {
     title: 'Kombinasi Kisi PDF',
     metaDescription: 'Kombinasikan beberapa file PDF ke dalam satu halaman dengan tata letak kisi yang fleksibel. Susun 2, 4, 6, 9 atau lebih PDF per halaman dengan bingkai dan jarak.',
-    keywords: ['kombinasi kisi', 'gabung pdf kisi', 'kolase pdf', 'beberapa pdf satu halaman', 'pdf n-up', 'gabung pdf grid'],
+    keywords: ['kombinasi kisi', 'gabung pdf kisi', 'kolase pdf', 'beberapa pdf satu halaman', 'pdf n-up', 'gabung pdf grid', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Alat Kombinasi Kisi menawarkan cara unik untuk menggabungkan beberapa file PDF terpisah ke dalam satu halaman. Tidak seperti alat "Gabungkan PDF" standar yang hanya menambahkan halaman, atau alat "N-Up" yang menyusun ulang halaman dari satu dokumen, Kombinasi Kisi mengambil beberapa file masukan dan menyusunnya berdampingan dalam tata letak kisi (grid) yang dapat disesuaikan.</p>
       <p>Anda dapat memilih berbagai konfigurasi kisi seperti 2x1, 2x2, 3x3, dll. Ini sempurna untuk membandingkan beberapa dokumen, membuat selebaran dari berbagai sumber, atau mencetak versi ringkas dari beberapa file.</p>
@@ -121,8 +121,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'split-pdf': {
     title: 'Pisahkan PDF',
-    metaDescription: 'Pisahkan file PDF menjadi beberapa dokumen. Ekstrak halaman tertentu atau bagi berdasarkan rentang halaman.',
-    keywords: ['pisah pdf', 'bagi pdf', 'pisahkan pdf', 'ekstrak halaman', 'pemisah pdf'],
+    metaDescription: 'Pisahkan file PDF menjadi beberapa dokumen. Ekstrak halaman tertentu atau bagi berdasarkan rentang halaman.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pisah pdf', 'bagi pdf', 'pisahkan pdf', 'ekstrak halaman', 'pemisah pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Pisahkan PDF memungkinkan Anda membagi satu dokumen PDF menjadi beberapa file yang lebih kecil. Ini sangat cocok untuk mengekstrak bab-bab tertentu, memisahkan dokumen yang digabungkan, atau membuat file individual dari PDF multi-halaman.</p>
       <p>Anda dapat memisahkan berdasarkan rentang halaman tertentu, mengekstrak halaman satu per satu, atau membagi dokumen pada interval yang teratur. Alat ini memberikan pratinjau visual dari halaman Anda, membuatnya mudah untuk memilih apa yang Anda butuhkan secara tepat.</p>
@@ -149,7 +149,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'compress-pdf': {
     title: 'Kompres PDF',
     metaDescription: 'Kurangi ukuran file PDF dengan tetap mempertahankan kualitasnya. Kompresor PDF online gratis untuk file yang lebih kecil.',
-    keywords: ['kompres pdf', 'kurangi ukuran pdf', 'kompresor pdf', 'perkecil pdf', 'optimalkan pdf'],
+    keywords: ['kompres pdf', 'kurangi ukuran pdf', 'kompresor pdf', 'perkecil pdf', 'optimalkan pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Kompres PDF mengurangi ukuran file dokumen PDF Anda dengan tetap mempertahankan kualitas yang dapat diterima. Ini sangat penting untuk lampiran email, unggahan web, atau menghemat ruang penyimpanan.</p>
       <p>Alat ini menawarkan beberapa tingkat kompresi untuk menyeimbangkan antara pengurangan ukuran file dan pelestarian kualitas. Anda dapat memilih kompresi agresif untuk pengurangan ukuran maksimal atau kompresi ringan untuk mempertahankan kualitas yang lebih tinggi.</p>
@@ -174,8 +174,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'edit-pdf': {
     title: 'Edit PDF',
-    metaDescription: 'Edit file PDF secara online. Tambahkan teks, gambar, anotasi, sorotan, dan bentuk ke dokumen Anda.',
-    keywords: ['edit pdf', 'editor pdf', 'anotasi pdf', 'tambah teks ke pdf', 'markup pdf'],
+    metaDescription: 'Edit file PDF secara online. Tambahkan teks, gambar, anotasi, sorotan, dan bentuk ke dokumen Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['edit pdf', 'editor pdf', 'anotasi pdf', 'tambah teks ke pdf', 'markup pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Edit PDF menyediakan serangkaian alat komprehensif untuk memodifikasi dan menganotasi dokumen PDF Anda. Tambahkan teks, gambar, bentuk, sorotan, komentar, dan lainnya tanpa memerlukan perangkat lunak desktop yang mahal.</p>
       <p>Antarmuka editor yang intuitif memudahkan markup dokumen untuk ditinjau, menambahkan catatan untuk kolaborasi, meredaksi informasi sensitif, atau menyempurnakan dokumen dengan konten tambahan.</p>
@@ -201,8 +201,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'jpg-to-pdf': {
     title: 'JPG ke PDF',
-    metaDescription: 'Konversi gambar JPG ke PDF. Gabungkan beberapa file JPG menjadi satu dokumen PDF.',
-    keywords: ['jpg ke pdf', 'jpeg ke pdf', 'konversi jpg', 'gambar ke pdf', 'foto ke pdf'],
+    metaDescription: 'Konversi gambar JPG ke PDF. Gabungkan beberapa file JPG menjadi satu dokumen PDF.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['jpg ke pdf', 'jpeg ke pdf', 'konversi jpg', 'gambar ke pdf', 'foto ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>JPG ke PDF mengonversi gambar JPEG Anda menjadi dokumen PDF dengan cepat dan mudah. Baik Anda memiliki satu foto atau beberapa gambar, alat ini dapat membuat file PDF yang tampak profesional.</p>
       <p>Anda dapat menggabungkan beberapa file JPG menjadi satu PDF, menyusunnya dalam urutan apa pun, dan menyesuaikan ukuran serta orientasi halaman. Konversi ini mempertahankan kualitas gambar sekaligus membuat file PDF yang ringkas dan mudah dibagikan.</p>
@@ -227,8 +227,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'sign-pdf': {
     title: 'Tanda Tangani PDF',
-    metaDescription: 'Tambahkan tanda tangan elektronik ke dokumen PDF. Gambar, ketik, atau unggah tanda tangan Anda.',
-    keywords: ['tanda tangani pdf', 'tanda tangan elektronik', 'e-signature', 'tanda tangan pdf', 'tanda tangan digital'],
+    metaDescription: 'Tambahkan tanda tangan elektronik ke dokumen PDF. Gambar, ketik, atau unggah tanda tangan Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['tanda tangani pdf', 'tanda tangan elektronik', 'e-signature', 'tanda tangan pdf', 'tanda tangan digital', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Tanda Tangani PDF memungkinkan Anda menambahkan tanda tangan elektronik ke dokumen PDF Anda dengan cepat dan aman. Buat tanda tangan Anda dengan menggambar, mengetik, atau mengunggah gambar, lalu tempatkan di mana saja pada dokumen Anda.</p>
       <p>Anda dapat menambahkan beberapa tanda tangan ke satu dokumen, mengubah ukuran dan memposisikannya dengan tepat, serta menyimpan tanda tangan Anda untuk penggunaan di masa mendatang. Alat ini sempurna untuk kontrak, perjanjian, formulir, dan dokumen apa pun yang memerlukan tanda tangan Anda.</p>
@@ -254,8 +254,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'crop-pdf': {
     title: 'Potong PDF',
-    metaDescription: 'Potong halaman PDF untuk menghapus margin dan area yang tidak diinginkan. Pangkas dokumen PDF dengan presisi.',
-    keywords: ['potong pdf', 'pangkas pdf', 'potong margin pdf', 'ubah ukuran halaman pdf', 'pemotong pdf'],
+    metaDescription: 'Potong halaman PDF untuk menghapus margin dan area yang tidak diinginkan. Pangkas dokumen PDF dengan presisi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['potong pdf', 'pangkas pdf', 'potong margin pdf', 'ubah ukuran halaman pdf', 'pemotong pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Potong PDF memungkinkan Anda memangkas margin dan menghapus area yang tidak diinginkan dari halaman PDF Anda. Ini berguna untuk menghilangkan ruang putih berlebih, berfokus pada area konten tertentu, atau menstandardisasi dimensi halaman.</p>
       <p>Anda dapat memotong semua halaman secara seragam atau menyesuaikan setiap halaman satu per satu. Antarmuka visual menunjukkan dengan tepat apa yang akan dipertahankan, sehingga mudah untuk mencapai hasil yang presisi.</p>
@@ -281,8 +281,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'extract-pages': {
     title: 'Ekstrak Halaman',
-    metaDescription: 'Ekstrak halaman tertentu dari file PDF. Pilih dan simpan halaman individual sebagai dokumen baru.',
-    keywords: ['ekstrak halaman pdf', 'simpan halaman pdf', 'salin halaman pdf', 'pengekstrak halaman pdf'],
+    metaDescription: 'Ekstrak halaman tertentu dari file PDF. Pilih dan simpan halaman individual sebagai dokumen baru.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['ekstrak halaman pdf', 'simpan halaman pdf', 'salin halaman pdf', 'pengekstrak halaman pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Ekstrak Halaman memungkinkan Anda memilih dan menyimpan halaman tertentu dari dokumen PDF sebagai file baru. Ini sempurna untuk menarik keluar bagian yang relevan, membuat kutipan, atau memisahkan dokumen yang digabungkan.</p>
       <p>Anda dapat mengekstrak halaman individual, rentang halaman, atau beberapa halaman yang tidak berurutan. Pratinjau halaman visual memudahkan untuk mengidentifikasi dan memilih halaman yang Anda butuhkan secara tepat.</p>
@@ -307,8 +307,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'organize-pdf': {
     title: 'Atur PDF',
-    metaDescription: 'Atur ulang, gandakan, dan hapus halaman PDF. Tarik dan lepas untuk mengatur ulang dokumen Anda.',
-    keywords: ['atur pdf', 'atur ulang halaman pdf', 'susun ulang pdf', 'pengatur halaman pdf'],
+    metaDescription: 'Atur ulang, gandakan, dan hapus halaman PDF. Tarik dan lepas untuk mengatur ulang dokumen Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['atur pdf', 'atur ulang halaman pdf', 'susun ulang pdf', 'pengatur halaman pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Atur PDF menyediakan antarmuka tarik-dan-lepas (drag-and-drop) yang intuitif untuk mengatur ulang halaman dalam dokumen PDF Anda. Urutkan kembali halaman, gandakan bagian yang penting, atau hapus halaman yang tidak diinginkan dengan mudah.</p>
       <p>Gambar mini (thumbnail) halaman visual memudahkan untuk mengidentifikasi konten dan menyusun halaman persis seperti yang Anda butuhkan. Sempurna untuk merestrukturisasi dokumen, membuat urutan halaman kustom, atau membersihkan file pindaian.</p>
@@ -333,8 +333,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'delete-pages': {
     title: 'Hapus Halaman',
-    metaDescription: 'Hapus halaman yang tidak diinginkan dari file PDF. Pilih dan hapus halaman tertentu dengan mudah.',
-    keywords: ['hapus halaman pdf', 'hilangkan halaman pdf', 'penghapus halaman pdf', 'hapus halaman dari pdf'],
+    metaDescription: 'Hapus halaman yang tidak diinginkan dari file PDF. Pilih dan hapus halaman tertentu dengan mudah.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['hapus halaman pdf', 'hilangkan halaman pdf', 'penghapus halaman pdf', 'hapus halaman dari pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Hapus Halaman memungkinkan Anda membuang halaman yang tidak diinginkan dari dokumen PDF Anda dengan cepat dan mudah. Baik Anda perlu menghapus halaman kosong, konten kedaluwarsa, atau informasi sensitif, alat ini membuatnya menjadi sederhana.</p>
       <p>Gambar mini halaman visual membantu Anda mengidentifikasi dengan tepat halaman mana yang harus dihapus. Anda dapat menghapus halaman satu per satu atau beberapa halaman sekaligus.</p>
@@ -359,8 +359,8 @@ export const toolContentId: Record<string, ToolContent> = {
   // ==================== EDIT & ANNOTATE ====================
   'bookmark': {
     title: 'Edit Markah (Bookmark)',
-    metaDescription: 'Tambah, edit, dan kelola markah PDF. Buat struktur navigasi untuk dokumen Anda.',
-    keywords: ['markah pdf', 'edit markah', 'tambah markah', 'navigasi pdf', 'daftar isi'],
+    metaDescription: 'Tambah, edit, dan kelola markah PDF. Buat struktur navigasi untuk dokumen Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['markah pdf', 'edit markah', 'tambah markah', 'navigasi pdf', 'daftar isi', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Edit Markah memungkinkan Anda membuat, memodifikasi, dan mengatur markah di dokumen PDF Anda. Markah memberikan navigasi cepat ke bagian tertentu, sehingga dokumen panjang lebih mudah digunakan.</p>
       <p>Anda dapat menambahkan markah baru, mengedit yang sudah ada, mengatur ulang hierarki markah, atau mengimpor markah dari sumber eksternal. Alat ini penting untuk membuat dokumen yang profesional dan mudah dinavigasi.</p>
@@ -385,8 +385,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'table-of-contents': {
     title: 'Daftar Isi',
-    metaDescription: 'Buat daftar isi untuk PDF Anda. Buat navigasi yang dapat diklik dari markah.',
-    keywords: ['daftar isi pdf', 'pembuat daftar isi', 'indeks pdf', 'navigasi dokumen'],
+    metaDescription: 'Buat daftar isi untuk PDF Anda. Buat navigasi yang dapat diklik dari markah.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['daftar isi pdf', 'pembuat daftar isi', 'indeks pdf', 'navigasi dokumen', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Daftar Isi menghasilkan halaman daftar isi yang dapat dinavigasi untuk dokumen PDF Anda. Daftar isi dapat dibuat dari markah yang ada atau entri kustom, memberikan ikhtisar dan navigasi cepat kepada pembaca.</p>
       <p>Sesuaikan tampilan dengan berbagai gaya, font, dan tata letak. Daftar isi yang dihasilkan mencakup tautan yang dapat diklik yang langsung melompat ke halaman yang dirujuk.</p>
@@ -411,8 +411,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'page-numbers': {
     title: 'Nomor Halaman',
-    metaDescription: 'Tambahkan nomor halaman ke dokumen PDF. Sesuaikan posisi, format, dan nomor awal.',
-    keywords: ['tambah nomor halaman', 'nomor halaman pdf', 'penomoran halaman pdf', 'paginasi pdf'],
+    metaDescription: 'Tambahkan nomor halaman ke dokumen PDF. Sesuaikan posisi, format, dan nomor awal.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['tambah nomor halaman', 'nomor halaman pdf', 'penomoran halaman pdf', 'paginasi pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Nomor Halaman menambahkan penomoran halaman yang dapat disesuaikan ke dokumen PDF Anda. Pilih dari berbagai format, posisi, dan gaya yang sesuai dengan desain dokumen Anda.</p>
       <p>Anda dapat mengatur nomor awal, melewati halaman tertentu, dan menggunakan format penomoran yang berbeda (1, 2, 3 atau i, ii, iii). Sempurna untuk membuat dokumen profesional dengan paginasi yang tepat.</p>
@@ -437,8 +437,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'add-watermark': {
     title: 'Tambahkan Tanda Air (Watermark)',
-    metaDescription: 'Tambahkan tanda air berupa teks atau gambar ke file PDF. Lindungi dan beri merek pada dokumen Anda.',
-    keywords: ['tambah tanda air', 'tanda air pdf', 'stempel pdf', 'merek pdf', 'lindungi pdf', 'watermark pdf'],
+    metaDescription: 'Tambahkan tanda air berupa teks atau gambar ke file PDF. Lindungi dan beri merek pada dokumen Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['tambah tanda air', 'tanda air pdf', 'stempel pdf', 'merek pdf', 'lindungi pdf', 'watermark pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Tambahkan Tanda Air memungkinkan Anda menempatkan tanda air teks atau gambar pada dokumen PDF Anda. Tanda air dapat menunjukkan status dokumen (Draf, Rahasia), menambahkan merek, atau mencegah penyalinan tanpa izin.</p>
       <p>Sesuaikan posisi, ukuran, opasitas, rotasi, dan warna tanda air. Terapkan ke semua halaman atau pilih halaman tertentu. Alat ini mendukung tanda air teks maupun gambar.</p>
@@ -463,8 +463,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'header-footer': {
     title: 'Header & Footer',
-    metaDescription: 'Tambahkan header dan footer ke dokumen PDF. Sertakan nomor halaman, tanggal, dan teks kustom.',
-    keywords: ['header pdf', 'footer pdf', 'tambah header footer', 'kop surat pdf'],
+    metaDescription: 'Tambahkan header dan footer ke dokumen PDF. Sertakan nomor halaman, tanggal, dan teks kustom.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['header pdf', 'footer pdf', 'tambah header footer', 'kop surat pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Header & Footer menambahkan header dan footer yang dapat disesuaikan ke dokumen PDF Anda. Sertakan nomor halaman, tanggal, judul dokumen, atau teks kustom apa pun di area header atau footer.</p>
       <p>Posisikan konten di kiri, tengah, atau kanan header/footer. Gunakan konten yang berbeda untuk halaman ganjil dan genap jika diperlukan. Sempurna untuk membuat dokumen profesional dengan format yang konsisten.</p>
@@ -489,8 +489,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'invert-colors': {
     title: 'Balikkan Warna',
-    metaDescription: 'Balikkan warna PDF untuk membaca dalam mode gelap. Ubah dokumen menjadi warna negatif.',
-    keywords: ['balikkan warna pdf', 'pdf mode gelap', 'pdf negatif', 'balik warna'],
+    metaDescription: 'Balikkan warna PDF untuk membaca dalam mode gelap. Ubah dokumen menjadi warna negatif.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['balikkan warna pdf', 'pdf mode gelap', 'pdf negatif', 'balik warna', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Balikkan Warna (Invert Colors) membalikkan warna dalam dokumen PDF Anda, menciptakan efek gambar negatif. Hal ini sangat berguna untuk membuat versi dokumen dalam mode gelap agar lebih mudah dibaca dalam kondisi minim cahaya.</p>
       <p>Alat ini dapat membalikkan semua warna atau secara selektif mempertahankan elemen tertentu seperti gambar. Sempurna untuk mengurangi ketegangan mata saat membaca dokumen di malam hari.</p>
@@ -515,8 +515,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'background-color': {
     title: 'Warna Latar Belakang',
-    metaDescription: 'Ubah warna latar belakang PDF. Tambahkan latar belakang berwarna ke halaman dokumen.',
-    keywords: ['warna latar belakang pdf', 'ubah latar belakang pdf', 'pdf berwarna', 'warna halaman pdf'],
+    metaDescription: 'Ubah warna latar belakang PDF. Tambahkan latar belakang berwarna ke halaman dokumen.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['warna latar belakang pdf', 'ubah latar belakang pdf', 'pdf berwarna', 'warna halaman pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Warna Latar Belakang memungkinkan Anda mengubah atau menambahkan warna latar belakang ke halaman PDF Anda. Hal ini dapat meningkatkan keterbacaan, menambah daya tarik visual, atau mencocokkan dengan kebutuhan merek Anda.</p>
       <p>Pilih warna apa pun untuk latar belakang dan terapkan ke semua halaman atau halaman tertentu saja. Alat ini mempertahankan semua konten yang ada sambil menambahkan lapisan latar belakang.</p>
@@ -541,8 +541,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'text-color': {
     title: 'Ubah Warna Teks',
-    metaDescription: 'Ubah warna teks di dalam dokumen PDF. Ubah warna seluruh konten teks.',
-    keywords: ['ubah warna teks pdf', 'warna teks pdf', 'modifikasi warna teks', 'warnai ulang teks pdf'],
+    metaDescription: 'Ubah warna teks di dalam dokumen PDF. Ubah warna seluruh konten teks.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['ubah warna teks pdf', 'warna teks pdf', 'modifikasi warna teks', 'warnai ulang teks pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Ubah Warna Teks memungkinkan Anda mengubah warna teks di dalam dokumen PDF Anda. Ini berguna untuk meningkatkan kontras, mencocokkan warna merek, atau membuat variasi visual pada dokumen.</p>
       <p>Pilih warna baru dan terapkan ke seluruh teks di dalam dokumen. Alat ini memproses elemen teks sambil mempertahankan gambar dan konten lainnya.</p>
@@ -567,8 +567,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'add-stamps': {
     title: 'Tambahkan Stempel',
-    metaDescription: 'Tambahkan stempel ke dokumen PDF. Gunakan stempel prasetel atau kustom untuk persetujuan, peninjauan, dan lainnya.',
-    keywords: ['stempel pdf', 'tambah stempel', 'stempel persetujuan', 'stempel karet pdf'],
+    metaDescription: 'Tambahkan stempel ke dokumen PDF. Gunakan stempel prasetel atau kustom untuk persetujuan, peninjauan, dan lainnya.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['stempel pdf', 'tambah stempel', 'stempel persetujuan', 'stempel karet pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Tambahkan Stempel memungkinkan Anda menempatkan gambar stempel di dokumen PDF Anda. Gunakan stempel prasetel (preset) seperti "Disetujui", "Ditolak", "Draf", atau unggah gambar stempel kustom Anda sendiri.</p>
       <p>Tempatkan stempel di mana saja pada halaman, ubah ukurannya, dan terapkan ke satu atau beberapa halaman. Sempurna untuk alur kerja dokumen, persetujuan, dan indikator status.</p>
@@ -593,8 +593,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'remove-annotations': {
     title: 'Hapus Anotasi',
-    metaDescription: 'Hapus anotasi dari file PDF. Hapus komentar, sorotan, dan markup.',
-    keywords: ['hapus anotasi pdf', 'hapus komentar', 'hapus sorotan', 'bersihkan pdf'],
+    metaDescription: 'Hapus anotasi dari file PDF. Hapus komentar, sorotan, dan markup.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['hapus anotasi pdf', 'hapus komentar', 'hapus sorotan', 'bersihkan pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Hapus Anotasi akan melucuti komentar, sorotan, catatan tempel, dan anotasi lainnya dari dokumen PDF Anda. Hal ini akan menghasilkan versi dokumen yang bersih tanpa ada markup.</p>
       <p>Anda dapat menghapus semua anotasi atau secara selektif menghapus jenis tertentu. Sempurna untuk membuat versi akhir dari dokumen yang telah ditinjau atau menghapus komentar yang sensitif.</p>
@@ -619,8 +619,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'form-filler': {
     title: 'Pengisi Formulir',
-    metaDescription: 'Isi formulir PDF secara online. Lengkapi formulir PDF interaktif tanpa perlu mencetaknya.',
-    keywords: ['isi formulir pdf', 'pengisi formulir pdf', 'lengkapi formulir pdf', 'pdf interaktif'],
+    metaDescription: 'Isi formulir PDF secara online. Lengkapi formulir PDF interaktif tanpa perlu mencetaknya.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['isi formulir pdf', 'pengisi formulir pdf', 'lengkapi formulir pdf', 'pdf interaktif', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Pengisi Formulir memungkinkan Anda untuk melengkapi formulir PDF interaktif secara langsung di browser Anda. Isi bidang teks, centang kotak, pilih opsi, dan tambahkan tanda tangan tanpa perlu mencetak dokumen tersebut.</p>
       <p>Alat ini mendukung formulir PDF standar maupun formulir XFA. Data yang Anda isi dapat disimpan dan formulir dapat diratakan (flattened) untuk mencegah pengeditan lebih lanjut.</p>
@@ -645,8 +645,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'form-creator': {
     title: 'Pembuat Formulir',
-    metaDescription: 'Buat formulir PDF yang dapat diisi. Tambahkan bidang teks, kotak centang, dan dropdown ke dalam dokumen.',
-    keywords: ['buat formulir pdf', 'pembuat formulir pdf', 'pdf dapat diisi', 'tambah bidang formulir'],
+    metaDescription: 'Buat formulir PDF yang dapat diisi. Tambahkan bidang teks, kotak centang, dan dropdown ke dalam dokumen.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['buat formulir pdf', 'pembuat formulir pdf', 'pdf dapat diisi', 'tambah bidang formulir', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Pembuat Formulir mengubah dokumen PDF statis menjadi formulir interaktif yang dapat diisi. Tambahkan bidang teks, kotak centang, tombol radio, dropdown, dan lainnya untuk membuat formulir profesional.</p>
       <p>Tarik dan lepas elemen formulir ke dokumen Anda, konfigurasikan properti bidang, dan buat formulir yang dapat diisi secara elektronik. Sempurna untuk membuat aplikasi, survei, dan formulir pengumpulan data.</p>
@@ -671,8 +671,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'remove-blank-pages': {
     title: 'Hapus Halaman Kosong',
-    metaDescription: 'Deteksi dan hapus halaman kosong dari dokumen PDF secara otomatis.',
-    keywords: ['hapus halaman kosong', 'hapus halaman kosong pdf', 'bersihkan pdf', 'penghapus halaman kosong pdf'],
+    metaDescription: 'Deteksi dan hapus halaman kosong dari dokumen PDF secara otomatis.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['hapus halaman kosong', 'hapus halaman kosong pdf', 'bersihkan pdf', 'penghapus halaman kosong pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Hapus Halaman Kosong secara otomatis mendeteksi dan menghapus halaman yang kosong dari dokumen PDF Anda. Ini berguna untuk membersihkan dokumen pindaian, menghapus halaman pemisah, atau menghilangkan halaman kosong yang tidak sengaja disertakan.</p>
       <p>Alat ini menggunakan deteksi cerdas untuk mengidentifikasi halaman yang benar-benar kosong sekaligus mempertahankan halaman dengan konten minimal. Anda dapat menyesuaikan ambang batas (threshold) sensitivitas untuk mengontrol apa yang dianggap sebagai "kosong".</p>
@@ -697,8 +697,8 @@ export const toolContentId: Record<string, ToolContent> = {
   // ==================== CONVERT TO PDF ====================
   'image-to-pdf': {
     title: 'Gambar ke PDF',
-    metaDescription: 'Konversi gambar apa pun menjadi PDF. Mendukung format JPG, PNG, WebP, BMP, TIFF, SVG, dan HEIC.',
-    keywords: ['gambar ke pdf', 'konversi gambar', 'foto ke pdf', 'picture ke pdf'],
+    metaDescription: 'Konversi gambar apa pun menjadi PDF. Mendukung format JPG, PNG, WebP, BMP, TIFF, SVG, dan HEIC.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['gambar ke pdf', 'konversi gambar', 'foto ke pdf', 'picture ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Gambar ke PDF mengonversi gambar format apa pun menjadi dokumen PDF. Dukungan untuk format JPG, PNG, WebP, BMP, TIFF, SVG, dan HEIC menjadikan ini alat konverter gambar yang universal.</p>
       <p>Gabungkan beberapa gambar menjadi satu PDF, atur dalam urutan apa pun, dan sesuaikan ukuran halaman serta orientasinya. Sempurna untuk membuat album foto, arsip dokumen, atau portofolio.</p>
@@ -723,8 +723,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'png-to-pdf': {
     title: 'PNG ke PDF',
-    metaDescription: 'Konversi gambar PNG menjadi PDF. Pertahankan transparansi dan gabungkan beberapa file PNG.',
-    keywords: ['png ke pdf', 'konversi png', 'konverter png', 'gambar transparan ke pdf'],
+    metaDescription: 'Konversi gambar PNG menjadi PDF. Pertahankan transparansi dan gabungkan beberapa file PNG.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['png ke pdf', 'konversi png', 'konverter png', 'gambar transparan ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PNG ke PDF mengonversi gambar PNG Anda menjadi dokumen PDF dengan tetap mempertahankan transparansinya. Sempurna untuk grafik, logo, tangkapan layar, dan gambar dengan latar belakang transparan.</p>
       <p>Gabungkan beberapa file PNG menjadi satu PDF, atur dalam urutan apa pun, dan sesuaikan pengaturan halaman. Konversi ini mempertahankan kualitas tinggi dari gambar asli Anda.</p>
@@ -749,8 +749,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'webp-to-pdf': {
     title: 'WebP ke PDF',
-    metaDescription: 'Konversi gambar WebP ke PDF. Konversi format gambar modern dengan mempertahankan kualitas.',
-    keywords: ['webp ke pdf', 'konversi webp', 'konverter webp', 'gambar web ke pdf'],
+    metaDescription: 'Konversi gambar WebP ke PDF. Konversi format gambar modern dengan mempertahankan kualitas.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['webp ke pdf', 'konversi webp', 'konverter webp', 'gambar web ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>WebP ke PDF mengonversi gambar WebP modern menjadi dokumen PDF. WebP adalah format gambar web yang populer, dan alat ini memudahkan Anda mengonversi gambar-gambar tersebut untuk dicetak atau diarsipkan.</p>
       <p>Gabungkan beberapa file WebP menjadi satu PDF dengan pengaturan halaman yang dapat disesuaikan. Konversi ini mempertahankan kualitas gambar sembari menciptakan file PDF yang ringkas.</p>
@@ -775,8 +775,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'svg-to-pdf': {
     title: 'SVG ke PDF',
-    metaDescription: 'Konversi grafik vektor SVG ke PDF. Pertahankan skalabilitas dan kualitas.',
-    keywords: ['svg ke pdf', 'konversi svg', 'vektor ke pdf', 'grafik yang dapat diskalakan ke pdf'],
+    metaDescription: 'Konversi grafik vektor SVG ke PDF. Pertahankan skalabilitas dan kualitas.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['svg ke pdf', 'konversi svg', 'vektor ke pdf', 'grafik yang dapat diskalakan ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>SVG ke PDF mengonversi grafik vektor yang dapat diskalakan menjadi dokumen PDF sembari mempertahankan kualitas vektornya. File SVG tetap tajam pada ukuran apa pun, dan kualitas ini dipertahankan di dalam output PDF.</p>
       <p>Sempurna untuk mengonversi logo, ikon, ilustrasi, dan gambar teknis. PDF yang dihasilkan akan mempertahankan skalabilitas grafik vektor aslinya.</p>
@@ -801,8 +801,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'bmp-to-pdf': {
     title: 'BMP ke PDF',
-    metaDescription: 'Konversi gambar bitmap BMP ke PDF. Dukungan format lama (legacy) dengan pelestarian kualitas.',
-    keywords: ['bmp ke pdf', 'konversi bmp', 'bitmap ke pdf', 'konverter bmp'],
+    metaDescription: 'Konversi gambar bitmap BMP ke PDF. Dukungan format lama (legacy) dengan pelestarian kualitas.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['bmp ke pdf', 'konversi bmp', 'bitmap ke pdf', 'konverter bmp', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>BMP ke PDF mengonversi gambar bitmap menjadi dokumen PDF. BMP adalah format gambar lawas yang biasa digunakan di lingkungan Windows, dan alat ini memudahkan Anda mengonversi file-file tersebut ke format PDF modern.</p>
       <p>Gabungkan beberapa file BMP menjadi satu PDF dengan pengaturan yang dapat disesuaikan. Konversi ini akan mengompres file BMP yang biasanya berukuran besar dengan tetap mempertahankan kualitas gambar.</p>
@@ -828,7 +828,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'psd-to-pdf': {
     title: 'PSD ke PDF',
     metaDescription: 'Konversi file Adobe Photoshop (PSD) ke format PDF. Mendukung beberapa file sekaligus dan mempertahankan kualitas gambar.',
-    keywords: ['psd ke pdf', 'konversi psd', 'photoshop ke pdf', 'konverter psd', 'adobe psd ke pdf'],
+    keywords: ['psd ke pdf', 'konversi psd', 'photoshop ke pdf', 'konverter psd', 'adobe psd ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PSD ke PDF mengonversi file Adobe Photoshop (PSD) menjadi dokumen PDF. Alat ini memungkinkan Anda melihat dan membagikan desain PSD tanpa perlu menginstal program Photoshop.</p>
       <p>Anda dapat mengonversi beberapa file PSD sekaligus dan menggabungkannya menjadi satu dokumen PDF. Alat ini memproses setiap file PSD, merender lapisan (layer) yang terlihat ke dalam halaman PDF berkualitas tinggi.</p>
@@ -853,8 +853,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'heic-to-pdf': {
     title: 'HEIC ke PDF',
-    metaDescription: 'Konversi foto iPhone HEIC menjadi PDF. Konversi format gambar Apple jadi lebih mudah.',
-    keywords: ['heic ke pdf', 'konversi heic', 'foto iphone ke pdf', 'gambar apple ke pdf'],
+    metaDescription: 'Konversi foto iPhone HEIC menjadi PDF. Konversi format gambar Apple jadi lebih mudah.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['heic ke pdf', 'konversi heic', 'foto iphone ke pdf', 'gambar apple ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>HEIC ke PDF mengonversi foto High Efficiency Image Format milik Apple menjadi dokumen PDF. HEIC adalah format foto bawaan di iPhone dan iPad, dan alat ini akan mempermudah Anda untuk membagikan foto-foto tersebut.</p>
       <p>Gabungkan beberapa foto HEIC menjadi satu PDF, sangat cocok untuk membuat album foto atau arsip dokumen yang berasal dari foto iPhone Anda.</p>
@@ -879,8 +879,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'tiff-to-pdf': {
     title: 'TIFF ke PDF',
-    metaDescription: 'Konversi gambar TIFF menjadi PDF. Mendukung file TIFF multi-halaman dan konversi berkualitas tinggi.',
-    keywords: ['tiff ke pdf', 'konversi tiff', 'tif ke pdf', 'tiff multi-halaman'],
+    metaDescription: 'Konversi gambar TIFF menjadi PDF. Mendukung file TIFF multi-halaman dan konversi berkualitas tinggi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['tiff ke pdf', 'konversi tiff', 'tif ke pdf', 'tiff multi-halaman', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>TIFF ke PDF mengonversi gambar TIFF, termasuk file TIFF multi-halaman, menjadi dokumen PDF. TIFF umumnya digunakan untuk pindaian berkualitas tinggi dan grafik profesional.</p>
       <p>File TIFF multi-halaman secara otomatis akan dikonversi menjadi PDF multi-halaman. Konversi ini mempertahankan kualitas tinggi dari gambar asli Anda.</p>
@@ -905,8 +905,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'txt-to-pdf': {
     title: 'Teks ke PDF',
-    metaDescription: 'Konversi file teks biasa ke PDF. Sesuaikan font, margin, dan tata letak halaman.',
-    keywords: ['txt ke pdf', 'teks ke pdf', 'konversi file teks', 'teks biasa ke pdf'],
+    metaDescription: 'Konversi file teks biasa ke PDF. Sesuaikan font, margin, dan tata letak halaman.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['txt ke pdf', 'teks ke pdf', 'konversi file teks', 'teks biasa ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Teks ke PDF mengonversi file teks biasa menjadi dokumen PDF yang berformat. Sesuaikan font, ukuran, margin, dan tata letak halaman untuk membuat dokumen yang terlihat profesional dari teks biasa.</p>
       <p>Sangat cocok untuk mengonversi file kode, log, catatan, atau konten teks biasa apa pun ke dalam format PDF yang mudah dibagikan.</p>
@@ -931,8 +931,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'json-to-pdf': {
     title: 'JSON ke PDF',
-    metaDescription: 'Konversi file JSON menjadi PDF berformat. Dengan penyorotan sintaks dan output terstruktur.',
-    keywords: ['json ke pdf', 'konversi json', 'penampil json', 'pemformat json'],
+    metaDescription: 'Konversi file JSON menjadi PDF berformat. Dengan penyorotan sintaks dan output terstruktur.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['json ke pdf', 'konversi json', 'penampil json', 'pemformat json', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>JSON ke PDF mengonversi file data JSON menjadi dokumen PDF yang mudah dibaca dan berformat rapi. Hasil output mencakup penyorotan sintaks (syntax highlighting) dan indentasi yang tepat untuk memudahkan proses membaca.</p>
       <p>Sangat cocok untuk mendokumentasikan respons API, file konfigurasi, atau data JSON apa pun yang perlu dibagikan atau diarsipkan dalam format yang rapi.</p>
@@ -957,8 +957,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'word-to-pdf': {
     title: 'Word ke PDF',
-    metaDescription: 'Konversi dokumen Word (DOCX) menjadi PDF. Pertahankan format dan tata letak dalam dokumen yang Anda konversi.',
-    keywords: ['word ke pdf', 'docx ke pdf', 'konversi word', 'konverter word', 'microsoft word ke pdf'],
+    metaDescription: 'Konversi dokumen Word (DOCX) menjadi PDF. Pertahankan format dan tata letak dalam dokumen yang Anda konversi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['word ke pdf', 'docx ke pdf', 'konversi word', 'konverter word', 'microsoft word ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Word ke PDF mengonversi dokumen Microsoft Word menjadi format PDF sembari mempertahankan format asli, tata letak, dan struktur kontennya.</p>
       <p>Unggah file DOCX Anda dan dapatkan output PDF berkualitas tinggi yang siap untuk dibagikan, dicetak, atau diarsipkan. Konversi ini mempertahankan format teks, gaya paragraf, dan struktur dokumen dasar.</p>
@@ -983,8 +983,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'excel-to-pdf': {
     title: 'Excel ke PDF',
-    metaDescription: 'Konversi lembar kerja Excel (XLSX) menjadi PDF. Pertahankan tabel dan data di dokumen hasil konversi Anda.',
-    keywords: ['excel ke pdf', 'xlsx ke pdf', 'konversi excel', 'spreadsheet ke pdf', 'microsoft excel ke pdf'],
+    metaDescription: 'Konversi lembar kerja Excel (XLSX) menjadi PDF. Pertahankan tabel dan data di dokumen hasil konversi Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['excel ke pdf', 'xlsx ke pdf', 'konversi excel', 'spreadsheet ke pdf', 'microsoft excel ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Excel ke PDF mengonversi lembar kerja Microsoft Excel menjadi format PDF sembari mempertahankan struktur tabel dan pengaturan datanya.</p>
       <p>Unggah file XLSX Anda dan dapatkan output PDF yang rapi dengan tabel yang terformat dengan baik. Setiap lembar di dalam workbook Anda akan menjadi bagian terpisah di dalam PDF.</p>
@@ -1009,8 +1009,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pptx-to-pdf': {
     title: 'PowerPoint ke PDF',
-    metaDescription: 'Konversi presentasi PowerPoint (PPTX) menjadi PDF. Pertahankan slide dan konten untuk memudahkan berbagi.',
-    keywords: ['powerpoint ke pdf', 'pptx ke pdf', 'konversi pptx', 'presentasi ke pdf', 'slide ke pdf'],
+    metaDescription: 'Konversi presentasi PowerPoint (PPTX) menjadi PDF. Pertahankan slide dan konten untuk memudahkan berbagi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['powerpoint ke pdf', 'pptx ke pdf', 'konversi pptx', 'presentasi ke pdf', 'slide ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PowerPoint ke PDF mengonversi presentasi Microsoft PowerPoint Anda ke dalam format PDF, mempertahankan konten slide dan teks sehingga lebih mudah dibagikan dan dilihat.</p>
       <p>Setiap slide akan menjadi satu halaman di dalam PDF, menjaga kelancaran alur presentasi. Alat ini sangat sempurna untuk membagikan presentasi kepada mereka yang tidak memiliki program PowerPoint.</p>
@@ -1036,7 +1036,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'xps-to-pdf': {
     title: 'XPS ke PDF',
     metaDescription: 'Konversi dokumen XPS ke format PDF. Konversi berakurasi tinggi (high-fidelity) yang mempertahankan tata letak dan grafik.',
-    keywords: ['xps ke pdf', 'konversi xps', 'konverter xps', 'microsoft xps ke pdf', 'oxps ke pdf'],
+    keywords: ['xps ke pdf', 'konversi xps', 'konverter xps', 'microsoft xps ke pdf', 'oxps ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>XPS ke PDF mengonversi dokumen Microsoft XPS (XML Paper Specification) menjadi format PDF sembari mempertahankan tata letak asli, teks, dan grafik vektornya.</p>
       <p>XPS adalah format dokumen tetap yang mirip dengan PDF. Alat ini menyediakan konversi dengan akurasi tinggi (high-fidelity) menggunakan parser XPS secara native, sehingga reproduksi dokumen Anda sangat akurat.</p>
@@ -1061,8 +1061,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'rtf-to-pdf': {
     title: 'RTF ke PDF',
-    metaDescription: 'Konversi file RTF (Rich Text Format) menjadi PDF. Pertahankan pemformatan teks di dalam dokumen Anda.',
-    keywords: ['rtf ke pdf', 'konversi rtf', 'rich text ke pdf', 'konverter rtf'],
+    metaDescription: 'Konversi file RTF (Rich Text Format) menjadi PDF. Pertahankan pemformatan teks di dalam dokumen Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['rtf ke pdf', 'konversi rtf', 'rich text ke pdf', 'konverter rtf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>RTF ke PDF mengonversi file Rich Text Format menjadi dokumen PDF. RTF adalah format teks yang didukung secara luas dan menyertakan pemformatan dasar seperti font, warna, dan gaya karakter.</p>
       <p>Unggah file RTF Anda dan dapatkan output PDF yang bersih sambil mempertahankan konten teks dan pemformatan dasar. Sangat cocok untuk mengonversi dokumen lama ke format PDF modern.</p>
@@ -1087,8 +1087,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'epub-to-pdf': {
     title: 'EPUB ke PDF',
-    metaDescription: 'Konversi e-book EPUB menjadi PDF. Pertahankan pemformatan, gambar, dan struktur bab.',
-    keywords: ['epub ke pdf', 'konversi epub', 'ebook ke pdf', 'konverter epub'],
+    metaDescription: 'Konversi e-book EPUB menjadi PDF. Pertahankan pemformatan, gambar, dan struktur bab.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['epub ke pdf', 'konversi epub', 'ebook ke pdf', 'konverter epub', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>EPUB ke PDF mengonversi file buku elektronik (e-book) Anda menjadi dokumen PDF berkualitas tinggi. EPUB adalah format e-book paling populer yang digunakan oleh sebagian besar e-reader dan perpustakaan digital.</p>
       <p>Alat ini mempertahankan format teks, gambar, dan struktur bab dari e-book Anda. Sangat sempurna untuk dicetak, diarsipkan, atau jika Anda ingin membagikan e-book tersebut dalam format yang bisa dilihat di perangkat apa pun.</p>
@@ -1113,8 +1113,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'mobi-to-pdf': {
     title: 'MOBI ke PDF',
-    metaDescription: 'Konversi e-book MOBI menjadi PDF. Mendukung format Kindle dengan rendering berkualitas tinggi.',
-    keywords: ['mobi ke pdf', 'konversi mobi', 'kindle ke pdf', 'azw ke pdf', 'konverter mobi'],
+    metaDescription: 'Konversi e-book MOBI menjadi PDF. Mendukung format Kindle dengan rendering berkualitas tinggi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['mobi ke pdf', 'konversi mobi', 'kindle ke pdf', 'azw ke pdf', 'konverter mobi', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>MOBI ke PDF mengonversi file e-book Amazon Kindle Anda menjadi dokumen PDF berkualitas tinggi. Format MOBI (termasuk AZW dan AZW3) adalah format e-book eksklusif milik Amazon yang digunakan di perangkat Kindle.</p>
       <p>Alat ini mempertahankan pemformatan teks, gambar, dan struktur dari buku Kindle Anda. Sempurna untuk mencetak, mengarsipkan, atau membaca di perangkat yang tidak mendukung format MOBI.</p>
@@ -1139,8 +1139,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'djvu-to-pdf': {
     title: 'DJVU ke PDF',
-    metaDescription: 'Konversi file dokumen DJVU menjadi PDF. Rendering berkualitas tinggi untuk dokumen pindaian dan buku.',
-    keywords: ['djvu ke pdf', 'konversi djvu', 'konverter djvu', 'djvu pdf', 'djv ke pdf'],
+    metaDescription: 'Konversi file dokumen DJVU menjadi PDF. Rendering berkualitas tinggi untuk dokumen pindaian dan buku.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['djvu ke pdf', 'konversi djvu', 'konverter djvu', 'djvu pdf', 'djv ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>DJVU ke PDF mengonversi file dokumen DjVu menjadi dokumen PDF berkualitas tinggi. DjVu adalah format file komputer yang utamanya dirancang untuk menyimpan dokumen hasil pindaian, terutama yang berisi kombinasi antara teks, gambar garis (line drawings), dan foto.</p>
       <p>Alat ini merender setiap halaman dari file DJVU Anda sesuai dengan ukuran DPI (dots per inch) yang Anda pilih dan menggabungkannya menjadi dokumen PDF yang dapat dicari. Alat ini sangat sempurna untuk mengonversi pindaian buku, manual teknis, dan dokumen arsip.</p>
@@ -1165,8 +1165,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'fb2-to-pdf': {
     title: 'FB2 ke PDF',
-    metaDescription: 'Konversi e-book FictionBook (FB2) menjadi PDF. Mendukung beberapa file sekaligus dengan rendering berkualitas tinggi.',
-    keywords: ['fb2 ke pdf', 'konversi fb2', 'fictionbook ke pdf', 'konverter fb2', 'fb2.zip ke pdf'],
+    metaDescription: 'Konversi e-book FictionBook (FB2) menjadi PDF. Mendukung beberapa file sekaligus dengan rendering berkualitas tinggi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['fb2 ke pdf', 'konversi fb2', 'fictionbook ke pdf', 'konverter fb2', 'fb2.zip ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>FB2 ke PDF mengonversi file e-book FictionBook (FB2) menjadi dokumen PDF berkualitas tinggi. FB2 adalah format e-book berbasis XML yang populer dan banyak digunakan di Rusia serta Eropa Timur.</p>
       <p>Alat ini mendukung file .fb2 maupun .fb2.zip, serta dapat memproses beberapa file sekaligus. Alat ini akan mempertahankan format teks, gambar, dan struktur bab dari e-book Anda.</p>
@@ -1192,8 +1192,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-jpg': {
     title: 'PDF ke JPG',
-    metaDescription: 'Konversi halaman PDF menjadi gambar JPG. Ekstraksi berkualitas tinggi dengan resolusi yang dapat disesuaikan.',
-    keywords: ['pdf ke jpg', 'pdf ke jpeg', 'konversi pdf ke gambar', 'ekstrak gambar pdf'],
+    metaDescription: 'Konversi halaman PDF menjadi gambar JPG. Ekstraksi berkualitas tinggi dengan resolusi yang dapat disesuaikan.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke jpg', 'pdf ke jpeg', 'konversi pdf ke gambar', 'ekstrak gambar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke JPG mengonversi halaman dokumen PDF menjadi gambar JPG berkualitas tinggi. Ekstrak semua halaman atau pilih halaman tertentu untuk dikonversi, dengan resolusi dan kualitas yang dapat disesuaikan.</p>
       <p>Sempurna untuk mengekstrak gambar dari PDF, membuat gambar mini (thumbnail), atau mengonversi dokumen untuk penggunaan di web.</p>
@@ -1218,8 +1218,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-png': {
     title: 'PDF ke PNG',
-    metaDescription: 'Konversi halaman PDF menjadi gambar PNG. Kualitas tanpa penurunan (lossless) dengan dukungan transparansi.',
-    keywords: ['pdf ke png', 'konversi pdf ke png', 'ekstraksi gambar pdf', 'konversi pdf lossless'],
+    metaDescription: 'Konversi halaman PDF menjadi gambar PNG. Kualitas tanpa penurunan (lossless) dengan dukungan transparansi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke png', 'konversi pdf ke png', 'ekstraksi gambar pdf', 'konversi pdf lossless', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke PNG mengonversi halaman dokumen PDF menjadi gambar PNG berkualitas tinggi dengan kompresi lossless. Format PNG mempertahankan kualitas gambar dengan sempurna dan mendukung transparansi.</p>
       <p>Sangat ideal untuk mengekstrak grafik, diagram, atau konten apa pun di mana kualitas adalah hal yang sangat penting.</p>
@@ -1244,8 +1244,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-webp': {
     title: 'PDF ke WebP',
-    metaDescription: 'Konversi halaman PDF menjadi gambar WebP. Format modern dengan kompresi yang sangat baik.',
-    keywords: ['pdf ke webp', 'konversi pdf ke webp', 'format gambar modern', 'gambar untuk web'],
+    metaDescription: 'Konversi halaman PDF menjadi gambar WebP. Format modern dengan kompresi yang sangat baik.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke webp', 'konversi pdf ke webp', 'format gambar modern', 'gambar untuk web', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke WebP mengonversi halaman dokumen PDF menjadi gambar WebP, format gambar modern dari Google yang menawarkan kompresi sangat baik sekaligus mempertahankan kualitas yang tinggi.</p>
       <p>Gambar WebP memiliki ukuran yang lebih kecil dari JPG atau PNG dengan kualitas yang sebanding, menjadikannya ideal untuk penggunaan di web.</p>
@@ -1270,8 +1270,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-bmp': {
     title: 'PDF ke BMP',
-    metaDescription: 'Konversi halaman PDF menjadi gambar bitmap BMP. Format tidak terkompresi untuk kompatibilitas maksimum.',
-    keywords: ['pdf ke bmp', 'konversi pdf ke bitmap', 'gambar tidak terkompresi', 'format lawas'],
+    metaDescription: 'Konversi halaman PDF menjadi gambar bitmap BMP. Format tidak terkompresi untuk kompatibilitas maksimum.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke bmp', 'konversi pdf ke bitmap', 'gambar tidak terkompresi', 'format lawas', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke BMP mengonversi halaman dokumen PDF menjadi gambar bitmap BMP. BMP adalah format yang tidak dikompresi yang memastikan kompatibilitas maksimum dengan sistem dan aplikasi lawas.</p>
       <p>Meskipun file BMP lebih besar daripada format terkompresi, file ini menawarkan kualitas yang sempurna dan kompatibilitas yang universal.</p>
@@ -1296,8 +1296,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-tiff': {
     title: 'PDF ke TIFF',
-    metaDescription: 'Konversi PDF ke gambar TIFF. Kualitas profesional dengan dukungan multi-halaman.',
-    keywords: ['pdf ke tiff', 'konversi pdf ke tiff', 'gambar profesional', 'tiff multi-halaman'],
+    metaDescription: 'Konversi PDF ke gambar TIFF. Kualitas profesional dengan dukungan multi-halaman.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke tiff', 'konversi pdf ke tiff', 'gambar profesional', 'tiff multi-halaman', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke TIFF mengonversi dokumen PDF menjadi gambar TIFF berkualitas tinggi. TIFF adalah format yang sering digunakan untuk pencetakan profesional dan pengarsipan karena menggunakan kompresi lossless.</p>
       <p>Buat TIFF satu halaman atau gabungkan semua halaman menjadi satu file TIFF multi-halaman. Sempurna untuk keperluan profesional maupun arsip.</p>
@@ -1323,7 +1323,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'pdf-to-svg': {
     title: 'PDF ke SVG',
     metaDescription: 'Konversi halaman PDF menjadi grafik vektor SVG. Skalabilitas sempurna di segala ukuran dengan kemampuan ekspor halaman individu.',
-    keywords: ['pdf ke svg', 'konversi pdf ke svg', 'grafik vektor', 'pdf skalabel', 'konverter svg'],
+    keywords: ['pdf ke svg', 'konversi pdf ke svg', 'grafik vektor', 'pdf skalabel', 'konverter svg', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF ke SVG mengonversi setiap halaman dari dokumen PDF Anda menjadi Scalable Vector Graphic (SVG). SVG adalah format vektor yang mempertahankan kualitas yang sempurna di berbagai tingkat perbesaran (zoom) atau ukuran cetak.</p>
       <p>Berbeda dengan format raster (JPG, PNG), grafik SVG tidak pernah pecah atau berbintik (pixelated) saat diskalakan. Format ini sangat ideal untuk logo, diagram, gambar teknis, dan konten apa pun yang perlu ditampilkan dalam berbagai ukuran.</p>
@@ -1351,8 +1351,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-greyscale': {
     title: 'PDF ke Hitam Putih (Greyscale)',
-    metaDescription: 'Konversi PDF berwarna menjadi hitam putih. Kurangi ukuran file dan persiapkan untuk pencetakan hitam-putih.',
-    keywords: ['pdf ke hitam putih', 'pdf grayscale', 'pdf hitam putih', 'hapus warna pdf'],
+    metaDescription: 'Konversi PDF berwarna menjadi hitam putih. Kurangi ukuran file dan persiapkan untuk pencetakan hitam-putih.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke hitam putih', 'pdf grayscale', 'pdf hitam putih', 'hapus warna pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke Hitam Putih mengonversi dokumen PDF berwarna menjadi skala abu-abu (greyscale). Hal ini akan mengurangi ukuran file dan menyiapkan dokumen untuk dicetak dalam warna hitam-putih.</p>
       <p>Konversi ini tetap mempertahankan kejernihan teks dan detail gambar sambil menghapus informasi warnanya. Sangat cocok untuk mencetak dokumen draf atau versi dokumen yang ramah mesin cetak.</p>
@@ -1377,8 +1377,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-json': {
     title: 'PDF ke JSON',
-    metaDescription: 'Ekstrak konten PDF menjadi format JSON. Dapatkan data terstruktur dari dokumen PDF.',
-    keywords: ['pdf ke json', 'ekstrak data pdf', 'parser pdf', 'data pdf terstruktur'],
+    metaDescription: 'Ekstrak konten PDF menjadi format JSON. Dapatkan data terstruktur dari dokumen PDF.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke json', 'ekstrak data pdf', 'parser pdf', 'data pdf terstruktur', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke JSON mengekstrak konten dari dokumen PDF ke dalam format JSON yang terstruktur. Ekstrak teks, metadata, info halaman, dan struktur dokumen untuk penggunaan terprogram (programmatic).</p>
       <p>Sempurna untuk ekstraksi data, analisis dokumen, atau mengintegrasikan konten PDF ke dalam suatu aplikasi maupun alur kerja.</p>
@@ -1403,8 +1403,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-pptx': {
     title: 'PDF ke PowerPoint',
-    metaDescription: 'Konversi PDF menjadi presentasi PowerPoint. Setiap halaman menjadi satu slide berkualitas tinggi.',
-    keywords: ['pdf ke pptx', 'pdf ke powerpoint', 'konversi slide pdf', 'presentasi pdf'],
+    metaDescription: 'Konversi PDF menjadi presentasi PowerPoint. Setiap halaman menjadi satu slide berkualitas tinggi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke pptx', 'pdf ke powerpoint', 'konversi slide pdf', 'presentasi pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke PowerPoint mengonversi dokumen PDF Anda menjadi file presentasi PowerPoint yang dapat diedit (PPTX). Setiap halaman PDF akan diubah menjadi satu slide berkualitas tinggi, mempertahankan tata letak visualnya secara sempurna.</p>
       <p>Alat ini sangat ideal untuk mengonversi laporan, selebaran, atau konten PDF apa pun ke dalam format presentasi. Anda dapat memilih kualitas gambar (DPI) untuk menyeimbangkan antara ukuran file dan kejernihan visualnya.</p>
@@ -1429,8 +1429,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-excel': {
     title: 'PDF ke Excel',
-    metaDescription: 'Konversi PDF menjadi lembar kerja Excel. Ekstrak tabel menjadi format XLSX.',
-    keywords: ['pdf ke excel', 'pdf ke xlsx', 'konversi tabel pdf', 'ekstrak tabel'],
+    metaDescription: 'Konversi PDF menjadi lembar kerja Excel. Ekstrak tabel menjadi format XLSX.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke excel', 'pdf ke xlsx', 'konversi tabel pdf', 'ekstrak tabel', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke Excel mengonversi dokumen PDF Anda menjadi lembar kerja Microsoft Excel (XLSX) yang dapat diedit. Alat ini secara otomatis mendeteksi tabel di dalam PDF Anda dan mengekstraknya ke dalam lembaran (sheet) yang terpisah.</p>
       <p>Alat ini sangat ideal untuk menganalisis laporan keuangan, faktur, atau data apa pun yang disajikan dalam bentuk tabel. Tabel di setiap halaman akan disusun ke dalam sheet untuk memudahkan manipulasi data.</p>
@@ -1456,8 +1456,8 @@ export const toolContentId: Record<string, ToolContent> = {
   // ==================== ORGANIZE & MANAGE ====================
   'ocr-pdf': {
     title: 'OCR PDF',
-    metaDescription: 'Jadikan PDF pindaian Anda dapat dicari dengan OCR. Ekstrak teks dari gambar dan dokumen hasil pindaian.',
-    keywords: ['ocr pdf', 'pdf yang dapat dicari', 'pengenalan teks', 'pindai menjadi teks'],
+    metaDescription: 'Jadikan PDF pindaian Anda dapat dicari dengan OCR. Ekstrak teks dari gambar dan dokumen hasil pindaian.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['ocr pdf', 'pdf yang dapat dicari', 'pengenalan teks', 'pindai menjadi teks', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>OCR PDF menggunakan Pengenalan Karakter Optik (Optical Character Recognition) untuk mengekstrak teks dari dokumen hasil pindaian dan gambar di dalam PDF. Ubah PDF berbasis gambar menjadi dokumen teks yang dapat dicari dan dipilih teksnya.</p>
       <p>Dukungan untuk berbagai bahasa memastikan pengenalan teks yang akurat tanpa memandang bahasa asli dokumen. Tata letak aslinya juga akan dipertahankan sambil menyisipkan lapisan teks yang dapat dicari.</p>
@@ -1482,8 +1482,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'alternate-merge': {
     title: 'Penggabungan Berselang (Alternate Merge)',
-    metaDescription: 'Gabungkan PDF dengan halaman yang berselang-seling. Gabungkan pindaian bagian depan dan belakang ke dalam satu dokumen.',
-    keywords: ['penggabungan berselang', 'interleave pdf', 'gabung pindaian', 'gabung bolak-balik'],
+    metaDescription: 'Gabungkan PDF dengan halaman yang berselang-seling. Gabungkan pindaian bagian depan dan belakang ke dalam satu dokumen.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['penggabungan berselang', 'interleave pdf', 'gabung pindaian', 'gabung bolak-balik', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Penggabungan Berselang (Alternate Merge) menggabungkan dua buah PDF dengan menyelipkan halamannya secara berselang-seling. Ini sangat cocok untuk menyatukan pindaian halaman depan dan belakang yang terpisah menjadi satu dokumen yang utuh.</p>
       <p>Unggah dua PDF dan alat ini akan menggabungkannya dengan mengambil satu halaman dari masing-masing file secara bergantian. Anda juga dapat membalikkan urutan salah satu dokumen untuk pindaian dari belakang ke depan (back-to-front).</p>
@@ -1508,8 +1508,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'add-attachments': {
     title: 'Tambahkan Lampiran',
-    metaDescription: 'Sematkan file ke dalam dokumen PDF. Lampirkan jenis file apa pun ke PDF Anda.',
-    keywords: ['lampiran pdf', 'sematkan file', 'lampirkan ke pdf', 'portofolio pdf'],
+    metaDescription: 'Sematkan file ke dalam dokumen PDF. Lampirkan jenis file apa pun ke PDF Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['lampiran pdf', 'sematkan file', 'lampirkan ke pdf', 'portofolio pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Tambahkan Lampiran akan menyematkan file jenis apa pun ke dalam dokumen PDF Anda. Lampirkan spreadsheet, gambar, file sumber (source files), atau dokumen lainnya untuk membuat paket PDF yang komprehensif.</p>
       <p>Lampiran akan disematkan di dalam file PDF dan dapat diekstrak oleh penerima menggunakan penampil PDF (PDF reader) apa saja. Sangat cocok untuk mendistribusikan file-file yang saling berkaitan sekaligus.</p>
@@ -1534,8 +1534,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'extract-attachments': {
     title: 'Ekstrak Lampiran',
-    metaDescription: 'Ekstrak file yang disematkan di dalam PDF. Unduh semua lampiran dari dokumen PDF.',
-    keywords: ['ekstrak lampiran', 'lampiran pdf', 'unduh file tersemat', 'ekstraksi pdf'],
+    metaDescription: 'Ekstrak file yang disematkan di dalam PDF. Unduh semua lampiran dari dokumen PDF.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['ekstrak lampiran', 'lampiran pdf', 'unduh file tersemat', 'ekstraksi pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Ekstrak Lampiran mengambil seluruh file yang disematkan di dalam dokumen PDF. Anda dapat mengunduh lampiran tersebut satu per satu atau menyatukannya ke dalam satu arsip ZIP.</p>
       <p>Sangat ideal untuk mengambil file sumber (source files), data, atau materi pendukung yang disematkan di dalam paket PDF.</p>
@@ -1561,7 +1561,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'extract-images': {
     title: 'Ekstrak Gambar dari PDF',
     metaDescription: 'Ekstrak seluruh gambar yang ada di dalam file PDF. Unduh satu per satu atau sebagai arsip ZIP. Filter gambar kecil secara otomatis.',
-    keywords: ['ekstrak gambar pdf', 'ekstraksi gambar pdf', 'ambil gambar dari pdf', 'unduh gambar pdf', 'pdf ke gambar'],
+    keywords: ['ekstrak gambar pdf', 'ekstraksi gambar pdf', 'ambil gambar dari pdf', 'unduh gambar pdf', 'pdf ke gambar', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Ekstrak Gambar dari PDF akan mengambil seluruh gambar yang tersemat di dalam dokumen PDF Anda. Unduh gambar berkualitas tinggi secara individual atau dalam bentuk arsip ZIP yang praktis.</p>
       <p>Alat ini secara otomatis akan menyaring (filter) gambar-gambar berukuran kecil seperti ikon maupun dekorasi, berdasarkan batas ukuran yang bisa disesuaikan. Proses beberapa PDF sekaligus untuk ekstraksi massal yang efisien.</p>
@@ -1587,8 +1587,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'edit-attachments': {
     title: 'Edit Lampiran',
-    metaDescription: 'Kelola lampiran file PDF. Lihat, ganti nama, dan hapus file yang disematkan.',
-    keywords: ['edit lampiran', 'kelola file pdf', 'hapus lampiran', 'ganti nama lampiran'],
+    metaDescription: 'Kelola lampiran file PDF. Lihat, ganti nama, dan hapus file yang disematkan.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['edit lampiran', 'kelola file pdf', 'hapus lampiran', 'ganti nama lampiran', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Edit Lampiran memungkinkan Anda mengelola file yang disematkan di dalam dokumen PDF. Anda dapat melihat semua lampiran, mengganti namanya, atau menghapus file yang tidak lagi diinginkan dari PDF.</p>
       <p>Sempurna untuk membersihkan dokumen paket PDF atau memperbarui informasi lampirannya sebelum disebarluaskan.</p>
@@ -1613,8 +1613,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'divide-pages': {
     title: 'Bagi Halaman',
-    metaDescription: 'Bagi satu halaman PDF menjadi beberapa bagian. Pisahkan halaman secara horizontal maupun vertikal.',
-    keywords: ['bagi halaman pdf', 'pisahkan halaman', 'potong halaman pdf', 'bagian halaman'],
+    metaDescription: 'Bagi satu halaman PDF menjadi beberapa bagian. Pisahkan halaman secara horizontal maupun vertikal.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['bagi halaman pdf', 'pisahkan halaman', 'potong halaman pdf', 'bagian halaman', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Bagi Halaman memisahkan halaman PDF menjadi beberapa bagian. Anda bisa memotong halaman secara horizontal, vertikal, maupun format kisi (grid) untuk menciptakan beberapa halaman baru dari satu halaman saja.</p>
       <p>Sangat cocok untuk memecah hasil pindaian dokumen yang berisi beberapa item per halaman, atau untuk memotong halaman berformat besar menjadi ukuran standar.</p>
@@ -1639,8 +1639,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'add-blank-page': {
     title: 'Tambahkan Halaman Kosong',
-    metaDescription: 'Sisipkan halaman kosong ke dalam dokumen PDF. Tambahkan halaman kosong di posisi mana saja.',
-    keywords: ['tambah halaman kosong', 'sisipkan halaman', 'halaman kosong', 'penyisipan halaman pdf'],
+    metaDescription: 'Sisipkan halaman kosong ke dalam dokumen PDF. Tambahkan halaman kosong di posisi mana saja.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['tambah halaman kosong', 'sisipkan halaman', 'halaman kosong', 'penyisipan halaman pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Tambahkan Halaman Kosong akan menyisipkan halaman kosong ke dalam dokumen PDF Anda di posisi mana saja yang diinginkan. Tambahkan halaman sebelum, sesudah, atau di antara halaman-halaman yang ada, dengan ukuran halaman yang bisa disesuaikan.</p>
       <p>Sempurna untuk menyediakan ruang catatan, membuat halaman pembatas (divider), atau mempersiapkan dokumen untuk dicetak.</p>
@@ -1665,8 +1665,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'reverse-pages': {
     title: 'Balikkan Halaman',
-    metaDescription: 'Balikkan urutan halaman PDF. Tukar posisi halaman dokumen dari halaman paling akhir menjadi yang pertama.',
-    keywords: ['balikkan pdf', 'balik urutan halaman', 'balikan halaman', 'balikkan dokumen'],
+    metaDescription: 'Balikkan urutan halaman PDF. Tukar posisi halaman dokumen dari halaman paling akhir menjadi yang pertama.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['balikkan pdf', 'balik urutan halaman', 'balikan halaman', 'balikkan dokumen', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Balikkan Halaman (Reverse Pages) akan memutarbalikkan urutan halaman di dalam dokumen PDF Anda, di mana halaman terakhir akan menjadi halaman pertama dan halaman pertama menjadi yang terakhir. Sangat berguna untuk dokumen yang dipindai dengan urutan terbalik, atau untuk kebutuhan cetak tertentu.</p>
       <p>Alat ini akan memproses keseluruhan dokumen atau hanya pada rentang halaman yang dipilih, tanpa merusak konten atau formatnya.</p>
@@ -1691,8 +1691,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'rotate-pdf': {
     title: 'Putar PDF',
-    metaDescription: 'Putar halaman PDF. Ubah orientasi halaman sebesar 90, 180, atau 270 derajat.',
-    keywords: ['putar pdf', 'balik orientasi halaman pdf', 'rotasi pdf', 'perbaiki orientasi'],
+    metaDescription: 'Putar halaman PDF. Ubah orientasi halaman sebesar 90, 180, atau 270 derajat.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['putar pdf', 'balik orientasi halaman pdf', 'rotasi pdf', 'perbaiki orientasi', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Putar PDF mengubah orientasi halaman dalam dokumen Anda sebesar 90, 180, atau 270 derajat. Alat ini sangat praktis untuk memperbaiki dokumen pindaian yang posisinya salah, memutar halaman lanskap, atau sekadar mengubah orientasinya agar lebih mudah dibaca.</p>
       <p>Putar seluruh halaman secara bersamaan atau pilih halaman tertentu untuk diputar secara individual. Alat ini tidak mengubah kualitas maupun memformat isi dokumen Anda.</p>
@@ -1717,8 +1717,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'n-up-pdf': {
     title: 'N-Up PDF',
-    metaDescription: 'Cetak beberapa halaman PDF dalam satu lembar kertas. Buat tata letak 2-up, 4-up, atau tata letak kisi kustom.',
-    keywords: ['n-up pdf', 'banyak halaman per lembar', 'pencetakan 2-up', 'penyusunan halaman'],
+    metaDescription: 'Cetak beberapa halaman PDF dalam satu lembar kertas. Buat tata letak 2-up, 4-up, atau tata letak kisi kustom.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['n-up pdf', 'banyak halaman per lembar', 'pencetakan 2-up', 'penyusunan halaman', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>N-Up PDF menyusun beberapa halaman dokumen dan menggabungkannya ke dalam satu lembar halaman. Alat ini dapat membuat tata letak jenis 2-up, 4-up, 6-up, 9-up, maupun format kustom. Sangat ideal untuk menghemat kertas saat dicetak atau jika Anda ingin membuat format selebaran (handout).</p>
       <p>Pilih dari templat yang sudah ada atau buat sendiri pengaturannya. Alat ini akan menyesuaikan skala serta memosisikan halamannya secara otomatis untuk hasil yang optimal.</p>
@@ -1743,8 +1743,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'combine-single-page': {
     title: 'Kombinasikan ke Satu Halaman',
-    metaDescription: 'Rangkai halaman PDF menjadi satu halaman yang tersambung. Buat dokumen satu halaman yang dapat digulir.',
-    keywords: ['kombinasi halaman', 'pdf halaman tunggal', 'rangkai halaman', 'gulir terus menerus'],
+    metaDescription: 'Rangkai halaman PDF menjadi satu halaman yang tersambung. Buat dokumen satu halaman yang dapat digulir.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['kombinasi halaman', 'pdf halaman tunggal', 'rangkai halaman', 'gulir terus menerus', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Kombinasikan ke Satu Halaman (Combine to Single Page) merangkai semua halaman PDF menjadi satu halaman panjang yang utuh dan tersambung. Sangat sempurna jika Anda ingin membuat dokumen yang bisa digulir (scrolling) dengan halus, terutama untuk tampilan web atau bahan bacaan yang tidak ingin terputus-putus.</p>
       <p>Halaman akan digabungkan secara vertikal lengkap dengan jarak spasi (spacing) yang bisa Anda atur. Hasil akhirnya adalah sebuah halaman panjang yang berisikan semua konten dari dokumen tersebut.</p>
@@ -1768,8 +1768,8 @@ export const toolContentId: Record<string, ToolContent> = {
   },
 'view-metadata': {
     title: 'Lihat Metadata',
-    metaDescription: 'Lihat properti dokumen PDF. Lihat penulis, judul, tanggal, dan metadata lainnya.',
-    keywords: ['metadata pdf', 'properti dokumen', 'info pdf', 'lihat detail pdf'],
+    metaDescription: 'Lihat properti dokumen PDF. Lihat penulis, judul, tanggal, dan metadata lainnya.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['metadata pdf', 'properti dokumen', 'info pdf', 'lihat detail pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Lihat Metadata akan menampilkan seluruh properti dokumen dan metadata dari file PDF Anda. Lihat nama penulis, judul, subjek, kata kunci, tanggal pembuatan, tanggal modifikasi, dan masih banyak lagi.</p>
       <p>Sangat berguna untuk melakukan audit dokumen, memeriksa informasi file, atau memverifikasi keaslian dokumen.</p>
@@ -1794,8 +1794,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'edit-metadata': {
     title: 'Edit Metadata',
-    metaDescription: 'Edit properti dokumen PDF. Ubah judul, penulis, subjek, dan kata kunci.',
-    keywords: ['edit metadata pdf', 'ubah properti pdf', 'penulis pdf', 'info dokumen'],
+    metaDescription: 'Edit properti dokumen PDF. Ubah judul, penulis, subjek, dan kata kunci.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['edit metadata pdf', 'ubah properti pdf', 'penulis pdf', 'info dokumen', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Edit Metadata memungkinkan Anda untuk memodifikasi properti dokumen di dalam file PDF Anda. Ubah judul, nama penulis, subjek, kata kunci, dan berbagai kolom metadata lainnya.</p>
       <p>Sempurna untuk mengoreksi informasi dokumen, menambahkan atribusi yang tepat, atau mempersiapkan file sebelum disebarluaskan.</p>
@@ -1820,8 +1820,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-zip': {
     title: 'PDF ke ZIP',
-    metaDescription: 'Kemas beberapa file PDF menjadi satu arsip ZIP. Kompres dan bundel file PDF.',
-    keywords: ['pdf ke zip', 'kompres pdf', 'bundel pdf', 'arsip pdf'],
+    metaDescription: 'Kemas beberapa file PDF menjadi satu arsip ZIP. Kompres dan bundel file PDF.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke zip', 'kompres pdf', 'bundel pdf', 'arsip pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke ZIP akan mengemas beberapa file PDF menjadi satu buah arsip ZIP. Kompres dan bundel PDF Anda agar lebih mudah dibagikan, disimpan, atau dicadangkan (backup).</p>
       <p>Alat ini membuat arsip terkompresi yang berisi seluruh file PDF Anda, sehingga mengurangi ukuran total dan menyederhanakan manajemen file.</p>
@@ -1846,8 +1846,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'compare-pdfs': {
     title: 'Bandingkan PDF',
-    metaDescription: 'Bandingkan dua dokumen PDF. Sorot perbedaan antara beberapa versi.',
-    keywords: ['bandingkan pdf', 'pdf diff', 'perbandingan dokumen', 'perbandingan versi'],
+    metaDescription: 'Bandingkan dua dokumen PDF. Sorot perbedaan antara beberapa versi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['bandingkan pdf', 'pdf diff', 'perbandingan dokumen', 'perbandingan versi', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Bandingkan PDF akan menganalisis dua dokumen PDF dan menyorot perbedaan yang ada di antara keduanya. Sempurna untuk meninjau revisi dokumen, memeriksa perubahan kontrak, atau memverifikasi pengeditan.</p>
       <p>Lihat dokumen secara berdampingan atau dalam mode tumpang tindih (overlay) dengan setiap perbedaannya disorot. Alat ini akan mengidentifikasi perubahan teks, penambahan, maupun penghapusan.</p>
@@ -1872,8 +1872,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'posterize-pdf': {
     title: 'Posterisasi PDF',
-    metaDescription: 'Bagi halaman PDF berukuran besar menjadi potongan yang bisa dicetak. Buat poster dari halaman PDF.',
-    keywords: ['posterisasi pdf', 'potongan pdf', 'cetak format besar', 'poster pdf'],
+    metaDescription: 'Bagi halaman PDF berukuran besar menjadi potongan yang bisa dicetak. Buat poster dari halaman PDF.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['posterisasi pdf', 'potongan pdf', 'cetak format besar', 'poster pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Posterisasi PDF memecah halaman PDF berukuran besar ke dalam potongan-potongan (tiles) kecil yang bisa dicetak pada kertas standar lalu dirangkai menjadi sebuah poster. Sempurna untuk mencetak diagram besar, peta, atau karya seni.</p>
       <p>Atur ukuran kisi (grid) dan tumpang-tindih (overlap) untuk memudahkan perakitan. Alat ini secara otomatis akan menghitung dimensi setiap potongan untuk menyesuaikan dengan target ukuran output Anda.</p>
@@ -1899,8 +1899,8 @@ export const toolContentId: Record<string, ToolContent> = {
   // ==================== OPTIMIZE & REPAIR ====================
   'fix-page-size': {
     title: 'Perbaiki Ukuran Halaman',
-    metaDescription: 'Standarkan ukuran halaman PDF. Konversi semua halaman menjadi satu ukuran (dimensi) yang seragam.',
-    keywords: ['perbaiki ukuran halaman', 'standarisasi pdf', 'halaman seragam', 'ubah ukuran halaman pdf'],
+    metaDescription: 'Standarkan ukuran halaman PDF. Konversi semua halaman menjadi satu ukuran (dimensi) yang seragam.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['perbaiki ukuran halaman', 'standarisasi pdf', 'halaman seragam', 'ubah ukuran halaman pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Perbaiki Ukuran Halaman akan menstandardisasi semua halaman di dalam PDF Anda ke dalam dimensi yang seragam. Ubah dokumen dengan ukuran campuran menjadi ukuran halaman yang konsisten untuk presentasi atau pencetakan yang profesional.</p>
       <p>Pilih ukuran standar (A4, Letter, dll.) atau masukkan dimensi kustom. Konten akan diskalakan (diperbesar/diperkecil) atau diposisikan ke tengah agar pas dengan ukuran halaman yang baru.</p>
@@ -1925,8 +1925,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'linearize-pdf': {
     title: 'Linearisasi PDF',
-    metaDescription: 'Optimalkan PDF untuk tampilan web yang cepat. Aktifkan pemuatan secara bertahap (progressive loading).',
-    keywords: ['linearisasi pdf', 'tampilan web cepat', 'optimasi pdf', 'pdf progresif'],
+    metaDescription: 'Optimalkan PDF untuk tampilan web yang cepat. Aktifkan pemuatan secara bertahap (progressive loading).. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['linearisasi pdf', 'tampilan web cepat', 'optimasi pdf', 'pdf progresif', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Linearisasi PDF mengoptimalkan dokumen Anda demi tampilan web yang lebih cepat. PDF yang telah dilinearisasi dapat mulai ditampilkan bahkan sebelum keseluruhan file selesai diunduh, sehingga meningkatkan pengalaman pengguna (UX).</p>
       <p>Proses ini, yang juga dikenal sebagai "Tampilan Web Cepat" (Fast Web View), menyusun ulang struktur PDF agar dapat dimuat secara bertahap di web browser.</p>
@@ -1951,8 +1951,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'page-dimensions': {
     title: 'Dimensi Halaman',
-    metaDescription: 'Analisis ukuran halaman PDF. Lihat dimensi dari seluruh halaman di dalam dokumen Anda.',
-    keywords: ['ukuran halaman pdf', 'dimensi halaman', 'pengukuran pdf', 'ukuran dokumen'],
+    metaDescription: 'Analisis ukuran halaman PDF. Lihat dimensi dari seluruh halaman di dalam dokumen Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['ukuran halaman pdf', 'dimensi halaman', 'pengukuran pdf', 'ukuran dokumen', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Dimensi Halaman akan menganalisis dan menampilkan ukuran setiap halaman di dokumen PDF Anda. Lihat dimensinya dalam berbagai satuan (inci, mm, poin) dan identifikasi halaman-halaman yang berukuran tidak standar.</p>
       <p>Sangat berguna untuk persiapan pencetakan, analisis dokumen, atau mengidentifikasi ukuran halaman yang tidak konsisten.</p>
@@ -1977,8 +1977,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'remove-restrictions': {
     title: 'Hapus Batasan',
-    metaDescription: 'Hapus berbagai batasan di dalam PDF. Buka kunci agar dokumen bisa dicetak, disalin, dan diedit.',
-    keywords: ['hapus batasan pdf', 'buka kunci pdf', 'izin pdf', 'bebaskan pdf'],
+    metaDescription: 'Hapus berbagai batasan di dalam PDF. Buka kunci agar dokumen bisa dicetak, disalin, dan diedit.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['hapus batasan pdf', 'buka kunci pdf', 'izin pdf', 'bebaskan pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Hapus Batasan akan membuka kunci pada PDF yang dibatasi hak aksesnya sehingga tidak bisa dicetak, disalin, atau diedit. Alat ini menghapus batasan kata sandi pemilik (owner password) namun tetap menjaga isi dokumennya secara utuh.</p>
       <p>Catatan: Alat ini tidak dapat menghapus kata sandi pengguna (user password) yang mencegah dokumen tersebut untuk dibuka. Gunakan alat Dekripsi PDF untuk file yang dikunci menggunakan kata sandi pengguna.</p>
@@ -2003,8 +2003,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'repair-pdf': {
     title: 'Perbaiki PDF',
-    metaDescription: 'Perbaiki file PDF yang rusak (corrupted). Pulihkan dan perbaiki dokumen yang tidak bisa dibuka.',
-    keywords: ['perbaiki pdf', 'betulkan pdf', 'pulihkan pdf', 'pdf rusak'],
+    metaDescription: 'Perbaiki file PDF yang rusak (corrupted). Pulihkan dan perbaiki dokumen yang tidak bisa dibuka.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['perbaiki pdf', 'betulkan pdf', 'pulihkan pdf', 'pdf rusak', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Perbaiki PDF berupaya untuk membetulkan file PDF yang rusak (corrupted). Alat ini menganalisis struktur dokumen dan membangunnya kembali (rebuild) untuk memulihkan isi konten sebanyak mungkin.</p>
       <p>Sangat berguna untuk menyelamatkan file yang tidak mau dibuka, file yang menampilkan pesan kesalahan (error), atau yang kehilangan sebagian konten akibat kerusakan data (corruption).</p>
@@ -2030,8 +2030,8 @@ export const toolContentId: Record<string, ToolContent> = {
   // ==================== SECURE PDF ====================
   'encrypt-pdf': {
     title: 'Enkripsi PDF',
-    metaDescription: 'Lindungi file PDF dengan kata sandi. Tambahkan enkripsi dan atur izin akses (permissions).',
-    keywords: ['enkripsi pdf', 'kata sandi pdf', 'amankan pdf', 'pengamanan pdf'],
+    metaDescription: 'Lindungi file PDF dengan kata sandi. Tambahkan enkripsi dan atur izin akses (permissions).. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['enkripsi pdf', 'kata sandi pdf', 'amankan pdf', 'pengamanan pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Enkripsi PDF menambahkan perlindungan kata sandi dan enkripsi ke dalam dokumen PDF Anda. Atur kata sandi pengguna untuk mencegah dokumen dibuka, serta kata sandi pemilik untuk membatasi izin (permissions) seperti mencetak dan menyalin dokumen.</p>
       <p>Pilih dari beberapa tingkat enkripsi (AES 128-bit atau AES 256-bit) yang sesuai dengan berbagai kebutuhan keamanan (security) Anda.</p>
@@ -2056,8 +2056,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'sanitize-pdf': {
     title: 'Bersihkan PDF',
-    metaDescription: 'Hapus data tersembunyi dari PDF. Bersihkan metadata, skrip, dan informasi sensitif.',
-    keywords: ['bersihkan pdf', 'sanitize pdf', 'hapus data tersembunyi', 'privasi pdf'],
+    metaDescription: 'Hapus data tersembunyi dari PDF. Bersihkan metadata, skrip, dan informasi sensitif.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['bersihkan pdf', 'sanitize pdf', 'hapus data tersembunyi', 'privasi pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Bersihkan PDF (Sanitize PDF) akan menghapus data yang tersembunyi serta informasi yang berpotensi sensitif dari dokumen Anda. Alat ini dapat melucuti metadata, skrip tersemat (embedded scripts), lampiran, komentar, dan berbagai konten tersembunyi lainnya.</p>
       <p>Ini adalah hal yang wajib dilakukan sebelum Anda mempersiapkan sebuah dokumen untuk diedarkan ke publik, atau ketika menjaga privasi adalah sebuah keharusan.</p>
@@ -2083,7 +2083,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'find-and-redact': {
     title: 'Cari dan Redaksi',
     metaDescription: 'Cari dan redaksi teks di seluruh halaman PDF. Lakukan redaksi massal pada informasi sensitif seperti nomor rekening, nama, dan lain-lain.',
-    keywords: ['redaksi pdf', 'cari dan redaksi', 'redaksi massal', 'hapus teks', 'sensor pdf', 'sembunyikan data sensitif'],
+    keywords: ['redaksi pdf', 'cari dan redaksi', 'redaksi massal', 'hapus teks', 'sensor pdf', 'sembunyikan data sensitif', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Cari dan Redaksi memungkinkan Anda mencari teks, angka, atau pola tertentu di seluruh halaman PDF Anda dan meredaksi (menyensor/menghapus) semua kecocokannya secara sekaligus. Sangat sempurna untuk menyembunyikan informasi sensitif seperti nomor rekening, nama, alamat, maupun data rahasia lainnya.</p>
       <p>Pratinjau semua kecocokan (matches) sebelum redaksinya diterapkan, lalu pilih secara selektif mana saja yang benar-benar ingin Anda redaksi. Alat ini mendukung pencarian case-sensitive, kecocokan kata secara utuh (whole word), dan regular expressions (regex) untuk pencarian pola tingkat lanjut.</p>
@@ -2110,8 +2110,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'decrypt-pdf': {
     title: 'Dekripsi PDF',
-    metaDescription: 'Hapus kata sandi dari file PDF. Buka kunci (unlock) dokumen yang dilindungi kata sandi.',
-    keywords: ['dekripsi pdf', 'hapus kata sandi pdf', 'buka kunci pdf', 'penghapus kata sandi pdf'],
+    metaDescription: 'Hapus kata sandi dari file PDF. Buka kunci (unlock) dokumen yang dilindungi kata sandi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['dekripsi pdf', 'hapus kata sandi pdf', 'buka kunci pdf', 'penghapus kata sandi pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Dekripsi PDF akan menghapus perlindungan kata sandi dari dokumen PDF. Cukup masukkan kata sandi yang valid saat ini untuk membuka kunci file tersebut, dan buatlah salinan file baru yang tidak lagi diproteksi.</p>
       <p>Alat ini mensyaratkan Anda harus mengetahui kata sandi saat ini. Alat ini tidak dapat meretas (crack) atau melewati kata sandi yang tidak diketahui.</p>
@@ -2136,8 +2136,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'flatten-pdf': {
     title: 'Ratakan PDF (Flatten)',
-    metaDescription: 'Ratakan (flatten) form dan anotasi pada PDF. Jadikan isinya bersifat statis dan tidak bisa diedit lagi.',
-    keywords: ['ratakan pdf', 'flatten pdf', 'ratakan form', 'ratakan anotasi', 'pdf tidak bisa diedit'],
+    metaDescription: 'Ratakan (flatten) form dan anotasi pada PDF. Jadikan isinya bersifat statis dan tidak bisa diedit lagi.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['ratakan pdf', 'flatten pdf', 'ratakan form', 'ratakan anotasi', 'pdf tidak bisa diedit', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Ratakan PDF (Flatten PDF) akan mengubah berbagai elemen interaktif—seperti kolom formulir (form fields) dan anotasi—menjadi konten statis. File PDF yang diratakan secara visual akan terlihat sama, namun elemen-elemen tersebut tidak bisa diedit lagi.</p>
       <p>Sangat cocok untuk menyelesaikan (finalisasi) pengisian formulir, mempertahankan anotasi secara permanen, atau membuat dokumen dengan versi akhir yang tidak dapat diubah-ubah.</p>
@@ -2162,8 +2162,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'remove-metadata': {
     title: 'Hapus Metadata',
-    metaDescription: 'Lucuti metadata dari file PDF. Hapus penulis, tanggal, dan berbagai properti dokumen.',
-    keywords: ['hapus metadata pdf', 'lucuti metadata', 'privasi pdf', 'pdf anonim'],
+    metaDescription: 'Lucuti metadata dari file PDF. Hapus penulis, tanggal, dan berbagai properti dokumen.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['hapus metadata pdf', 'lucuti metadata', 'privasi pdf', 'pdf anonim', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Hapus Metadata (Remove Metadata) akan melucuti semua properti dan metadata dokumen dari file PDF Anda. Hapus nama penulis, tanggal pembuatan, info perangkat lunak (software), serta berbagai data pengidentifikasi (identifying data) lainnya.</p>
       <p>Hal ini sangat krusial untuk menjaga privasi saat Anda ingin membagikan dokumen ke pihak luar, atau saat metadata tersebut dapat mengungkap sebuah informasi sensitif.</p>
@@ -2188,8 +2188,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'change-permissions': {
     title: 'Ubah Izin (Permissions)',
-    metaDescription: 'Ubah kontrol izin dokumen PDF. Atur hak akses untuk pencetakan, penyalinan, serta pengeditan.',
-    keywords: ['izin pdf', 'ubah akses pdf', 'batasi pdf', 'keamanan pdf'],
+    metaDescription: 'Ubah kontrol izin dokumen PDF. Atur hak akses untuk pencetakan, penyalinan, serta pengeditan.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['izin pdf', 'ubah akses pdf', 'batasi pdf', 'keamanan pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Ubah Izin (Change Permissions) akan mengubah kontrol akses (access controls) di dalam dokumen PDF Anda. Aktifkan atau nonaktifkan fitur untuk mencetak, menyalin isi, mengedit, serta menambah anotasi (permissions).</p>
       <p>Tetapkan kata sandi pemilik (owner password) agar batasan-batasan tersebut berlaku secara teguh. Penerima (recipient) tetap bisa melihat dokumennya tetapi memiliki batasan terhadap apa yang boleh mereka lakukan pada file tersebut.</p>
@@ -2213,8 +2213,8 @@ export const toolContentId: Record<string, ToolContent> = {
   },
   'pdf-to-docx': {
     title: 'PDF ke Word',
-    metaDescription: 'Konversi PDF menjadi dokumen Word (DOCX) yang dapat diedit. Pertahankan pemformatan dan tata letak.',
-    keywords: ['pdf ke word', 'konversi pdf ke docx', 'pdf ke doc', 'pdf dapat diedit'],
+    metaDescription: 'Konversi PDF menjadi dokumen Word (DOCX) yang dapat diedit. Pertahankan pemformatan dan tata letak.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke word', 'konversi pdf ke docx', 'pdf ke doc', 'pdf dapat diedit', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF ke Word mengonversi dokumen PDF Anda menjadi file Microsoft Word (DOCX) yang dapat diedit. Alat ini mempertahankan tata letak asli, pemformatan, gambar, dan alur teksnya.</p>
       <p>Edit konten PDF Anda dengan mudah di Word tanpa perlu mengetik ulang. Sangat sempurna untuk kontrak, laporan, dan resume (CV).</p>
@@ -2239,8 +2239,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-markdown': {
     title: 'PDF ke Markdown',
-    metaDescription: 'Konversi PDF ke format Markdown. Ekstrak teks dan pertahankan pemformatan seperti judul (heading) dan daftar (list).',
-    keywords: ['pdf ke markdown', 'konversi pdf ke md', 'ekstraksi teks pdf', 'konverter markdown', 'pdf ke teks'],
+    metaDescription: 'Konversi PDF ke format Markdown. Ekstrak teks dan pertahankan pemformatan seperti judul (heading) dan daftar (list).. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke markdown', 'konversi pdf ke md', 'ekstraksi teks pdf', 'konverter markdown', 'pdf ke teks', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF ke Markdown mengonversi dokumen PDF Anda menjadi file Markdown yang bersih dan terstruktur dengan baik. Alat ini mengekstrak konten teks secara cerdas dan berupaya mempertahankan format seperti judul (headings), daftar (lists), dan paragraf.</p>
       <p>Sempurna untuk mengonversi dokumen PDF ke format yang dapat diedit untuk kebutuhan dokumentasi, pencatatan, atau sistem manajemen konten (CMS) yang mendukung Markdown.</p>
@@ -2267,7 +2267,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'deskew-pdf': {
     title: 'Luruskan PDF (Deskew)',
     metaDescription: 'Luruskan halaman PDF pindaian atau halaman yang miring secara otomatis. Perbaiki dokumen miring dengan deteksi sudut presisi.',
-    keywords: ['luruskan pdf', 'deskew pdf', 'perbaiki pindaian miring', 'putar pdf otomatis', 'koreksi sudut pdf'],
+    keywords: ['luruskan pdf', 'deskew pdf', 'perbaiki pindaian miring', 'putar pdf otomatis', 'koreksi sudut pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Luruskan PDF (Deskew PDF) secara otomatis mendeteksi dan mengoreksi halaman yang miring atau tidak rata pada dokumen PDF Anda menggunakan analisis varian profil proyeksi yang canggih. Ini sangat penting untuk dokumen pindaian yang posisinya tidak lurus saat masuk ke mesin pemindai.</p>
       <p>Alat ini menganalisis teks dan perataan konten pada berbagai sudut untuk menemukan tingkat rotasi yang paling optimal, lalu menerapkan koreksinya. Anda bisa menyesuaikan ambang batas sensitivitas (1-30) dan pengaturan DPI (72-300) untuk hasil yang lebih baik.</p>
@@ -2295,7 +2295,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'pdf-booklet': {
     title: 'Pembuat Buklet PDF',
     metaDescription: 'Buat tata letak buklet dari PDF untuk dicetak. Susun halaman untuk penjilidan jahitan kawat (saddle-stitch) dengan berbagai opsi kisi.',
-    keywords: ['buklet pdf', 'pembuat buklet', 'cetak buklet', 'saddle stitch', 'imposisi'],
+    keywords: ['buklet pdf', 'pembuat buklet', 'cetak buklet', 'saddle stitch', 'imposisi', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Pembuat Buklet PDF (PDF Booklet Creator) menyusun halaman PDF Anda menjadi format tata letak buklet yang siap untuk langsung dicetak dan dilipat. Sangat sempurna untuk membuat brosur, zine, buku kecil, dan publikasi dengan jahitan kawat di tengah (saddle-stitched).</p>
       <p>Pilih dari berbagai mode kisi (1x2, 2x2, 2x4, 4x4), ukuran kertas, dan opsi orientasi. Alat ini otomatis menangani imposisi halamannya agar urutan lipatannya tepat.</p>
@@ -2321,7 +2321,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'rasterize-pdf': {
     title: 'Rasterisasi PDF',
     metaDescription: 'Konversi halaman PDF menjadi gambar berkualitas tinggi. Ekspor sebagai PNG, JPEG, atau WebP dengan pengaturan DPI khusus.',
-    keywords: ['rasterisasi pdf', 'pdf ke gambar', 'pdf ke png', 'pdf ke jpeg', 'konversi halaman pdf'],
+    keywords: ['rasterisasi pdf', 'pdf ke gambar', 'pdf ke png', 'pdf ke jpeg', 'konversi halaman pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Rasterisasi PDF mengonversi halaman PDF Anda menjadi gambar raster berkualitas tinggi. Pilih format output antara PNG, JPEG, atau WebP dengan kontrol penuh atas pengaturan DPI dan kualitas.</p>
       <p>Sempurna untuk membuat gambar mini (thumbnail), grafik media sosial, atau mengarsipkan konten PDF sebagai gambar. Alat ini mendukung pemilihan rentang halaman (page range) serta pemrosesan massal (batch).</p>
@@ -2347,7 +2347,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'markdown-to-pdf': {
     title: 'Markdown ke PDF',
     metaDescription: 'Konversi file Markdown menjadi dokumen PDF dengan format yang cantik. Mendukung GitHub Flavored Markdown dan penyorotan sintaks.',
-    keywords: ['markdown ke pdf', 'md ke pdf', 'konversi markdown', 'gfm ke pdf', 'konverter markdown'],
+    keywords: ['markdown ke pdf', 'md ke pdf', 'konversi markdown', 'gfm ke pdf', 'konverter markdown', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Markdown ke PDF mengonversi file Markdown Anda menjadi dokumen PDF dengan gaya yang profesional. Alat ini mendukung format CommonMark serta GitHub Flavored Markdown (GFM) termasuk pembuatan tabel, daftar tugas (task lists), dan blok kode (code blocks).</p>
       <p>Pilih dari berbagai tema (terang, gelap, GitHub) dan sesuaikan ukuran halaman serta marginnya. Blok kode di dalamnya juga dilengkapi dengan penyorotan sintaks (syntax highlighting) agar mudah dibaca.</p>
@@ -2373,7 +2373,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'email-to-pdf': {
     title: 'Email ke PDF',
     metaDescription: 'Konversi file email (.eml, .msg) menjadi dokumen PDF. Pertahankan pemformatan, gambar sebaris, tautan, dan sematkan lampirannya.',
-    keywords: ['email ke pdf', 'eml ke pdf', 'msg ke pdf', 'konversi email', 'konverter email', 'simpan email sebagai pdf', 'outlook ke pdf'],
+    keywords: ['email ke pdf', 'eml ke pdf', 'msg ke pdf', 'konversi email', 'konverter email', 'simpan email sebagai pdf', 'outlook ke pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf'],
     description: `
       <p>Email ke PDF mengonversi file email (format .eml dan .msg) menjadi dokumen PDF yang rapi. Alat ini mempertahankan informasi header, isi pesan, gambar sebaris (inline) dengan penggantian CID, tautan yang bisa diklik, serta turut menyematkan lampirannya langsung ke dalam PDF.</p>
       <p>Sesuaikan opsi output termasuk ukuran halaman (A4, Letter, Legal), pemformatan tanggal dengan dukungan zona waktu, dan apakah Anda ingin menyertakan informasi CC/BCC serta daftar lampirannya.</p>
@@ -2400,8 +2400,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'cbz-to-pdf': {
     title: 'CBZ ke PDF',
-    metaDescription: 'Konversi arsip buku komik (CBZ) menjadi PDF. Pertahankan urutan gambar dan kualitas untuk komik digital.',
-    keywords: ['cbz ke pdf', 'komik ke pdf', 'konversi cbz', 'konverter buku komik', 'konverter cbz'],
+    metaDescription: 'Konversi arsip buku komik (CBZ) menjadi PDF. Pertahankan urutan gambar dan kualitas untuk komik digital.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['cbz ke pdf', 'komik ke pdf', 'konversi cbz', 'konverter buku komik', 'konverter cbz', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>CBZ ke PDF mengonversi file Arsip Buku Komik menjadi dokumen PDF. Alat ini mengekstrak semua gambar dari dalam arsip CBZ dan menggabungkannya ke dalam sebuah PDF sembari menjaga urutan membaca yang tepat.</p>
       <p>Pilih dari berbagai opsi ukuran halaman termasuk dimensi asli dari gambarnya atau ukuran standar buku komik. Sangat sempurna untuk membaca komik di perangkat yang mendukung format PDF tapi tidak mengenali format CBZ.</p>
@@ -2426,8 +2426,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-to-pdfa': {
     title: 'PDF ke PDF/A',
-    metaDescription: 'Konversi PDF ke format arsip PDF/A. Pastikan preservasi dokumen jangka panjang sesuai standar ISO.',
-    keywords: ['pdf ke pdfa', 'konverter pdfa', 'arsip pdf', 'pengarsipan pdf', 'preservasi jangka panjang'],
+    metaDescription: 'Konversi PDF ke format arsip PDF/A. Pastikan preservasi dokumen jangka panjang sesuai standar ISO.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pdf ke pdfa', 'konverter pdfa', 'arsip pdf', 'pengarsipan pdf', 'preservasi jangka panjang', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF ke PDF/A mengonversi dokumen PDF Anda ke format PDF/A, yakni standar ISO yang digunakan khusus untuk pengarsipan dokumen jangka panjang. Format PDF/A menjamin bahwa dokumen tersebut akan tetap bisa dilihat dan direproduksi persis seperti aslinya selama beberapa dekade mendatang.</p>
       <p>Pilih dari standar PDF/A-1b (kesesuaian dasar), PDF/A-2b (paling direkomendasikan, mendukung transparansi), atau PDF/A-3b (mengizinkan file yang disematkan). Alat ini akan menyematkan font dan meratakan efek transparan sesuai kebutuhan standar tersebut.</p>
@@ -2453,7 +2453,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'font-to-outline': {
     title: 'Font ke Garis Besar (Outline)',
     metaDescription: 'Hapus ketergantungan font dari dokumen PDF dengan mengonversi halamannya menjadi gambar berkualitas tinggi. Menjamin kompatibilitas di semua sistem komputer.',
-    keywords: ['font ke garis besar', 'font outline', 'hapus font', 'kompatibilitas font', 'meratakan font pdf', 'penghapusan font pdf'],
+    keywords: ['font ke garis besar', 'font outline', 'hapus font', 'kompatibilitas font', 'meratakan font pdf', 'penghapusan font pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Font ke Garis Besar (Font to Outline) akan menghilangkan semua bentuk ketergantungan font di dalam file PDF dengan mengubah setiap halamannya menjadi konten raster (gambar) berkualitas tinggi. Hal ini akan memastikan dokumen Anda tetap terlihat sama persis di komputer atau sistem apa pun, sekalipun font aslinya tidak terinstal.</p>
       <p>Alat ini akan merender setiap halaman berdasarkan besaran DPI yang Anda pilih (150-600), lalu menghapus font yang disematkan sembari menjaga tampilan visualnya. Sebagai opsional, Anda bisa menambahkan lapisan teks transparan (invisible) agar file tersebut tetap dapat dicari teksnya.</p>
@@ -2481,8 +2481,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'extract-tables': {
     title: 'Ekstrak Tabel dari PDF',
-    metaDescription: 'Deteksi dan ekstrak tabel dari dokumen PDF. Ekspor menjadi format JSON, Markdown, atau CSV.',
-    keywords: ['ekstrak tabel', 'ekstraksi tabel pdf', 'pdf ke csv', 'pdf ke excel', 'deteksi tabel'],
+    metaDescription: 'Deteksi dan ekstrak tabel dari dokumen PDF. Ekspor menjadi format JSON, Markdown, atau CSV.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['ekstrak tabel', 'ekstraksi tabel pdf', 'pdf ke csv', 'pdf ke excel', 'deteksi tabel', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Ekstrak Tabel dari PDF akan mendeteksi data berbentuk tabel di dalam dokumen PDF Anda dan mengekspornya ke dalam format yang terstruktur. Pilih JSON untuk keperluan integrasi data, Markdown untuk dokumentasi, atau CSV untuk diolah kembali sebagai spreadsheet.</p>
       <p>Alat ini menggunakan algoritma deteksi cerdas yang mampu mengidentifikasi struktur tabel meskipun format dokumennya tergolong rumit. Tentukan rentang halaman serta sesuaikan parameter deteksinya guna memperoleh hasil yang optimal.</p>
@@ -2508,7 +2508,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'ocg-manager': {
     title: 'Pengelola Lapisan PDF (OCG)',
     metaDescription: 'Kelola lapisan PDF (Optional Content Groups). Lihat, nyalakan/matikan, tambahkan, hapus, dan ganti nama layer dokumen PDF Anda.',
-    keywords: ['layer pdf', 'lapisan pdf', 'ocg manager', 'optional content groups', 'visibilitas layer pdf', 'kelola lapisan pdf'],
+    keywords: ['layer pdf', 'lapisan pdf', 'ocg manager', 'optional content groups', 'visibilitas layer pdf', 'kelola lapisan pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Pengelola Lapisan PDF memungkinkan Anda untuk melihat serta mengelola Optional Content Groups (OCG) pada dokumen PDF Anda. Layer OCG umumnya digunakan dalam bidang gambar arsitektur/teknis (CAD), peta, maupun dokumen kompleks lainnya untuk mengatur konten ke dalam berbagai layer yang bisa ditampilkan atau disembunyikan secara terpisah (toggleable).</p>
       <p>Anda bisa meninjau semua layer di dalam PDF, menyalakan atau mematikan status visibilitasnya (visibility), menambahkan layer baru, menghapus layer yang tidak diperlukan, atau mengganti nama pada layer yang sudah ada. Alat ini amat berguna saat harus berurusan dengan PDF arsitektur, hasil ekspor CAD, maupun desain yang sudah siap untuk masuk ke tahap percetakan.</p>
@@ -2534,8 +2534,8 @@ export const toolContentId: Record<string, ToolContent> = {
 
   'pdf-reader': {
     title: 'Pembaca PDF',
-    metaDescription: 'Pembaca PDF online gratis. Lihat, navigasi, perbesar, putar, dan cetak dokumen PDF langsung di dalam web browser Anda.',
-    keywords: ['pembaca pdf', 'pdf reader', 'penampil pdf', 'lihat pdf online', 'baca pdf', 'browser pdf viewer'],
+    metaDescription: 'Pembaca PDF online gratis. Lihat, navigasi, perbesar, putar, dan cetak dokumen PDF langsung di dalam web browser Anda.. Tanpa registrasi. 100% gratis. Coba sekarang!',
+    keywords: ['pembaca pdf', 'pdf reader', 'penampil pdf', 'lihat pdf online', 'baca pdf', 'browser pdf viewer', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Pembaca PDF adalah sebuah alat penampil PDF berfitur lengkap yang memudahkan Anda untuk membaca dan melakukan navigasi pada dokumen PDF langsung dari dalam web browser. Tanpa perlu menginstal perangkat lunak pihak ketiga, cukup unggah PDF Anda dan Anda sudah bisa langsung membacanya.</p>
       <p>Navigasi di antara halamannya dengan lincah, atur tingkat perbesaran (zoom), putar arah tampilan (rotate), atau gunakan fitur layar penuh (fullscreen) agar nyaman dibaca bebas dari berbagai gangguan antarmuka. Anda bahkan dapat mencetak dokumennya langsung atau mengunduhnya kembali untuk akses secara offline.</p>
@@ -2562,7 +2562,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'digital-sign-pdf': {
     title: 'Tanda Tangan Digital',
     metaDescription: 'Tambahkan tanda tangan digital standar X.509 ke dokumen PDF. Tanda tangani PDF dengan sertifikat berformat PFX, P12, atau PEM guna menjamin keabsahan di mata hukum.',
-    keywords: ['tanda tangan digital pdf', 'sertifikat x509', 'pfx pdf sign', 'p12 sign pdf', 'pem sign pdf', 'tanda tangan pdf legal'],
+    keywords: ['tanda tangan digital pdf', 'sertifikat x509', 'pfx pdf sign', 'p12 sign pdf', 'pem sign pdf', 'tanda tangan pdf legal', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>Tanda Tangan Digital ini memampukan Anda menorehkan stempel tanda tangan kriptografis digital berstandar (X.509) pada berbagai dokumen file PDF. Tidak seperti alat penandatangan gambar corat-coret sederhana, penandatanganan versi digital ini bisa tervalidasi secara mengikat untuk keabsahan berstandar legalitas hukum serta sebagai validasi integritas struktur filenya agar dapat terlindungi secara nyata.</p>
       <p>Prosedurnya cukup mudah, cukup unggah file kunci sertifikat (berupa format PFX, P12, atau PEM) Anda, input kata sandi yang digunakan, dan laksanakan penandatanganan PDF tersebut dengan sekejap. Anda pun berhak memutuskan apakah sekadar membuat tanda tangan yang tak terlihat (invisible, untuk validitas tersembunyi), atau malah menorehkannya secara nampak (visible) yang telah disertai kustom teks grafis/gambar maupun atur tata letaknya.</p>
@@ -2589,7 +2589,7 @@ export const toolContentId: Record<string, ToolContent> = {
   'validate-signature': {
     title: 'Validasi Tanda Tangan',
     metaDescription: 'Lakukan verifikasi integritas atas tanda tangan digital dari berbagai dokumen berformat PDF. Konfirmasi legalitas status kebenaran otoritas dan rekam detil integritas sertifikat identitasnya.',
-    keywords: ['validasi tanda tangan pdf', 'verifikasi keabsahan digital', 'cek sertifikat pdf', 'pemeriksaan otoritas dokumen'],
+    keywords: ['validasi tanda tangan pdf', 'verifikasi keabsahan digital', 'cek sertifikat pdf', 'pemeriksaan otoritas dokumen', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>Fitur Alat Validasi Tanda Tangan ini akan menjamin peninjauan keaslian dari setiap jenis data dokumen PDF bersertifikasi stempel elektronik yang pernah Anda miliki atau yang telah diserahkan dari suatu badan berwenang. Melacak silang untuk mengetahui apakah cap tersebut secara legal masuk klasifikasi valid, menampilkan identifikasi info rinci yang berwenang menorehkan sertifikatnya (signer profile), serta mengetahui langsung bila ada modifikasi manipulatif dalam data sesudahnya (integrity confirmation).</p>
       <p>Cukup hanya meletakkan sebuah file yang diyakini sudah disegel (signed) ke dalam fitur ini agar kemudian diurai secara gamblang akan eksistensinya dan memperlihatkan keseluruhan cap sertifikasi stempel mana yang sah maupun tidak, waktu pembuatan stempel tersebut pada saat disegel, plus menunjukan rekam jejaknya apakah telah terjamah pihak tak berotoritas lainnya lagi.</p>

@@ -15,8 +15,8 @@ export const toolContentEs: Record<string, ToolContent> = {
   // ==================== HERRAMIENTAS POPULARES ====================
   'pdf-multi-tool': {
     title: 'Herramienta Múltiple PDF',
-    metaDescription: 'Editor PDF todo en uno: combina, divide, organiza, elimina, rota y extrae páginas en una sola herramienta.',
-    keywords: ['herramienta múltiple pdf', 'editor pdf', 'combinar pdf', 'dividir pdf', 'organizar pdf'],
+    metaDescription: 'Editor PDF todo en uno: combina, divide, organiza, elimina, rota y extrae páginas en una sola herramienta.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['herramienta múltiple pdf', 'editor pdf', 'combinar pdf', 'dividir pdf', 'organizar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: '<p>La Herramienta Múltiple PDF es tu solución integral para todas las tareas de gestión de páginas PDF. Combina múltiples operaciones en una única interfaz intuitiva.</p><p>Todo el procesamiento ocurre en tu navegador, asegurando privacidad completa.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta tu archivo PDF o haz clic para seleccionar.' },
@@ -37,8 +37,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'merge-pdf': {
     title: 'Combinar PDF',
-    metaDescription: 'Combina múltiples archivos PDF en un solo documento. Combinador de PDF gratuito con reordenamiento.',
-    keywords: ['combinar pdf', 'unir pdf', 'fusionar pdf', 'combinador pdf'],
+    metaDescription: 'Combina múltiples archivos PDF en un solo documento. Combinador de PDF gratuito con reordenamiento.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['combinar pdf', 'unir pdf', 'fusionar pdf', 'combinador pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Combinar PDF te permite unir múltiples documentos PDF en un solo archivo. Sube tus archivos, ordénalos y combínalos en un documento cohesivo.</p><p>Todo ocurre localmente en tu navegador para máxima privacidad.</p>',
     howToUse: [
       { step: 1, title: 'Sube Archivos PDF', description: 'Arrastra y suelta múltiples archivos PDF o haz clic para seleccionar.' },
@@ -59,8 +59,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'rotate-custom': {
     title: 'Rotar por Grados Personalizados',
-    metaDescription: 'Rota páginas PDF en cualquier ángulo. Rotación precisa para enderezar documentos escaneados.',
-    keywords: ['rotar pdf ángulo personalizado', 'enderezar pdf', 'deskew pdf', 'rotación personalizada pdf'],
+    metaDescription: 'Rota páginas PDF en cualquier ángulo. Rotación precisa para enderezar documentos escaneados.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['rotar pdf ángulo personalizado', 'enderezar pdf', 'deskew pdf', 'rotación personalizada pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Rotar por Grados Personalizados te da control preciso sobre la orientación de tus páginas PDF. A diferencia de las herramientas estándar que solo rotan en incrementos de 90 grados, esta herramienta te permite rotar páginas en cualquier ángulo específico.</p><p>Perfecto para enderezar documentos escaneados torcidos o ajustar diagramas. Puedes corregir páginas individuales o aplicar la misma rotación a todo el documento.</p><p>Todo el procesamiento ocurre localmente en tu navegador, asegurando privacidad total mientras logras una alineación perfecta.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Sube el archivo PDF con las páginas que necesitas rotar.' },
@@ -83,7 +83,7 @@ export const toolContentEs: Record<string, ToolContent> = {
   'grid-combine': {
     title: 'Combinar en Cuadrícula PDF',
     metaDescription: 'Combinar múltiples archivos PDF en páginas individuales con un diseño de cuadrícula flexible. Organice 2, 4, 6, 9 o más PDF por página con bordes y espaciado.',
-    keywords: ['combinar cuadrícula', 'fusionar pdf cuadrícula', 'collage pdf', 'múltiples pdf una página', 'pdf n-up', 'cuadrícula pdf'],
+    keywords: ['combinar cuadrícula', 'fusionar pdf cuadrícula', 'collage pdf', 'múltiples pdf una página', 'pdf n-up', 'cuadrícula pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: `
       <p>La herramienta Combinar en Cuadrícula ofrece una forma única de fusionar múltiples archivos PDF separados en páginas individuales. A diferencia de la herramienta estándar "Fusionar PDF" que simplemente añade páginas, o la herramienta "N-Up" que reorganiza páginas de un solo documento, Combinar en Cuadrícula toma múltiples archivos de entrada y los organiza uno al lado del otro en un diseño de cuadrícula personalizable.</p>
       <p>Puede elegir entre varias configuraciones de cuadrícula como 2x1, 2x2, 3x3, etc. Esto es perfecto para comparar múltiples documentos, crear folletos de diferentes fuentes o imprimir versiones compactas de varios archivos.</p>
@@ -109,8 +109,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'split-pdf': {
     title: 'Dividir PDF',
-    metaDescription: 'Divide archivos PDF en múltiples documentos. Extrae páginas específicas o divide por rangos.',
-    keywords: ['dividir pdf', 'separar pdf', 'extraer páginas', 'divisor pdf'],
+    metaDescription: 'Divide archivos PDF en múltiples documentos. Extrae páginas específicas o divide por rangos.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['dividir pdf', 'separar pdf', 'extraer páginas', 'divisor pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Dividir PDF te permite separar un documento PDF en múltiples archivos. Perfecto para extraer capítulos o crear archivos individuales.</p><p>Procesamiento local para máxima seguridad.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el archivo a dividir.' },
@@ -131,8 +131,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'compress-pdf': {
     title: 'Comprimir PDF',
-    metaDescription: 'Reduce el tamaño de archivos PDF manteniendo la calidad. Compresor de PDF gratuito.',
-    keywords: ['comprimir pdf', 'reducir tamaño pdf', 'compresor pdf', 'optimizar pdf'],
+    metaDescription: 'Reduce el tamaño de archivos PDF manteniendo la calidad. Compresor de PDF gratuito.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['comprimir pdf', 'reducir tamaño pdf', 'compresor pdf', 'optimizar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Comprimir PDF reduce el tamaño de tus documentos manteniendo calidad aceptable. Ideal para correos electrónicos y almacenamiento.</p><p>Compresión local en tu navegador.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento a comprimir.' },
@@ -153,8 +153,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'edit-pdf': {
     title: 'Editar PDF',
-    metaDescription: 'Edita archivos PDF en línea. Añade texto, imágenes, anotaciones y formas.',
-    keywords: ['editar pdf', 'editor pdf', 'anotar pdf', 'añadir texto pdf'],
+    metaDescription: 'Edita archivos PDF en línea. Añade texto, imágenes, anotaciones y formas.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['editar pdf', 'editor pdf', 'anotar pdf', 'añadir texto pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Editar PDF proporciona herramientas completas para modificar y anotar documentos. Añade texto, imágenes, formas y comentarios.</p><p>Edición local para privacidad total.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento a editar.' },
@@ -175,8 +175,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'jpg-to-pdf': {
     title: 'JPG a PDF',
-    metaDescription: 'Convierte imágenes JPG a PDF. Combina múltiples JPG en un documento PDF.',
-    keywords: ['jpg a pdf', 'jpeg a pdf', 'convertir jpg', 'imagen a pdf'],
+    metaDescription: 'Convierte imágenes JPG a PDF. Combina múltiples JPG en un documento PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['jpg a pdf', 'jpeg a pdf', 'convertir jpg', 'imagen a pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>JPG a PDF convierte tus imágenes JPEG en documentos PDF. Combina múltiples imágenes en un único PDF profesional.</p><p>Conversión local para privacidad.</p>',
     howToUse: [
       { step: 1, title: 'Sube Imágenes', description: 'Arrastra y suelta archivos JPG o haz clic para seleccionar.' },
@@ -197,8 +197,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'sign-pdf': {
     title: 'Firmar PDF',
-    metaDescription: 'Añade firmas electrónicas a documentos PDF. Dibuja, escribe o sube tu firma.',
-    keywords: ['firmar pdf', 'firma electrónica', 'e-firma', 'firma digital'],
+    metaDescription: 'Añade firmas electrónicas a documentos PDF. Dibuja, escribe o sube tu firma.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['firmar pdf', 'firma electrónica', 'e-firma', 'firma digital', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Firmar PDF te permite añadir firmas electrónicas a tus documentos. Crea tu firma dibujando, escribiendo o subiendo una imagen.</p><p>Firma local para seguridad.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento a firmar.' },
@@ -219,8 +219,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'crop-pdf': {
     title: 'Recortar PDF',
-    metaDescription: 'Recorta páginas PDF para eliminar márgenes y áreas no deseadas.',
-    keywords: ['recortar pdf', 'cortar pdf', 'eliminar márgenes', 'redimensionar pdf'],
+    metaDescription: 'Recorta páginas PDF para eliminar márgenes y áreas no deseadas.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['recortar pdf', 'cortar pdf', 'eliminar márgenes', 'redimensionar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Recortar PDF elimina márgenes y áreas no deseadas de tus páginas. Útil para eliminar espacios en blanco o estandarizar dimensiones.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento a recortar.' },
@@ -241,8 +241,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'extract-pages': {
     title: 'Extraer Páginas',
-    metaDescription: 'Extrae páginas específicas de archivos PDF. Guarda páginas individuales como nuevos documentos.',
-    keywords: ['extraer páginas pdf', 'guardar páginas', 'copiar páginas pdf'],
+    metaDescription: 'Extrae páginas específicas de archivos PDF. Guarda páginas individuales como nuevos documentos.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['extraer páginas pdf', 'guardar páginas', 'copiar páginas pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Extraer Páginas te permite seleccionar y guardar páginas específicas de un PDF como nuevos archivos. Perfecto para crear extractos.</p><p>Extracción local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -263,8 +263,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'organize-pdf': {
     title: 'Organizar PDF',
-    metaDescription: 'Reordena, duplica y elimina páginas PDF. Arrastra y suelta para reorganizar.',
-    keywords: ['organizar pdf', 'reordenar páginas', 'reorganizar pdf'],
+    metaDescription: 'Reordena, duplica y elimina páginas PDF. Arrastra y suelta para reorganizar.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['organizar pdf', 'reordenar páginas', 'reorganizar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Organizar PDF proporciona una interfaz de arrastrar y soltar para reorganizar páginas. Reordena, duplica o elimina páginas fácilmente.</p><p>Organización local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -285,8 +285,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'delete-pages': {
     title: 'Eliminar Páginas',
-    metaDescription: 'Elimina páginas no deseadas de archivos PDF. Selecciona y elimina páginas específicas.',
-    keywords: ['eliminar páginas pdf', 'quitar páginas', 'borrar páginas pdf'],
+    metaDescription: 'Elimina páginas no deseadas de archivos PDF. Selecciona y elimina páginas específicas.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['eliminar páginas pdf', 'quitar páginas', 'borrar páginas pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Eliminar Páginas te permite quitar páginas no deseadas de tus documentos PDF. Elimina páginas en blanco o contenido innecesario.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -309,8 +309,8 @@ export const toolContentEs: Record<string, ToolContent> = {
   // ==================== EDITAR Y ANOTAR ====================
   'bookmark': {
     title: 'Editar Marcadores',
-    metaDescription: 'Añade, edita y organiza marcadores en archivos PDF para navegación fácil.',
-    keywords: ['marcadores pdf', 'editar marcadores', 'índice pdf', 'navegación pdf'],
+    metaDescription: 'Añade, edita y organiza marcadores en archivos PDF para navegación fácil.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['marcadores pdf', 'editar marcadores', 'índice pdf', 'navegación pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Editar Marcadores te permite crear y gestionar marcadores en tus documentos PDF para facilitar la navegación.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -331,8 +331,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'table-of-contents': {
     title: 'Tabla de Contenidos',
-    metaDescription: 'Genera automáticamente una tabla de contenidos para documentos PDF.',
-    keywords: ['tabla de contenidos pdf', 'índice pdf', 'toc pdf', 'generar índice'],
+    metaDescription: 'Genera automáticamente una tabla de contenidos para documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['tabla de contenidos pdf', 'índice pdf', 'toc pdf', 'generar índice', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Tabla de Contenidos genera automáticamente un índice navegable para tus documentos PDF basado en encabezados.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -353,8 +353,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'page-numbers': {
     title: 'Números de Página',
-    metaDescription: 'Añade números de página a documentos PDF con formato personalizable.',
-    keywords: ['números de página pdf', 'numerar páginas', 'paginación pdf'],
+    metaDescription: 'Añade números de página a documentos PDF con formato personalizable.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['números de página pdf', 'numerar páginas', 'paginación pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Números de Página te permite añadir numeración a tus documentos PDF con posición y formato personalizables.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -375,8 +375,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'add-watermark': {
     title: 'Añadir Marca de Agua',
-    metaDescription: 'Añade marcas de agua de texto o imagen a documentos PDF.',
-    keywords: ['marca de agua pdf', 'watermark pdf', 'añadir marca', 'proteger pdf'],
+    metaDescription: 'Añade marcas de agua de texto o imagen a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['marca de agua pdf', 'watermark pdf', 'añadir marca', 'proteger pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Añadir Marca de Agua te permite insertar marcas de agua de texto o imagen en tus documentos PDF para protección o branding.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -397,8 +397,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'header-footer': {
     title: 'Encabezado y Pie de Página',
-    metaDescription: 'Añade encabezados y pies de página personalizados a documentos PDF.',
-    keywords: ['encabezado pdf', 'pie de página pdf', 'header footer pdf'],
+    metaDescription: 'Añade encabezados y pies de página personalizados a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['encabezado pdf', 'pie de página pdf', 'header footer pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Encabezado y Pie de Página te permite añadir texto personalizado en la parte superior e inferior de tus páginas PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -419,8 +419,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'invert-colors': {
     title: 'Invertir Colores',
-    metaDescription: 'Invierte los colores de documentos PDF para modo oscuro o efectos especiales.',
-    keywords: ['invertir colores pdf', 'modo oscuro pdf', 'negativo pdf'],
+    metaDescription: 'Invierte los colores de documentos PDF para modo oscuro o efectos especiales.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['invertir colores pdf', 'modo oscuro pdf', 'negativo pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Invertir Colores cambia los colores de tu PDF a su negativo, útil para modo oscuro o efectos visuales.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -441,8 +441,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'background-color': {
     title: 'Color de Fondo',
-    metaDescription: 'Cambia el color de fondo de páginas PDF.',
-    keywords: ['color de fondo pdf', 'fondo pdf', 'cambiar fondo'],
+    metaDescription: 'Cambia el color de fondo de páginas PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['color de fondo pdf', 'fondo pdf', 'cambiar fondo', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Color de Fondo te permite cambiar el color de fondo de tus páginas PDF para mejorar la legibilidad o estética.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -463,8 +463,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'text-color': {
     title: 'Cambiar Color de Texto',
-    metaDescription: 'Cambia el color del texto en documentos PDF.',
-    keywords: ['color de texto pdf', 'cambiar texto pdf', 'modificar texto'],
+    metaDescription: 'Cambia el color del texto en documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['color de texto pdf', 'cambiar texto pdf', 'modificar texto', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Cambiar Color de Texto te permite modificar el color del texto en tus documentos PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -485,8 +485,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'add-stamps': {
     title: 'Añadir Sellos',
-    metaDescription: 'Añade sellos predefinidos o personalizados a documentos PDF.',
-    keywords: ['sellos pdf', 'stamps pdf', 'añadir sello', 'marcar pdf'],
+    metaDescription: 'Añade sellos predefinidos o personalizados a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['sellos pdf', 'stamps pdf', 'añadir sello', 'marcar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Añadir Sellos te permite insertar sellos predefinidos como "Aprobado", "Confidencial" o sellos personalizados.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -507,8 +507,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'remove-annotations': {
     title: 'Eliminar Anotaciones',
-    metaDescription: 'Elimina todas las anotaciones y comentarios de documentos PDF.',
-    keywords: ['eliminar anotaciones pdf', 'quitar comentarios', 'limpiar pdf'],
+    metaDescription: 'Elimina todas las anotaciones y comentarios de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['eliminar anotaciones pdf', 'quitar comentarios', 'limpiar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Eliminar Anotaciones quita todos los comentarios, resaltados, notas y otras anotaciones de tus documentos PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -529,8 +529,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'form-filler': {
     title: 'Rellenar Formularios',
-    metaDescription: 'Rellena formularios PDF interactivos en línea.',
-    keywords: ['rellenar formularios pdf', 'completar pdf', 'formularios interactivos'],
+    metaDescription: 'Rellena formularios PDF interactivos en línea.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['rellenar formularios pdf', 'completar pdf', 'formularios interactivos', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Rellenar Formularios te permite completar formularios PDF interactivos directamente en tu navegador.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el formulario.' },
@@ -551,8 +551,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'form-creator': {
     title: 'Crear Formularios',
-    metaDescription: 'Crea formularios PDF interactivos con campos rellenables.',
-    keywords: ['crear formularios pdf', 'formularios interactivos', 'campos pdf'],
+    metaDescription: 'Crea formularios PDF interactivos con campos rellenables.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['crear formularios pdf', 'formularios interactivos', 'campos pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Crear Formularios te permite añadir campos interactivos a documentos PDF para crear formularios rellenables.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento base.' },
@@ -573,8 +573,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'remove-blank-pages': {
     title: 'Eliminar Páginas en Blanco',
-    metaDescription: 'Detecta y elimina automáticamente páginas en blanco de documentos PDF.',
-    keywords: ['eliminar páginas en blanco', 'quitar páginas vacías', 'limpiar pdf'],
+    metaDescription: 'Detecta y elimina automáticamente páginas en blanco de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['eliminar páginas en blanco', 'quitar páginas vacías', 'limpiar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Eliminar Páginas en Blanco detecta y elimina automáticamente las páginas vacías de tus documentos PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -597,8 +597,8 @@ export const toolContentEs: Record<string, ToolContent> = {
   // ==================== CONVERTIR A PDF ====================
   'image-to-pdf': {
     title: 'Imagen a PDF',
-    metaDescription: 'Convierte múltiples formatos de imagen a PDF. Soporta JPG, PNG, WebP, BMP, TIFF, SVG, HEIC.',
-    keywords: ['imagen a pdf', 'convertir imagen', 'foto a pdf', 'múltiples imágenes pdf'],
+    metaDescription: 'Convierte múltiples formatos de imagen a PDF. Soporta JPG, PNG, WebP, BMP, TIFF, SVG, HEIC.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['imagen a pdf', 'convertir imagen', 'foto a pdf', 'múltiples imágenes pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Imagen a PDF convierte varios formatos de imagen en documentos PDF. Soporta JPG, PNG, WebP, BMP, TIFF, SVG y HEIC.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Imágenes', description: 'Arrastra y suelta imágenes o haz clic para seleccionar.' },
@@ -619,8 +619,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'png-to-pdf': {
     title: 'PNG a PDF',
-    metaDescription: 'Convierte imágenes PNG a documentos PDF con transparencia preservada.',
-    keywords: ['png a pdf', 'convertir png', 'imagen png pdf'],
+    metaDescription: 'Convierte imágenes PNG a documentos PDF con transparencia preservada.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['png a pdf', 'convertir png', 'imagen png pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PNG a PDF convierte imágenes PNG en documentos PDF, preservando la transparencia cuando es posible.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Imágenes PNG', description: 'Arrastra y suelta archivos PNG.' },
@@ -641,8 +641,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'webp-to-pdf': {
     title: 'WebP a PDF',
-    metaDescription: 'Convierte imágenes WebP a documentos PDF.',
-    keywords: ['webp a pdf', 'convertir webp', 'imagen webp pdf'],
+    metaDescription: 'Convierte imágenes WebP a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['webp a pdf', 'convertir webp', 'imagen webp pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>WebP a PDF convierte imágenes en formato WebP a documentos PDF.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Imágenes WebP', description: 'Arrastra y suelta archivos WebP.' },
@@ -663,8 +663,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'svg-to-pdf': {
     title: 'SVG a PDF',
-    metaDescription: 'Convierte gráficos vectoriales SVG a documentos PDF.',
-    keywords: ['svg a pdf', 'convertir svg', 'vector a pdf'],
+    metaDescription: 'Convierte gráficos vectoriales SVG a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['svg a pdf', 'convertir svg', 'vector a pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>SVG a PDF convierte gráficos vectoriales SVG en documentos PDF, manteniendo la escalabilidad.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Archivos SVG', description: 'Arrastra y suelta archivos SVG.' },
@@ -685,8 +685,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'bmp-to-pdf': {
     title: 'BMP a PDF',
-    metaDescription: 'Convierte imágenes BMP a documentos PDF.',
-    keywords: ['bmp a pdf', 'convertir bmp', 'bitmap a pdf'],
+    metaDescription: 'Convierte imágenes BMP a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['bmp a pdf', 'convertir bmp', 'bitmap a pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>BMP a PDF convierte imágenes en formato BMP (bitmap) a documentos PDF.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Imágenes BMP', description: 'Arrastra y suelta archivos BMP.' },
@@ -707,8 +707,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'heic-to-pdf': {
     title: 'HEIC a PDF',
-    metaDescription: 'Convierte imágenes HEIC de iPhone a documentos PDF.',
-    keywords: ['heic a pdf', 'convertir heic', 'iphone foto pdf'],
+    metaDescription: 'Convierte imágenes HEIC de iPhone a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['heic a pdf', 'convertir heic', 'iphone foto pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>HEIC a PDF convierte imágenes HEIC (formato de iPhone) a documentos PDF.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Imágenes HEIC', description: 'Arrastra y suelta archivos HEIC.' },
@@ -729,8 +729,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'tiff-to-pdf': {
     title: 'TIFF a PDF',
-    metaDescription: 'Convierte imágenes TIFF a documentos PDF.',
-    keywords: ['tiff a pdf', 'convertir tiff', 'tif a pdf'],
+    metaDescription: 'Convierte imágenes TIFF a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['tiff a pdf', 'convertir tiff', 'tif a pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>TIFF a PDF convierte imágenes TIFF de alta calidad a documentos PDF.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Imágenes TIFF', description: 'Arrastra y suelta archivos TIFF.' },
@@ -751,8 +751,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'txt-to-pdf': {
     title: 'Texto a PDF',
-    metaDescription: 'Convierte archivos de texto plano a documentos PDF.',
-    keywords: ['texto a pdf', 'txt a pdf', 'convertir texto'],
+    metaDescription: 'Convierte archivos de texto plano a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['texto a pdf', 'txt a pdf', 'convertir texto', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Texto a PDF convierte archivos de texto plano (.txt) en documentos PDF con formato personalizable.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Archivo de Texto', description: 'Arrastra y suelta o pega texto.' },
@@ -773,8 +773,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'json-to-pdf': {
     title: 'JSON a PDF',
-    metaDescription: 'Convierte datos JSON a documentos PDF formateados.',
-    keywords: ['json a pdf', 'convertir json', 'datos a pdf'],
+    metaDescription: 'Convierte datos JSON a documentos PDF formateados.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['json a pdf', 'convertir json', 'datos a pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>JSON a PDF convierte datos JSON en documentos PDF con formato legible.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Archivo JSON', description: 'Arrastra y suelta o pega JSON.' },
@@ -797,8 +797,8 @@ export const toolContentEs: Record<string, ToolContent> = {
   // ==================== CONVERTIR DESDE PDF ====================
   'pdf-to-jpg': {
     title: 'PDF a JPG',
-    metaDescription: 'Convierte páginas PDF a imágenes JPG de alta calidad.',
-    keywords: ['pdf a jpg', 'pdf a jpeg', 'convertir pdf imagen'],
+    metaDescription: 'Convierte páginas PDF a imágenes JPG de alta calidad.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a jpg', 'pdf a jpeg', 'convertir pdf imagen', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDF a JPG convierte las páginas de tu documento PDF en imágenes JPG de alta calidad.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -819,8 +819,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-png': {
     title: 'PDF a PNG',
-    metaDescription: 'Convierte páginas PDF a imágenes PNG con transparencia.',
-    keywords: ['pdf a png', 'convertir pdf png', 'pdf imagen png'],
+    metaDescription: 'Convierte páginas PDF a imágenes PNG con transparencia.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a png', 'convertir pdf png', 'pdf imagen png', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDF a PNG convierte las páginas de tu documento PDF en imágenes PNG de alta calidad.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -841,8 +841,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-webp': {
     title: 'PDF a WebP',
-    metaDescription: 'Convierte páginas PDF a imágenes WebP optimizadas para web.',
-    keywords: ['pdf a webp', 'convertir pdf webp', 'pdf imagen web'],
+    metaDescription: 'Convierte páginas PDF a imágenes WebP optimizadas para web.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a webp', 'convertir pdf webp', 'pdf imagen web', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDF a WebP convierte las páginas de tu documento PDF en imágenes WebP optimizadas para web.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -863,8 +863,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-bmp': {
     title: 'PDF a BMP',
-    metaDescription: 'Convierte páginas PDF a imágenes BMP sin compresión.',
-    keywords: ['pdf a bmp', 'convertir pdf bmp', 'pdf bitmap'],
+    metaDescription: 'Convierte páginas PDF a imágenes BMP sin compresión.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a bmp', 'convertir pdf bmp', 'pdf bitmap', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDF a BMP convierte las páginas de tu documento PDF en imágenes BMP sin compresión.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -885,8 +885,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-tiff': {
     title: 'PDF a TIFF',
-    metaDescription: 'Convierte páginas PDF a imágenes TIFF de alta calidad.',
-    keywords: ['pdf a tiff', 'convertir pdf tiff', 'pdf tif'],
+    metaDescription: 'Convierte páginas PDF a imágenes TIFF de alta calidad.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a tiff', 'convertir pdf tiff', 'pdf tif', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDF a TIFF convierte las páginas de tu documento PDF en imágenes TIFF de alta calidad.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -907,8 +907,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-greyscale': {
     title: 'PDF a Escala de Grises',
-    metaDescription: 'Convierte documentos PDF a color a escala de grises.',
-    keywords: ['pdf escala de grises', 'pdf blanco y negro', 'convertir pdf gris'],
+    metaDescription: 'Convierte documentos PDF a color a escala de grises.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf escala de grises', 'pdf blanco y negro', 'convertir pdf gris', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDF a Escala de Grises convierte documentos PDF a color en versiones en escala de grises.</p><p>Conversión local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -929,8 +929,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-json': {
     title: 'PDF a JSON',
-    metaDescription: 'Extrae datos estructurados de documentos PDF a formato JSON.',
-    keywords: ['pdf a json', 'extraer datos pdf', 'pdf datos json'],
+    metaDescription: 'Extrae datos estructurados de documentos PDF a formato JSON.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a json', 'extraer datos pdf', 'pdf datos json', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDF a JSON extrae el contenido y estructura de documentos PDF en formato JSON.</p><p>Extracción local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta o selecciona el documento.' },
@@ -953,8 +953,8 @@ export const toolContentEs: Record<string, ToolContent> = {
   // ==================== ORGANIZAR Y GESTIONAR ====================
   'ocr-pdf': {
     title: 'OCR PDF',
-    metaDescription: 'Reconocimiento óptico de caracteres para hacer PDFs escaneados buscables.',
-    keywords: ['ocr pdf', 'reconocimiento texto', 'pdf buscable', 'escaneo a texto'],
+    metaDescription: 'Reconocimiento óptico de caracteres para hacer PDFs escaneados buscables.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['ocr pdf', 'reconocimiento texto', 'pdf buscable', 'escaneo a texto', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>OCR PDF aplica reconocimiento óptico de caracteres a PDFs escaneados para hacerlos buscables y editables.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el PDF escaneado.' },
@@ -975,8 +975,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'alternate-merge': {
     title: 'Combinación Alternada',
-    metaDescription: 'Combina dos PDFs alternando páginas de cada documento.',
-    keywords: ['combinar alternado', 'intercalar pdf', 'mezclar páginas'],
+    metaDescription: 'Combina dos PDFs alternando páginas de cada documento.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['combinar alternado', 'intercalar pdf', 'mezclar páginas', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Combinación Alternada combina dos PDFs alternando páginas de cada documento, útil para documentos de doble cara.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Dos PDFs', description: 'Arrastra y suelta los dos documentos.' },
@@ -997,8 +997,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'add-attachments': {
     title: 'Añadir Adjuntos',
-    metaDescription: 'Añade archivos adjuntos a documentos PDF.',
-    keywords: ['adjuntos pdf', 'añadir archivos pdf', 'incrustar archivos'],
+    metaDescription: 'Añade archivos adjuntos a documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['adjuntos pdf', 'añadir archivos pdf', 'incrustar archivos', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Añadir Adjuntos te permite incrustar archivos dentro de documentos PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1019,8 +1019,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'extract-attachments': {
     title: 'Extraer Adjuntos',
-    metaDescription: 'Extrae archivos adjuntos de documentos PDF.',
-    keywords: ['extraer adjuntos pdf', 'descargar adjuntos', 'archivos incrustados'],
+    metaDescription: 'Extrae archivos adjuntos de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['extraer adjuntos pdf', 'descargar adjuntos', 'archivos incrustados', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Extraer Adjuntos te permite descargar los archivos incrustados en documentos PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1041,8 +1041,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'edit-attachments': {
     title: 'Editar Adjuntos',
-    metaDescription: 'Gestiona los archivos adjuntos en documentos PDF.',
-    keywords: ['editar adjuntos pdf', 'gestionar adjuntos', 'modificar adjuntos'],
+    metaDescription: 'Gestiona los archivos adjuntos en documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['editar adjuntos pdf', 'gestionar adjuntos', 'modificar adjuntos', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Editar Adjuntos te permite añadir, eliminar y renombrar archivos adjuntos en documentos PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1063,8 +1063,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'divide-pages': {
     title: 'Dividir Páginas',
-    metaDescription: 'Divide páginas PDF grandes en múltiples páginas más pequeñas.',
-    keywords: ['dividir páginas pdf', 'cortar páginas', 'separar páginas'],
+    metaDescription: 'Divide páginas PDF grandes en múltiples páginas más pequeñas.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['dividir páginas pdf', 'cortar páginas', 'separar páginas', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Dividir Páginas corta páginas PDF grandes en múltiples páginas más pequeñas.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1085,8 +1085,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'add-blank-page': {
     title: 'Añadir Página en Blanco',
-    metaDescription: 'Inserta páginas en blanco en documentos PDF.',
-    keywords: ['añadir página blanco', 'insertar página pdf', 'página vacía'],
+    metaDescription: 'Inserta páginas en blanco en documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['añadir página blanco', 'insertar página pdf', 'página vacía', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Añadir Página en Blanco te permite insertar páginas vacías en cualquier posición de tu documento PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1107,8 +1107,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'reverse-pages': {
     title: 'Invertir Páginas',
-    metaDescription: 'Invierte el orden de las páginas en documentos PDF.',
-    keywords: ['invertir páginas pdf', 'orden inverso', 'voltear pdf'],
+    metaDescription: 'Invierte el orden de las páginas en documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['invertir páginas pdf', 'orden inverso', 'voltear pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Invertir Páginas cambia el orden de las páginas de tu PDF, poniendo la última primero.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1129,8 +1129,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'rotate-pdf': {
     title: 'Rotar PDF',
-    metaDescription: 'Rota páginas PDF 90, 180 o 270 grados.',
-    keywords: ['rotar pdf', 'girar páginas', 'orientación pdf'],
+    metaDescription: 'Rota páginas PDF 90, 180 o 270 grados.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['rotar pdf', 'girar páginas', 'orientación pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Rotar PDF te permite girar páginas de tu documento 90, 180 o 270 grados.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1151,8 +1151,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'n-up-pdf': {
     title: 'N-Up PDF',
-    metaDescription: 'Coloca múltiples páginas PDF en una sola página (2-up, 4-up, etc.).',
-    keywords: ['n-up pdf', 'múltiples páginas', '2-up', '4-up', 'imprimir múltiple'],
+    metaDescription: 'Coloca múltiples páginas PDF en una sola página (2-up, 4-up, etc.).. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['n-up pdf', 'múltiples páginas', '2-up', '4-up', 'imprimir múltiple', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: '<p>N-Up PDF coloca múltiples páginas de tu documento en una sola página, útil para ahorrar papel al imprimir.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1173,8 +1173,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'combine-single-page': {
     title: 'Combinar en Página Única',
-    metaDescription: 'Combina todas las páginas PDF en una sola página larga.',
-    keywords: ['combinar página única', 'página continua', 'unir páginas'],
+    metaDescription: 'Combina todas las páginas PDF en una sola página larga.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['combinar página única', 'página continua', 'unir páginas', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Combinar en Página Única une todas las páginas de tu PDF en una sola página larga continua.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1195,8 +1195,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'view-metadata': {
     title: 'Ver Metadatos',
-    metaDescription: 'Visualiza los metadatos y propiedades de documentos PDF.',
-    keywords: ['ver metadatos pdf', 'propiedades pdf', 'información pdf'],
+    metaDescription: 'Visualiza los metadatos y propiedades de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['ver metadatos pdf', 'propiedades pdf', 'información pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Ver Metadatos muestra toda la información de propiedades de tu documento PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1217,8 +1217,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'edit-metadata': {
     title: 'Editar Metadatos',
-    metaDescription: 'Edita los metadatos y propiedades de documentos PDF.',
-    keywords: ['editar metadatos pdf', 'modificar propiedades', 'cambiar autor pdf'],
+    metaDescription: 'Edita los metadatos y propiedades de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['editar metadatos pdf', 'modificar propiedades', 'cambiar autor pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Editar Metadatos te permite modificar las propiedades de tu documento PDF como título, autor y palabras clave.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1239,8 +1239,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-zip': {
     title: 'PDFs a ZIP',
-    metaDescription: 'Empaqueta múltiples archivos PDF en un archivo ZIP.',
-    keywords: ['pdf a zip', 'comprimir pdfs', 'empaquetar pdf'],
+    metaDescription: 'Empaqueta múltiples archivos PDF en un archivo ZIP.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a zip', 'comprimir pdfs', 'empaquetar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>PDFs a ZIP empaqueta múltiples archivos PDF en un único archivo ZIP comprimido.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube PDFs', description: 'Arrastra y suelta múltiples archivos PDF.' },
@@ -1261,8 +1261,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'compare-pdfs': {
     title: 'Comparar PDFs',
-    metaDescription: 'Compara dos documentos PDF lado a lado y resalta diferencias.',
-    keywords: ['comparar pdf', 'diferencias pdf', 'comparación documentos'],
+    metaDescription: 'Compara dos documentos PDF lado a lado y resalta diferencias.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['comparar pdf', 'diferencias pdf', 'comparación documentos', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Comparar PDFs muestra dos documentos lado a lado y resalta las diferencias entre ellos.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube Dos PDFs', description: 'Arrastra y suelta los dos documentos a comparar.' },
@@ -1283,8 +1283,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'posterize-pdf': {
     title: 'Posterizar PDF',
-    metaDescription: 'Divide páginas PDF grandes en múltiples páginas para impresión de posters.',
-    keywords: ['posterizar pdf', 'imprimir poster', 'dividir página grande'],
+    metaDescription: 'Divide páginas PDF grandes en múltiples páginas para impresión de posters.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['posterizar pdf', 'imprimir poster', 'dividir página grande', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Posterizar PDF divide páginas grandes en múltiples páginas más pequeñas para imprimir posters en impresoras estándar.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1307,8 +1307,8 @@ export const toolContentEs: Record<string, ToolContent> = {
   // ==================== OPTIMIZAR Y REPARAR ====================
   'fix-page-size': {
     title: 'Corregir Tamaño de Página',
-    metaDescription: 'Estandariza el tamaño de página de documentos PDF.',
-    keywords: ['corregir tamaño pdf', 'estandarizar páginas', 'tamaño página pdf'],
+    metaDescription: 'Estandariza el tamaño de página de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['corregir tamaño pdf', 'estandarizar páginas', 'tamaño página pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Corregir Tamaño de Página estandariza todas las páginas de tu PDF a un tamaño uniforme.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1329,8 +1329,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'linearize-pdf': {
     title: 'Linearizar PDF',
-    metaDescription: 'Optimiza PDFs para visualización web rápida (Fast Web View).',
-    keywords: ['linearizar pdf', 'fast web view', 'optimizar pdf web'],
+    metaDescription: 'Optimiza PDFs para visualización web rápida (Fast Web View).. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['linearizar pdf', 'fast web view', 'optimizar pdf web', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Linearizar PDF optimiza documentos para visualización web rápida, permitiendo ver la primera página mientras se descarga el resto.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1351,8 +1351,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'page-dimensions': {
     title: 'Dimensiones de Página',
-    metaDescription: 'Analiza y muestra las dimensiones de cada página en documentos PDF.',
-    keywords: ['dimensiones pdf', 'tamaño páginas', 'medidas pdf'],
+    metaDescription: 'Analiza y muestra las dimensiones de cada página en documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['dimensiones pdf', 'tamaño páginas', 'medidas pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Dimensiones de Página analiza y muestra el tamaño de cada página en tu documento PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1373,8 +1373,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'remove-restrictions': {
     title: 'Eliminar Restricciones',
-    metaDescription: 'Elimina restricciones de seguridad de documentos PDF.',
-    keywords: ['eliminar restricciones pdf', 'desbloquear pdf', 'quitar seguridad'],
+    metaDescription: 'Elimina restricciones de seguridad de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['eliminar restricciones pdf', 'desbloquear pdf', 'quitar seguridad', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Eliminar Restricciones quita las restricciones de seguridad de PDFs que impiden copiar, imprimir o editar.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento restringido.' },
@@ -1395,8 +1395,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'repair-pdf': {
     title: 'Reparar PDF',
-    metaDescription: 'Repara archivos PDF dañados o corruptos.',
-    keywords: ['reparar pdf', 'arreglar pdf', 'pdf corrupto', 'recuperar pdf'],
+    metaDescription: 'Repara archivos PDF dañados o corruptos.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['reparar pdf', 'arreglar pdf', 'pdf corrupto', 'recuperar pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Reparar PDF intenta recuperar y reparar archivos PDF dañados o corruptos.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el archivo dañado.' },
@@ -1418,8 +1418,8 @@ export const toolContentEs: Record<string, ToolContent> = {
   // ==================== SEGURIDAD PDF ====================
   'encrypt-pdf': {
     title: 'Cifrar PDF',
-    metaDescription: 'Protege documentos PDF con contraseña y cifrado.',
-    keywords: ['cifrar pdf', 'proteger pdf', 'contraseña pdf', 'seguridad pdf'],
+    metaDescription: 'Protege documentos PDF con contraseña y cifrado.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['cifrar pdf', 'proteger pdf', 'contraseña pdf', 'seguridad pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Cifrar PDF protege tus documentos con contraseña y cifrado AES para máxima seguridad.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1440,8 +1440,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'sanitize-pdf': {
     title: 'Sanitizar PDF',
-    metaDescription: 'Elimina información oculta y metadatos de documentos PDF.',
-    keywords: ['sanitizar pdf', 'limpiar pdf', 'eliminar información oculta'],
+    metaDescription: 'Elimina información oculta y metadatos de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['sanitizar pdf', 'limpiar pdf', 'eliminar información oculta', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Sanitizar PDF elimina toda la información oculta, metadatos, scripts y datos sensibles de tus documentos.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1462,8 +1462,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'decrypt-pdf': {
     title: 'Descifrar PDF',
-    metaDescription: 'Elimina la protección con contraseña de documentos PDF.',
-    keywords: ['descifrar pdf', 'quitar contraseña', 'desbloquear pdf'],
+    metaDescription: 'Elimina la protección con contraseña de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['descifrar pdf', 'quitar contraseña', 'desbloquear pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Descifrar PDF elimina la protección con contraseña de documentos PDF cifrados.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento cifrado.' },
@@ -1484,8 +1484,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'flatten-pdf': {
     title: 'Aplanar PDF',
-    metaDescription: 'Aplana formularios y anotaciones en documentos PDF.',
-    keywords: ['aplanar pdf', 'flatten pdf', 'formularios pdf'],
+    metaDescription: 'Aplana formularios y anotaciones en documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['aplanar pdf', 'flatten pdf', 'formularios pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Aplanar PDF convierte formularios interactivos y anotaciones en contenido estático no editable.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1506,8 +1506,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'remove-metadata': {
     title: 'Eliminar Metadatos',
-    metaDescription: 'Elimina todos los metadatos de documentos PDF.',
-    keywords: ['eliminar metadatos pdf', 'quitar propiedades', 'limpiar metadatos'],
+    metaDescription: 'Elimina todos los metadatos de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['eliminar metadatos pdf', 'quitar propiedades', 'limpiar metadatos', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Eliminar Metadatos quita toda la información de propiedades de tus documentos PDF para proteger la privacidad.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1528,8 +1528,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'change-permissions': {
     title: 'Cambiar Permisos',
-    metaDescription: 'Modifica los permisos de seguridad de documentos PDF.',
-    keywords: ['permisos pdf', 'cambiar permisos', 'seguridad pdf'],
+    metaDescription: 'Modifica los permisos de seguridad de documentos PDF.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['permisos pdf', 'cambiar permisos', 'seguridad pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>Cambiar Permisos te permite modificar qué acciones están permitidas en tu documento PDF.</p><p>Procesamiento local.</p>',
     howToUse: [
       { step: 1, title: 'Sube tu PDF', description: 'Arrastra y suelta el documento.' },
@@ -1550,8 +1550,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-pptx': {
     title: 'PDF a PowerPoint',
-    metaDescription: 'Convierte PDF a presentación PowerPoint (PPTX). Cada página se convierte en una diapositiva.',
-    keywords: ['pdf a pptx', 'pdf a powerpoint', 'convertir pdf ppt', 'pdf diapositiva'],
+    metaDescription: 'Convierte PDF a presentación PowerPoint (PPTX). Cada página se convierte en una diapositiva.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a pptx', 'pdf a powerpoint', 'convertir pdf ppt', 'pdf diapositiva', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF a PowerPoint convierte tus documentos PDF en presentaciones de PowerPoint (PPTX) editables. Cada página del PDF se transforma en una diapositiva de alta calidad, preservando el diseño visual.</p>
       <p>Ideal para convertir informes o documentos en formato de presentación.</p>
@@ -1575,8 +1575,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-excel': {
     title: 'PDF a Excel',
-    metaDescription: 'Convierte PDF a hoja de cálculo Excel. Extrae tablas a formato XLSX.',
-    keywords: ['pdf a excel', 'pdf a xlsx', 'extraer tablas', 'datos pdf'],
+    metaDescription: 'Convierte PDF a hoja de cálculo Excel. Extrae tablas a formato XLSX.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a excel', 'pdf a xlsx', 'extraer tablas', 'datos pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: `
       <p>PDF a Excel convierte tus documentos PDF en hojas de cálculo Microsoft Excel (XLSX) editables. La herramienta detecta automáticamente las tablas en tu PDF y las extrae en hojas separadas.</p>
       <p>Ideal para analizar informes financieros, facturas o cualquier dato tabular.</p>
@@ -1601,7 +1601,7 @@ export const toolContentEs: Record<string, ToolContent> = {
   'email-to-pdf': {
     title: 'Email a PDF',
     metaDescription: 'Convierte archivos de correo electrónico (.eml, .msg) a documentos PDF. Preserva formato, imágenes en línea, enlaces clicables y adjuntos.',
-    keywords: ['email a pdf', 'eml a pdf', 'msg a pdf', 'convertir email', 'outlook a pdf'],
+    keywords: ['email a pdf', 'eml a pdf', 'msg a pdf', 'convertir email', 'outlook a pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Email a PDF convierte tus archivos de correo electrónico (formatos .eml y .msg) en documentos PDF bien formateados. La herramienta preserva la información del encabezado del correo, el contenido del cuerpo, imágenes en línea con reemplazo CID, enlaces clicables e incrusta adjuntos directamente en el PDF.</p>
       <p>Personaliza las opciones de salida incluyendo tamaño de página (A4, Letter, Legal), formato de fecha con soporte de zona horaria, y si incluir campos CC/BCC e información de adjuntos.</p>
@@ -1628,8 +1628,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'djvu-to-pdf': {
     title: 'DJVU a PDF',
-    metaDescription: 'Convierte archivos de documentos DJVU a PDF. Renderizado de alta calidad para documentos escaneados y libros.',
-    keywords: ['djvu a pdf', 'convertir djvu', 'convertidor djvu', 'djvu pdf', 'djv a pdf'],
+    metaDescription: 'Convierte archivos de documentos DJVU a PDF. Renderizado de alta calidad para documentos escaneados y libros.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['djvu a pdf', 'convertir djvu', 'convertidor djvu', 'djvu pdf', 'djv a pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>DJVU a PDF convierte archivos de documentos DjVu en documentos PDF de alta calidad. DjVu es un formato de archivo informático diseñado principalmente para almacenar documentos escaneados, especialmente aquellos que contienen una combinación de texto, dibujos lineales y fotografías.</p>
       <p>Esta herramienta renderiza cada página de tu archivo DJVU en el DPI elegido (puntos por pulgada) y los combina en un documento PDF buscable. Perfecto para convertir libros escaneados, manuales técnicos y documentos de archivo.</p>
@@ -1654,8 +1654,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'fb2-to-pdf': {
     title: 'FB2 a PDF',
-    metaDescription: 'Convierte libros electrónicos FictionBook (FB2) a PDF. Soporta múltiples archivos con renderizado de alta calidad.',
-    keywords: ['fb2 a pdf', 'convertir fb2', 'fictionbook a pdf', 'convertidor fb2', 'fb2.zip a pdf'],
+    metaDescription: 'Convierte libros electrónicos FictionBook (FB2) a PDF. Soporta múltiples archivos con renderizado de alta calidad.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['fb2 a pdf', 'convertir fb2', 'fictionbook a pdf', 'convertidor fb2', 'fb2.zip a pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>FB2 a PDF convierte archivos de libros electrónicos FictionBook (FB2) en documentos PDF de alta calidad. FB2 es un formato de libro electrónico basado en XML muy popular ampliamente utilizado en Rusia y Europa del Este.</p>
       <p>Esta herramienta soporta tanto archivos .fb2 como .fb2.zip, y puede procesar múltiples archivos a la vez. Preserva el formato de texto, imágenes y la estructura de capítulos de tus libros electrónicos.</p>
@@ -1681,7 +1681,7 @@ export const toolContentEs: Record<string, ToolContent> = {
   'deskew-pdf': {
     title: 'Enderezar PDF',
     metaDescription: 'Endereza automáticamente páginas PDF escaneadas o inclinadas. Corrige documentos sesgados con detección precisa de ángulos.',
-    keywords: ['enderezar pdf', 'corregir pdf inclinado', 'arreglar escaneo inclinado', 'rotar pdf automático', 'corregir ángulo pdf'],
+    keywords: ['enderezar pdf', 'corregir pdf inclinado', 'arreglar escaneo inclinado', 'rotar pdf automático', 'corregir ángulo pdf', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>Enderezar PDF detecta y corrige automáticamente páginas inclinadas o sesgadas en tus documentos PDF usando análisis avanzado de varianza de perfil de proyección. Esto es esencial para documentos escaneados que se alimentaron al escáner en un ángulo.</p>
       <p>La herramienta analiza la alineación de texto y contenido en diferentes ángulos para encontrar la rotación óptima, luego aplica la corrección. Puedes ajustar el umbral de sensibilidad (1-30) y la configuración DPI (72-300) para obtener resultados óptimos.</p>
@@ -1708,8 +1708,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'pdf-to-pdfa': {
     title: 'PDF a PDF/A',
-    metaDescription: 'Convierte PDF a formato de archivo PDF/A. Asegura la preservación de documentos a largo plazo con estándares ISO.',
-    keywords: ['pdf a pdfa', 'convertidor pdfa', 'archivar pdf', 'archivo pdf', 'preservación a largo plazo'],
+    metaDescription: 'Convierte PDF a formato de archivo PDF/A. Asegura la preservación de documentos a largo plazo con estándares ISO.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['pdf a pdfa', 'convertidor pdfa', 'archivar pdf', 'archivo pdf', 'preservación a largo plazo', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter'],
     description: `
       <p>PDF a PDF/A convierte tus documentos PDF al formato PDF/A, el estándar ISO para archivo de documentos a largo plazo. PDF/A asegura que los documentos serán visibles y reproducibles durante décadas.</p>
       <p>Elige entre PDF/A-1b (conformidad básica), PDF/A-2b (recomendado, soporta transparencia) o PDF/A-3b (permite archivos incrustados). La herramienta incrusta fuentes y aplana la transparencia según sea necesario.</p>
@@ -1734,8 +1734,8 @@ export const toolContentEs: Record<string, ToolContent> = {
 
   'digital-sign-pdf': {
     title: 'Firma Digital',
-    metaDescription: 'Añade firmas digitales X.509 a documentos PDF. Firma PDFs con certificados PFX, P12 o PEM para validez legal.',
-    keywords: ['firma digital pdf', 'certificado x509', 'firma pfx', 'firma p12', 'firma pem', 'firma electrónica'],
+    metaDescription: 'Añade firmas digitales X.509 a documentos PDF. Firma PDFs con certificados PFX, P12 o PEM para validez legal.. Sin registro. 100% gratuito. ¡Pruébalo ahora!',
+    keywords: ['firma digital pdf', 'certificado x509', 'firma pfx', 'firma p12', 'firma pem', 'firma electrónica', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free'],
     description: '<p>La herramienta de Firma Digital te permite añadir firmas digitales X.509 criptográficas a documentos PDF.</p>',
     howToUse: [
       { step: 1, title: 'Subir PDF', description: 'Sube el documento PDF que deseas firmar digitalmente.' },
@@ -1757,7 +1757,7 @@ export const toolContentEs: Record<string, ToolContent> = {
   'validate-signature': {
     title: 'Validar Firma',
     metaDescription: 'Verifica firmas digitales en documentos PDF. Comprueba la validez del certificado, información del firmante e integridad del documento.',
-    keywords: ['validar firma pdf', 'verificar firma digital', 'comprobar certificado pdf', 'verificación de firma'],
+    keywords: ['validar firma pdf', 'verificar firma digital', 'comprobar certificado pdf', 'verificación de firma', 'free pdf tool online', 'no signup required', 'browser-based pdf', 'pdf editor free', 'online pdf converter', 'pdf tool no registration'],
     description: '<p>La herramienta Validar Firma te permite verificar firmas digitales en documentos PDF.</p>',
     howToUse: [
       { step: 1, title: 'Subir PDF Firmado', description: 'Sube un documento PDF que contenga firmas digitales.' },
