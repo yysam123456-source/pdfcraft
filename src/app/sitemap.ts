@@ -9,6 +9,7 @@ import { MetadataRoute } from 'next';
 import { siteConfig } from '@/config/site';
 import { locales, type Locale } from '@/lib/i18n/config';
 import { getAllTools } from '@/config/tools';
+import { TOOL_CATEGORIES } from '@/types/tool';
 
 // Required for static export
 export const dynamic = 'force-static';
@@ -35,6 +36,7 @@ const CHANGE_FREQUENCY = {
 
 /**
  * Static pages that exist for all locales
+ * Note: /tools/category/[category] is generated dynamically below
  */
 const STATIC_PAGES = [
   { path: '', priority: PRIORITY.home, changeFrequency: CHANGE_FREQUENCY.home },
@@ -42,7 +44,9 @@ const STATIC_PAGES = [
   { path: '/about', priority: PRIORITY.static, changeFrequency: CHANGE_FREQUENCY.static },
   { path: '/faq', priority: PRIORITY.static, changeFrequency: CHANGE_FREQUENCY.static },
   { path: '/privacy', priority: PRIORITY.static, changeFrequency: CHANGE_FREQUENCY.static },
+  { path: '/terms', priority: PRIORITY.static, changeFrequency: CHANGE_FREQUENCY.static },
   { path: '/contact', priority: PRIORITY.static, changeFrequency: CHANGE_FREQUENCY.static },
+  { path: '/workflow', priority: PRIORITY.static, changeFrequency: CHANGE_FREQUENCY.static },
 ];
 
 /**
@@ -71,7 +75,17 @@ function generateLocaleEntries(locale: Locale, lastModified: Date): MetadataRout
       priority: PRIORITY.toolPage,
     });
   }
-  
+
+  // Add category pages
+  for (const category of TOOL_CATEGORIES) {
+    entries.push({
+      url: `${siteConfig.url}/${locale}/tools/category/${category}`,
+      lastModified,
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    });
+  }
+
   return entries;
 }
 
@@ -99,7 +113,8 @@ export function getSitemapUrlCount(): number {
   const tools = getAllTools();
   const staticPagesCount = STATIC_PAGES.length;
   const toolPagesCount = tools.length;
+  const categoryPagesCount = TOOL_CATEGORIES.length;
   const localesCount = locales.length;
-  
-  return (staticPagesCount + toolPagesCount) * localesCount;
+
+  return (staticPagesCount + toolPagesCount + categoryPagesCount) * localesCount;
 }
