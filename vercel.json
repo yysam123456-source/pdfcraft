@@ -1,6 +1,5 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "out",
   "headers": [
     {
       "source": "/libreoffice-wasm/soffice.wasm.gz",

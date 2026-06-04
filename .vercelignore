@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+*.md
+.DS_Store
+.idea
+.vscode
+coverage
+dist
+build
+.src-tauri
+bentopdf-main
+public/libreoffice-wasm/soffice.wasm
+public/libreoffice-wasm/soffice.data
