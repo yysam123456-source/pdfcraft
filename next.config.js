@@ -9,6 +9,13 @@ const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Force production env vars for Cloudflare Pages static export
+  // (Cloudflare build env vars sometimes not picked up)
+  env: {
+    NEXT_PUBLIC_APP_URL: process.env.NEXT_PUBLIC_APP_URL || 'https://pdf.craftisle.com',
+    NODE_ENV: process.env.NODE_ENV || 'production',
+  },
+
   // Enable static export for deployment flexibility
   // output: 'export',  // Disabled: Vercel free tier doesn't support auto-deploy for static export
   // Use standalone mode for Vercel auto-deploy
