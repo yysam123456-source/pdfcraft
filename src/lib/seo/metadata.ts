@@ -252,6 +252,19 @@ export function generatePrivacyMetadata(locale: Locale, translations?: { title: 
 }
 
 /**
+ * Generate metadata for the terms page
+ */
+export function generateTermsMetadata(locale: Locale, translations?: { title: string; description: string }): Metadata {
+  return generateBaseMetadata({
+    locale,
+    path: '/terms',
+    title: translations?.title || 'Terms of Service',
+    description: translations?.description || `${siteConfig.name} terms of service.`,
+    keywords: ['terms', 'terms of service', 'legal', 'usage terms'],
+  });
+}
+
+/**
  * Generate metadata for the contact page
  */
 export function generateContactMetadata(locale: Locale, translations?: { title: string; description: string }): Metadata {
