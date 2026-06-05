@@ -98,6 +98,7 @@ export function generateBaseMetadata(options: PageMetadataOptions): Metadata {
     : description;
 
   return {
+    metadataBase: new URL('https://pdf.craftisle.com'),
     title: fullTitle,
     description: optimizedDescription,
     keywords: [...new Set([...keywords, 'PDF', 'PDF tools', 'free', 'online', siteConfig.name])],
