@@ -3,6 +3,7 @@ import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { locales, type Locale } from '@/lib/i18n/config';
 import { generateAboutMetadata } from '@/lib/seo';
 import AboutPageClient from './AboutPageClient';
+import { JsonLd } from '@/components/seo/JsonLd';
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -33,5 +34,25 @@ export default async function AboutPage({ params }: AboutPageProps) {
   // Enable static rendering
   setRequestLocale(locale);
 
-  return <AboutPageClient locale={locale as Locale} />;
+  // Generate WebPage structured data
+  const webPageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'About Craftisle PDF - Free Online PDF Tools',
+    description: 'Learn about Craftisle PDF - your free, private, and powerful PDF toolkit. All processing happens in your browser.',
+    url: `https://pdf.craftisle.com/${locale}/about`,
+    inLanguage: locale === 'zh' ? 'zh-CN' : 'en-US',
+    isPartOf: {
+      '@type': 'WebSite',
+      name: 'Craftisle PDF',
+      url: 'https://pdf.craftisle.com',
+    },
+  };
+
+  return (
+    <>
+      <JsonLd data={webPageSchema} />
+      <AboutPageClient locale={locale as Locale} />
+    </>
+  );
 }

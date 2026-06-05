@@ -3,6 +3,7 @@ import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { locales, type Locale } from '@/lib/i18n/config';
 import { generateFaqMetadata } from '@/lib/seo';
 import FAQPageClient from './FAQPageClient';
+import { JsonLd } from '@/components/seo/JsonLd';
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -33,5 +34,25 @@ export default async function FAQPage({ params }: FAQPageProps) {
   // Enable static rendering
   setRequestLocale(locale);
 
-  return <FAQPageClient locale={locale as Locale} />;
+  // Generate WebPage structured data for FAQ page
+  const faqPageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    name: 'Frequently Asked Questions - Craftisle PDF',
+    description: 'Find answers to common questions about Craftisle PDF. Learn how to use our PDF tools effectively.',
+    url: `https://pdf.craftisle.com/${locale}/faq`,
+    inLanguage: locale === 'zh' ? 'zh-CN' : 'en-US',
+    isPartOf: {
+      '@type': 'WebSite',
+      name: 'Craftisle PDF',
+      url: 'https://pdf.craftisle.com',
+    },
+  };
+
+  return (
+    <>
+      <JsonLd data={faqPageSchema} />
+      <FAQPageClient locale={locale as Locale} />
+    </>
+  );
 }
