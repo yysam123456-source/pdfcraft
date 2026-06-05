@@ -22,6 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         .join(' ');
 
     return {
+        metadataBase: new URL('https://pdf.craftisle.com'),
         title: `${formattedCategory} Tools - PDFCraft`,
         description: `Free online ${formattedCategory} tools. Secure, fast, and easy to use.`,
     };
