@@ -1,6 +1,6 @@
 /**
  * Robots.txt Generation
- * Configures crawling rules for search engines
+ * Configures crawling rules for search engines and AI bots
  * 
  * @see https://nextjs.org/docs/app/api-reference/file-conventions/metadata/robots
  */
@@ -22,6 +22,31 @@ export default function robots(): MetadataRoute.Robots {
           '/_next/',
           '/static/',
         ],
+      },
+      // AI crawler rules — explicitly allow all major AI bots
+      {
+        userAgent: 'GPTBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'ClaudeBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'Google-Extended',
+        allow: '/',
+      },
+      {
+        userAgent: 'PerplexityBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'ChatGPT-User',
+        allow: '/',
+      },
+      {
+        userAgent: 'CCBot',
+        allow: '/',
       },
     ],
     sitemap: `${siteConfig.url}/sitemap.xml`,

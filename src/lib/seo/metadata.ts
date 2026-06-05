@@ -12,6 +12,11 @@ import type { Tool, ToolContent } from '@/types/tool';
 import { getBasePath } from '@/lib/utils/path';
 
 /**
+ * Force production OG image URL — never derive from env var at build time
+ */
+const PRODUCTION_OG_IMAGE = 'https://pdf.craftisle.com/images/og-image.png';
+
+/**
  * Base metadata configuration
  */
 export interface BaseMetadataOptions {
@@ -76,7 +81,10 @@ export function generateBaseMetadata(options: PageMetadataOptions): Metadata {
     : `${title} | ${siteConfig.name}`;
 
   const canonicalUrl = getCanonicalUrl(locale, path);
-  const ogImage = image || siteConfig.ogImage;
+  // Always ensure ogImage is absolute URL
+  const ogImage = image || siteConfig.ogImage || PRODUCTION_OG_IMAGE;
+  // Always use absolute URL — never derive from siteConfig.url at build time
+  const ogImageUrl = PRODUCTION_OG_IMAGE;
   const ogLocale = getOpenGraphLocale(locale);
 
   // Ensure description is optimal length (150-160 characters)
@@ -118,7 +126,7 @@ export function generateBaseMetadata(options: PageMetadataOptions): Metadata {
       siteName: siteConfig.name,
       images: [
         {
-          url: ogImage.startsWith('http') ? ogImage : `${siteConfig.url}${ogImage}`,
+          url: PRODUCTION_OG_IMAGE,
           width: 1200,
           height: 630,
           alt: fullTitle,
@@ -130,7 +138,7 @@ export function generateBaseMetadata(options: PageMetadataOptions): Metadata {
       card: 'summary_large_image',
       title: fullTitle,
       description: optimizedDescription,
-      images: [ogImage.startsWith('http') ? ogImage : `${siteConfig.url}${ogImage}`],
+      images: [PRODUCTION_OG_IMAGE],
       creator: siteConfig.creator,
     },
     verification: {

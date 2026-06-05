@@ -1,8 +1,20 @@
 export const siteConfig = {
   name: 'Craftisle PDF',
   description: 'Free online PDF tools by Craftisle. Merge, split, compress, and convert PDF files. All processing happens in your browser for maximum privacy.',
-  url: 'https://pdf.craftisle.com',
-  ogImage: '/images/og-image.png',
+  // Force production URL — do NOT use env var in production build
+  url: (() => {
+    const envUrl = process.env.NEXT_PUBLIC_APP_URL || '';
+    // Never allow localhost in production
+    if (process.env.NODE_ENV === 'production' && envUrl.includes('localhost')) {
+      console.error(
+        '[siteConfig] WARNING: NEXT_PUBLIC_APP_URL contains localhost in production build! ' +
+        'Falling back to https://pdf.craftisle.com'
+      );
+      return 'https://pdf.craftisle.com';
+    }
+    return envUrl || 'https://pdf.craftisle.com';
+  })(),
+  ogImage: 'https://pdf.craftisle.com/images/og-image.png', // Always absolute URL
   links: {
     github: 'https://github.com/PDFCraftTool/pdfcraft',
     twitter: 'https://twitter.com/pdfcraft',

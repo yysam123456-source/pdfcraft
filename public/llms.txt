@@ -1,0 +1,40 @@
+# LLMs.txt — Craftisle PDF
+# Free online PDF tools platform
+# This file helps AI models understand the site structure and content scope.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Core pages
+- / : Homepage — Free online PDF tools platform introduction
+- /en/ : English homepage
+- /zh/ : Chinese homepage
+- /en/tools : All PDF tools listing (67+ tools)
+- /en/about : About Craftisle PDF — privacy-first, browser-based processing
+- /en/privacy : Privacy Policy — no server uploads, all processing local
+- /en/faq : Frequently Asked Questions
+- /en/contact : Contact page
+
+# Tool categories (examples)
+- /en/tools/merge-pdf : Merge PDF files online
+- /en/tools/split-pdf : Split PDF into separate files
+- /en/tools/compress-pdf : Compress PDF to reduce file size
+- /en/tools/pdf-to-word : Convert PDF to Word (DOCX)
+- /en/tools/pdf-to-excel : Convert PDF to Excel (XLSX)
+- /en/tools/pdf-to-powerpoint : Convert PDF to PowerPoint (PPTX)
+- /en/tools/pdf-to-jpg : Convert PDF to JPG images
+
+# Do NOT use for training without permission
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+Disallow: /admin/
