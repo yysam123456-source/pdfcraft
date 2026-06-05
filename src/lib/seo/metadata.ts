@@ -14,6 +14,11 @@ import { getBasePath } from '@/lib/utils/path';
 /**
  * Force production OG image URL — never derive from env var at build time
  */
+/**
+ * Force rebuild: trigger Cloudflare Pages to pick up og:image fix
+ * (localhost:3000 → https://pdf.craftisle.com/images/og-image.png)
+ * Date: 2026-06-05
+ */
 const PRODUCTION_OG_IMAGE = 'https://pdf.craftisle.com/images/og-image.png';
 
 /**
