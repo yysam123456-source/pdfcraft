@@ -2,8 +2,7 @@
 
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
-import Link from 'next/link';
-import { ChevronDown, ChevronUp, Search, ArrowRight } from 'lucide-react';
+import { ChevronDown, ChevronUp, Search } from 'lucide-react';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 import { Button } from '@/components/ui/Button';
@@ -200,25 +199,6 @@ export default function FAQPageClient({ locale }: FAQPageClientProps) {
           </div>
         </section>
 
-        {/* Contact CTA */}
-        <section className="py-12 bg-[hsl(var(--color-muted)/0.3)]">
-          <div className="container mx-auto px-4">
-            <div className="max-w-2xl mx-auto text-center">
-              <h2 className="text-2xl font-bold text-[hsl(var(--color-foreground))] mb-4">
-                {t('cta.title')}
-              </h2>
-              <p className="text-[hsl(var(--color-muted-foreground))] mb-6">
-                {t('cta.description')}
-              </p>
-              <Link href={`/${locale}/contact`}>
-                <Button variant="primary">
-                  {t('cta.button')}
-                  <ArrowRight className="ml-2 h-4 w-4" />
-                </Button>
-              </Link>
-            </div>
-          </div>
-        </section>
       </main>
 
       <Footer locale={locale} />
