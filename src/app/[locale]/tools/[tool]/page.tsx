@@ -145,6 +145,7 @@ export async function generateMetadata({ params }: ToolPageParams): Promise<Meta
 
   if (!tool) {
     return {
+      metadataBase: new URL('https://pdf.craftisle.com'),
       title: t('toolNotFound'),
     };
   }
@@ -153,6 +154,7 @@ export async function generateMetadata({ params }: ToolPageParams): Promise<Meta
 
   if (!content) {
     return {
+      metadataBase: new URL('https://pdf.craftisle.com'),
       title: tool.id,
     };
   }
