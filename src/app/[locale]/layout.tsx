@@ -8,6 +8,12 @@ import { fontVariables } from '@/lib/fonts';
 import { SkipLink } from '@/components/common/SkipLink';
 import '@/app/globals.css';
 
+/**
+ * metadataBase is REQUIRED for static export (output: 'export')
+ * Without this, Next.js defaults to http://localhost:3000 for og:image / twitter:image
+ */
+export const metadataBase = new URL('https://pdf.craftisle.com');
+
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
