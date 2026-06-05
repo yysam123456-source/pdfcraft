@@ -32,6 +32,10 @@
       "convertPdf": "PDF 변환",
       "freePdfTools": "무료 PDF 도구",
       "onlinePdfEditor": "온라인 PDF 편집기"
+    },
+    "terms": {
+      "title": "서비스 이용약관",
+      "description": "Craftisle PDF 무료 PDF 도구의 서비스 이용약관."
     }
   },
   "common": {

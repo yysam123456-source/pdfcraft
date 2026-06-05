@@ -32,6 +32,10 @@
       "convertPdf": "konversi PDF",
       "freePdfTools": "alat PDF gratis",
       "onlinePdfEditor": "editor PDF online"
+    },
+    "terms": {
+      "title": "Syarat Ketentuan",
+      "description": "Syarat Ketentuan untuk alat PDF gratis Craftisle."
     }
   },
   "common": {

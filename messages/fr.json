@@ -32,6 +32,10 @@
       "convertPdf": "convertir PDF",
       "freePdfTools": "outils PDF gratuits",
       "onlinePdfEditor": "éditeur PDF en ligne"
+    },
+    "terms": {
+      "title": "Conditions d'utilisation",
+      "description": "Conditions d'utilisation pour les outils PDF gratuits de Craftisle."
     }
   },
   "common": {

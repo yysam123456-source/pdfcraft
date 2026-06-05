@@ -32,6 +32,10 @@
       "convertPdf": "convertire PDF",
       "freePdfTools": "strumenti PDF gratuiti",
       "onlinePdfEditor": "editor PDF online"
+    },
+    "terms": {
+      "title": "Termini di Servizio",
+      "description": "Termini di Servizio per gli strumenti PDF gratuiti di Craftisle."
     }
   },
   "common": {

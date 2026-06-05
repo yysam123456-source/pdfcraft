@@ -32,6 +32,10 @@
       "convertPdf": "PDF konvertieren",
       "freePdfTools": "kostenlose PDF-Werkzeuge",
       "onlinePdfEditor": "Online-PDF-Editor"
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "description": "Nutzungsbedingungen für Craftisle PDF kostenlose PDF-Tools."
     }
   },
   "common": {

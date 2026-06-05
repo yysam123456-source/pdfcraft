@@ -32,6 +32,10 @@
       "convertPdf": "chuyển đổi PDF",
       "freePdfTools": "công cụ PDF miễn phí",
       "onlinePdfEditor": "trình chỉnh sửa PDF trực tuyến"
+    },
+    "terms": {
+      "title": "Điều khoản Sử dụng",
+      "description": "Điều khoản Sử dụng cho công cụ PDF miễn phí của Craftisle."
     }
   },
   "common": {
