@@ -12,6 +12,7 @@ import { searchTools, SearchResult } from '@/lib/utils/search';
 import { getToolContent } from '@/config/tool-content';
 import { getAllTools } from '@/config/tools';
 import { ThemeToggle } from '@/components/ui/ThemeToggle';
+import { LanguageSelector } from '@/components/layout/LanguageSelector';
 
 export interface HeaderProps {
   locale: Locale;
@@ -316,8 +317,8 @@ export const Header: React.FC<HeaderProps> = ({ locale, showSearch = true }) => 
             {/* Theme Toggle */}
             <ThemeToggle />
 
-            {/* Language Selector placeholder */}
-            <div id="language-selector-slot" />
+            {/* Language Selector */}
+            <LanguageSelector currentLocale={locale} />
 
             {/* Mobile Menu Toggle */}
             <Button
