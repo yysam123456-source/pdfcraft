@@ -15,9 +15,7 @@ Ads are controlled by two environment variables:
 
 ## How to Enable/Disable Ads
 
-### Method 1: Edit `package.json` (Currently Used)
-
-The build command in `package.json` currently has `NEXT_PUBLIC_ADVER_ENABLE=true` hardcoded:
+The build command in `package.json` has `NEXT_PUBLIC_ADVER_ENABLE=true` hardcoded:
 
 ```json
 "build": "NEXT_PUBLIC_APP_URL=https://pdf.craftisle.com NEXT_PUBLIC_ADVER_ENABLE=true NODE_ENV=production next build"
@@ -32,21 +30,6 @@ The build command in `package.json` currently has `NEXT_PUBLIC_ADVER_ENABLE=true
 1. Open `package.json`
 2. Ensure `NEXT_PUBLIC_ADVER_ENABLE=true` is set
 3. Commit and push → Cloudflare Pages will auto-redeploy
-
----
-
-### Method 2: Cloudflare Pages Dashboard (Build Environment Variables)
-
-> ⚠️ **Note**: This method may not work reliably with static exports. Method 1 is recommended.
-
-1. Go to [Cloudflare Dashboard](https://dash.cloudflare.com)
-2. Navigate to **Pages** → **pdfcraft** → **Settings** → **Environment variables**
-3. Add/Edit variable:
-   - Name: `NEXT_PUBLIC_ADVER_ENABLE`
-   - Value: `true` or `false`
-   - Type: **Build environment variable** (NOT runtime)
-   - Environment: **Production**
-4. Click **Save** → **Deployments** → **Retry deployment**
 
 ---
 
