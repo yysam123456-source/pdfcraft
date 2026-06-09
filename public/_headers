@@ -12,8 +12,10 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   # Required for SharedArrayBuffer (LibreOffice WASM pthreads)
+  # NOTE: credentialless allows cross-origin resources without CORP headers
+  # (e.g., Monetag ads) while still enabling SharedArrayBuffer
   Cross-Origin-Opener-Policy: same-origin
-  Cross-Origin-Embedder-Policy: require-corp
+  Cross-Origin-Embedder-Policy: credentialless
   Cross-Origin-Resource-Policy: cross-origin
 
 # HTML pages - no cache, always revalidate
