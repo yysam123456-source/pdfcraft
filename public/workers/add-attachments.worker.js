@@ -82,6 +82,8 @@ function addAttachmentsToPDFInWorker(pdfBuffer, attachmentBuffers, attachmentNam
         const attachmentData = new Uint8Array(attachmentBuffers[i]);
         const attachmentName = attachmentNames[i];
 
+        console.log(`[Worker] Attaching file ${i + 1}/${attachmentBuffers.length}: ${attachmentName}, size: ${attachmentData.length} bytes`);
+
         if (attachmentLevel === 'document') {
           coherentpdf.attachFileFromMemory(attachmentData, attachmentName, pdf);
         } else {
@@ -89,8 +91,18 @@ function addAttachmentsToPDFInWorker(pdfBuffer, attachmentBuffers, attachmentNam
             coherentpdf.attachFileToPageFromMemory(attachmentData, attachmentName, pdf, pageNum);
           }
         }
+
+        // Verify attachment was added
+        try {
+          coherentpdf.startGetAttachments(pdf);
+          const attachmentCount = coherentpdf.numberGetAttachments();
+          console.log(`[Worker] Attachments in PDF after adding ${attachmentName}: ${attachmentCount}`);
+          coherentpdf.endGetAttachments();
+        } catch (verifyError) {
+          console.warn('[Worker] Failed to verify attachments:', verifyError);
+        }
       } catch (error) {
-        console.warn(`Failed to attach file ${attachmentNames[i]}:`, error);
+        console.error(`[Worker] Failed to attach file ${attachmentNames[i]}:`, error);
         self.postMessage({
           status: 'error',
           message: `Failed to attach file ${attachmentNames[i]}: ${error.message || error}`
