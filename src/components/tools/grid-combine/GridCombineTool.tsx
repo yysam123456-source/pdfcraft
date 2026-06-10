@@ -503,7 +503,7 @@ export function GridCombineTool({ className = '' }: GridCombineToolProps) {
                                         <option value="4x4">4×4 (16 {tTools('gridCombine.cells') || 'cells'})</option>
                                     </select>
 
-                                    {/* 布局可视化预览 - 带缩略图 */}
+                                    {/* Layout preview with thumbnails */}
                                     <div className="mt-3 p-3 bg-[hsl(var(--color-muted)/0.3)] rounded-[var(--radius-md)]">
                                         <p className="text-xs text-[hsl(var(--color-muted-foreground))] mb-2">
                                             {tTools('gridCombine.layoutPreview') || 'Layout Preview'}:

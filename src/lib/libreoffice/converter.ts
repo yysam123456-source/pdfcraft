@@ -222,6 +222,25 @@ export class LibreOfficeConverter {
                 fonts: [
                     { filename: 'NotoSansSC-Regular.ttf', data: fontArrayBuffer },
                 ],
+                // preRun: create /inst symlink BEFORE LibreOfficeKit initializes
+                // LibreOffice expects INSTDIR=/inst which must point to /instdir
+                // This is an Emscripten standard option, not in the type definitions
+                // preRun: [(module: any) => {
+                //     try {
+                //         const FS = module.FS;
+                //         if (!FS) return;
+                //         try { FS.lookupPath('/instdir'); } catch(e) {
+                //             console.warn('[LibreOffice] /instdir not found, skipping /inst symlink');
+                //             return;
+                //         }
+                //         try { FS.lookupPath('/inst'); } catch(e) {
+                //             FS.symlink('/instdir', '/inst');
+                //             console.log('[LibreOffice] Created /inst -> /instdir symlink');
+                //         }
+                //     } catch(e) {
+                //         console.error('[LibreOffice] preRun error:', e);
+                //     }
+                // }] as any,
                 onProgress: (info: { phase: string; percent: number; message: string }) => {
                     if (this.progressCallback && !this.initialized) {
                         this.progressCallback({

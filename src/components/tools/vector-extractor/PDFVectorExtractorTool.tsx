@@ -256,8 +256,8 @@ export function PDFVectorExtractorTool({ className = '' }: PDFVectorExtractorToo
           onFilesSelected={handleFileSelected}
           onError={setError}
           disabled={isProcessing || isLoadingMetadata}
-          label="上传需要提取矢量的 PDF 文件"
-          description="拖放带有徽标 Logo、插图、CAD 图表或复杂数学公式的 PDF。系统将把图层翻译为高保真 SVG 画布。"
+          label={tTools('vectorExtractor.uploadLabel')}
+          description={tTools('vectorExtractor.uploadDescription')}
         />
       )}
 
@@ -283,7 +283,7 @@ export function PDFVectorExtractorTool({ className = '' }: PDFVectorExtractorToo
               </p>
               <div className="flex items-center gap-4 mt-0.5">
                 <span className="text-xs text-[hsl(var(--color-muted-foreground))]">
-                  {totalPages > 0 ? `共 ${totalPages} 页` : '载入元数据中...'} • {(file.size / (1024 * 1024)).toFixed(2)} MB
+                  {totalPages > 0 ? tTools('vectorExtractor.fileInfo', { totalPages, size: (file.size / (1024 * 1024)).toFixed(2) }) : tTools('vectorExtractor.loading')}
                 </span>
                 
                 {/* Page Selector */}
@@ -296,7 +296,7 @@ export function PDFVectorExtractorTool({ className = '' }: PDFVectorExtractorToo
                     >
                       ◀
                     </button>
-                    <span className="text-[11px] font-bold">第 {targetPage} 页</span>
+                    <span className="text-[11px] font-bold">{tTools('vectorExtractor.pageNumber', { page: targetPage })}</span>
                     <button 
                       onClick={() => handlePageChange(targetPage + 1)}
                       disabled={targetPage >= totalPages}
@@ -326,7 +326,7 @@ export function PDFVectorExtractorTool({ className = '' }: PDFVectorExtractorToo
               <div className="flex items-center justify-between pb-3 border-b border-zinc-200 dark:border-zinc-800">
                 <span className="text-xs font-bold text-[hsl(var(--color-foreground))] flex items-center gap-1.5">
                   <Search className="w-4 h-4 text-zinc-400" />
-                  移动鼠标悬停以 3D 包围高亮元素，点击选择。
+                  {tTools('vectorExtractor.hoverHint')}
                 </span>
                 <span className="text-[10px] text-zinc-400">
                   {hoveredElementId ? `Hovered: ${hoveredElementId}` : 'Awaiting Selection'}
@@ -359,15 +359,15 @@ export function PDFVectorExtractorTool({ className = '' }: PDFVectorExtractorToo
                 <div className="border-b border-[hsl(var(--color-border))] pb-3">
                   <h3 className="text-base font-bold text-[hsl(var(--color-foreground))] flex items-center gap-2">
                     <Settings2 className="w-5 h-5 text-[hsl(var(--color-primary))]" />
-                    矢量元素属性
+                    {tTools('vectorExtractor.vectorProperties')}
                   </h3>
                 </div>
 
                 {!selectedElementHtml ? (
                   <div className="text-center p-6 text-[hsl(var(--color-muted-foreground))] space-y-2">
                     <Layers className="w-12 h-12 text-zinc-400 mx-auto opacity-50" />
-                    <h4 className="text-xs font-bold text-[hsl(var(--color-foreground))]">未选中任何元素</h4>
-                    <p className="text-[10px]">点击左侧画布上的任何矢量线条、文字或色块进行高保真单独提取。</p>
+                    <h4 className="text-xs font-bold text-[hsl(var(--color-foreground))]">{tTools('vectorExtractor.noElementSelected')}</h4>
+                    <p className="text-[10px]">{tTools('vectorExtractor.clickToSelect')}</p>
                   </div>
                 ) : (
                   <div className="space-y-5 animate-in fade-in zoom-in-95 duration-200">
@@ -384,7 +384,7 @@ export function PDFVectorExtractorTool({ className = '' }: PDFVectorExtractorToo
                     {/* Recolor panel */}
                     <div className="space-y-2">
                       <label className="text-[11px] font-bold text-[hsl(var(--color-muted-foreground))] flex items-center gap-1.5">
-                        <Palette className="w-4 h-4" /> 色彩预填充 (RGB)
+                        <Palette className="w-4 h-4" /> {tTools('vectorExtractor.colorPreview')}
                       </label>
                       <div className="flex items-center gap-3">
                         <input
@@ -408,7 +408,7 @@ export function PDFVectorExtractorTool({ className = '' }: PDFVectorExtractorToo
                         onClick={handleCopyCode}
                       >
                         {copied ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4" />}
-                        {copied ? '代码已复制' : '复制 SVG 源代码'}
+                        {copied ? tTools('vectorExtractor.codeCopied') : tTools('vectorExtractor.copyCode')}
                       </Button>
 
                       {/* Download element */}
@@ -419,7 +419,7 @@ export function PDFVectorExtractorTool({ className = '' }: PDFVectorExtractorToo
                         onClick={handleDownloadSelected}
                       >
                         <Download className="w-4 h-4" />
-                        下载选中矢量图
+                        {tTools('vectorExtractor.downloadSelected')}
                       </Button>
 
                     </div>

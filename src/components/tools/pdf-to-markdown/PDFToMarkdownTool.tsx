@@ -339,7 +339,7 @@ export function PDFToMarkdownTool({ className = '' }: PDFToMarkdownToolProps) {
                     <div className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-green-100 mb-4">
                         <CheckCircle2 className="w-6 h-6 text-green-600" />
                     </div>
-                    <h3 className="text-lg font-semibold mb-2">{tTools('successTitle') || 'Conversion Successful!'}</h3>
+                    <h3 className="text-lg font-semibold mb-2">{tTools('pdfToMarkdown.successTitle') || 'Conversion Successful!'}</h3>
                     <p className="text-green-800/80 max-w-md mx-auto">
                         {tTools('pdfToMarkdown.successMessage') || 'Your PDF has been converted to Markdown. You can now download the file.'}
                     </p>

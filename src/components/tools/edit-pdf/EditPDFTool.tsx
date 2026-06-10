@@ -56,6 +56,29 @@ export function EditPDFTool({ className = '' }: EditPDFToolProps) {
         if (iframe?.contentDocument) {
           const doc = iframe.contentDocument;
 
+          // Prepare i18n strings for iframe injection
+          const iframeI18n = {
+            save: tTools('saveButton'),
+            toolNames: {
+              cloud: tTools('toolCloud'),
+              rectangle: tTools('toolRectangle'),
+              circle: tTools('toolCircle'),
+              arrow: tTools('toolArrow'),
+              freehand: tTools('toolFreehand'),
+              freeText: tTools('toolFreeText'),
+              freeHighlight: tTools('toolFreeHighlight'),
+              note: tTools('toolNote'),
+              signature: tTools('toolSignature'),
+              stamp: tTools('toolStamp'),
+            },
+            annotation: tTools('annotationLabel'),
+            anonymousUser: tTools('anonymousUser'),
+            undo: tTools('undo'),
+            redo: tTools('redo'),
+            customStrokeColor: tTools('customStrokeColor'),
+            enableFillColor: tTools('enableFillColor'),
+          };
+
           // 1. Hide native PDF.js download/save buttons
           const downloadBtn = doc.getElementById('download');
           const secondaryDownloadBtn = doc.getElementById('secondaryDownload');
@@ -68,7 +91,7 @@ export function EditPDFTool({ className = '' }: EditPDFToolProps) {
             const buttons = customToolbar.querySelectorAll('li, button');
             buttons.forEach((btn: Element) => {
               const text = btn.textContent?.trim();
-              if (text === '保存' || text === 'Save') {
+              if (text === iframeI18n.save || text === 'Save') {
                 (btn as HTMLElement).style.display = 'none';
               }
             });
@@ -83,18 +106,7 @@ export function EditPDFTool({ className = '' }: EditPDFToolProps) {
               let lastStateStr = '';
               let isDoingUndoRedo = false;
 
-              const toolNameTranslations = {
-                'cloud': '云线',
-                'rectangle': '矩形',
-                'circle': '圆形',
-                'arrow': '箭头',
-                'freehand': '自由绘制',
-                'freeText': '文字',
-                'freeHighlight': '自由高亮',
-                'note': '注解',
-                'signature': '签名',
-                'stamp': '盖章'
-              };
+              const toolNameTranslations = iframeI18n.toolNames;
 
               const initInterval = setInterval(() => {
                 const ext = window.pdfjsAnnotationExtensionInstance;
@@ -334,7 +346,7 @@ export function EditPDFTool({ className = '' }: EditPDFToolProps) {
                 colorRow.style.cssText = 'display:flex; align-items:center; justify-content:space-between; gap:8px;';
                 
                 const colorLabel = document.createElement('span');
-                colorLabel.textContent = '自定义描边色:';
+                colorLabel.textContent = iframeI18n.customStrokeColor;
                 
                 const colorPicker = document.createElement('input');
                 colorPicker.type = 'color';
@@ -378,7 +390,7 @@ export function EditPDFTool({ className = '' }: EditPDFToolProps) {
                   
                   const fillLabel = document.createElement('label');
                   fillLabel.htmlFor = 'pdfcraft-fill-enabled';
-                  fillLabel.textContent = '启用填充色:';
+                  fillLabel.textContent = iframeI18n.enableFillColor;
                   fillLabel.style.cssText = 'cursor:pointer; user-select:none;';
 
                   leftPart.appendChild(fillCheckbox);
@@ -446,9 +458,9 @@ export function EditPDFTool({ className = '' }: EditPDFToolProps) {
                   let authorUpdated = false;
                   if (store && store.annotations) {
                     store.annotations.forEach(ann => {
-                      const transName = toolNameTranslations[ann.name] || '标注';
-                      const targetAuthor = transName + ' (不具名用户)';
-                      if (ann.author !== targetAuthor && ann.author === '不具名用户') {
+                      const transName = toolNameTranslations[ann.name] || iframeI18n.annotation;
+                      const targetAuthor = transName + ' (' + iframeI18n.anonymousUser + ')';
+                      if (ann.author !== targetAuthor && ann.author === iframeI18n.anonymousUser) {
                         ann.author = targetAuthor;
                         authorUpdated = true;
                       }
@@ -525,7 +537,7 @@ export function EditPDFTool({ className = '' }: EditPDFToolProps) {
 
                   const undoBtn = document.createElement('button');
                   undoBtn.type = 'button';
-                  undoBtn.innerHTML = '<span style="margin-right:2px; font-weight:bold;">↩</span>撤销';
+                  undoBtn.innerHTML = '<span style="margin-right:2px; font-weight:bold;">↩</span>' + iframeI18n.undo;
                   undoBtn.className = 'toolbarButton';
                   undoBtn.style.cssText = 'padding:4px 8px; font-size:12px; cursor:pointer; border-radius:4px; opacity:0.5; border:1px solid var(--toolbar-border-color, #ccc); background-color:var(--toolbar-bg-color, #f5f5f5); color:var(--toolbar-fg-color, #333); font-family:inherit;';
                   undoBtn.disabled = true;
@@ -538,7 +550,7 @@ export function EditPDFTool({ className = '' }: EditPDFToolProps) {
 
                   const redoBtn = document.createElement('button');
                   redoBtn.type = 'button';
-                  redoBtn.innerHTML = '<span style="margin-right:2px; font-weight:bold;">↪</span>重做';
+                  redoBtn.innerHTML = '<span style="margin-right:2px; font-weight:bold;">↪</span>' + iframeI18n.redo;
                   redoBtn.className = 'toolbarButton';
                   redoBtn.style.cssText = 'padding:4px 8px; font-size:12px; cursor:pointer; border-radius:4px; opacity:0.5; border:1px solid var(--toolbar-border-color, #ccc); background-color:var(--toolbar-bg-color, #f5f5f5); color:var(--toolbar-fg-color, #333); font-family:inherit;';
                   redoBtn.disabled = true;
