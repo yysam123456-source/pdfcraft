@@ -35,7 +35,7 @@
     }
   },
   "common": {
-    "brand": "PDFCraft",
+    "brand": "PDFクラフト",
     "tagline": "プロフェッショナルPDFツール - 無料＆プライベート",
     "navigation": {
       "home": "家",
@@ -821,7 +821,7 @@
       "dpi600": "600 DPI (Retina超高精度)",
       "tipTitle": "印刷・保存に関する注意事項:",
       "tipDesc": "マルチページTIFF文書は、PhotoshopやAcrobat内でスムーズにスクロールできますが、ラスタービットマップイメージのままです。テキストやベクター線を鮮明に保つには、少なくとも次の解像度を推奨します。",
-      "tipRecommend": "300 DPI",
+      "tipRecommend": "300DPI",
       "processButton": "マルチページTIFFパッケージングを実行",
       "successMessage": "🎉 単一ファイルのマルチページTIFFが正常にコンパイルされました！ダウンロード可能です。"
     },

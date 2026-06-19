@@ -35,7 +35,7 @@
     }
   },
   "common": {
-    "brand": "PDFCraft",
+    "brand": "PDF크래프트",
     "tagline": "전문 PDF 도구 - 무료 & 프라이빗",
     "navigation": {
       "home": "집",
@@ -821,7 +821,7 @@
       "dpi600": "600 DPI (레티나 초고화질)",
       "tipTitle": "인쇄 및 장기 보관용 참고 사항:",
       "tipDesc": "다중 페이지 TIFF 파일은 Photoshop이나 Acrobat에서 무리 없이 볼 수 있지만, 래스터화된 비트맵 형태입니다. 텍스트와 벡터 선 정보를 정교하게 유지하려면 최소 다음 설정을 권장합니다.",
-      "tipRecommend": "300 DPI",
+      "tipRecommend": "300DPI",
       "processButton": "다중 페이지 TIFF 생성 시작",
       "successMessage": "🎉 단일 파일 다중 페이지 TIFF 파일 빌드가 성공적으로 완료되었습니다! 다운로드할 수 있습니다."
     },
@@ -2650,8 +2650,8 @@
       "fieldProperties": "필드 속성",
       "fieldName": "이름",
       "fieldType": "필드 유형",
-      "fieldX": "X",
-      "fieldY": "Y",
+      "fieldX": "엑스",
+      "fieldY": "와이",
       "fieldWidth": "너비",
       "fieldHeight": "높이",
       "multiline": "여러 줄",

@@ -35,7 +35,7 @@
     }
   },
   "common": {
-    "brand": "PDFCraft",
+    "brand": "PDF工藝",
     "tagline": "專業PDF工具 - 免費且私密",
     "navigation": {
       "home": "首頁",
@@ -86,7 +86,7 @@
       "footer": "© 2025 PDFCraft. 保留所有權利。",
       "copyright": "© {year} PDFCraft. 保留所有權利。",
       "privacyBadge": "100% 私密 - 檔案永不離開您的裝置",
-      "madeWith": "Made with <Heart /> and <Nextjs />"
+      "madeWith": "使用 <Heart /> 和 <Nextjs /> 製作"
     },
     "recentFiles": {
       "title": "最近檔案",
@@ -139,10 +139,10 @@
       "noResults": "未找到工具"
     },
     "fileUploader": {
-      "dragDrop": "Drag and drop files here, or click to browse",
-      "dropToUpload": "Drop files to upload",
-      "support": "Support",
-      "paste": "Paste (Ctrl+V)",
+      "dragDrop": "將文件拖放到此處，或按一下瀏覽",
+      "dropToUpload": "刪除要上傳的文件",
+      "support": "支援",
+      "paste": "貼（Ctrl+V）",
       "encryptedTitle": "此文檔已加密",
       "enterPasswordHelp": "请输入密碼以解锁并载入：<br/>",
       "passwordPlaceholder": "请输入文檔密碼",
@@ -821,7 +821,7 @@
       "dpi600": "600 DPI (视网膜超清)",
       "tipTitle": "印刷与存档提示：",
       "tipDesc": "多页 TIFF (Multi-page TIFF) 在导入 Acrobat 或 Photoshop 时，可像 PDF 一样顺畅地进行页面上下滚动，但其完全由光栅位图构成。对图表和文字，我们极力推荐使用",
-      "tipRecommend": "300 DPI",
+      "tipRecommend": "300 分辨率",
       "processButton": "开始编译并生成多页 TIFF",
       "successMessage": "🎉 单文件多页 TIFF 编译成功！所有页面已合并就位。一鍵极速下载。"
     },
@@ -1089,7 +1089,7 @@
       "email": {
         "title": "電子郵件",
         "description": "傳送電子郵件給我們，我們將在 24-48 小時內回覆。",
-        "action": "contact@pdfcraft.app"
+        "action": "聯絡@pdfcraft.app"
       },
       "github": {
         "title": "GitHub",
@@ -1117,7 +1117,7 @@
         },
         "email": {
           "label": "電子郵件",
-          "placeholder": "your@email.com"
+          "placeholder": "你的@email.com"
         },
         "subject": {
           "label": "主題",
@@ -1148,7 +1148,7 @@
     }
   },
   "errors": {
-    "pageError": "Something went wrong",
+    "pageError": "出了點問題",
     "pageErrorDescription": "An unexpected error occurred. Please try again.",
     "tryAgain": "Try again",
     "goHome": "Go home",
@@ -2748,15 +2748,15 @@
       "optionsTitle": "檢測選項",
       "removeButton": "移除空白頁",
       "successMessage": "空白頁移除成功！",
-      "analyzingPages": "Reading pages and computing information entropy...",
-      "sensitivity": "Sensitivity Threshold (0-100)",
-      "sensitivityHint": "Higher sensitivity is more lenient, making pages with slight scanning noise/watermarks easily marked as blank. Recommended blank pages are greyed out with a red diagonal bar. Click cards directly to override: force keep or force delete.",
-      "autoBlank": "Detected Blank",
-      "manualKeep": "Forced Keep",
-      "manualRemove": "Forced Delete",
-      "entropy": "Entropy",
+      "analyzingPages": "閱讀頁面併計算資訊熵...",
+      "sensitivity": "靈敏度閾值（0-100）",
+      "sensitivityHint": "較高的靈敏度更寬鬆，使得帶有輕微掃描噪音/水印的頁面很容易被標記為空白。建議的空白頁顯示為灰色，並帶有紅色對角線。直接點擊卡片即可覆蓋：強制保留或強制刪除。",
+      "autoBlank": "偵測到空白",
+      "manualKeep": "強制保留",
+      "manualRemove": "強制刪除",
+      "entropy": "熵",
       "page": "第 {number} 頁",
-      "noBlankPages": "No blank pages found."
+      "noBlankPages": "未找到空白頁。"
     },
     "tableOfContents": {
       "uploadLabel": "上傳 PDF 文件",
@@ -2796,8 +2796,8 @@
       "uploadLabel": "上傳 PDF 文件",
       "uploadDescription": "拖放 PDF 文件到此處，或點擊瀏覽。",
       "optionsTitle": "轉換選項",
-      "preserveFormatting": "Preserve formatting",
-      "extractImages": "Extract images",
+      "preserveFormatting": "保留格式",
+      "extractImages": "擷取影像",
       "convertButton": "轉換為 DOCX",
       "successMessage": "您的 PDF 已成功轉換為 DOCX！請點擊下載按鈕保存文件。"
     },
@@ -2820,7 +2820,7 @@
       "uploadLabel": "上傳 PDF 文件",
       "uploadDescription": "拖放 PDF 文件到此處，或點擊瀏覽。",
       "optionsTitle": "轉換選項",
-      "detectTables": "Auto-detect tables",
+      "detectTables": "自動檢測表",
       "extractNote": "每一頁的表格都將提取到 Excel 文件中的獨立工作表中。",
       "convertButton": "轉換為 Excel",
       "successTitle": "轉換成功！",
@@ -2929,7 +2929,7 @@
       "orientationLabel": "方向",
       "rotationLabel": "頁面旋轉",
       "paddingLabel": "邊距",
-      "bindingEdge": "Binding Edge",
+      "bindingEdge": "裝訂邊",
       "bindingLeft": "左側",
       "bindingRight": "右側",
       "previewLabel": "版面預覽",
@@ -2956,7 +2956,7 @@
       "optionsTitle": "轉換選項",
       "pageSizeLabel": "頁面大小",
       "includeCcBccLabel": "包含副本/密件副本欄位",
-      "embedAttachments": "Embed attachments in PDF",
+      "embedAttachments": "在 PDF 中嵌入附件",
       "includeAttachmentsLabel": "包含附件清單",
       "timezoneLabel": "時區",
       "convertButton": "轉換為 PDF",
@@ -2990,7 +2990,7 @@
       "filesTitle": "檔案",
       "optionsTitle": "選項",
       "dpiLabel": "點陣化 DPI",
-      "preserveSelectableText": "Preserve selectable text",
+      "preserveSelectableText": "保留可選擇的文本",
       "pageRange": "頁面範圍",
       "convertButton": "將字體轉換為輪廓",
       "downloadAllZip": "全部下載為 ZIP",
@@ -3107,74 +3107,74 @@
       "signCoordinates": "盖印坐标"
     },
     "passportIdComposer": {
-      "uploadLabel": "Upload ID Images",
-      "uploadDescription": "Drag & drop both front and back sides of passport/ID cards to compose A4 copy.",
-      "optionsTitle": "ID Imposition Options",
-      "processButton": "Compose A4 Layout",
-      "successMessage": "Passport/ID composed successfully!"
+      "uploadLabel": "上傳證件照",
+      "uploadDescription": "拖放護照/身分證的正面和背面以撰寫 A4 副本。",
+      "optionsTitle": "ID 拼版選項",
+      "processButton": "撰寫 A4 版面",
+      "successMessage": "護照/身分證填寫成功！"
     },
     "annotationExporter": {
-      "uploadLabel": "Upload Annotated PDF",
-      "uploadDescription": "Drag & drop PDF here to extract highlights, comments, and outline notebook.",
-      "optionsTitle": "Annotation Extraction Options",
-      "processButton": "Extract Notebook",
-      "successMessage": "PDF annotations extracted successfully!"
+      "uploadLabel": "上傳帶註釋的 PDF",
+      "uploadDescription": "將 PDF 拖曳到此處以提取突出顯示、註釋和大綱筆記本。",
+      "optionsTitle": "註釋擷取選項",
+      "processButton": "提取筆記本",
+      "successMessage": "PDF註釋擷取成功！"
     },
     "batchWatermarkRemover": {
-      "uploadLabel": "Upload Watermarked PDF",
-      "uploadDescription": "Drag & drop PDF here to physically purge background watermarks.",
-      "optionsTitle": "Watermark Removal Options",
-      "processButton": "Purge Watermarks",
-      "successMessage": "Watermarks physically purged successfully!"
+      "uploadLabel": "上傳浮水印的 PDF",
+      "uploadDescription": "將 PDF 拖曳到此處可實際清除背景浮水印。",
+      "optionsTitle": "浮水印刪除選項",
+      "processButton": "清除浮水印",
+      "successMessage": "水印物理清除成功！"
     },
     "smartDataRedactor": {
-      "uploadLabel": "Upload PDF to Redact",
-      "uploadDescription": "Drag & drop PDF here to automatically scan & redact privacy data.",
-      "optionsTitle": "Smart Redaction Rules",
-      "processButton": "Redact Sensitive Data",
-      "successMessage": "PDF privacy data redacted successfully!"
+      "uploadLabel": "上傳 PDF 至密文",
+      "uploadDescription": "將 PDF 拖曳到此處可自動掃描和編輯隱私資料。",
+      "optionsTitle": "智能密文規則",
+      "processButton": "編輯敏感數據",
+      "successMessage": "PDF 隱私資料已成功編輯！"
     },
     "bookmarksAutoGenerator": {
       "uploadLabel": "上傳 PDF",
-      "uploadDescription": "Drag & drop PDF here to auto generate bookmarks from structure.",
-      "optionsTitle": "Bookmarks Generation Options",
-      "processButton": "Deduce & Inject Bookmarks",
-      "successMessage": "Bookmarks successfully injected into PDF Outline structure!"
+      "uploadDescription": "將 PDF 拖曳到此處可從結構自動產生書籤。",
+      "optionsTitle": "書籤生成選項",
+      "processButton": "推斷和注入書籤",
+      "successMessage": "書籤已成功注入 PDF Outline 結構！"
     },
     "batchBarcodeInjector": {
       "uploadLabel": "上傳 PDF",
-      "uploadDescription": "Drag & drop PDF here to batch stamp QR / Barcodes.",
-      "optionsTitle": "Barcode Precision Stamp Options",
-      "processButton": "Batch Inject Barcodes",
-      "successMessage": "Asset barcodes/QR injected successfully!"
+      "uploadDescription": "將 PDF 拖曳到此處可批次標記 QR/條碼。",
+      "optionsTitle": "條碼精密印章選項",
+      "processButton": "大量注入條碼",
+      "successMessage": "資產條碼/二維碼注入成功！"
     },
     "signatureInkOptimizer": {
-      "uploadLabel": "Upload Signature/Seal Photo",
-      "uploadDescription": "Drag & drop signature photos to extract transparent PNG ink layer.",
-      "optionsTitle": "Ink Purifier Settings",
-      "processButton": "Purify Ink Signatures",
-      "successMessage": "Handwritten signature/stamp background filtered successfully!"
+      "uploadLabel": "上傳簽名/蓋章照片",
+      "uploadDescription": "拖放簽名照片以提取透明 PNG 墨水層。",
+      "optionsTitle": "墨水淨化器設置",
+      "processButton": "淨化墨水簽名",
+      "successMessage": "手寫簽名/蓋章背景過濾成功！"
     },
     "deadLinkDebugger": {
-      "uploadLabel": "Upload PDF to Debug",
-      "uploadDescription": "Drag & drop PDF here to probe interactive hyperlinks.",
-      "optionsTitle": "Hyperlink Probing & Redirect Settings",
-      "processButton": "Probes Hyperlinks",
-      "successMessage": "Hyperlinks verified and fixed successfully!"
+      "uploadLabel": "上傳 PDF 進行調試",
+      "uploadDescription": "將 PDF 拖放到此處以探測互動式超連結。",
+      "optionsTitle": "超連結探測和重定向設置",
+      "processButton": "探針超連結",
+      "successMessage": "超連結已驗證並成功修復！"
     },
     "interactiveTocGenerator": {
       "uploadLabel": "上傳 PDF",
-      "uploadDescription": "Drag & drop PDF here to auto compile interactive Table of Contents.",
-      "optionsTitle": "TOC Index Insertion Options",
-      "processButton": "Generate Interactive TOC",
-      "successMessage": "Interactive TOC page & bidirectional anchors woven successfully!"
+      "uploadDescription": "將 PDF 拖曳到此處可自動編譯互動式目錄。",
+      "optionsTitle": "TOC 索引插入選項",
+      "processButton": "產生互動式目錄",
+      "successMessage": "互動式TOC頁面和雙向錨點編織成功！"
     },
     "globalInvoiceParser": {
-      "uploadLabel": "Upload Foreign Invoice PDF",
-      "uploadDescription": "Drag & drop invoice PDF here to automatically apply exchange ledger.",
-      "optionsTitle": "Exchange Rates Options",
-      "processButton": "Translate & Convert Invoice",
-      "successMessage": "Foreign invoice translated and local conversion ledger stamped successfully!"
+      "uploadLabel": "上傳國外發票 PDF",
+      "uploadDescription": "將發票 PDF 拖曳到此處以自動套用交換分類帳。",
+      "optionsTitle": "匯率選項",
+      "processButton": "翻譯和轉換發票",
+      "successMessage": "國外發票翻譯和本地轉換分類帳蓋章成功！"
     }
   }
 }

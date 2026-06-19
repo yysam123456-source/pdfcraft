@@ -35,7 +35,7 @@
     }
   },
   "common": {
-    "brand": "PDFCraft",
+    "brand": "PDF工艺",
     "tagline": "专业PDF工具 - 免费且私密",
     "navigation": {
       "home": "首页",
@@ -86,7 +86,7 @@
       "footer": "© 2025 PDFCraft. 保留所有权利。",
       "copyright": "© {year} PDFCraft. 保留所有权利。",
       "privacyBadge": "100% 私密 - 文件永不离开您的设备",
-      "madeWith": "Made with <Heart /> and <Nextjs />"
+      "madeWith": "使用 <Heart /> 和 <Nextjs /> 制作"
     },
     "recentFiles": {
       "title": "最近文件",
@@ -139,10 +139,10 @@
       "noResults": "未找到工具"
     },
     "fileUploader": {
-      "dragDrop": "Drag and drop files here, or click to browse",
-      "dropToUpload": "Drop files to upload",
-      "support": "Support",
-      "paste": "Paste (Ctrl+V)",
+      "dragDrop": "将文件拖放到此处，或单击浏览",
+      "dropToUpload": "删除要上传的文件",
+      "support": "支持",
+      "paste": "粘贴（Ctrl+V）",
       "encryptedTitle": "此文档已加密",
       "enterPasswordHelp": "请输入密码以解锁并载入：<br/>",
       "passwordPlaceholder": "请输入文档密码",
@@ -821,7 +821,7 @@
       "dpi600": "600 DPI (视网膜超清)",
       "tipTitle": "印刷与存档提示：",
       "tipDesc": "多页 TIFF (Multi-page TIFF) 在导入 Acrobat 或 Photoshop 时，可像 PDF 一样顺畅地进行页面上下滚动，但其完全由光栅位图构成。对图表和文字，我们极力推荐使用",
-      "tipRecommend": "300 DPI",
+      "tipRecommend": "300 分辨率",
       "processButton": "开始编译并生成多页 TIFF",
       "successMessage": "🎉 单文件多页 TIFF 编译成功！所有页面已合并就位。一键极速下载。"
     },
@@ -1089,7 +1089,7 @@
       "email": {
         "title": "电子邮件",
         "description": "发送电子邮件给我们，我们将在 24-48 小时内回复。",
-        "action": "contact@pdfcraft.app"
+        "action": "联系@pdfcraft.app"
       },
       "github": {
         "title": "GitHub",
@@ -1117,7 +1117,7 @@
         },
         "email": {
           "label": "电子邮件",
-          "placeholder": "your@email.com"
+          "placeholder": "你的@email.com"
         },
         "subject": {
           "label": "主题",
@@ -1148,10 +1148,10 @@
     }
   },
   "errors": {
-    "pageError": "Something went wrong",
-    "pageErrorDescription": "An unexpected error occurred. Please try again.",
-    "tryAgain": "Try again",
-    "goHome": "Go home",
+    "pageError": "出了点问题",
+    "pageErrorDescription": "发生意外错误。",
+    "tryAgain": "再试一次",
+    "goHome": "回家吧",
     "fileTooLarge": "文件太大。最大大小为{maxSize}MB。",
     "fileTypeInvalid": "无效的文件类型。请上传{acceptedTypes}文件。",
     "fileCorrupted": "文件似乎已损坏或无法读取。",
@@ -1540,10 +1540,10 @@
       "bookmarksNotice": "注意：按书签拆分需要PDF中存在书签。如果未找到书签，将返回整个PDF作为单个文件。",
       "splitCountLabel": "拆分份数",
       "splitCountHint": "拆分为 {count} 等份（每份约 {pages} 页）",
-      "pagesPerFile": "Pages Per File",
-      "pageRanges": "Page Ranges",
-      "pageRangesPlaceholder": "e.g., 1-3, 5, 7-9",
-      "modeEveryNPages": "Every N Pages",
+      "pagesPerFile": "每个文件的页数",
+      "pageRanges": "页面范围",
+      "pageRangesPlaceholder": "例如，1-3、5、7-9",
+      "modeEveryNPages": "每 N 页",
       "pagePreviewTitle": "选择页面",
       "splitButton": "拆分PDF",
       "resultsTitle": "拆分结果",
@@ -2115,11 +2115,11 @@
       "totalSize": "总大小",
       "optionsTitle": "ZIP选项",
       "compressionLevel": "压缩级别",
-      "filename": "Output Filename",
-      "filenamePlaceholder": "e.g., pdfs.zip",
-      "compressionFast": "Fast (low compression)",
-      "compressionNormal": "Normal (balanced)",
-      "compressionMax": "Maximum (smallest file)",
+      "filename": "输出文件名",
+      "filenamePlaceholder": "例如，pdfs.zip",
+      "compressionFast": "快速（低压缩）",
+      "compressionNormal": "正常（平衡）",
+      "compressionMax": "最大（最小文件）",
       "noCompression": "不压缩（最快）",
       "lowCompression": "低压缩（快速）",
       "mediumCompression": "中等压缩（平衡）",
@@ -2796,8 +2796,8 @@
       "uploadLabel": "上传PDF文件",
       "uploadDescription": "拖放PDF文件到此处，或点击浏览。",
       "optionsTitle": "转换参数设置",
-      "preserveFormatting": "Preserve formatting",
-      "extractImages": "Extract images",
+      "preserveFormatting": "保留格式",
+      "extractImages": "提取图像",
       "convertButton": "转换为DOCX",
       "successMessage": "您的PDF已成功转换为DOCX！点击下载按钮保存文件。"
     },
@@ -2820,7 +2820,7 @@
       "uploadLabel": "上传 PDF 文件",
       "uploadDescription": "拖放 PDF 文件到这里，或点击浏览选择文件。",
       "optionsTitle": "转换参数设置",
-      "detectTables": "Auto-detect tables",
+      "detectTables": "自动检测表",
       "extractNote": "每一页的表格都将提取到 Excel 文件中的独立工作表中。",
       "convertButton": "转换为 Excel",
       "successTitle": "转换成功！",
@@ -2929,7 +2929,7 @@
       "orientationLabel": "方向",
       "rotationLabel": "页面旋转",
       "paddingLabel": "边距",
-      "bindingEdge": "Binding Edge",
+      "bindingEdge": "装订边",
       "bindingLeft": "左侧",
       "bindingRight": "右侧",
       "previewLabel": "布局预览",
@@ -2956,7 +2956,7 @@
       "optionsTitle": "转换选项",
       "pageSizeLabel": "页面大小",
       "includeCcBccLabel": "包含抄送/密送字段",
-      "embedAttachments": "Embed attachments in PDF",
+      "embedAttachments": "在 PDF 中嵌入附件",
       "includeAttachmentsLabel": "包含附件列表",
       "timezoneLabel": "时区",
       "convertButton": "转换为PDF",
@@ -2990,7 +2990,7 @@
       "filesTitle": "文件",
       "optionsTitle": "选项",
       "dpiLabel": "光栅化DPI",
-      "preserveSelectableText": "Preserve selectable text",
+      "preserveSelectableText": "保留可选择的文本",
       "pageRange": "页面范围",
       "convertButton": "将字体转换为轮廓",
       "downloadAllZip": "全部下载为ZIP",
