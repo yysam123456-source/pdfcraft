@@ -29,19 +29,14 @@ export const toolContentRo: Record<string, ToolContent> = {
       'pdf multi tool wasm',
       'pdf partea client cu instrumente multiple',
       'Instrument multiplu pdf fără încărcare',
-      'pdf multi tool instant',
-      'pdf multi tool high quality',
-      'pdf multi tool no limit',
+      'pdf instrument multiplu instant',
+      'Instrument multiplu pdf de înaltă calitate',
+      'Instrument multiplu pdf fără limită',
       'pdf multi tool 2025',
       'Ghid pentru instrumente multiple pdf',
       'tutorial cu instrumente multiple pdf',
     ],
-    description: `
-      <p>Pdf Multi Tool free online with our powerful browser-based tool. Whether you need to pdf multi tool for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf multi tool no registration required, with no watermarks added. How to pdf multi tool for free? Use our online tool—no software needed.</p>
-            <p>Pdf Multi Tool has never been easier. Get started now with the best free pdf multi tool tool online.</p>
-    `,
+    description: `<p>Pdf Multi Tool gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți pdf instrument multiplu fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit cu instrumente multiple pdf vă oferă control deplin.' },
@@ -95,7 +90,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'unire ghid pdf',
       'unire pdf tutorial',
     ],
-    description: `<p>Îmbinați PDF gratuit online cu instrumentul nostru puternic de fuziune PDF. `,
+    description: `<p>Îmbinați PDF gratuit online cu instrumentul nostru puternic de fuziune PDF.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți îmbina pdf fără înregistrare, fără înregistrare necesară.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de îmbinare pdf vă oferă control deplin.' },
@@ -149,7 +144,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid pdf împărțit',
       'tutorial pdf împărțit',
     ],
-    description: `<p>Divizați PDF gratuit online cu instrumentul nostru avansat de separare a PDF-urilor. `,
+    description: `<p>Divizați PDF gratuit online cu instrumentul nostru avansat de separare a PDF-urilor.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți împărți pdf-ul fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf împărțit vă oferă control deplin.' },
@@ -203,7 +198,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid comprimat pdf',
       'Tutorial comprimat pdf',
     ],
-    description: `<p>Comprimați PDF gratuit online cu instrumentul nostru avansat de compresie PDF. `,
+    description: `<p>Comprimați PDF gratuit online cu instrumentul nostru avansat de compresie PDF.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți comprima pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de comprimare pdf vă oferă control deplin.' },
@@ -257,12 +252,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid pdf to word',
       'tutorial pdf to word',
     ],
-    description: `
-      <p>Pdf To Word free online with our powerful browser-based tool. Whether you need to pdf to word for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to word no registration required, with no watermarks added. How to pdf to word for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Word has never been easier. Get started now with the best free pdf to word tool online.</p>
-    `,
+    description: `<p>Pdf To Word gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți pdf to word fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf în word vă oferă control deplin.' },
@@ -316,12 +306,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf în jpg',
       'tutorial pdf în jpg',
     ],
-    description: `
-      <p>Pdf To Jpg free online with our powerful browser-based tool. Whether you need to pdf to jpg for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to jpg no registration required, with no watermarks added. How to pdf to jpg for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Jpg has never been easier. Get started now with the best free pdf to jpg tool online.</p>
-    `,
+    description: `<p>Pdf To Jpg online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să pdf în jpg fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf în jpg vă oferă control deplin.' },
@@ -375,12 +360,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf pentru excel',
       'tutorial pdf la excel',
     ],
-    description: `
-      <p>Pdf To Excel free online with our powerful browser-based tool. Whether you need to pdf to excel for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to excel no registration required, with no watermarks added. How to pdf to excel for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Excel has never been easier. Get started now with the best free pdf to excel tool online.</p>
-    `,
+    description: `<p>Pdf To Excel gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți pdf pentru a excela fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf to excel vă oferă control deplin.' },
@@ -434,12 +414,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf către powerpoint',
       'tutorial pdf la powerpoint',
     ],
-    description: `
-      <p>Pdf To Powerpoint free online with our powerful browser-based tool. Whether you need to pdf to powerpoint for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to powerpoint no registration required, with no watermarks added. How to pdf to powerpoint for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Powerpoint has never been easier. Get started now with the best free pdf to powerpoint tool online.</p>
-    `,
+    description: `<p>Pdf To Powerpoint gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să pdf în PowerPoint fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf to powerpoint vă oferă control deplin.' },
@@ -493,12 +468,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf în text',
       'tutorial pdf în text',
     ],
-    description: `
-      <p>Pdf To Text free online with our powerful browser-based tool. Whether you need to pdf to text for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to text no registration required, with no watermarks added. How to pdf to text for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Text has never been easier. Get started now with the best free pdf to text tool online.</p>
-    `,
+    description: `<p>Pdf To Text gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să trimiteți text pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf în text vă oferă control deplin.' },
@@ -552,12 +522,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid word în pdf',
       'tutorial word în pdf',
     ],
-    description: `
-      <p>Word To Pdf free online with our powerful browser-based tool. Whether you need to word to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can word to pdf no registration required, with no watermarks added. How to word to pdf for free? Use our online tool—no software needed.</p>
-            <p>Word To Pdf has never been easier. Get started now with the best free word to pdf tool online.</p>
-    `,
+    description: `<p>Word To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să vă înregistrați în format pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit word to pdf vă oferă control deplin.' },
@@ -611,12 +576,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid jpg în pdf',
       'tutorial jpg în pdf',
     ],
-    description: `
-      <p>Jpg To Pdf free online with our powerful browser-based tool. Whether you need to jpg to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can jpg to pdf no registration required, with no watermarks added. How to jpg to pdf for free? Use our online tool—no software needed.</p>
-            <p>Jpg To Pdf has never been easier. Get started now with the best free jpg to pdf tool online.</p>
-    `,
+    description: `<p>Jpg To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să jpg în pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit jpg în pdf vă oferă control deplin.' },
@@ -670,12 +630,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid excel la pdf',
       'tutorial excel la pdf',
     ],
-    description: `
-      <p>Excel To Pdf free online with our powerful browser-based tool. Whether you need to excel to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can excel to pdf no registration required, with no watermarks added. How to excel to pdf for free? Use our online tool—no software needed.</p>
-            <p>Excel To Pdf has never been easier. Get started now with the best free excel to pdf tool online.</p>
-    `,
+    description: `<p>Excel To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să excelați în pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit Excel în pdf vă oferă control deplin.' },
@@ -729,12 +684,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid powerpoint în pdf',
       'tutorial powerpoint în pdf',
     ],
-    description: `
-      <p>Powerpoint To Pdf free online with our powerful browser-based tool. Whether you need to powerpoint to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can powerpoint to pdf no registration required, with no watermarks added. How to powerpoint to pdf for free? Use our online tool—no software needed.</p>
-            <p>Powerpoint To Pdf has never been easier. Get started now with the best free powerpoint to pdf tool online.</p>
-    `,
+    description: `<p>Powerpoint To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să faceți powerpoint în pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de la PowerPoint la pdf vă oferă control deplin.' },
@@ -788,12 +738,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'text to pdf guide',
       'tutorial text în pdf',
     ],
-    description: `
-      <p>Text To Pdf free online with our powerful browser-based tool. Whether you need to text to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can text to pdf no registration required, with no watermarks added. How to text to pdf for free? Use our online tool—no software needed.</p>
-            <p>Text To Pdf has never been easier. Get started now with the best free text to pdf tool online.</p>
-    `,
+    description: `<p>Text To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți trimite mesaje în format pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit text în pdf vă oferă control deplin.' },
@@ -847,12 +792,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid html în pdf',
       'tutorial html în pdf',
     ],
-    description: `
-      <p>Html To Pdf free online with our powerful browser-based tool. Whether you need to html to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can html to pdf no registration required, with no watermarks added. How to html to pdf for free? Use our online tool—no software needed.</p>
-            <p>Html To Pdf has never been easier. Get started now with the best free html to pdf tool online.</p>
-    `,
+    description: `<p>Html To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să html în pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit html în pdf vă oferă control deplin.' },
@@ -906,12 +846,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'rotiți ghidul pdf',
       'Rotiți tutorial pdf',
     ],
-    description: `
-      <p>Rotate Pdf free online with our powerful browser-based tool. Whether you need to rotate pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can rotate pdf no registration required, with no watermarks added. How to rotate pdf for free? Use our online tool—no software needed.</p>
-            <p>Rotate Pdf has never been easier. Get started now with the best free rotate pdf tool online.</p>
-    `,
+    description: `<p>Rotiți PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți roti fișierul pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de rotire pdf vă oferă control deplin.' },
@@ -965,12 +900,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'debloca ghidul pdf',
       'tutorial de deblocare pdf',
     ],
-    description: `
-      <p>Unlock Pdf free online with our powerful browser-based tool. Whether you need to unlock pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can unlock pdf no registration required, with no watermarks added. How to unlock pdf for free? Use our online tool—no software needed.</p>
-            <p>Unlock Pdf has never been easier. Get started now with the best free unlock pdf tool online.</p>
-    `,
+    description: `<p>Deblocați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți debloca fișierul pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de deblocare pdf vă oferă control deplin.' },
@@ -1024,12 +954,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'protect pdf guide',
       'Protect pdf tutorial',
     ],
-    description: `
-      <p>Protect Pdf free online with our powerful browser-based tool. Whether you need to protect pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can protect pdf no registration required, with no watermarks added. How to protect pdf for free? Use our online tool—no software needed.</p>
-            <p>Protect Pdf has never been easier. Get started now with the best free protect pdf tool online.</p>
-    `,
+    description: `<p>Protejați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți proteja pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de protecție pdf vă oferă control deplin.' },
@@ -1083,12 +1008,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'adăugați ghid de filigran',
       'adăugați tutorial de filigran',
     ],
-    description: `
-      <p>Add Watermark free online with our powerful browser-based tool. Whether you need to add watermark for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can add watermark no registration required, with no watermarks added. How to add watermark for free? Use our online tool—no software needed.</p>
-            <p>Add Watermark has never been easier. Get started now with the best free add watermark tool online.</p>
-    `,
+    description: `<p>Adăugați Watermark gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți adăuga filigran fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de adăugare a filigranului vă oferă control deplin.' },
@@ -1142,12 +1062,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'eliminați ghidajul filigranului',
       'eliminarea filigranului tutorial',
     ],
-    description: `
-      <p>Remove Watermark free online with our powerful browser-based tool. Whether you need to remove watermark for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can remove watermark no registration required, with no watermarks added. How to remove watermark for free? Use our online tool—no software needed.</p>
-            <p>Remove Watermark has never been easier. Get started now with the best free remove watermark tool online.</p>
-    `,
+    description: `<p>Eliminați Watermark gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți elimina filigranul fără înregistrare, fără a fi necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pentru eliminarea filigranului vă oferă control deplin.' },
@@ -1201,12 +1116,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pentru adăugarea numerelor de pagină',
       'tutorial pentru adăugarea numerelor de pagină',
     ],
-    description: `
-      <p>Add Page Numbers free online with our powerful browser-based tool. Whether you need to add page numbers for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can add page numbers no registration required, with no watermarks added. How to add page numbers for free? Use our online tool—no software needed.</p>
-            <p>Add Page Numbers has never been easier. Get started now with the best free add page numbers tool online.</p>
-    `,
+    description: `<p>Adăugați gratuit numere de pagină online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți adăuga numere de pagină fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pentru adăugarea numerelor de pagină vă oferă control deplin.' },
@@ -1260,7 +1170,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'eliminați ghidul de pagini',
       'tutorial pentru eliminarea paginilor',
     ],
-    description: `<p>Eliminați pagini online gratuit cu instrumentul nostru avansat de separare a PDF-urilor. `,
+    description: `<p>Eliminați pagini online gratuite cu instrumentul nostru avansat de separare a PDF-urilor.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți elimina pagini fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de eliminare a paginilor vă oferă control deplin.' },
@@ -1314,7 +1224,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'extrage ghidul paginilor',
       'tutorial de extragere a paginilor',
     ],
-    description: `<p>Extrage gratuit pagini online cu instrumentul nostru avansat de separare PDF. `,
+    description: `<p>Extrage gratuit pagini online cu instrumentul nostru avansat de separare PDF.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți extrage pagini fără înregistrare, fără înregistrare necesară.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de extragere a paginilor vă oferă control deplin.' },
@@ -1368,12 +1278,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'reorganize pdf guide',
       'reorganize pdf tutorial',
     ],
-    description: `
-      <p>Reorganize Pdf free online with our powerful browser-based tool. Whether you need to reorganize pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can reorganize pdf no registration required, with no watermarks added. How to reorganize pdf for free? Use our online tool—no software needed.</p>
-            <p>Reorganize Pdf has never been easier. Get started now with the best free reorganize pdf tool online.</p>
-    `,
+    description: `<p>Reorganizați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți reorganiza pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de reorganizare pdf vă oferă control deplin.' },
@@ -1427,12 +1332,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'introduceți ghidul pdf',
       'inserați tutorial pdf',
     ],
-    description: `
-      <p>Insert Pdf free online with our powerful browser-based tool. Whether you need to insert pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can insert pdf no registration required, with no watermarks added. How to insert pdf for free? Use our online tool—no software needed.</p>
-            <p>Insert Pdf has never been easier. Get started now with the best free insert pdf tool online.</p>
-    `,
+    description: `<p>Inserați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți introduce pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de inserare pdf vă oferă control deplin.' },
@@ -1486,12 +1386,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'înlocuiți ghidul pdf',
       'inlocuieste tutorialul pdf',
     ],
-    description: `
-      <p>Replace Pdf free online with our powerful browser-based tool. Whether you need to replace pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can replace pdf no registration required, with no watermarks added. How to replace pdf for free? Use our online tool—no software needed.</p>
-            <p>Replace Pdf has never been easier. Get started now with the best free replace pdf tool online.</p>
-    `,
+    description: `<p>Înlocuiți PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți înlocui pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de înlocuire pdf vă oferă control deplin.' },
@@ -1545,12 +1440,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'decupați ghidul pdf',
       'tutorial pdf decupat',
     ],
-    description: `
-      <p>Crop Pdf free online with our powerful browser-based tool. Whether you need to crop pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can crop pdf no registration required, with no watermarks added. How to crop pdf for free? Use our online tool—no software needed.</p>
-            <p>Crop Pdf has never been easier. Get started now with the best free crop pdf tool online.</p>
-    `,
+    description: `<p>Decupați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți decupa pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de decupare pdf vă oferă control deplin.' },
@@ -1604,12 +1494,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'redimensionare ghid pdf',
       'redimensionare tutorial pdf',
     ],
-    description: `
-      <p>Resize Pdf free online with our powerful browser-based tool. Whether you need to resize pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can resize pdf no registration required, with no watermarks added. How to resize pdf for free? Use our online tool—no software needed.</p>
-            <p>Resize Pdf has never been easier. Get started now with the best free resize pdf tool online.</p>
-    `,
+    description: `<p>Redimensionați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți redimensiona pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de redimensionare pdf vă oferă control deplin.' },
@@ -1663,12 +1548,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf în svg',
       'tutorial pdf în svg',
     ],
-    description: `
-      <p>Pdf To Svg free online with our powerful browser-based tool. Whether you need to pdf to svg for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to svg no registration required, with no watermarks added. How to pdf to svg for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Svg has never been easier. Get started now with the best free pdf to svg tool online.</p>
-    `,
+    description: `<p>Pdf To Svg gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți pdf în svg fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf to svg vă oferă control deplin.' },
@@ -1722,12 +1602,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid pdf în png',
       'tutorial pdf în png',
     ],
-    description: `
-      <p>Pdf To Png free online with our powerful browser-based tool. Whether you need to pdf to png for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to png no registration required, with no watermarks added. How to pdf to png for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Png has never been easier. Get started now with the best free pdf to png tool online.</p>
-    `,
+    description: `<p>Pdf To Png online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți pdf în png fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf to png vă oferă control deplin.' },
@@ -1781,12 +1656,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf către webp',
       'tutorial pdf to webp',
     ],
-    description: `
-      <p>Pdf To Webp free online with our powerful browser-based tool. Whether you need to pdf to webp for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to webp no registration required, with no watermarks added. How to pdf to webp for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Webp has never been easier. Get started now with the best free pdf to webp tool online.</p>
-    `,
+    description: `<p>Pdf To Webp online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să pdf pe webp fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf to webp vă oferă control deplin.' },
@@ -1840,12 +1710,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Heic to pdf guide',
       'Heic to pdf tutorial',
     ],
-    description: `
-      <p>Heic To Pdf free online with our powerful browser-based tool. Whether you need to heic to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can heic to pdf no registration required, with no watermarks added. How to heic to pdf for free? Use our online tool—no software needed.</p>
-            <p>Heic To Pdf has never been easier. Get started now with the best free heic to pdf tool online.</p>
-    `,
+    description: `<p>Heic To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți heic la pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit heic to pdf vă oferă control deplin.' },
@@ -1899,12 +1764,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'raw to pdf guide',
       'tutorial raw în pdf',
     ],
-    description: `
-      <p>Raw To Pdf free online with our powerful browser-based tool. Whether you need to raw to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can raw to pdf no registration required, with no watermarks added. How to raw to pdf for free? Use our online tool—no software needed.</p>
-            <p>Raw To Pdf has never been easier. Get started now with the best free raw to pdf tool online.</p>
-    `,
+    description: `<p>Raw To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să vă transformați în format pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit raw to pdf vă oferă control deplin.' },
@@ -1958,12 +1818,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid tiff la pdf',
       'tutorial tiff în pdf',
     ],
-    description: `
-      <p>Tiff To Pdf free online with our powerful browser-based tool. Whether you need to tiff to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can tiff to pdf no registration required, with no watermarks added. How to tiff to pdf for free? Use our online tool—no software needed.</p>
-            <p>Tiff To Pdf has never been easier. Get started now with the best free tiff to pdf tool online.</p>
-    `,
+    description: `<p>Tiff To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să faceți transfer în pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit tiff în pdf vă oferă control deplin.' },
@@ -2017,12 +1872,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid svg în pdf',
       'tutorial svg în pdf',
     ],
-    description: `
-      <p>Svg To Pdf free online with our powerful browser-based tool. Whether you need to svg to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can svg to pdf no registration required, with no watermarks added. How to svg to pdf for free? Use our online tool—no software needed.</p>
-            <p>Svg To Pdf has never been easier. Get started now with the best free svg to pdf tool online.</p>
-    `,
+    description: `<p>Svg To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți svg în pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit svg în pdf vă oferă control deplin.' },
@@ -2076,12 +1926,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid png în pdf',
       'tutorial png în pdf',
     ],
-    description: `
-      <p>Png To Pdf free online with our powerful browser-based tool. Whether you need to png to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can png to pdf no registration required, with no watermarks added. How to png to pdf for free? Use our online tool—no software needed.</p>
-            <p>Png To Pdf has never been easier. Get started now with the best free png to pdf tool online.</p>
-    `,
+    description: `<p>Png To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să faceți PNG în pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit png în pdf vă oferă control deplin.' },
@@ -2135,12 +1980,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid webp în pdf',
       'tutorial webp în pdf',
     ],
-    description: `
-      <p>Webp To Pdf free online with our powerful browser-based tool. Whether you need to webp to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can webp to pdf no registration required, with no watermarks added. How to webp to pdf for free? Use our online tool—no software needed.</p>
-            <p>Webp To Pdf has never been easier. Get started now with the best free webp to pdf tool online.</p>
-    `,
+    description: `<p>Webp To Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să vă webp în pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit webp în pdf vă oferă control deplin.' },
@@ -2194,12 +2034,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid pdf de reparații',
       'tutorial pdf pentru reparații',
     ],
-    description: `
-      <p>Repair Pdf free online with our powerful browser-based tool. Whether you need to repair pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can repair pdf no registration required, with no watermarks added. How to repair pdf for free? Use our online tool—no software needed.</p>
-            <p>Repair Pdf has never been easier. Get started now with the best free repair pdf tool online.</p>
-    `,
+    description: `<p>Reparați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți repara pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pentru reparații pdf vă oferă control deplin.' },
@@ -2253,12 +2088,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid pdf ocr',
       'tutorial pdf ocr',
     ],
-    description: `
-      <p>Ocr Pdf free online with our powerful browser-based tool. Whether you need to ocr pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can ocr pdf no registration required, with no watermarks added. How to ocr pdf for free? Use our online tool—no software needed.</p>
-            <p>Ocr Pdf has never been easier. Get started now with the best free ocr pdf tool online.</p>
-    `,
+    description: `<p>Ocr Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți ocr pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit ocr pdf vă oferă control deplin.' },
@@ -2312,12 +2142,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'flaten pdf guide',
       'flaten pdf tutorial',
     ],
-    description: `
-      <p>Flaten Pdf free online with our powerful browser-based tool. Whether you need to flaten pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can flaten pdf no registration required, with no watermarks added. How to flaten pdf for free? Use our online tool—no software needed.</p>
-            <p>Flaten Pdf has never been easier. Get started now with the best free flaten pdf tool online.</p>
-    `,
+    description: `<p>Flaten Pdf gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. You can flaten pdf no registration, no sign-up needed.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Our free flaten pdf tool gives you full control.' },
@@ -2371,12 +2196,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf în pdfa',
       'tutorial pdf în pdfa',
     ],
-    description: `
-      <p>Pdf To Pdfa free online with our powerful browser-based tool. Whether you need to pdf to pdfa for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to pdfa no registration required, with no watermarks added. How to pdf to pdfa for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Pdfa has never been easier. Get started now with the best free pdf to pdfa tool online.</p>
-    `,
+    description: `<p>Pdf To Pdfa online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să pdf în pdfa fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf to pdfa vă oferă control deplin.' },
@@ -2430,21 +2250,16 @@ export const toolContentRo: Record<string, ToolContent> = {
       'semnează ghidul pdf',
       'Semnează tutorial pdf',
     ],
-    description: `
-      <p>Sign Pdf free online with our powerful browser-based tool. Whether you need to sign pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can sign pdf no registration required, with no watermarks added. How to sign pdf for free? Use our online tool—no software needed.</p>
-            <p>Sign Pdf has never been easier. Get started now with the best free sign pdf tool online.</p>
-    `,
+    description: `<p>Semnați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți semna pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de semnare pdf vă oferă control deplin.' },
       { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
     ],
     useCases: [
-      { title: 'Pentru munca de birou', description: 'Professionals use our tool to sign pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'servietă' },
-      { title: 'Pentru Studenți', description: 'Students frequently need to sign pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'Pentru uz personal', description: 'Anyone can use our tool to sign pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'utilizator' },
+      { title: 'Pentru munca de birou', description: 'Profesioniștii folosesc instrumentul nostru pentru a semna pdf pentru rapoarte, propuneri și prezentări. ', icon: 'servietă' },
+      { title: 'Pentru Studenți', description: 'Elevii trebuie frecvent să semneze pdf pentru teme și lucrări de cercetare. ', icon: 'academic-cap' },
+      { title: 'Pentru uz personal', description: 'Oricine poate folosi instrumentul nostru pentru a semna pdf pentru documente personale. ', icon: 'utilizator' },
     ],
     faq: [
       { question: 'Is it really free to sign pdf online?', answer: 'Yes, our sign pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can sign pdf as many times as you need.' },
@@ -2489,12 +2304,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'adnotare ghid pdf',
       'adnotare pdf tutorial',
     ],
-    description: `
-      <p>Annotate Pdf free online with our powerful browser-based tool. Whether you need to annotate pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can annotate pdf no registration required, with no watermarks added. How to annotate pdf for free? Use our online tool—no software needed.</p>
-            <p>Annotate Pdf has never been easier. Get started now with the best free annotate pdf tool online.</p>
-    `,
+    description: `<p>Adnotare PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți adnota pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de adnotare pdf vă oferă control deplin.' },
@@ -2548,12 +2358,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'redactați ghidul pdf',
       'redactați tutorial pdf',
     ],
-    description: `
-      <p>Redact Pdf free online with our powerful browser-based tool. Whether you need to redact pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can redact pdf no registration required, with no watermarks added. How to redact pdf for free? Use our online tool—no software needed.</p>
-            <p>Redact Pdf has never been easier. Get started now with the best free redact pdf tool online.</p>
-    `,
+    description: `<p>Redact Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți redacta pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de redactare pdf vă oferă control deplin.' },
@@ -2607,12 +2412,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'comparați ghidul pdf',
       'comparare tutorial pdf',
     ],
-    description: `
-      <p>Compare Pdf free online with our powerful browser-based tool. Whether you need to compare pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can compare pdf no registration required, with no watermarks added. How to compare pdf for free? Use our online tool—no software needed.</p>
-            <p>Compare Pdf has never been easier. Get started now with the best free compare pdf tool online.</p>
-    `,
+    description: `<p>Comparați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți compara pdf fără înregistrare, fără înscriere necesară.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de comparare pdf vă oferă control deplin.' },
@@ -2666,12 +2466,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid pdf marcaj',
       'marcaj tutorial pdf',
     ],
-    description: `
-      <p>Bookmark Pdf free online with our powerful browser-based tool. Whether you need to bookmark pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can bookmark pdf no registration required, with no watermarks added. How to bookmark pdf for free? Use our online tool—no software needed.</p>
-            <p>Bookmark Pdf has never been easier. Get started now with the best free bookmark pdf tool online.</p>
-    `,
+    description: `<p>Marcați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți marca pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pentru marcaje pdf vă oferă control deplin.' },
@@ -2725,12 +2520,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'antet subsol ghid pdf',
       'antet subsol tutorial pdf',
     ],
-    description: `
-      <p>Header Footer Pdf free online with our powerful browser-based tool. Whether you need to header footer pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can header footer pdf no registration required, with no watermarks added. How to header footer pdf for free? Use our online tool—no software needed.</p>
-            <p>Header Footer Pdf has never been easier. Get started now with the best free header footer pdf tool online.</p>
-    `,
+    description: `<p>Header Footer Pdf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți face antet subsol pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pentru antet subsol pdf vă oferă control deplin.' },
@@ -2784,12 +2574,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf de fundal',
       'tutorial pdf de fundal',
     ],
-    description: `
-      <p>Background Pdf free online with our powerful browser-based tool. Whether you need to background pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can background pdf no registration required, with no watermarks added. How to background pdf for free? Use our online tool—no software needed.</p>
-            <p>Background Pdf has never been easier. Get started now with the best free background pdf tool online.</p>
-    `,
+    description: `<p>Pdf de fundal online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să faceți fundal pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf de fundal vă oferă control deplin.' },
@@ -2843,12 +2628,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid de numerotare bates',
       'tutorial de numerotare bates',
     ],
-    description: `
-      <p>Bates Numbering free online with our powerful browser-based tool. Whether you need to bates numbering for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can bates numbering no registration required, with no watermarks added. How to bates numbering for free? Use our online tool—no software needed.</p>
-            <p>Bates Numbering has never been easier. Get started now with the best free bates numbering tool online.</p>
-    `,
+    description: `<p>Bates Numbering gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să numărați bates fără înregistrare, fără înscriere necesară.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de numerotare bates vă oferă control deplin.' },
@@ -2902,12 +2682,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf în tonuri de gri',
       'tutorial pdf în tonuri de gri',
     ],
-    description: `
-      <p>Pdf To Grayscale free online with our powerful browser-based tool. Whether you need to pdf to grayscale for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to grayscale no registration required, with no watermarks added. How to pdf to grayscale for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Grayscale has never been easier. Get started now with the best free pdf to grayscale tool online.</p>
-    `,
+    description: `<p>Pdf în tonuri de gri online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți pdf în tonuri de gri fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf în tonuri de gri vă oferă control deplin.' },
@@ -2961,7 +2736,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'optimizați ghidul pdf',
       'optimizare tutorial pdf',
     ],
-    description: `<p>Optimizați PDF gratuit online cu instrumentul nostru avansat de compresie PDF. `,
+    description: `<p>Optimizare PDF gratuit online cu instrumentul nostru avansat de compresie PDF.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți optimiza pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de optimizare pdf vă oferă control deplin.' },
@@ -3015,12 +2790,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid de umplere a formularelor',
       'tutorial de completare a formularelor',
     ],
-    description: `
-      <p>Form Filler free online with our powerful browser-based tool. Whether you need to form filler for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can form filler no registration required, with no watermarks added. How to form filler for free? Use our online tool—no software needed.</p>
-            <p>Form Filler has never been easier. Get started now with the best free form filler tool online.</p>
-    `,
+    description: `<p>Form Filler online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți forma completarea fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de completare a formularelor vă oferă control deplin.' },
@@ -3074,12 +2844,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'creați ghid pdf',
       'creați tutorial pdf',
     ],
-    description: `
-      <p>Create Pdf free online with our powerful browser-based tool. Whether you need to create pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can create pdf no registration required, with no watermarks added. How to create pdf for free? Use our online tool—no software needed.</p>
-            <p>Create Pdf has never been easier. Get started now with the best free create pdf tool online.</p>
-    `,
+    description: `<p>Creează PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți crea pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de creare pdf vă oferă control deplin.' },
@@ -3133,7 +2898,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghidul șablonului de îmbinare pdf',
       'Tutorial șablon pdf îmbinare',
     ],
-    description: `<p>Merge PDF Template gratuit online cu instrumentul nostru puternic de fuziune PDF. `,
+    description: `<p>Merge PDF Template gratuit online cu instrumentul nostru puternic de fuziune PDF.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți îmbina șablonul pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pentru șabloane PDF de îmbinare vă oferă control deplin.' },
@@ -3187,7 +2952,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid de șablon pdf împărțit',
       'tutorial șablon pdf împărțit',
     ],
-    description: `<p>Șablon PDF de împărțire gratuit online, cu instrumentul nostru avansat de separare a PDF-urilor. `,
+    description: `<p>Șablon PDF de împărțire gratuit online, cu instrumentul nostru avansat de separare a PDF-urilor.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți împărți șablonul pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de șablon pdf împărțit vă oferă control deplin.' },
@@ -3241,12 +3006,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'criptare ghid pdf',
       'criptare tutorial pdf',
     ],
-    description: `
-      <p>Encrypt Pdf free online with our powerful browser-based tool. Whether you need to encrypt pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can encrypt pdf no registration required, with no watermarks added. How to encrypt pdf for free? Use our online tool—no software needed.</p>
-            <p>Encrypt Pdf has never been easier. Get started now with the best free encrypt pdf tool online.</p>
-    `,
+    description: `<p>Criptați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți cripta pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de criptare pdf vă oferă control deplin.' },
@@ -3300,12 +3060,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'decriptează ghidul pdf',
       'tutorial de decriptare pdf',
     ],
-    description: `
-      <p>Decrypt Pdf free online with our powerful browser-based tool. Whether you need to decrypt pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can decrypt pdf no registration required, with no watermarks added. How to decrypt pdf for free? Use our online tool—no software needed.</p>
-            <p>Decrypt Pdf has never been easier. Get started now with the best free decrypt pdf tool online.</p>
-    `,
+    description: `<p>Decriptați PDF gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți decripta pdf fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de decriptare pdf vă oferă control deplin.' },
@@ -3359,12 +3114,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid pdf metadate',
       'tutorial pdf metadate',
     ],
-    description: `
-      <p>Metadata Pdf free online with our powerful browser-based tool. Whether you need to metadata pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can metadata pdf no registration required, with no watermarks added. How to metadata pdf for free? Use our online tool—no software needed.</p>
-            <p>Metadata Pdf has never been easier. Get started now with the best free metadata pdf tool online.</p>
-    `,
+    description: `<p>Metadate Pdf gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți metadate pdf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pentru metadate pdf vă oferă control deplin.' },
@@ -3418,12 +3168,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'ghid de vizualizare pdf',
       'tutorial de vizualizare pdf',
     ],
-    description: `
-      <p>Pdf Viewer free online with our powerful browser-based tool. Whether you need to pdf viewer for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf viewer no registration required, with no watermarks added. How to pdf viewer for free? Use our online tool—no software needed.</p>
-            <p>Pdf Viewer has never been easier. Get started now with the best free pdf viewer tool online.</p>
-    `,
+    description: `<p>Pdf Viewer online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți vizualiza vizualizatorul PDF fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de vizualizare pdf vă oferă control deplin.' },
@@ -3477,12 +3222,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf în html',
       'tutorial pdf în html',
     ],
-    description: `
-      <p>Pdf To Html free online with our powerful browser-based tool. Whether you need to pdf to html for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to html no registration required, with no watermarks added. How to pdf to html for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Html has never been easier. Get started now with the best free pdf to html tool online.</p>
-    `,
+    description: `<p>Pdf To Html online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți să pdf în html fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf în html vă oferă control deplin.' },
@@ -3536,14 +3276,9 @@ export const toolContentRo: Record<string, ToolContent> = {
       'pdf to xml guide',
       'pdf to xml tutorial',
     ],
-    description: `
-      <p>Pdf To Xml free online with our powerful browser-based tool. Whether you need to pdf to xml for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to xml no registration required, with no watermarks added. How to pdf to xml for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Xml has never been easier. Get started now with the best free pdf to xml tool online.</p>
-    `,
+    description: `<p>Pdf To Xml gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
-      { step: 1, title: 'Încărcați fișierele dvs', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to xml no registration, no sign-up needed.' },
+      { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. ' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf în xml vă oferă control deplin.' },
       { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
     ],
@@ -3595,12 +3330,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf în csv',
       'tutorial pdf în csv',
     ],
-    description: `
-      <p>Pdf To Csv free online with our powerful browser-based tool. Whether you need to pdf to csv for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to csv no registration required, with no watermarks added. How to pdf to csv for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Csv has never been easier. Get started now with the best free pdf to csv tool online.</p>
-    `,
+    description: `<p>Pdf To Csv online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți pdf în csv fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf în csv vă oferă control deplin.' },
@@ -3654,12 +3384,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf la rtf',
       'tutorial pdf to rtf',
     ],
-    description: `
-      <p>Pdf To Rtf free online with our powerful browser-based tool. Whether you need to pdf to rtf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to rtf no registration required, with no watermarks added. How to pdf to rtf for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Rtf has never been easier. Get started now with the best free pdf to rtf tool online.</p>
-    `,
+    description: `<p>Pdf To Rtf online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți pdf în rtf fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf to rtf vă oferă control deplin.' },
@@ -3713,15 +3438,10 @@ export const toolContentRo: Record<string, ToolContent> = {
       'Ghid pdf în epub',
       'tutorial pdf în epub',
     ],
-    description: `
-      <p>Pdf To Epub free online with our powerful browser-based tool. Whether you need to pdf to epub for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to epub no registration required, with no watermarks added. How to pdf to epub for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Epub has never been easier. Get started now with the best free pdf to epub tool online.</p>
-    `,
+    description: `<p>Pdf To Epub online gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
-      { step: 1, title: 'Încărcați fișierele dvs', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to epub no registration, no sign-up needed.' },
-      { step: 2, title: 'Configurați setările', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to epub tool gives you full control.' },
+      { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. ' },
+      { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. ' },
       { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
     ],
     useCases: [
@@ -3772,15 +3492,10 @@ export const toolContentRo: Record<string, ToolContent> = {
       'pdf comparare text ghid',
       'pdf compare text tutorial',
     ],
-    description: `
-      <p>Pdf Compare Text free online with our powerful browser-based tool. Whether you need to pdf compare text for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf compare text no registration required, with no watermarks added. How to pdf compare text for free? Use our online tool—no software needed.</p>
-            <p>Pdf Compare Text has never been easier. Get started now with the best free pdf compare text tool online.</p>
-    `,
+    description: `<p>Pdf Compara Text gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
-      { step: 1, title: 'Încărcați fișierele dvs', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf compare text no registration, no sign-up needed.' },
-      { step: 2, title: 'Configurați setările', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf compare text tool gives you full control.' },
+      { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. ' },
+      { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. ' },
       { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
     ],
     useCases: [
@@ -3831,21 +3546,16 @@ export const toolContentRo: Record<string, ToolContent> = {
       'pdf redactează tot ghidul',
       'pdf redactează tot tutorialul',
     ],
-    description: `
-      <p>Pdf Redact All free online with our powerful browser-based tool. Whether you need to pdf redact all for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf redact all no registration required, with no watermarks added. How to pdf redact all for free? Use our online tool—no software needed.</p>
-            <p>Pdf Redact All has never been easier. Get started now with the best free pdf redact all tool online.</p>
-    `,
+    description: `<p>Pdf Redact All gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți redacta totul în format pdf fără înregistrare, fără înregistrare necesară.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de redactare pdf vă oferă control deplin.' },
       { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
     ],
     useCases: [
-      { title: 'Pentru munca de birou', description: 'Professionals use our tool to pdf redact all for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'servietă' },
-      { title: 'Pentru Studenți', description: 'Students frequently need to pdf redact all for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'Pentru uz personal', description: 'Anyone can use our tool to pdf redact all for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'utilizator' },
+      { title: 'Pentru munca de birou', description: 'Profesioniștii folosesc instrumentul nostru pentru a redacta totul în format PDF pentru rapoarte, propuneri și prezentări. ', icon: 'servietă' },
+      { title: 'Pentru Studenți', description: 'Elevii trebuie frecvent să redacteze totul în format pdf pentru teme și lucrări de cercetare. ', icon: 'academic-cap' },
+      { title: 'Pentru uz personal', description: 'Oricine poate folosi instrumentul nostru pentru a redacta totul în format PDF pentru documentele personale. ', icon: 'utilizator' },
     ],
     faq: [
       { question: 'Is it really free to pdf redact all online?', answer: 'Yes, our pdf redact all tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf redact all as many times as you need.' },
@@ -3890,21 +3600,16 @@ export const toolContentRo: Record<string, ToolContent> = {
       'pdf găsi înlocuire ghid',
       'pdf găsi înlocuire tutorial',
     ],
-    description: `
-      <p>Pdf Find Replace free online with our powerful browser-based tool. Whether you need to pdf find replace for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf find replace no registration required, with no watermarks added. How to pdf find replace for free? Use our online tool—no software needed.</p>
-            <p>Pdf Find Replace has never been easier. Get started now with the best free pdf find replace tool online.</p>
-    `,
+    description: `<p>Pdf Găsiți înlocuiți gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți găsi pdf înlocuiți fără înregistrare, nu este necesară înregistrarea.' },
-      { step: 2, title: 'Configurați setările', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf find replace tool gives you full control.' },
+      { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. ' },
       { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
     ],
     useCases: [
-      { title: 'Pentru munca de birou', description: 'Professionals use our tool to pdf find replace for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'servietă' },
-      { title: 'Pentru Studenți', description: 'Students frequently need to pdf find replace for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'Pentru uz personal', description: 'Anyone can use our tool to pdf find replace for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'utilizator' },
+      { title: 'Pentru munca de birou', description: 'Profesioniștii folosesc instrumentul nostru pentru a găsi pdf înlocuitori pentru rapoarte, propuneri și prezentări. ', icon: 'servietă' },
+      { title: 'Pentru Studenți', description: 'Elevii trebuie frecvent să găsească în format PDF înlocuitori pentru teme și lucrări de cercetare. ', icon: 'academic-cap' },
+      { title: 'Pentru uz personal', description: 'Oricine poate folosi instrumentul nostru pentru a găsi în format PDF înlocuirea documentelor personale. ', icon: 'utilizator' },
     ],
     faq: [
       { question: 'Is it really free to pdf find replace online?', answer: 'Da, instrumentul nostru de înlocuire pdf find este complet gratuit. Fără înregistrare, fără înscriere, fără card de credit necesar. Puteți găsi pdf înlocuiți de câte ori aveți nevoie.' },
@@ -3949,12 +3654,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'pdf to images guide',
       'tutorial pdf la imagini',
     ],
-    description: `
-      <p>Pdf To Images free online with our powerful browser-based tool. Whether you need to pdf to images for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to images no registration required, with no watermarks added. How to pdf to images for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Images has never been easier. Get started now with the best free pdf to images tool online.</p>
-    `,
+    description: `<p>Pdf To Images gratuit online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți pdf în imagini fără înregistrare, nu este necesară înregistrarea.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf în imagini vă oferă control deplin.' },
@@ -4008,12 +3708,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'extrage ghid de imagini',
       'extrage imagini tutorial',
     ],
-    description: `
-      <p>Extract Images free online with our powerful browser-based tool. Whether you need to extract images for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can extract images no registration required, with no watermarks added. How to extract images for free? Use our online tool—no software needed.</p>
-            <p>Extract Images has never been easier. Get started now with the best free extract images tool online.</p>
-    `,
+    description: `<p>Extrage gratuit imagini online cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți extrage imagini fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de extragere a imaginilor vă oferă control deplin.' },
@@ -4067,7 +3762,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       'compress images guide',
       'compress images tutorial',
     ],
-    description: `<p>Comprimați imaginile online gratuit cu instrumentul nostru avansat de compresie PDF. `,
+    description: `<p>Comprimați imaginile online gratuit cu instrumentul nostru avansat de compresie PDF.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți comprima imagini fără înregistrare, fără înregistrare.' },
       { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit de comprimare a imaginilor vă oferă control deplin.' },
@@ -4075,8 +3770,8 @@ export const toolContentRo: Record<string, ToolContent> = {
     ],
     useCases: [
       { title: 'Pentru munca de birou', description: 'Profesioniștii folosesc instrumentul nostru pentru a comprima imagini pentru rapoarte, propuneri și prezentări. Procesarea bazată pe browser asigură că documentele sensibile ale companiei nu părăsesc dispozitivul dvs.', icon: 'servietă' },
-      { title: 'Pentru Studenți', description: 'Students frequently need to compress images for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'Pentru uz personal', description: 'Anyone can use our tool to compress images for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'utilizator' },
+      { title: 'Pentru Studenți', description: 'Elevii trebuie frecvent să comprime imaginile pentru teme și lucrări de cercetare. ', icon: 'academic-cap' },
+      { title: 'Pentru uz personal', description: 'Oricine poate folosi instrumentul nostru pentru a comprima imagini pentru documente personale. ', icon: 'utilizator' },
     ],
     faq: [
       { question: 'Este într-adevăr gratuit să comprimați imaginile online?', answer: 'Da, instrumentul nostru de comprimare a imaginilor este complet gratuit. Fără înregistrare, fără înscriere, fără card de credit necesar. Puteți comprima imaginile de câte ori aveți nevoie.' },
@@ -4121,10 +3816,10 @@ export const toolContentRo: Record<string, ToolContent> = {
       'eliminați ghidul paginilor goale',
       'eliminarea paginilor goale tutorial',
     ],
-    description: `<p>Eliminați gratuit paginile goale online cu instrumentul nostru avansat de separare a PDF-urilor. `,
+    description: `<p>Eliminați gratuit paginile goale online cu instrumentul nostru avansat de separare a PDF-urilor.`,
     howToUse: [
       { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți elimina paginile goale fără înregistrare, fără înregistrare.' },
-      { step: 2, title: 'Configurați setările', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free remove blank pages tool gives you full control.' },
+      { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. ' },
       { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
     ],
     useCases: [
@@ -4175,21 +3870,16 @@ export const toolContentRo: Record<string, ToolContent> = {
       'detectează ghidul scanerelor pdf',
       'Tutorial detectează scanere pdf',
     ],
-    description: `
-      <p>Detect Pdf Scanners free online with our powerful browser-based tool. Whether you need to detect pdf scanners for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can detect pdf scanners no registration required, with no watermarks added. How to detect pdf scanners for free? Use our online tool—no software needed.</p>
-            <p>Detect Pdf Scanners has never been easier. Get started now with the best free detect pdf scanners tool online.</p>
-    `,
+    description: `<p>Detectați online scanere PDF gratuit cu instrumentul nostru puternic bazat pe browser. `,
     howToUse: [
-      { step: 1, title: 'Încărcați fișierele dvs', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can detect pdf scanners no registration, no sign-up needed.' },
-      { step: 2, title: 'Configurați setările', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free detect pdf scanners tool gives you full control.' },
+      { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. ' },
+      { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. ' },
       { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
     ],
     useCases: [
-      { title: 'Pentru munca de birou', description: 'Professionals use our tool to detect pdf scanners for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'servietă' },
-      { title: 'Pentru Studenți', description: 'Students frequently need to detect pdf scanners for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'Pentru uz personal', description: 'Anyone can use our tool to detect pdf scanners for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'utilizator' },
+      { title: 'Pentru munca de birou', description: 'Profesioniștii folosesc instrumentul nostru pentru a detecta scanere PDF pentru rapoarte, propuneri și prezentări. ', icon: 'servietă' },
+      { title: 'Pentru Studenți', description: 'Elevii trebuie frecvent să detecteze scanere PDF pentru teme și lucrări de cercetare. ', icon: 'academic-cap' },
+      { title: 'Pentru uz personal', description: 'Oricine poate folosi instrumentul nostru pentru a detecta scanere PDF pentru documente personale. ', icon: 'utilizator' },
     ],
     faq: [
       { question: 'Is it really free to detect pdf scanners online?', answer: 'Yes, our detect pdf scanners tool is completely free to use. No registration, no sign-up, no credit card required. You can detect pdf scanners as many times as you need.' },

@@ -5,52 +5,47 @@ export const toolContentId: Record<string, ToolContent> = {
     title: 'Alat PDF Multi-Fungsi',
     metaDescription: 'Pdf Multi Tool gratis online - tanpa registrasi, tanpa pendaftaran。Proses file PDF Anda dengan aman di peramban Anda。 Gunakan alat online gratis kami ',
     keywords: [
-      'pdf multi tool free online',
-      'pdf multi tool no registration',
-      'pdf multi tool no sign up',
-      'pdf multi tool no watermark',
-      'pdf multi tool browser based',
-      'pdf multi tool for work',
-      'pdf multi tool for students',
-      'best pdf multi tool tool',
-      'how to pdf multi tool',
-      'pdf multi tool online free',
-      'pdf multi tool without software',
-      'pdf multi tool privacy focused',
-      'pdf multi tool secure',
-      'pdf multi tool fast',
-      'free pdf multi tool tool',
-      'online pdf multi tool free',
-      'pdf multi tool tool online',
-      'pdf multi tool for free',
-      'pdf multi tool no download',
-      'pdf multi tool web based',
-      'pdf multi tool open source',
-      'pdf multi tool wasm',
-      'pdf multi tool client side',
-      'pdf multi tool no upload',
-      'pdf multi tool instant',
-      'pdf multi tool high quality',
-      'pdf multi tool no limit',
-      'pdf multi tool 2025',
-      'pdf multi tool guide',
-      'pdf multi tool tutorial',
+      'pdf multi alat online gratis',
+      'pdf alat multi tanpa registrasi',
+      'pdf alat multi tanpa mendaftar',
+      'pdf alat multi tanpa tanda air',
+      'berbasis browser multi alat pdf',
+      'pdf alat multi untuk bekerja',
+      'pdf alat multi untuk siswa',
+      'alat multi alat pdf terbaik',
+      'cara pdf multi alat',
+      'pdf multi alat online gratis',
+      'pdf multi alat tanpa perangkat lunak',
+      'pdf multi alat privasi terfokus',
+      'pdf multi alat aman',
+      'pdf multi alat dengan cepat',
+      'alat multi alat pdf gratis',
+      'pdf online multi alat gratis',
+      'alat multi alat pdf online',
+      'pdf multi alat gratis',
+      'pdf alat multi tanpa unduhan',
+      'pdf multi alat berbasis web',
+      'pdf multi alat sumber terbuka',
+      'pdf multi alat wasm',
+      'sisi klien multi alat pdf',
+      'pdf alat multi tanpa unggahan',
+      'pdf multi alat instan',
+      'pdf multi alat berkualitas tinggi',
+      'pdf alat multi tanpa batas',
+      'pdf multi alat 2025',
+      'panduan multi alat pdf',
+      'tutorial multi alat pdf',
     ],
-    description: `
-      <p>Pdf Multi Tool free online with our powerful browser-based tool. Whether you need to pdf multi tool for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf multi tool no registration required, with no watermarks added. How to pdf multi tool for free? Use our online tool—no software needed.</p>
-            <p>Pdf Multi Tool has never been easier. Get started now with the best free pdf multi tool tool online.</p>
-    `,
+    description: `<p>Pdf Multi Tool online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf multi tool no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf multi tool tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf multi tool for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf multi tool for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf multi tool for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf multi alat untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menggunakan multi alat pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf multi alat untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf multi tool online?', answer: 'Yes, our pdf multi tool tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf multi tool as many times as you need.' },
@@ -95,21 +90,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'merge pdf guide',
       'merge pdf tutorial',
     ],
-    description: `
-      <p>Merge Pdf free online with our powerful PDF merger tool. Combine multiple PDF documents into a single file quickly and securely. Perfect for office workers, students, and anyone who needs to merge PDF files.</p>
-            <p>Simply upload your PDF files, arrange them in your desired order using our intuitive drag-and-drop interface, and merge them into one professional document. You can merge PDF files no registration required.</p>
-            <p>All processing happens locally in your browser using WebAssembly technology, ensuring complete privacy. No files are uploaded to any server. How to merge PDF files for free? Simply use our online PDF merger.</p>
-            <p>Try our free merge PDF online tool now. Whether you need to merge PDF for work or study, our tool delivers high-quality results every time.</p>
-    `,
+    description: `<p>Gabungkan Pdf secara online gratis dengan alat penggabungan PDF kami yang canggih.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can merge pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free merge pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to merge pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to merge pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to merge pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk menggabungkan pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menggabungkan pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menggabungkan pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to merge pdf online?', answer: 'Yes, our merge pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can merge pdf as many times as you need.' },
@@ -154,21 +144,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'split pdf guide',
       'split pdf tutorial',
     ],
-    description: `
-      <p>Split Pdf free online with our advanced PDF splitter tool. Extract specific pages, divide by page ranges, or split at every page. Perfect for extracting chapters or creating focused handouts.</p>
-            <p>Upload your PDF file, preview all pages, and choose how you want to split. You can split PDF files no registration required. Our tool can handle documents with hundreds of pages.</p>
-            <p>All splitting happens locally in your browser, ensuring your documents remain private. How to split PDF for free? Use our online PDF splitter.</p>
-            <p>Try our free split PDF online tool now. Split PDF has never been easier or more private.</p>
-    `,
+    description: `<p>Pisahkan Pdf online gratis dengan alat batas PDF canggih kami.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can split pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free split pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to split pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to split pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to split pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk membagi pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu membagi pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membagi pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to split pdf online?', answer: 'Yes, our split pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can split pdf as many times as you need.' },
@@ -213,21 +198,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'compress pdf guide',
       'compress pdf tutorial',
     ],
-    description: `
-      <p>Compress Pdf free online with our advanced PDF compression tool. Reduce file size without significant quality loss. Perfect for email attachments and web optimization.</p>
-            <p>Upload your PDF file and choose compression level. You can compress PDF no registration required. The compressed PDF maintains original formatting.</p>
-            <p>All compression happens locally in your browser. How to compress PDF for free? Use our online PDF compressor.</p>
-            <p>Try our free compress PDF online tool now. The fastest and most secure way to reduce PDF file size online.</p>
-    `,
+    description: `<p>Kompres Pdf online gratis dengan alat kompresi PDF canggih kami.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can compress pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free compress pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to compress pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to compress pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to compress pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengompresi pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengompres pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengompres pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to compress pdf online?', answer: 'Yes, our compress pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can compress pdf as many times as you need.' },
@@ -272,21 +252,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to word guide',
       'pdf to word tutorial',
     ],
-    description: `
-      <p>Pdf To Word free online with our powerful browser-based tool. Whether you need to pdf to word for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to word no registration required, with no watermarks added. How to pdf to word for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Word has never been easier. Get started now with the best free pdf to word tool online.</p>
-    `,
+    description: `<p>Pdf Ke Word online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to word no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to word tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to word for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to word for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to word for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke word untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke word untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke word untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to word online?', answer: 'Yes, our pdf to word tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to word as many times as you need.' },
@@ -331,21 +306,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to jpg guide',
       'pdf to jpg tutorial',
     ],
-    description: `
-      <p>Pdf To Jpg free online with our powerful browser-based tool. Whether you need to pdf to jpg for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to jpg no registration required, with no watermarks added. How to pdf to jpg for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Jpg has never been easier. Get started now with the best free pdf to jpg tool online.</p>
-    `,
+    description: `<p>Pdf Ke Jpg online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to jpg no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to jpg tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to jpg for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to jpg for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to jpg for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke jpg untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke jpg untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke jpg untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to jpg online?', answer: 'Yes, our pdf to jpg tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to jpg as many times as you need.' },
@@ -390,21 +360,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to excel guide',
       'pdf to excel tutorial',
     ],
-    description: `
-      <p>Pdf To Excel free online with our powerful browser-based tool. Whether you need to pdf to excel for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to excel no registration required, with no watermarks added. How to pdf to excel for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Excel has never been easier. Get started now with the best free pdf to excel tool online.</p>
-    `,
+    description: `<p>Pdf Ke Excel online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to excel no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to excel tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to excel for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to excel for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to excel for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf agar unggul dalam laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf agar unggul dalam tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf hingga excel untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to excel online?', answer: 'Yes, our pdf to excel tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to excel as many times as you need.' },
@@ -449,21 +414,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to powerpoint guide',
       'pdf to powerpoint tutorial',
     ],
-    description: `
-      <p>Pdf To Powerpoint free online with our powerful browser-based tool. Whether you need to pdf to powerpoint for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to powerpoint no registration required, with no watermarks added. How to pdf to powerpoint for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Powerpoint has never been easier. Get started now with the best free pdf to powerpoint tool online.</p>
-    `,
+    description: `<p>Pdf Ke Powerpoint online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to powerpoint no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to powerpoint tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to powerpoint for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to powerpoint for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to powerpoint for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke powerpoint untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke powerpoint untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke powerpoint untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to powerpoint online?', answer: 'Yes, our pdf to powerpoint tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to powerpoint as many times as you need.' },
@@ -508,21 +468,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to text guide',
       'pdf to text tutorial',
     ],
-    description: `
-      <p>Pdf To Text free online with our powerful browser-based tool. Whether you need to pdf to text for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to text no registration required, with no watermarks added. How to pdf to text for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Text has never been easier. Get started now with the best free pdf to text tool online.</p>
-    `,
+    description: `<p>Pdf Ke Teks online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to text no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to text tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to text for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to text for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to text for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk membuat pdf menjadi teks untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke teks untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke teks untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to text online?', answer: 'Yes, our pdf to text tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to text as many times as you need.' },
@@ -567,21 +522,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'word to pdf guide',
       'word to pdf tutorial',
     ],
-    description: `
-      <p>Word To Pdf free online with our powerful browser-based tool. Whether you need to word to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can word to pdf no registration required, with no watermarks added. How to word to pdf for free? Use our online tool—no software needed.</p>
-            <p>Word To Pdf has never been easier. Get started now with the best free word to pdf tool online.</p>
-    `,
+    description: `<p>Word To Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can word to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free word to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to word to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to word to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to word to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengubah kata menjadi pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengubah kata ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengubah kata ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to word to pdf online?', answer: 'Yes, our word to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can word to pdf as many times as you need.' },
@@ -626,21 +576,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'jpg to pdf guide',
       'jpg to pdf tutorial',
     ],
-    description: `
-      <p>Jpg To Pdf free online with our powerful browser-based tool. Whether you need to jpg to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can jpg to pdf no registration required, with no watermarks added. How to jpg to pdf for free? Use our online tool—no software needed.</p>
-            <p>Jpg To Pdf has never been easier. Get started now with the best free jpg to pdf tool online.</p>
-    `,
+    description: `<p>Jpg Ke Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can jpg to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free jpg to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to jpg to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to jpg to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to jpg to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengubah format jpg ke pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu jpg ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapapun dapat menggunakan alat kami untuk jpg ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to jpg to pdf online?', answer: 'Yes, our jpg to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can jpg to pdf as many times as you need.' },
@@ -685,21 +630,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'excel to pdf guide',
       'excel to pdf tutorial',
     ],
-    description: `
-      <p>Excel To Pdf free online with our powerful browser-based tool. Whether you need to excel to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can excel to pdf no registration required, with no watermarks added. How to excel to pdf for free? Use our online tool—no software needed.</p>
-            <p>Excel To Pdf has never been easier. Get started now with the best free excel to pdf tool online.</p>
-    `,
+    description: `<p>Excel To Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can excel to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free excel to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to excel to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to excel to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to excel to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk excel ke pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu unggul ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk excel ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to excel to pdf online?', answer: 'Yes, our excel to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can excel to pdf as many times as you need.' },
@@ -744,21 +684,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'powerpoint to pdf guide',
       'powerpoint to pdf tutorial',
     ],
-    description: `
-      <p>Powerpoint To Pdf free online with our powerful browser-based tool. Whether you need to powerpoint to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can powerpoint to pdf no registration required, with no watermarks added. How to powerpoint to pdf for free? Use our online tool—no software needed.</p>
-            <p>Powerpoint To Pdf has never been easier. Get started now with the best free powerpoint to pdf tool online.</p>
-    `,
+    description: `<p>Powerpoint Ke Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can powerpoint to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free powerpoint to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to powerpoint to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to powerpoint to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to powerpoint to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk powerpoint ke pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu powerpoint ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapapun dapat menggunakan alat kami untuk powerpoint ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to powerpoint to pdf online?', answer: 'Yes, our powerpoint to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can powerpoint to pdf as many times as you need.' },
@@ -803,21 +738,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'text to pdf guide',
       'text to pdf tutorial',
     ],
-    description: `
-      <p>Text To Pdf free online with our powerful browser-based tool. Whether you need to text to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can text to pdf no registration required, with no watermarks added. How to text to pdf for free? Use our online tool—no software needed.</p>
-            <p>Text To Pdf has never been easier. Get started now with the best free text to pdf tool online.</p>
-    `,
+    description: `<p>Teks Ke Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can text to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free text to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to text to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to text to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to text to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengirim teks ke pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengirim SMS ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengirim teks ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to text to pdf online?', answer: 'Yes, our text to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can text to pdf as many times as you need.' },
@@ -862,21 +792,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'html to pdf guide',
       'html to pdf tutorial',
     ],
-    description: `
-      <p>Html To Pdf free online with our powerful browser-based tool. Whether you need to html to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can html to pdf no registration required, with no watermarks added. How to html to pdf for free? Use our online tool—no software needed.</p>
-            <p>Html To Pdf has never been easier. Get started now with the best free html to pdf tool online.</p>
-    `,
+    description: `<p>Html Ke Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can html to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free html to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to html to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to html to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to html to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk membuat html ke pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu html ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk html ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to html to pdf online?', answer: 'Yes, our html to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can html to pdf as many times as you need.' },
@@ -921,21 +846,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'rotate pdf guide',
       'rotate pdf tutorial',
     ],
-    description: `
-      <p>Rotate Pdf free online with our powerful browser-based tool. Whether you need to rotate pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can rotate pdf no registration required, with no watermarks added. How to rotate pdf for free? Use our online tool—no software needed.</p>
-            <p>Rotate Pdf has never been easier. Get started now with the best free rotate pdf tool online.</p>
-    `,
+    description: `<p>Putar Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can rotate pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free rotate pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to rotate pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to rotate pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to rotate pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk memutar pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu memutar pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk memutar pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to rotate pdf online?', answer: 'Yes, our rotate pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can rotate pdf as many times as you need.' },
@@ -980,21 +900,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'unlock pdf guide',
       'unlock pdf tutorial',
     ],
-    description: `
-      <p>Unlock Pdf free online with our powerful browser-based tool. Whether you need to unlock pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can unlock pdf no registration required, with no watermarks added. How to unlock pdf for free? Use our online tool—no software needed.</p>
-            <p>Unlock Pdf has never been easier. Get started now with the best free unlock pdf tool online.</p>
-    `,
+    description: `<p>Buka kunci Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can unlock pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free unlock pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to unlock pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to unlock pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to unlock pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk membuka kunci pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu membuka kunci pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membuka kunci pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to unlock pdf online?', answer: 'Yes, our unlock pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can unlock pdf as many times as you need.' },
@@ -1039,21 +954,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'protect pdf guide',
       'protect pdf tutorial',
     ],
-    description: `
-      <p>Protect Pdf free online with our powerful browser-based tool. Whether you need to protect pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can protect pdf no registration required, with no watermarks added. How to protect pdf for free? Use our online tool—no software needed.</p>
-            <p>Protect Pdf has never been easier. Get started now with the best free protect pdf tool online.</p>
-    `,
+    description: `<p>Lindungi Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can protect pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free protect pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to protect pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to protect pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to protect pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk melindungi pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu melindungi pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk melindungi pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to protect pdf online?', answer: 'Yes, our protect pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can protect pdf as many times as you need.' },
@@ -1098,21 +1008,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'add watermark guide',
       'add watermark tutorial',
     ],
-    description: `
-      <p>Add Watermark free online with our powerful browser-based tool. Whether you need to add watermark for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can add watermark no registration required, with no watermarks added. How to add watermark for free? Use our online tool—no software needed.</p>
-            <p>Add Watermark has never been easier. Get started now with the best free add watermark tool online.</p>
-    `,
+    description: `<p>Tambahkan Tanda Air gratis secara online dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can add watermark no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free add watermark tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to add watermark for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to add watermark for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to add watermark for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk menambahkan tanda air pada laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menambahkan tanda air untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menambahkan tanda air pada dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to add watermark online?', answer: 'Yes, our add watermark tool is completely free to use. No registration, no sign-up, no credit card required. You can add watermark as many times as you need.' },
@@ -1157,21 +1062,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'remove watermark guide',
       'remove watermark tutorial',
     ],
-    description: `
-      <p>Remove Watermark free online with our powerful browser-based tool. Whether you need to remove watermark for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can remove watermark no registration required, with no watermarks added. How to remove watermark for free? Use our online tool—no software needed.</p>
-            <p>Remove Watermark has never been easier. Get started now with the best free remove watermark tool online.</p>
-    `,
+    description: `<p>Hapus Tanda Air secara online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can remove watermark no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free remove watermark tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to remove watermark for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to remove watermark for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to remove watermark for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk menghapus tanda air pada laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menghapus tanda air untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menghapus tanda air pada dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to remove watermark online?', answer: 'Yes, our remove watermark tool is completely free to use. No registration, no sign-up, no credit card required. You can remove watermark as many times as you need.' },
@@ -1216,21 +1116,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'add page numbers guide',
       'add page numbers tutorial',
     ],
-    description: `
-      <p>Add Page Numbers free online with our powerful browser-based tool. Whether you need to add page numbers for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can add page numbers no registration required, with no watermarks added. How to add page numbers for free? Use our online tool—no software needed.</p>
-            <p>Add Page Numbers has never been easier. Get started now with the best free add page numbers tool online.</p>
-    `,
+    description: `<p>Tambahkan Nomor Halaman online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can add page numbers no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free add page numbers tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to add page numbers for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to add page numbers for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to add page numbers for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk menambahkan nomor halaman untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menambahkan nomor halaman untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menambahkan nomor halaman pada dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to add page numbers online?', answer: 'Yes, our add page numbers tool is completely free to use. No registration, no sign-up, no credit card required. You can add page numbers as many times as you need.' },
@@ -1275,21 +1170,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'remove pages guide',
       'remove pages tutorial',
     ],
-    description: `
-      <p>Remove Pages free online with our advanced PDF splitter tool. Extract specific pages, divide by page ranges, or split at every page. Perfect for extracting chapters or creating focused handouts.</p>
-            <p>Upload your PDF file, preview all pages, and choose how you want to split. You can split PDF files no registration required. Our tool can handle documents with hundreds of pages.</p>
-            <p>All splitting happens locally in your browser, ensuring your documents remain private. How to split PDF for free? Use our online PDF splitter.</p>
-            <p>Try our free split PDF online tool now. Split PDF has never been easier or more private.</p>
-    `,
+    description: `<p>Hapus Halaman online gratis dengan alat pemisah PDF canggih kami.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can remove pages no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free remove pages tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to remove pages for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to remove pages for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to remove pages for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk menghapus halaman laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menghapus halaman untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menghapus halaman dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to remove pages online?', answer: 'Yes, our remove pages tool is completely free to use. No registration, no sign-up, no credit card required. You can remove pages as many times as you need.' },
@@ -1334,21 +1224,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'extract pages guide',
       'extract pages tutorial',
     ],
-    description: `
-      <p>Extract Pages free online with our advanced PDF splitter tool. Extract specific pages, divide by page ranges, or split at every page. Perfect for extracting chapters or creating focused handouts.</p>
-            <p>Upload your PDF file, preview all pages, and choose how you want to split. You can split PDF files no registration required. Our tool can handle documents with hundreds of pages.</p>
-            <p>All splitting happens locally in your browser, ensuring your documents remain private. How to split PDF for free? Use our online PDF splitter.</p>
-            <p>Try our free split PDF online tool now. Split PDF has never been easier or more private.</p>
-    `,
+    description: `<p>Ekstrak Halaman online gratis dengan alat pemisah PDF canggih kami.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can extract pages no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free extract pages tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to extract pages for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to extract pages for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to extract pages for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengekstrak halaman laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengekstrak halaman untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengekstrak halaman dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to extract pages online?', answer: 'Yes, our extract pages tool is completely free to use. No registration, no sign-up, no credit card required. You can extract pages as many times as you need.' },
@@ -1393,21 +1278,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'reorganize pdf guide',
       'reorganize pdf tutorial',
     ],
-    description: `
-      <p>Reorganize Pdf free online with our powerful browser-based tool. Whether you need to reorganize pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can reorganize pdf no registration required, with no watermarks added. How to reorganize pdf for free? Use our online tool—no software needed.</p>
-            <p>Reorganize Pdf has never been easier. Get started now with the best free reorganize pdf tool online.</p>
-    `,
+    description: `<p>Atur ulang Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can reorganize pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free reorganize pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to reorganize pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to reorganize pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to reorganize pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk mengatur ulang pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengatur ulang pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengatur ulang pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to reorganize pdf online?', answer: 'Yes, our reorganize pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can reorganize pdf as many times as you need.' },
@@ -1452,21 +1332,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'insert pdf guide',
       'insert pdf tutorial',
     ],
-    description: `
-      <p>Insert Pdf free online with our powerful browser-based tool. Whether you need to insert pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can insert pdf no registration required, with no watermarks added. How to insert pdf for free? Use our online tool—no software needed.</p>
-            <p>Insert Pdf has never been easier. Get started now with the best free insert pdf tool online.</p>
-    `,
+    description: `<p>Masukkan Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can insert pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free insert pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to insert pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to insert pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to insert pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk memasukkan pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu memasukkan pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk memasukkan pdf ke dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to insert pdf online?', answer: 'Yes, our insert pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can insert pdf as many times as you need.' },
@@ -1511,21 +1386,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'replace pdf guide',
       'replace pdf tutorial',
     ],
-    description: `
-      <p>Replace Pdf free online with our powerful browser-based tool. Whether you need to replace pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can replace pdf no registration required, with no watermarks added. How to replace pdf for free? Use our online tool—no software needed.</p>
-            <p>Replace Pdf has never been easier. Get started now with the best free replace pdf tool online.</p>
-    `,
+    description: `<p>Ganti Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can replace pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free replace pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to replace pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to replace pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to replace pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk menggantikan pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengganti pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menggantikan pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to replace pdf online?', answer: 'Yes, our replace pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can replace pdf as many times as you need.' },
@@ -1570,21 +1440,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'crop pdf guide',
       'crop pdf tutorial',
     ],
-    description: `
-      <p>Crop Pdf free online with our powerful browser-based tool. Whether you need to crop pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can crop pdf no registration required, with no watermarks added. How to crop pdf for free? Use our online tool—no software needed.</p>
-            <p>Crop Pdf has never been easier. Get started now with the best free crop pdf tool online.</p>
-    `,
+    description: `<p>Pangkas Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can crop pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free crop pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to crop pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to crop pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to crop pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk memotong pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu memotong pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk memotong pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to crop pdf online?', answer: 'Yes, our crop pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can crop pdf as many times as you need.' },
@@ -1629,21 +1494,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'resize pdf guide',
       'resize pdf tutorial',
     ],
-    description: `
-      <p>Resize Pdf free online with our powerful browser-based tool. Whether you need to resize pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can resize pdf no registration required, with no watermarks added. How to resize pdf for free? Use our online tool—no software needed.</p>
-            <p>Resize Pdf has never been easier. Get started now with the best free resize pdf tool online.</p>
-    `,
+    description: `<p>Ubah ukuran Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can resize pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free resize pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to resize pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to resize pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to resize pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengubah ukuran pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengubah ukuran pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengubah ukuran pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to resize pdf online?', answer: 'Yes, our resize pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can resize pdf as many times as you need.' },
@@ -1688,21 +1548,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to svg guide',
       'pdf to svg tutorial',
     ],
-    description: `
-      <p>Pdf To Svg free online with our powerful browser-based tool. Whether you need to pdf to svg for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to svg no registration required, with no watermarks added. How to pdf to svg for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Svg has never been easier. Get started now with the best free pdf to svg tool online.</p>
-    `,
+    description: `<p>Pdf Ke Svg online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to svg no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to svg tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to svg for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to svg for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to svg for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke svg untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke svg untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke svg untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to svg online?', answer: 'Yes, our pdf to svg tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to svg as many times as you need.' },
@@ -1747,21 +1602,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to png guide',
       'pdf to png tutorial',
     ],
-    description: `
-      <p>Pdf To Png free online with our powerful browser-based tool. Whether you need to pdf to png for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to png no registration required, with no watermarks added. How to pdf to png for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Png has never been easier. Get started now with the best free pdf to png tool online.</p>
-    `,
+    description: `<p>Pdf Ke PNG online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to png no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to png tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to png for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to png for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to png for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke png untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke png untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke png untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to png online?', answer: 'Yes, our pdf to png tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to png as many times as you need.' },
@@ -1806,21 +1656,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to webp guide',
       'pdf to webp tutorial',
     ],
-    description: `
-      <p>Pdf To Webp free online with our powerful browser-based tool. Whether you need to pdf to webp for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to webp no registration required, with no watermarks added. How to pdf to webp for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Webp has never been easier. Get started now with the best free pdf to webp tool online.</p>
-    `,
+    description: `<p>Pdf Ke Webp online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to webp no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to webp tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to webp for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to webp for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to webp for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke webp untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke webp untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke webp untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to webp online?', answer: 'Yes, our pdf to webp tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to webp as many times as you need.' },
@@ -1865,21 +1710,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'heic to pdf guide',
       'heic to pdf tutorial',
     ],
-    description: `
-      <p>Heic To Pdf free online with our powerful browser-based tool. Whether you need to heic to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can heic to pdf no registration required, with no watermarks added. How to heic to pdf for free? Use our online tool—no software needed.</p>
-            <p>Heic To Pdf has never been easier. Get started now with the best free heic to pdf tool online.</p>
-    `,
+    description: `<p>Heic To Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can heic to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free heic to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to heic to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to heic to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to heic to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengonversi pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu membuka pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk melakukan heic ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to heic to pdf online?', answer: 'Yes, our heic to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can heic to pdf as many times as you need.' },
@@ -1924,21 +1764,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'raw to pdf guide',
       'raw to pdf tutorial',
     ],
-    description: `
-      <p>Raw To Pdf free online with our powerful browser-based tool. Whether you need to raw to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can raw to pdf no registration required, with no watermarks added. How to raw to pdf for free? Use our online tool—no software needed.</p>
-            <p>Raw To Pdf has never been easier. Get started now with the best free raw to pdf tool online.</p>
-    `,
+    description: `<p>Raw To Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can raw to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free raw to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to raw to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to raw to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to raw to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengubah format menjadi pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mentah ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk melakukan raw to pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to raw to pdf online?', answer: 'Yes, our raw to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can raw to pdf as many times as you need.' },
@@ -1983,21 +1818,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'tiff to pdf guide',
       'tiff to pdf tutorial',
     ],
-    description: `
-      <p>Tiff To Pdf free online with our powerful browser-based tool. Whether you need to tiff to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can tiff to pdf no registration required, with no watermarks added. How to tiff to pdf for free? Use our online tool—no software needed.</p>
-            <p>Tiff To Pdf has never been easier. Get started now with the best free tiff to pdf tool online.</p>
-    `,
+    description: `<p>Tiff To Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can tiff to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free tiff to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to tiff to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to tiff to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to tiff to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengubah ke pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menggunakan pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengubah ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to tiff to pdf online?', answer: 'Yes, our tiff to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can tiff to pdf as many times as you need.' },
@@ -2042,21 +1872,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'svg to pdf guide',
       'svg to pdf tutorial',
     ],
-    description: `
-      <p>Svg To Pdf free online with our powerful browser-based tool. Whether you need to svg to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can svg to pdf no registration required, with no watermarks added. How to svg to pdf for free? Use our online tool—no software needed.</p>
-            <p>Svg To Pdf has never been easier. Get started now with the best free svg to pdf tool online.</p>
-    `,
+    description: `<p>Svg Ke Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can svg to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free svg to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to svg to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to svg to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to svg to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk melakukan svg ke pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu svg ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk svg ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to svg to pdf online?', answer: 'Yes, our svg to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can svg to pdf as many times as you need.' },
@@ -2101,21 +1926,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'png to pdf guide',
       'png to pdf tutorial',
     ],
-    description: `
-      <p>Png To Pdf free online with our powerful browser-based tool. Whether you need to png to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can png to pdf no registration required, with no watermarks added. How to png to pdf for free? Use our online tool—no software needed.</p>
-            <p>Png To Pdf has never been easier. Get started now with the best free png to pdf tool online.</p>
-    `,
+    description: `<p>Png Ke Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can png to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free png to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to png to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to png to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to png to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk png ke pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu png ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk png ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to png to pdf online?', answer: 'Yes, our png to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can png to pdf as many times as you need.' },
@@ -2160,21 +1980,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'webp to pdf guide',
       'webp to pdf tutorial',
     ],
-    description: `
-      <p>Webp To Pdf free online with our powerful browser-based tool. Whether you need to webp to pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can webp to pdf no registration required, with no watermarks added. How to webp to pdf for free? Use our online tool—no software needed.</p>
-            <p>Webp To Pdf has never been easier. Get started now with the best free webp to pdf tool online.</p>
-    `,
+    description: `<p>Webp Ke Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can webp to pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free webp to pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to webp to pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to webp to pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to webp to pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk membuat webp ke pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu webp ke pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membuat webp ke pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to webp to pdf online?', answer: 'Yes, our webp to pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can webp to pdf as many times as you need.' },
@@ -2219,21 +2034,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'repair pdf guide',
       'repair pdf tutorial',
     ],
-    description: `
-      <p>Repair Pdf free online with our powerful browser-based tool. Whether you need to repair pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can repair pdf no registration required, with no watermarks added. How to repair pdf for free? Use our online tool—no software needed.</p>
-            <p>Repair Pdf has never been easier. Get started now with the best free repair pdf tool online.</p>
-    `,
+    description: `<p>Perbaiki Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can repair pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free repair pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to repair pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to repair pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to repair pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk memperbaiki pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu memperbaiki pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk memperbaiki pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to repair pdf online?', answer: 'Yes, our repair pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can repair pdf as many times as you need.' },
@@ -2278,21 +2088,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'ocr pdf guide',
       'ocr pdf tutorial',
     ],
-    description: `
-      <p>Ocr Pdf free online with our powerful browser-based tool. Whether you need to ocr pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can ocr pdf no registration required, with no watermarks added. How to ocr pdf for free? Use our online tool—no software needed.</p>
-            <p>Ocr Pdf has never been easier. Get started now with the best free ocr pdf tool online.</p>
-    `,
+    description: `<p>Ocr Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can ocr pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free ocr pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to ocr pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to ocr pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to ocr pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk ocr pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu ocr pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk meng-ocr pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to ocr pdf online?', answer: 'Yes, our ocr pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can ocr pdf as many times as you need.' },
@@ -2337,21 +2142,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'flaten pdf guide',
       'flaten pdf tutorial',
     ],
-    description: `
-      <p>Flaten Pdf free online with our powerful browser-based tool. Whether you need to flaten pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can flaten pdf no registration required, with no watermarks added. How to flaten pdf for free? Use our online tool—no software needed.</p>
-            <p>Flaten Pdf has never been easier. Get started now with the best free flaten pdf tool online.</p>
-    `,
+    description: `<p>Ratakan Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can flaten pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free flaten pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to flaten pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to flaten pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to flaten pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk meratakan pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu meratakan pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk meratakan pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to flaten pdf online?', answer: 'Yes, our flaten pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can flaten pdf as many times as you need.' },
@@ -2396,21 +2196,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to pdfa guide',
       'pdf to pdfa tutorial',
     ],
-    description: `
-      <p>Pdf To Pdfa free online with our powerful browser-based tool. Whether you need to pdf to pdfa for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to pdfa no registration required, with no watermarks added. How to pdf to pdfa for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Pdfa has never been easier. Get started now with the best free pdf to pdfa tool online.</p>
-    `,
+    description: `<p>Pdf Ke Pdfa online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to pdfa no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to pdfa tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to pdfa for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to pdfa for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to pdfa for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke pdfa untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke pdfa untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke pdfa untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to pdfa online?', answer: 'Yes, our pdf to pdfa tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to pdfa as many times as you need.' },
@@ -2455,21 +2250,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'sign pdf guide',
       'sign pdf tutorial',
     ],
-    description: `
-      <p>Sign Pdf free online with our powerful browser-based tool. Whether you need to sign pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can sign pdf no registration required, with no watermarks added. How to sign pdf for free? Use our online tool—no software needed.</p>
-            <p>Sign Pdf has never been easier. Get started now with the best free sign pdf tool online.</p>
-    `,
+    description: `<p>Tanda tangan Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can sign pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free sign pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to sign pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to sign pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to sign pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk menandatangani pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menandatangani pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menandatangani pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to sign pdf online?', answer: 'Yes, our sign pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can sign pdf as many times as you need.' },
@@ -2514,21 +2304,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'annotate pdf guide',
       'annotate pdf tutorial',
     ],
-    description: `
-      <p>Annotate Pdf free online with our powerful browser-based tool. Whether you need to annotate pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can annotate pdf no registration required, with no watermarks added. How to annotate pdf for free? Use our online tool—no software needed.</p>
-            <p>Annotate Pdf has never been easier. Get started now with the best free annotate pdf tool online.</p>
-    `,
+    description: `<p>Buat anotasi Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can annotate pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free annotate pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to annotate pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to annotate pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to annotate pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk membuat anotasi pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu memberi anotasi pada pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membuat anotasi pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to annotate pdf online?', answer: 'Yes, our annotate pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can annotate pdf as many times as you need.' },
@@ -2573,21 +2358,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'redact pdf guide',
       'redact pdf tutorial',
     ],
-    description: `
-      <p>Redact Pdf free online with our powerful browser-based tool. Whether you need to redact pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can redact pdf no registration required, with no watermarks added. How to redact pdf for free? Use our online tool—no software needed.</p>
-            <p>Redact Pdf has never been easier. Get started now with the best free redact pdf tool online.</p>
-    `,
+    description: `<p>Redit Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can redact pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free redact pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to redact pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to redact pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to redact pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk menyunting pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menyunting pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menyunting pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to redact pdf online?', answer: 'Yes, our redact pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can redact pdf as many times as you need.' },
@@ -2632,21 +2412,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'compare pdf guide',
       'compare pdf tutorial',
     ],
-    description: `
-      <p>Compare Pdf free online with our powerful browser-based tool. Whether you need to compare pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can compare pdf no registration required, with no watermarks added. How to compare pdf for free? Use our online tool—no software needed.</p>
-            <p>Compare Pdf has never been easier. Get started now with the best free compare pdf tool online.</p>
-    `,
+    description: `<p>Bandingkan Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can compare pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free compare pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to compare pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to compare pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to compare pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk membandingkan pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu membandingkan pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membandingkan pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to compare pdf online?', answer: 'Yes, our compare pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can compare pdf as many times as you need.' },
@@ -2691,21 +2466,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'bookmark pdf guide',
       'bookmark pdf tutorial',
     ],
-    description: `
-      <p>Bookmark Pdf free online with our powerful browser-based tool. Whether you need to bookmark pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can bookmark pdf no registration required, with no watermarks added. How to bookmark pdf for free? Use our online tool—no software needed.</p>
-            <p>Bookmark Pdf has never been easier. Get started now with the best free bookmark pdf tool online.</p>
-    `,
+    description: `<p>Bookmark Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can bookmark pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free bookmark pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to bookmark pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to bookmark pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to bookmark pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk menandai pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menandai pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menandai pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to bookmark pdf online?', answer: 'Yes, our bookmark pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can bookmark pdf as many times as you need.' },
@@ -2750,21 +2520,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'header footer pdf guide',
       'header footer pdf tutorial',
     ],
-    description: `
-      <p>Header Footer Pdf free online with our powerful browser-based tool. Whether you need to header footer pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can header footer pdf no registration required, with no watermarks added. How to header footer pdf for free? Use our online tool—no software needed.</p>
-            <p>Header Footer Pdf has never been easier. Get started now with the best free header footer pdf tool online.</p>
-    `,
+    description: `<p>Header Footer Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can header footer pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free header footer pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to header footer pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to header footer pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to header footer pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk membuat header footer pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu header footer pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membuat header footer pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to header footer pdf online?', answer: 'Yes, our header footer pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can header footer pdf as many times as you need.' },
@@ -2809,21 +2574,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'background pdf guide',
       'background pdf tutorial',
     ],
-    description: `
-      <p>Background Pdf free online with our powerful browser-based tool. Whether you need to background pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can background pdf no registration required, with no watermarks added. How to background pdf for free? Use our online tool—no software needed.</p>
-            <p>Background Pdf has never been easier. Get started now with the best free background pdf tool online.</p>
-    `,
+    description: `<p>Latar Belakang Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can background pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free background pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to background pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to background pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to background pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk membuat latar belakang pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menggunakan pdf latar belakang untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membuat latar belakang pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to background pdf online?', answer: 'Yes, our background pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can background pdf as many times as you need.' },
@@ -2868,21 +2628,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'bates numbering guide',
       'bates numbering tutorial',
     ],
-    description: `
-      <p>Bates Numbering free online with our powerful browser-based tool. Whether you need to bates numbering for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can bates numbering no registration required, with no watermarks added. How to bates numbering for free? Use our online tool—no software needed.</p>
-            <p>Bates Numbering has never been easier. Get started now with the best free bates numbering tool online.</p>
-    `,
+    description: `<p>Bates Numbering online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can bates numbering no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free bates numbering tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to bates numbering for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to bates numbering for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to bates numbering for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk melakukan penomoran pada laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu melakukan penomoran untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk memberi nomor pada dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to bates numbering online?', answer: 'Yes, our bates numbering tool is completely free to use. No registration, no sign-up, no credit card required. You can bates numbering as many times as you need.' },
@@ -2927,21 +2682,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to grayscale guide',
       'pdf to grayscale tutorial',
     ],
-    description: `
-      <p>Pdf To Grayscale free online with our powerful browser-based tool. Whether you need to pdf to grayscale for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to grayscale no registration required, with no watermarks added. How to pdf to grayscale for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Grayscale has never been easier. Get started now with the best free pdf to grayscale tool online.</p>
-    `,
+    description: `<p>Pdf Ke Grayscale online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to grayscale no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to grayscale tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to grayscale for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to grayscale for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to grayscale for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk membuat pdf menjadi skala abu-abu untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke skala abu-abu untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke skala abu-abu untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to grayscale online?', answer: 'Yes, our pdf to grayscale tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to grayscale as many times as you need.' },
@@ -2986,21 +2736,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'optimize pdf guide',
       'optimize pdf tutorial',
     ],
-    description: `
-      <p>Optimize Pdf free online with our advanced PDF compression tool. Reduce file size without significant quality loss. Perfect for email attachments and web optimization.</p>
-            <p>Upload your PDF file and choose compression level. You can compress PDF no registration required. The compressed PDF maintains original formatting.</p>
-            <p>All compression happens locally in your browser. How to compress PDF for free? Use our online PDF compressor.</p>
-            <p>Try our free compress PDF online tool now. The fastest and most secure way to reduce PDF file size online.</p>
-    `,
+    description: `<p>Optimalkan Pdf online gratis dengan alat kompresi PDF canggih kami.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can optimize pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free optimize pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to optimize pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to optimize pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to optimize pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengoptimalkan pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengoptimalkan pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengoptimalkan pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to optimize pdf online?', answer: 'Yes, our optimize pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can optimize pdf as many times as you need.' },
@@ -3045,21 +2790,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'form filler guide',
       'form filler tutorial',
     ],
-    description: `
-      <p>Form Filler free online with our powerful browser-based tool. Whether you need to form filler for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can form filler no registration required, with no watermarks added. How to form filler for free? Use our online tool—no software needed.</p>
-            <p>Form Filler has never been easier. Get started now with the best free form filler tool online.</p>
-    `,
+    description: `<p>Pengisi Formulir online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can form filler no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free form filler tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to form filler for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to form filler for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to form filler for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengisi laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengisi formulir pengisi untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengisi dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to form filler online?', answer: 'Yes, our form filler tool is completely free to use. No registration, no sign-up, no credit card required. You can form filler as many times as you need.' },
@@ -3104,21 +2844,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'create pdf guide',
       'create pdf tutorial',
     ],
-    description: `
-      <p>Create Pdf free online with our powerful browser-based tool. Whether you need to create pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can create pdf no registration required, with no watermarks added. How to create pdf for free? Use our online tool—no software needed.</p>
-            <p>Create Pdf has never been easier. Get started now with the best free create pdf tool online.</p>
-    `,
+    description: `<p>Buat Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can create pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free create pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to create pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to create pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to create pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk membuat pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu membuat pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membuat pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to create pdf online?', answer: 'Yes, our create pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can create pdf as many times as you need.' },
@@ -3163,21 +2898,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'merge pdf template guide',
       'merge pdf template tutorial',
     ],
-    description: `
-      <p>Merge Pdf Template free online with our powerful PDF merger tool. Combine multiple PDF documents into a single file quickly and securely. Perfect for office workers, students, and anyone who needs to merge PDF files.</p>
-            <p>Simply upload your PDF files, arrange them in your desired order using our intuitive drag-and-drop interface, and merge them into one professional document. You can merge PDF files no registration required.</p>
-            <p>All processing happens locally in your browser using WebAssembly technology, ensuring complete privacy. No files are uploaded to any server. How to merge PDF files for free? Simply use our online PDF merger.</p>
-            <p>Try our free merge PDF online tool now. Whether you need to merge PDF for work or study, our tool delivers high-quality results every time.</p>
-    `,
+    description: `<p>Gabungkan Templat Pdf online gratis dengan alat penggabungan PDF kami yang canggih.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can merge pdf template no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free merge pdf template tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to merge pdf template for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to merge pdf template for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to merge pdf template for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk menggabungkan template pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menggabungkan template pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menggabungkan templat pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to merge pdf template online?', answer: 'Yes, our merge pdf template tool is completely free to use. No registration, no sign-up, no credit card required. You can merge pdf template as many times as you need.' },
@@ -3222,21 +2952,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'split pdf template guide',
       'split pdf template tutorial',
     ],
-    description: `
-      <p>Split Pdf Template free online with our advanced PDF splitter tool. Extract specific pages, divide by page ranges, or split at every page. Perfect for extracting chapters or creating focused handouts.</p>
-            <p>Upload your PDF file, preview all pages, and choose how you want to split. You can split PDF files no registration required. Our tool can handle documents with hundreds of pages.</p>
-            <p>All splitting happens locally in your browser, ensuring your documents remain private. How to split PDF for free? Use our online PDF splitter.</p>
-            <p>Try our free split PDF online tool now. Split PDF has never been easier or more private.</p>
-    `,
+    description: `<p>Pisahkan Templat Pdf online gratis dengan alat batas PDF canggih kami.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can split pdf template no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free split pdf template tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to split pdf template for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to split pdf template for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to split pdf template for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk membagi template pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu membagi template pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membagi templat pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to split pdf template online?', answer: 'Yes, our split pdf template tool is completely free to use. No registration, no sign-up, no credit card required. You can split pdf template as many times as you need.' },
@@ -3281,21 +3006,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'encrypt pdf guide',
       'encrypt pdf tutorial',
     ],
-    description: `
-      <p>Encrypt Pdf free online with our powerful browser-based tool. Whether you need to encrypt pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can encrypt pdf no registration required, with no watermarks added. How to encrypt pdf for free? Use our online tool—no software needed.</p>
-            <p>Encrypt Pdf has never been easier. Get started now with the best free encrypt pdf tool online.</p>
-    `,
+    description: `<p>Enkripsi Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can encrypt pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free encrypt pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to encrypt pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to encrypt pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to encrypt pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengenkripsi pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengenkripsi pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengenkripsi pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to encrypt pdf online?', answer: 'Yes, our encrypt pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can encrypt pdf as many times as you need.' },
@@ -3340,21 +3060,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'decrypt pdf guide',
       'decrypt pdf tutorial',
     ],
-    description: `
-      <p>Decrypt Pdf free online with our powerful browser-based tool. Whether you need to decrypt pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can decrypt pdf no registration required, with no watermarks added. How to decrypt pdf for free? Use our online tool—no software needed.</p>
-            <p>Decrypt Pdf has never been easier. Get started now with the best free decrypt pdf tool online.</p>
-    `,
+    description: `<p>Dekripsi Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can decrypt pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free decrypt pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to decrypt pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to decrypt pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to decrypt pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk mendekripsi pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mendekripsi pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mendekripsi pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to decrypt pdf online?', answer: 'Yes, our decrypt pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can decrypt pdf as many times as you need.' },
@@ -3399,21 +3114,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'metadata pdf guide',
       'metadata pdf tutorial',
     ],
-    description: `
-      <p>Metadata Pdf free online with our powerful browser-based tool. Whether you need to metadata pdf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can metadata pdf no registration required, with no watermarks added. How to metadata pdf for free? Use our online tool—no software needed.</p>
-            <p>Metadata Pdf has never been easier. Get started now with the best free metadata pdf tool online.</p>
-    `,
+    description: `<p>Metadata Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can metadata pdf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free metadata pdf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to metadata pdf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to metadata pdf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to metadata pdf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk metadata pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali membutuhkan metadata pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk metadata pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to metadata pdf online?', answer: 'Yes, our metadata pdf tool is completely free to use. No registration, no sign-up, no credit card required. You can metadata pdf as many times as you need.' },
@@ -3458,21 +3168,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf viewer guide',
       'pdf viewer tutorial',
     ],
-    description: `
-      <p>Pdf Viewer free online with our powerful browser-based tool. Whether you need to pdf viewer for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf viewer no registration required, with no watermarks added. How to pdf viewer for free? Use our online tool—no software needed.</p>
-            <p>Pdf Viewer has never been easier. Get started now with the best free pdf viewer tool online.</p>
-    `,
+    description: `<p>Penampil PDF online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf viewer no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf viewer tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf viewer for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf viewer for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf viewer for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk melihat pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali memerlukan penampil pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk melihat pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf viewer online?', answer: 'Yes, our pdf viewer tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf viewer as many times as you need.' },
@@ -3517,21 +3222,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to html guide',
       'pdf to html tutorial',
     ],
-    description: `
-      <p>Pdf To Html free online with our powerful browser-based tool. Whether you need to pdf to html for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to html no registration required, with no watermarks added. How to pdf to html for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Html has never been easier. Get started now with the best free pdf to html tool online.</p>
-    `,
+    description: `<p>Pdf Ke Html online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to html no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to html tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to html for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to html for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to html for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke html untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke html untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke html untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to html online?', answer: 'Yes, our pdf to html tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to html as many times as you need.' },
@@ -3576,21 +3276,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to xml guide',
       'pdf to xml tutorial',
     ],
-    description: `
-      <p>Pdf To Xml free online with our powerful browser-based tool. Whether you need to pdf to xml for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to xml no registration required, with no watermarks added. How to pdf to xml for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Xml has never been easier. Get started now with the best free pdf to xml tool online.</p>
-    `,
+    description: `<p>Pdf Ke Xml online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to xml no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to xml tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to xml for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to xml for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to xml for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk pdf ke xml untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke xml untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke xml untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to xml online?', answer: 'Yes, our pdf to xml tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to xml as many times as you need.' },
@@ -3635,21 +3330,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to csv guide',
       'pdf to csv tutorial',
     ],
-    description: `
-      <p>Pdf To Csv free online with our powerful browser-based tool. Whether you need to pdf to csv for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to csv no registration required, with no watermarks added. How to pdf to csv for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Csv has never been easier. Get started now with the best free pdf to csv tool online.</p>
-    `,
+    description: `<p>Pdf Ke Csv online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to csv no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to csv tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to csv for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to csv for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to csv for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke csv untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke csv untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke csv untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to csv online?', answer: 'Yes, our pdf to csv tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to csv as many times as you need.' },
@@ -3694,21 +3384,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to rtf guide',
       'pdf to rtf tutorial',
     ],
-    description: `
-      <p>Pdf To Rtf free online with our powerful browser-based tool. Whether you need to pdf to rtf for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to rtf no registration required, with no watermarks added. How to pdf to rtf for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Rtf has never been easier. Get started now with the best free pdf to rtf tool online.</p>
-    `,
+    description: `<p>Pdf Ke Rtf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to rtf no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to rtf tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to rtf for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to rtf for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to rtf for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke rtf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke rtf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke rtf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to rtf online?', answer: 'Yes, our pdf to rtf tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to rtf as many times as you need.' },
@@ -3753,21 +3438,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to epub guide',
       'pdf to epub tutorial',
     ],
-    description: `
-      <p>Pdf To Epub free online with our powerful browser-based tool. Whether you need to pdf to epub for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to epub no registration required, with no watermarks added. How to pdf to epub for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Epub has never been easier. Get started now with the best free pdf to epub tool online.</p>
-    `,
+    description: `<p>Pdf Ke Epub online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to epub no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to epub tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to epub for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to epub for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to epub for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk pdf ke epub untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke epub untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk pdf ke epub untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to epub online?', answer: 'Yes, our pdf to epub tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to epub as many times as you need.' },
@@ -3812,21 +3492,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf compare text guide',
       'pdf compare text tutorial',
     ],
-    description: `
-      <p>Pdf Compare Text free online with our powerful browser-based tool. Whether you need to pdf compare text for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf compare text no registration required, with no watermarks added. How to pdf compare text for free? Use our online tool—no software needed.</p>
-            <p>Pdf Compare Text has never been easier. Get started now with the best free pdf compare text tool online.</p>
-    `,
+    description: `<p>Pdf Bandingkan Teks online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf compare text no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf compare text tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf compare text for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf compare text for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf compare text for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Profesional menggunakan alat kami untuk membandingkan teks dalam pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu membandingkan teks dalam pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membandingkan teks dalam pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf compare text online?', answer: 'Yes, our pdf compare text tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf compare text as many times as you need.' },
@@ -3871,21 +3546,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf redact all guide',
       'pdf redact all tutorial',
     ],
-    description: `
-      <p>Pdf Redact All free online with our powerful browser-based tool. Whether you need to pdf redact all for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf redact all no registration required, with no watermarks added. How to pdf redact all for free? Use our online tool—no software needed.</p>
-            <p>Pdf Redact All has never been easier. Get started now with the best free pdf redact all tool online.</p>
-    `,
+    description: `<p>Pdf Redact Semua online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf redact all no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf redact all tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf redact all for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf redact all for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf redact all for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk menyunting semua laporan, proposal, dan presentasi dalam pdf. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menyunting semua pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menyunting semua dokumen pribadi dalam pdf. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf redact all online?', answer: 'Yes, our pdf redact all tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf redact all as many times as you need.' },
@@ -3930,21 +3600,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf find replace guide',
       'pdf find replace tutorial',
     ],
-    description: `
-      <p>Pdf Find Replace free online with our powerful browser-based tool. Whether you need to pdf find replace for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf find replace no registration required, with no watermarks added. How to pdf find replace for free? Use our online tool—no software needed.</p>
-            <p>Pdf Find Replace has never been easier. Get started now with the best free pdf find replace tool online.</p>
-    `,
+    description: `<p>Pdf Temukan Ganti online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf find replace no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf find replace tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf find replace for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf find replace for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf find replace for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mencari pengganti laporan, proposal, dan presentasi dalam pdf. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mencari pdf pengganti untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mencari pdf pengganti dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf find replace online?', answer: 'Yes, our pdf find replace tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf find replace as many times as you need.' },
@@ -3989,21 +3654,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'pdf to images guide',
       'pdf to images tutorial',
     ],
-    description: `
-      <p>Pdf To Images free online with our powerful browser-based tool. Whether you need to pdf to images for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can pdf to images no registration required, with no watermarks added. How to pdf to images for free? Use our online tool—no software needed.</p>
-            <p>Pdf To Images has never been easier. Get started now with the best free pdf to images tool online.</p>
-    `,
+    description: `<p>Pdf Ke Gambar online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can pdf to images no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free pdf to images tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to pdf to images for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to pdf to images for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to pdf to images for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk membuat PDF menjadi gambar untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu pdf ke gambar untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk membuat pdf menjadi gambar untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to pdf to images online?', answer: 'Yes, our pdf to images tool is completely free to use. No registration, no sign-up, no credit card required. You can pdf to images as many times as you need.' },
@@ -4048,21 +3708,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'extract images guide',
       'extract images tutorial',
     ],
-    description: `
-      <p>Extract Images free online with our powerful browser-based tool. Whether you need to extract images for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can extract images no registration required, with no watermarks added. How to extract images for free? Use our online tool—no software needed.</p>
-            <p>Extract Images has never been easier. Get started now with the best free extract images tool online.</p>
-    `,
+    description: `<p>Ekstrak Gambar online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can extract images no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free extract images tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to extract images for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to extract images for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to extract images for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengekstrak gambar untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengekstraksi gambar untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengekstrak gambar untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to extract images online?', answer: 'Yes, our extract images tool is completely free to use. No registration, no sign-up, no credit card required. You can extract images as many times as you need.' },
@@ -4107,21 +3762,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'compress images guide',
       'compress images tutorial',
     ],
-    description: `
-      <p>Compress Images free online with our advanced PDF compression tool. Reduce file size without significant quality loss. Perfect for email attachments and web optimization.</p>
-            <p>Upload your PDF file and choose compression level. You can compress PDF no registration required. The compressed PDF maintains original formatting.</p>
-            <p>All compression happens locally in your browser. How to compress PDF for free? Use our online PDF compressor.</p>
-            <p>Try our free compress PDF online tool now. The fastest and most secure way to reduce PDF file size online.</p>
-    `,
+    description: `<p>Kompres Gambar online gratis dengan alat kompresi PDF canggih kami.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can compress images no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free compress images tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to compress images for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to compress images for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to compress images for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mengompresi gambar untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mengompresi gambar untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mengompresi gambar untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to compress images online?', answer: 'Yes, our compress images tool is completely free to use. No registration, no sign-up, no credit card required. You can compress images as many times as you need.' },
@@ -4166,21 +3816,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'remove blank pages guide',
       'remove blank pages tutorial',
     ],
-    description: `
-      <p>Remove Blank Pages free online with our advanced PDF splitter tool. Extract specific pages, divide by page ranges, or split at every page. Perfect for extracting chapters or creating focused handouts.</p>
-            <p>Upload your PDF file, preview all pages, and choose how you want to split. You can split PDF files no registration required. Our tool can handle documents with hundreds of pages.</p>
-            <p>All splitting happens locally in your browser, ensuring your documents remain private. How to split PDF for free? Use our online PDF splitter.</p>
-            <p>Try our free split PDF online tool now. Split PDF has never been easier or more private.</p>
-    `,
+    description: `<p>Hapus Halaman Lowongan Kerja secara online gratis dengan alat pemisah PDF canggih kami.`,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can remove blank pages no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free remove blank pages tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to remove blank pages for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to remove blank pages for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to remove blank pages for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk menghapus halaman kosong untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu menghapus halaman kosong untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk menghapus halaman kosong untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to remove blank pages online?', answer: 'Yes, our remove blank pages tool is completely free to use. No registration, no sign-up, no credit card required. You can remove blank pages as many times as you need.' },
@@ -4225,21 +3870,16 @@ export const toolContentId: Record<string, ToolContent> = {
       'detect pdf scanners guide',
       'detect pdf scanners tutorial',
     ],
-    description: `
-      <p>Detect Pdf Scanners free online with our powerful browser-based tool. Whether you need to detect pdf scanners for personal or professional use, our free online tool provides a fast, secure solution.</p>
-            <p>Simply upload your files, adjust the settings, and process your documents in seconds. All processing happens locally in your browser, ensuring complete privacy.</p>
-            <p>You can detect pdf scanners no registration required, with no watermarks added. How to detect pdf scanners for free? Use our online tool—no software needed.</p>
-            <p>Detect Pdf Scanners has never been easier. Get started now with the best free detect pdf scanners tool online.</p>
-    `,
+    description: `<p>Deteksi Pemindai Pdf online gratis dengan alat berbasis browser kami yang canggih. `,
     howToUse: [
-      { step: 1, title: 'Upload Your Files', description: 'Click the upload area or drag and drop your files. All files are processed locally in your browser, ensuring complete privacy. You can detect pdf scanners no registration, no sign-up needed.' },
-      { step: 2, title: 'Configure Settings', description: 'Adjust the tool settings to match your needs. The interface is intuitive and requires no learning curve. Our free detect pdf scanners tool gives you full control.' },
-      { step: 3, title: 'Process and Download', description: 'Click the process button and wait a few seconds. Once finished, download your processed file instantly. No email required, no watermarks.' },
+      { step: 1, title: 'Unggah File Anda', description: 'Klik area unggah atau seret dan letakkan file Anda. ' },
+      { step: 2, title: 'Konfigurasikan Pengaturan', description: 'Sesuaikan pengaturan alat agar sesuai dengan kebutuhan Anda. ' },
+      { step: 3, title: 'Proses dan Unduh', description: 'Klik tombol proses dan tunggu beberapa detik. ' },
     ],
     useCases: [
-      { title: 'For Office Work', description: 'Professionals use our tool to detect pdf scanners for reports, proposals, and presentations. Browser-based processing ensures sensitive company documents never leave your device.', icon: 'briefcase' },
-      { title: 'For Students', description: 'Students frequently need to detect pdf scanners for assignments and research papers. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
-      { title: 'For Personal Use', description: 'Anyone can use our tool to detect pdf scanners for personal documents. The simple interface makes it accessible to users of all technical levels.', icon: 'user' },
+      { title: 'Untuk Pekerjaan Kantor', description: 'Para profesional menggunakan alat kami untuk mendeteksi pemindai pdf untuk laporan, proposal, dan presentasi. ', icon: 'briefcase' },
+      { title: 'Untuk Siswa', description: 'Siswa sering kali perlu mendeteksi pemindai pdf untuk tugas dan makalah penelitian. ', icon: 'academic-cap' },
+      { title: 'Untuk Penggunaan Pribadi', description: 'Siapa pun dapat menggunakan alat kami untuk mendeteksi pemindai pdf untuk dokumen pribadi. ', icon: 'user' },
     ],
     faq: [
       { question: 'Is it really free to detect pdf scanners online?', answer: 'Yes, our detect pdf scanners tool is completely free to use. No registration, no sign-up, no credit card required. You can detect pdf scanners as many times as you need.' },
