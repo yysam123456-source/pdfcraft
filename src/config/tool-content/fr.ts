@@ -3,7 +3,7 @@ import { ToolContent } from '@/types/tool';
 export const toolContentFr: Record<string, ToolContent> = {
   'pdf-multi-tool': {
     title: 'Outil PDF Tout-en-un',
-    metaDescription: `Pdf Multi Tool gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Pdf Multi Tool gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'pdf multi tool free online',
       'pdf multi tool no registration',
@@ -62,7 +62,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'merge-pdf': {
     title: 'Fusionner PDF',
-    metaDescription: `Fusionner des PDF gratuitement en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Fusionner des PDF gratuitement en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'merge pdf free online',
       'merge pdf no registration',
@@ -121,7 +121,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'split-pdf': {
     title: 'Diviser PDF',
-    metaDescription: `Split Pdf gratuitement en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Split Pdf gratuitement en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'split pdf free online',
       'split pdf no registration',
@@ -239,7 +239,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-to-word': {
     title: 'Pdf To Word',
-    metaDescription: `Pdf To Word gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Pdf To Word gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'pdf to word free online',
       'pdf to word no registration',
@@ -298,7 +298,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-to-jpg': {
     title: 'PDF en JPG',
-    metaDescription: `Pdf To Jpg gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Pdf To Jpg gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'pdf to jpg free online',
       'pdf to jpg no registration',
@@ -357,7 +357,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-to-excel': {
     title: 'Pdf To Excel',
-    metaDescription: `Pdf To Excel gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Pdf To Excel gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'pdf to excel free online',
       'pdf to excel no registration',
@@ -416,7 +416,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-to-powerpoint': {
     title: 'Pdf To Powerpoint',
-    metaDescription: `Pdf To Powerpoint gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Pdf To Powerpoint gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'pdf to powerpoint free online',
       'pdf to powerpoint no registration',
@@ -509,10 +509,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'tutoriel pdf en texte',
     ],
     description: `
-      <p>Convertissez vos PDF en texte gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d\'extraire du texte de PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
+      <p>Convertissez vos PDF en texte gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d'extraire du texte de PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simplemente téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez convertir PDF en texte sans inscription requise, sans filigrane ajouté. Comment convertir PDF en texte gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Convertir un PDF en texte n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion PDF en texte en ligne.</p>
+      <p>Vous pouvez convertir PDF en texte sans inscription requise, sans filigrane ajouté. Comment convertir PDF en texte gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Convertir un PDF en texte n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion PDF en texte en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir PDF en texte sans inscription, aucune inscription nécessaire.' },
@@ -570,8 +570,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Convertissez Word en PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de convertir Word en PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simplemente téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez convertir Word en PDF sans inscription requise, sans filigrane ajouté. Comment convertir Word en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Convertir Word en PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion Word en PDF en ligne.</p>
+      <p>Vous pouvez convertir Word en PDF sans inscription requise, sans filigrane ajouté. Comment convertir Word en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Convertir Word en PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion Word en PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir Word en PDF sans inscription, aucune inscription nécessaire.' },
@@ -629,8 +629,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Convertissez JPG en PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de convertir JPG en PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez convertir JPG en PDF sans inscription requise, sans filigrane ajouté. Comment convertir JPG en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Convertir JPG en PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion JPG en PDF en ligne.</p>
+      <p>Vous pouvez convertir JPG en PDF sans inscription requise, sans filigrane ajouté. Comment convertir JPG en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Convertir JPG en PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion JPG en PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir JPG en PDF sans inscription, aucune inscription nécessaire.' },
@@ -688,8 +688,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Convertissez Excel en PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de convertir Excel en PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez convertir Excel en PDF sans inscription requise, sans filigrane ajouté. Comment convertir Excel en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Convertir Excel en PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion Excel en PDF en ligne.</p>
+      <p>Vous pouvez convertir Excel en PDF sans inscription requise, sans filigrane ajouté. Comment convertir Excel en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Convertir Excel en PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion Excel en PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir Excel en PDF sans inscription, aucune inscription nécessaire.' },
@@ -747,8 +747,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Convertissez PowerPoint en PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de convertir PowerPoint en PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez convertir PowerPoint en PDF sans inscription requise, sans filigrane ajouté. Comment convertir PowerPoint en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Convertir PowerPoint en PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion PowerPoint en PDF en ligne.</p>
+      <p>Vous pouvez convertir PowerPoint en PDF sans inscription requise, sans filigrane ajouté. Comment convertir PowerPoint en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Convertir PowerPoint en PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion PowerPoint en PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir PowerPoint en PDF sans inscription, aucune inscription nécessaire.' },
@@ -806,8 +806,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Convertissez du texte en PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de convertir du texte en PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez convertir du texte en PDF sans inscription requise, sans filigrane ajouté. Comment convertir du texte en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Convertir du texte en PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion de texte en PDF en ligne.</p>
+      <p>Vous pouvez convertir du texte en PDF sans inscription requise, sans filigrane ajouté. Comment convertir du texte en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Convertir du texte en PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion de texte en PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir du texte en PDF sans inscription, aucune inscription nécessaire.' },
@@ -865,8 +865,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Convertissez HTML en PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de convertir HTML en PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez convertir HTML en PDF sans inscription requise, sans filigrane ajouté. Comment convertir HTML en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Convertir HTML en PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion HTML en PDF en ligne.</p>
+      <p>Vous pouvez convertir HTML en PDF sans inscription requise, sans filigrane ajouté. Comment convertir HTML en PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Convertir HTML en PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion HTML en PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir HTML en PDF sans inscription, aucune inscription nécessaire.' },
@@ -924,8 +924,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Faites pivoter votre PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de faire pivoter un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez faire pivoter un PDF sans inscription requise, sans filigrane ajouté. Comment faire pivoter un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Faire pivoter un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de rotation PDF en ligne.</p>
+      <p>Vous pouvez faire pivoter un PDF sans inscription requise, sans filigrane ajouté. Comment faire pivoter un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Faire pivoter un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de rotation PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez faire pivoter un PDF sans inscription, aucune inscription nécessaire.' },
@@ -983,8 +983,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Débloquez des PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de débloquer un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez débloquer un PDF sans inscription requise, sans filigrane ajouté. Comment débloquer un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Débloquer un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de déblocage PDF en ligne.</p>
+      <p>Vous pouvez débloquer un PDF sans inscription requise, sans filigrane ajouté. Comment débloquer un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Débloquer un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de déblocage PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez débloquer un PDF sans inscription, aucune inscription nécessaire.' },
@@ -1042,8 +1042,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Protégez vos PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de protéger un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez protéger un PDF sans inscription requise, sans filigrane ajouté. Comment protéger un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Protéger un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de protection PDF en ligne.</p>
+      <p>Vous pouvez protéger un PDF sans inscription requise, sans filigrane ajouté. Comment protéger un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Protéger un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de protection PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez protéger un PDF sans inscription, aucune inscription nécessaire.' },
@@ -1099,10 +1099,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'tutoriel ajouter un filigrane',
     ],
     description: `
-      <p>Ajoutez un filigrane gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d\'ajouter un filigrane pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
+      <p>Ajoutez un filigrane gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d'ajouter un filigrane pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez ajouter un filigrane sans inscription requise, sans filigrane ajouté. Comment ajouter un filigrane gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Ajouter un filigrane n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit d\'ajout de filigrane en ligne.</p>
+      <p>Vous pouvez ajouter un filigrane sans inscription requise, sans filigrane ajouté. Comment ajouter un filigrane gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Ajouter un filigrane n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit d'ajout de filigrane en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez ajouter un filigrane sans inscription, aucune inscription nécessaire.' },
@@ -1160,8 +1160,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Supprimez le filigrane gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de supprimer un filigrane pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez supprimer un filigrane sans inscription requise, sans filigrane ajouté. Comment supprimer un filigrane gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Supprimer un filigrane n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de suppression de filigrane en ligne.</p>
+      <p>Vous pouvez supprimer un filigrane sans inscription requise, sans filigrane ajouté. Comment supprimer un filigrane gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Supprimer un filigrane n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de suppression de filigrane en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez supprimer un filigrane sans inscription, aucune inscription nécessaire.' },
@@ -1217,10 +1217,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'tutoriel ajouter des numéros de page',
     ],
     description: `
-      <p>Ajoutez des numéros de page gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d\'ajouter des numéros de page pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
+      <p>Ajoutez des numéros de page gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d'ajouter des numéros de page pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez ajouter des numéros de page sans inscription requise, sans filigrane ajouté. Comment ajouter des numéros de page gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Ajouter des numéros de page n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit d\'ajout de numéros de page en ligne.</p>
+      <p>Vous pouvez ajouter des numéros de page sans inscription requise, sans filigrane ajouté. Comment ajouter des numéros de page gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Ajouter des numéros de page n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit d'ajout de numéros de page en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez ajouter des numéros de page sans inscription, aucune inscription nécessaire.' },
@@ -1276,10 +1276,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'tutoriel supprimer des pages pdf',
     ],
     description: `
-      <p>Supprimez des pages de PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de supprimer des pages d\'un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
+      <p>Supprimez des pages de PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de supprimer des pages d'un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez supprimer des pages d\'un PDF sans inscription requise, sans filigrane ajouté. Comment supprimer des pages d\'un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Supprimer des pages d\'un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de suppression de pages PDF en ligne.</p>
+      <p>Vous pouvez supprimer des pages d'un PDF sans inscription requise, sans filigrane ajouté. Comment supprimer des pages d'un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Supprimer des pages d'un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de suppression de pages PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez supprimer des pages d\'un PDF sans inscription, aucune inscription nécessaire.' },
@@ -1335,10 +1335,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'tutoriel extraire des pages pdf',
     ],
     description: `
-      <p>Extrayez des pages de PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d\'extraire des pages d\'un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
+      <p>Extrayez des pages de PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d'extraire des pages d'un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez extraire des pages d\'un PDF sans inscription requise, sans filigrane ajouté. Comment extraire des pages d\'un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Extraire des pages d\'un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit d\'extraction de pages PDF en ligne.</p>
+      <p>Vous pouvez extraire des pages d'un PDF sans inscription requise, sans filigrane ajouté. Comment extraire des pages d'un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Extraire des pages d'un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit d'extraction de pages PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez extraire des pages d\'un PDF sans inscription, aucune inscription nécessaire.' },
@@ -1396,8 +1396,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Réorganisez le PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de réorganiser un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez réorganiser un PDF sans inscription requise, sans filigrane ajouté. Comment réorganiser un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Réorganiser un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de réorganisation PDF en ligne.</p>
+      <p>Vous pouvez réorganiser un PDF sans inscription requise, sans filigrane ajouté. Comment réorganiser un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Réorganiser un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de réorganisation PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez réorganiser un PDF sans inscription, aucune inscription nécessaire.' },
@@ -1453,10 +1453,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'tutoriel insérer pdf',
     ],
     description: `
-      <p>Insérez un PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d\'insérer un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
+      <p>Insérez un PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin d'insérer un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez insérer un PDF sans inscription requise, sans filigrane ajouté. Comment insérer un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Insérer un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit d\'insertion PDF en ligne.</p>
+      <p>Vous pouvez insérer un PDF sans inscription requise, sans filigrane ajouté. Comment insérer un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Insérer un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit d'insertion PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez insérer un PDF sans inscription, aucune inscription nécessaire.' },
@@ -1514,8 +1514,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Remplacez le PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de remplacer un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez remplacer un PDF sans inscription requise, sans filigrane ajouté. Comment remplacer un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Remplacer un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de remplacement PDF en ligne.</p>
+      <p>Vous pouvez remplacer un PDF sans inscription requise, sans filigrane ajouté. Comment remplacer un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Remplacer un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de remplacement PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez remplacer un PDF sans inscription, aucune inscription nécessaire.' },
@@ -1573,8 +1573,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Recadrez le PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de recadrer un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez recadrer un PDF sans inscription requise, sans filigrane ajouté. Comment recadrer un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Recadrer un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de recadrage PDF en ligne.</p>
+      <p>Vous pouvez recadrer un PDF sans inscription requise, sans filigrane ajouté. Comment recadrer un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Recadrer un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de recadrage PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez recadrer un PDF sans inscription, aucune inscription nécessaire.' },
@@ -1632,8 +1632,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Redimensionnez un PDF gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de redimensionner un PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez redimensionner un PDF sans inscription requise, sans filigrane ajouté. Comment redimensionner un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Redimensionner un PDF n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de redimensionnement PDF en ligne.</p>
+      <p>Vous pouvez redimensionner un PDF sans inscription requise, sans filigrane ajouté. Comment redimensionner un PDF gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Redimensionner un PDF n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de redimensionnement PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez redimensionner un PDF sans inscription, aucune inscription nécessaire.' },
@@ -1691,8 +1691,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Convertissez PDF en SVG gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de convertir PDF en SVG pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez convertir PDF en SVG sans inscription requise, sans filigrane ajouté. Comment convertir PDF en SVG gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Convertir PDF en SVG n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion PDF en SVG en ligne.</p>
+      <p>Vous pouvez convertir PDF en SVG sans inscription requise, sans filigrane ajouté. Comment convertir PDF en SVG gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Convertir PDF en SVG n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion PDF en SVG en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir PDF en SVG sans inscription, aucune inscription nécessaire.' },
@@ -1750,8 +1750,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     description: `
       <p>Convertissez PDF en PNG gratuitement avec notre puissant outil basé sur navigateur. Que vous ayez besoin de convertir PDF en PNG pour un usage personnel ou professionnel, notre outil en ligne gratuit offre une solution rapide et sécurisée.</p>
       <p>Simlement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement s'effectue localement dans votre navigateur, garantissant une confidentialité totale.</p>
-      <p>Vous pouvez convertir PDF en PNG sans inscription requise, sans filigrane ajouté. Comment convertir PDF en PNG gratuitement ? Utilisez notre outil en ligne - aucun logiciel n\'est nécessaire.</p>
-      <p>Convertir PDF en PNG n\'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion PDF en PNG en ligne.</p>
+      <p>Vous pouvez convertir PDF en PNG sans inscription requise, sans filigrane ajouté. Comment convertir PDF en PNG gratuitement ? Utilisez notre outil en ligne - aucun logiciel n'est nécessaire.</p>
+      <p>Convertir PDF en PNG n'a jamais été aussi facile. Commencez dès maintenant avec le meilleur outil gratuit de conversion PDF en PNG en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir PDF en PNG sans inscription, aucune inscription nécessaire.' },
@@ -1773,7 +1773,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-to-webp': {
     title: 'PDF en WebP',
-    metaDescription: `Pdf To Webp gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Pdf To Webp gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'pdf vers webp gratuit en ligne',
       'pdf vers webp sans inscription',
@@ -1810,7 +1810,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>PDF vers WebP gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir pdf en webp pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir pdf en webp sans inscription requise, sans filigrane ajouté. Comment convertir pdf en webp gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>PDF vers WebP n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil pdf vers webp gratuit en ligne.</p>
+            <p>PDF vers WebP n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil pdf vers webp gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir pdf en webp sans inscription, aucune création de compte nécessaire.' },
@@ -1832,7 +1832,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'heic-to-pdf': {
     title: 'HEIC en PDF',
-    metaDescription: `Heic To Pdf gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Heic To Pdf gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'heic en pdf gratuit en ligne',
       'heic en pdf sans inscription',
@@ -1869,7 +1869,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>HEIC en PDF gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir heic en pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir heic en pdf sans inscription requise, sans filigrane ajouté. Comment convertir heic en pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>HEIC en PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil heic en pdf gratuit en ligne.</p>
+            <p>HEIC en PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil heic en pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir heic en pdf sans inscription, aucune création de compte nécessaire.' },
@@ -1928,7 +1928,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>RAW en PDF gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir raw en pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir raw en pdf sans inscription requise, sans filigrane ajouté. Comment convertir raw en pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>RAW en PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil raw en pdf gratuit en ligne.</p>
+            <p>RAW en PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil raw en pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir raw en pdf sans inscription, aucune création de compte nécessaire.' },
@@ -1950,7 +1950,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'tiff-to-pdf': {
     title: 'TIFF en PDF',
-    metaDescription: `Tiff To Pdf gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Tiff To Pdf gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'tiff en pdf gratuit en ligne',
       'tiff en pdf sans inscription',
@@ -1987,7 +1987,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>TIFF en PDF gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir tiff en pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir tiff en pdf sans inscription requise, sans filigrane ajouté. Comment convertir tiff en pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>TIFF en PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil tiff en pdf gratuit en ligne.</p>
+            <p>TIFF en PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil tiff en pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir tiff en pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2009,7 +2009,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'svg-to-pdf': {
     title: 'SVG en PDF',
-    metaDescription: `Svg To Pdf gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Svg To Pdf gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'svg en pdf gratuit en ligne',
       'svg en pdf sans inscription',
@@ -2046,7 +2046,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>SVG en PDF gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir svg en pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir svg en pdf sans inscription requise, sans filigrane ajouté. Comment convertir svg en pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>SVG en PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil svg en pdf gratuit en ligne.</p>
+            <p>SVG en PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil svg en pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir svg en pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2068,7 +2068,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'png-to-pdf': {
     title: 'PNG en PDF',
-    metaDescription: `Png To Pdf gratuit en ligne - pas d\'inscription, pas d\'inscription. `,
+    metaDescription: `Png To Pdf gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'png en pdf gratuit en ligne',
       'png en pdf sans inscription',
@@ -2105,7 +2105,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>PNG en PDF gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir png en pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir png en pdf sans inscription requise, sans filigrane ajouté. Comment convertir png en pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>PNG en PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil png en pdf gratuit en ligne.</p>
+            <p>PNG en PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil png en pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir png en pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2164,7 +2164,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>WebP en PDF gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir webp en pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir webp en pdf sans inscription requise, sans filigrane ajouté. Comment convertir webp en pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>WebP en PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil webp en pdf gratuit en ligne.</p>
+            <p>WebP en PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil webp en pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir webp en pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2223,7 +2223,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Réparer PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de réparer pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez réparer pdf sans inscription requise, sans filigrane ajouté. Comment réparer pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Réparer PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil réparer pdf gratuit en ligne.</p>
+            <p>Réparer PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil réparer pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez réparer pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2279,10 +2279,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'ocr pdf tutoriel',
     ],
     description: `
-      <p>OCR PDF gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d\'ocr pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
+      <p>OCR PDF gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d'ocr pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez ocr pdf sans inscription requise, sans filigrane ajouté. Comment ocr pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>OCR PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil ocr pdf gratuit en ligne.</p>
+            <p>OCR PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil ocr pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez ocr pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2338,10 +2338,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'aplatir pdf tutoriel',
     ],
     description: `
-      <p>Aplatir PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d\'aplatir pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
+      <p>Aplatir PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d'aplatir pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez aplatir pdf sans inscription requise, sans filigrane ajouté. Comment aplatir pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Aplatir PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil aplatir pdf gratuit en ligne.</p>
+            <p>Aplatir PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil aplatir pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez aplatir pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2400,7 +2400,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>PDF vers PDF/A gratuit en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir pdf en pdfa pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir pdf en pdfa sans inscription requise, sans filigrane ajouté. Comment convertir pdf en pdfa gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>PDF vers PDF/A n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil pdf vers pdfa gratuit en ligne.</p>
+            <p>PDF vers PDF/A n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil pdf vers pdfa gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir pdf en pdfa sans inscription, aucune création de compte nécessaire.' },
@@ -2459,7 +2459,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Signer PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de signer pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez signer pdf sans inscription requise, sans filigrane ajouté. Comment signer pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Signer PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil signer pdf gratuit en ligne.</p>
+            <p>Signer PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil signer pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez signer pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2515,10 +2515,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'annoter pdf tutoriel',
     ],
     description: `
-      <p>Annoter PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d\'annoter pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
+      <p>Annoter PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d'annoter pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez annoter pdf sans inscription requise, sans filigrane ajouté. Comment annoter pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Annoter PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil annoter pdf gratuit en ligne.</p>
+            <p>Annoter PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil annoter pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez annoter pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2577,7 +2577,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Rédigez des PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de rédiger un pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez rédiger pdf sans inscription requise, sans filigrane ajouté. Comment rédiger un pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Rédiger un PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de rédaction pdf gratuit en ligne.</p>
+            <p>Rédiger un PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de rédaction pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez rédiger pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2636,7 +2636,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Comparez des PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de comparer pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez comparer pdf sans inscription requise, sans filigrane ajouté. Comment comparer un pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Comparer un PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de comparaison pdf gratuit en ligne.</p>
+            <p>Comparer un PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de comparaison pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez comparer pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2695,7 +2695,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Ajoutez des marque-pages PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de marquer pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez marquer pdf sans inscription requise, sans filigrane ajouté. Comment ajouter des marque-pages pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Ajouter des marque-pages PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de marque-pages pdf gratuit en ligne.</p>
+            <p>Ajouter des marque-pages PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de marque-pages pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez marquer pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2751,10 +2751,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'en-tête pdf tutoriel',
     ],
     description: `
-      <p>Ajoutez des en-têtes et pieds de page PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d\'ajouter des en-têtes pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
+      <p>Ajoutez des en-têtes et pieds de page PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d'ajouter des en-têtes pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez ajouter des en-têtes pdf sans inscription requise, sans filigrane ajouté. Comment ajouter des en-têtes pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Ajouter des en-têtes et pieds de page PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil d\'en-tête pdf gratuit en ligne.</p>
+            <p>Ajouter des en-têtes et pieds de page PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil d'en-tête pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez ajouter des en-têtes pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2810,10 +2810,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'fond pdf tutoriel',
     ],
     description: `
-      <p>Ajoutez un fond PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d\'ajouter un fond pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
+      <p>Ajoutez un fond PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin d'ajouter un fond pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez ajouter un fond pdf sans inscription requise, sans filigrane ajouté. Comment ajouter un fond pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Ajouter un fond PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de fond pdf gratuit en ligne.</p>
+            <p>Ajouter un fond PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de fond pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez ajouter un fond pdf sans inscription, aucune création de compte nécessaire.' },
@@ -2872,7 +2872,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Numérotez vos PDF avec le système Bates gratuitement en ligne grâce à notre puissant outil basé sur le navigateur. Que vous ayez besoin de numérotation Bates pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez utiliser la numérotation Bates sans inscription requise, sans filigrane ajouté. Comment numéroter Bates gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>La numérotation Bates n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de numérotation Bates gratuit en ligne.</p>
+            <p>La numérotation Bates n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de numérotation Bates gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez utiliser la numérotation Bates sans inscription, aucune création de compte nécessaire.' },
@@ -2931,7 +2931,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Convertissez PDF en niveaux de gris gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir pdf en gris pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir pdf en gris sans inscription requise, sans filigrane ajouté. Comment convertir un pdf en niveaux de gris gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Convertir un PDF en niveaux de gris n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de conversion pdf en gris gratuit en ligne.</p>
+            <p>Convertir un PDF en niveaux de gris n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de conversion pdf en gris gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir pdf en gris sans inscription, aucune création de compte nécessaire.' },
@@ -2987,7 +2987,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       'optimiser pdf tutoriel',
     ],
     description: `
-      <p>Optimisez vos PDF gratuitement en ligne avec notre puissant outil de compression PDF. Réduisez la taille des fichiers sans perte significative de qualité. Parfait pour les pièces jointes et l\'optimisation web.</p>
+      <p>Optimisez vos PDF gratuitement en ligne avec notre puissant outil de compression PDF. Réduisez la taille des fichiers sans perte significative de qualité. Parfait pour les pièces jointes et l'optimisation web.</p>
             <p>Téléchargez votre fichier PDF et choisissez le niveau de compression. Vous pouvez compresser PDF sans inscription requise. Le PDF compressé maintient la mise en forme originale.</p>
             <p>Toute la compression se déroule localement dans votre navigateur. Comment compresser un PDF gratuitement ? Utilisez notre compresser PDF en ligne.</p>
             <p>Essayez maintenant notre outil de compression PDF gratuit en ligne. Le moyen le plus rapide et le plus sécurisé pour réduire la taille des fichiers PDF en ligne.</p>
@@ -3049,7 +3049,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Remplissez des formulaires PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de remplir pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez remplir pdf sans inscription requise, sans filigrane ajouté. Comment remplir un formulaire pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Remplir des formulaires PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de remplissage pdf gratuit en ligne.</p>
+            <p>Remplir des formulaires PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de remplissage pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez remplir pdf sans inscription, aucune création de compte nécessaire.' },
@@ -3108,7 +3108,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Créez des PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de créer pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez créer pdf sans inscription requise, sans filigrane ajouté. Comment créer un pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Créer un PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de création pdf gratuit en ligne.</p>
+            <p>Créer un PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de création pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez créer pdf sans inscription, aucune création de compte nécessaire.' },
@@ -3165,8 +3165,8 @@ export const toolContentFr: Record<string, ToolContent> = {
     ],
     description: `
       <p>Fusionnez un modèle PDF gratuitement en ligne avec notre puissant outil de fusion PDF. Combinez plusieurs documents PDF en un seul fichier rapidement et en toute sécurité. Parfait pour les travailleurs de bureau, les étudiants, et tous ceux qui ont besoin de fusionner des fichiers PDF.</p>
-            <p>Simplelement téléchargez vos fichiers PDF, organisez-les dans l\'ordre désiré en utilisant notre interface intuitive de glisser-déposer, et fusionnez-les dans un document professionnel. Vous pouvez fusionner des fichiers PDF sans inscription requise.</p>
-            <p>Tout le traitement se déroule localement dans votre navigateur en utilisant la technologie WebAssembly, garantissant une confidentialité totale. Aucun fichier n\'est téléversé sur aucun serveur. Comment fusionner des fichiers PDF gratuitement ? Utilisez notre fusion PDF en ligne.</p>
+            <p>Simplelement téléchargez vos fichiers PDF, organisez-les dans l'ordre désiré en utilisant notre interface intuitive de glisser-déposer, et fusionnez-les dans un document professionnel. Vous pouvez fusionner des fichiers PDF sans inscription requise.</p>
+            <p>Tout le traitement se déroule localement dans votre navigateur en utilisant la technologie WebAssembly, garantissant une confidentialité totale. Aucun fichier n'est téléversé sur aucun serveur. Comment fusionner des fichiers PDF gratuitement ? Utilisez notre fusion PDF en ligne.</p>
             <p>Essayez maintenant notre outil de fusion PDF gratuit en ligne. Que vous ayez besoin de fusionner PDF pour le travail ou les études, notre outil livre des résultats de haute qualité à chaque fois.</p>
     `,
     howToUse: [
@@ -3226,7 +3226,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Divisez un modèle PDF gratuitement en ligne avec notre puissant outil de division PDF. Extrayez des pages spécifiques, divisez par plages de pages, ou divisez à chaque page. Parfait pour extraire des chapitres ou créer des fascicules ciblés.</p>
             <p>Téléchargez votre fichier PDF, prévisualisez toutes les pages, et choisissez comment vous voulez diviser. Vous pouvez diviser des fichiers PDF sans inscription requise. Notre outil peut gérer des documents avec des centaines de pages.</p>
             <p>Toute la division se déroule localement dans votre navigateur, garantissant que vos documents restent privés. Comment diviser un PDF gratuitement ? Utilisez notre diviseur PDF en ligne.</p>
-            <p>Essayez maintenant notre outil de division PDF gratuit en ligne. Diviser un PDF n\'a jamais été aussi facile ou plus privé.</p>
+            <p>Essayez maintenant notre outil de division PDF gratuit en ligne. Diviser un PDF n'a jamais été aussi facile ou plus privé.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez diviser pdf modèle sans inscription, aucune création de compte nécessaire.' },
@@ -3285,7 +3285,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Chiffrez vos PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de chiffrer pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez chiffrer pdf sans inscription requise, sans filigrane ajouté. Comment chiffrer un pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Chiffrer un PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de chiffrage pdf gratuit en ligne.</p>
+            <p>Chiffrer un PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de chiffrage pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez chiffrer pdf sans inscription, aucune création de compte nécessaire.' },
@@ -3344,7 +3344,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Déchiffrez vos PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de déchiffrer pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez déchiffrer pdf sans inscription requise, sans filigrane ajouté. Comment déchiffrer un pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Déchiffrer un PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de déchiffrage pdf gratuit en ligne.</p>
+            <p>Déchiffrer un PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de déchiffrage pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez déchiffrer pdf sans inscription, aucune création de compte nécessaire.' },
@@ -3403,7 +3403,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Gérez les métadonnées PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de gérer les métadonnées pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez gérer les métadonnées pdf sans inscription requise, sans filigrane ajouté. Comment gérer les métadonnées pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Gérer les métadonnées PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de gestion métadonnées pdf gratuit en ligne.</p>
+            <p>Gérer les métadonnées PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de gestion métadonnées pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez gérer les métadonnées pdf sans inscription, aucune création de compte nécessaire.' },
@@ -3462,7 +3462,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Visionnez des PDF gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de visionner pdf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez visionner pdf sans inscription requise, sans filigrane ajouté. Comment visionner un pdf gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Visionner un PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de visionnage pdf gratuit en ligne.</p>
+            <p>Visionner un PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de visionnage pdf gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez visionner pdf sans inscription, aucune création de compte nécessaire.' },
@@ -3521,7 +3521,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Convertissez PDF en HTML gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir pdf en html pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir pdf en html sans inscription requise, sans filigrane ajouté. Comment convertir un pdf en html gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Convertir un PDF en HTML n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de conversion pdf en html gratuit en ligne.</p>
+            <p>Convertir un PDF en HTML n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de conversion pdf en html gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir pdf en html sans inscription, aucune création de compte nécessaire.' },
@@ -3580,7 +3580,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Convertissez PDF en XML gratuitement en ligne avec notre puissant outil basé sur le navigateur. Que vous ayez besoin de convertir pdf en xml pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simplelement téléchargez vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité totale.</p>
             <p>Vous pouvez convertir pdf en xml sans inscription requise, sans filigrane ajouté. Comment convertir un pdf en xml gratuitement ? Utilisez notre outil en ligne - aucun logiciel nécessaire.</p>
-            <p>Convertir un PDF en XML n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de conversion pdf en xml gratuit en ligne.</p>
+            <p>Convertir un PDF en XML n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil de conversion pdf en xml gratuit en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité totale. Vous pouvez convertir pdf en xml sans inscription, aucune création de compte nécessaire.' },
@@ -3639,7 +3639,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>PDF vers CSV gratuit en ligne avec notre outil puissant basé sur navigateur. Que vous ayez besoin de convertir pdf en csv pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
       <p>Simpleez téléchargez vos fichiers, ajustez les paramètres et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité complète.</p>
       <p>Vous pouvez convertir pdf en csv sans inscription requise, sans filigrane ajouté. Comment convertir pdf en csv gratuitement ? Utilisez notre outil en ligne—aucun logiciel nécessaire.</p>
-      <p>PDF vers CSV n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit pdf vers csv en ligne.</p>
+      <p>PDF vers CSV n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit pdf vers csv en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou faites glisser et déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez convertir pdf en csv sans inscription, aucune inscription nécessaire.' },
@@ -3661,7 +3661,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-to-rtf': {
     title: 'PDF vers RTF',
-    metaDescription: `PDF vers RTF gratuit en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur. Utilisez notre outil en ligne gratuit pour convertir pdf en rtf rapidement.`,
+    metaDescription: `PDF vers RTF gratuit en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur. Utilisez notre outil en ligne gratuit pour convertir pdf en rtf rapidement.`,
     keywords: [
       'pdf vers rtf gratuit en ligne',
       'pdf vers rtf sans inscription',
@@ -3698,7 +3698,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>PDF vers RTF gratuit en ligne avec notre outil puissant basé sur navigateur. Que vous ayez besoin de convertir pdf en rtf pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
       <p>Simpleez téléchargez vos fichiers, ajustez les paramètres et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité complète.</p>
       <p>Vous pouvez convertir pdf en rtf sans inscription requise, sans filigrane ajouté. Comment convertir pdf en rtf gratuitement ? Utilisez notre outil en ligne—aucun logiciel nécessaire.</p>
-      <p>PDF vers RTF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit pdf vers rtf en ligne.</p>
+      <p>PDF vers RTF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit pdf vers rtf en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou faites glisser et déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez convertir pdf en rtf sans inscription, aucune inscription nécessaire.' },
@@ -3720,7 +3720,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-to-epub': {
     title: 'PDF vers EPUB',
-    metaDescription: `PDF vers EPUB gratuit en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur. Utilisez notre outil en ligne gratuit pour convertir pdf en epub rapidement.`,
+    metaDescription: `PDF vers EPUB gratuit en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur. Utilisez notre outil en ligne gratuit pour convertir pdf en epub rapidement.`,
     keywords: [
       'pdf vers epub gratuit en ligne',
       'pdf vers epub sans inscription',
@@ -3757,7 +3757,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>PDF vers EPUB gratuit en ligne avec notre outil puissant basé sur navigateur. Que vous ayez besoin de convertir pdf en epub pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
       <p>Simpleez téléchargez vos fichiers, ajustez les paramètres et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité complète.</p>
       <p>Vous pouvez convertir pdf en epub sans inscription requise, sans filigrane ajouté. Comment convertir pdf en epub gratuitement ? Utilisez notre outil en ligne—aucun logiciel nécessaire.</p>
-      <p>PDF vers EPUB n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit pdf vers epub en ligne.</p>
+      <p>PDF vers EPUB n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit pdf vers epub en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Téléchargez vos fichiers', description: 'Cliquez sur la zone de téléchargement ou faites glisser et déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez convertir pdf en epub sans inscription, aucune inscription nécessaire.' },
@@ -3779,7 +3779,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-compare-text': {
     title: 'Comparer le Texte PDF',
-    metaDescription: `Comparer le texte PDF gratuitement en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur. Utilisez notre outil en ligne gratuit pour comparer le texte PDF`,
+    metaDescription: `Comparer le texte PDF gratuitement en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur. Utilisez notre outil en ligne gratuit pour comparer le texte PDF`,
     keywords: [
       'comparer texte pdf gratuit en ligne',
       'comparer texte pdf sans inscription',
@@ -3816,7 +3816,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Comparez le texte PDF gratuitement en ligne avec notre outil puissant basé sur le navigateur. Que vous ayez besoin de comparer du texte PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simple upload vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité complète.</p>
             <p>Vous pouvez comparer du texte PDF sans inscription requise, sans filigrane ajouté. Comment comparer du texte PDF gratuitement ? Utilisez notre outil en ligne—aucun logiciel requis.</p>
-            <p>Comparer du texte PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de comparaison de texte PDF en ligne.</p>
+            <p>Comparer du texte PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de comparaison de texte PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger Vos Fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez comparer du texte PDF sans inscription, pas d\'inscription nécessaire.' },
@@ -3838,7 +3838,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-redact-all': {
     title: 'Rédacter Tout PDF',
-    metaDescription: `Rédacter tout PDF gratuitement en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
+    metaDescription: `Rédacter tout PDF gratuitement en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
     keywords: [
       'pdf rédaction tout gratuit en ligne',
       'pdf rédaction tout sans inscription',
@@ -3875,7 +3875,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Rédactez tout PDF gratuitement en ligne avec notre outil puissant basé sur le navigateur. Que vous ayez besoin de tout rédacter PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simple upload vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité complète.</p>
             <p>Vous pouvez tout rédacter PDF sans inscription requise, sans filigrane ajouté. Comment tout rédacter PDF gratuitement ? Utilisez notre outil en ligne—aucun logiciel requis.</p>
-            <p>Rédacter tout PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de rédaction totale PDF en ligne.</p>
+            <p>Rédacter tout PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de rédaction totale PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger Vos Fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez tout rédacter PDF sans inscription, pas d\'inscription nécessaire.' },
@@ -3897,7 +3897,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-find-replace': {
     title: 'Trouver et Remplacer PDF',
-    metaDescription: `Trouver et remplacer PDF gratuitement en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
+    metaDescription: `Trouver et remplacer PDF gratuitement en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
     keywords: [
       'pdf trouver remplacer gratuit en ligne',
       'pdf trouver remplacer sans inscription',
@@ -3934,7 +3934,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Trouvez et remplacez PDF gratuitement en ligne avec notre outil puissant basé sur le navigateur. Que vous ayez besoin de trouver et remplacer PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simple upload vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité complète.</p>
             <p>Vous pouvez trouver et remplacer PDF sans inscription requise, sans filigrane ajouté. Comment trouver et remplacer PDF gratuitement ? Utilisez notre outil en ligne—aucun logiciel requis.</p>
-            <p>Trouver et remplacer PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de recherche et remplacement PDF en ligne.</p>
+            <p>Trouver et remplacer PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de recherche et remplacement PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger Vos Fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez trouver et remplacer PDF sans inscription, pas d\'inscription nécessaire.' },
@@ -3956,7 +3956,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'pdf-to-images': {
     title: 'PDF vers Images',
-    metaDescription: `PDF vers images gratuitement en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
+    metaDescription: `PDF vers images gratuitement en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
     keywords: [
       'pdf vers images gratuit en ligne',
       'pdf vers images sans inscription',
@@ -3993,7 +3993,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Convertissez PDF en images gratuitement en ligne avec notre outil puissant basé sur le navigateur. Que vous ayez besoin de convertir PDF en images pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simple upload vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité complète.</p>
             <p>Vous pouvez convertir PDF en images sans inscription requise, sans filigrane ajouté. Comment convertir PDF en images gratuitement ? Utilisez notre outil en ligne—aucun logiciel requis.</p>
-            <p>Convertir PDF en images n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de conversion PDF en images en ligne.</p>
+            <p>Convertir PDF en images n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de conversion PDF en images en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger Vos Fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez convertir PDF en images sans inscription, pas d\'inscription nécessaire.' },
@@ -4015,7 +4015,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'extract-images': {
     title: 'Extraire des Images',
-    metaDescription: `Extraire des images gratuitement en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
+    metaDescription: `Extraire des images gratuitement en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
     keywords: [
       'extraire des images gratuit en ligne',
       'extraire des images sans inscription',
@@ -4049,10 +4049,10 @@ export const toolContentFr: Record<string, ToolContent> = {
       'tutoriel extraire des images',
     ],
     description: `
-      <p>Extrayez des images gratuitement en ligne avec notre outil puissant basé sur le navigateur. Que vous ayez besoin d\'extraire des images pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
+      <p>Extrayez des images gratuitement en ligne avec notre outil puissant basé sur le navigateur. Que vous ayez besoin d'extraire des images pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simple upload vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité complète.</p>
             <p>Vous pouvez extraire des images sans inscription requise, sans filigrane ajouté. Comment extraire des images gratuitement ? Utilisez notre outil en ligne—aucun logiciel requis.</p>
-            <p>Extraire des images n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit d\'extraction d\'images en ligne.</p>
+            <p>Extraire des images n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit d'extraction d'images en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger Vos Fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez extraire des images sans inscription, pas d\'inscription nécessaire.' },
@@ -4074,7 +4074,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'compress-images': {
     title: 'Compresser des Images',
-    metaDescription: `Compresser des images gratuitement en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
+    metaDescription: `Compresser des images gratuitement en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
     keywords: [
       'compress images free online',
       'compress images no registration',
@@ -4108,8 +4108,8 @@ export const toolContentFr: Record<string, ToolContent> = {
       'compress images tutorial',
     ],
     description: `
-      <p>Compressez des images gratuitement en ligne avec notre outil avancé de compression PDF. Réduisez la taille du fichier sans perte de qualité significative. Parfait pour les pièces jointes et l\'optimisation Web.</p>
-            <p>Téléchargez votre fichier PDF et choisissez le niveu de compression. Vous pouvez compresser PDF sans inscription requise. Le PDF compressé maintient la mise en forme d\'origine.</p>
+      <p>Compressez des images gratuitement en ligne avec notre outil avancé de compression PDF. Réduisez la taille du fichier sans perte de qualité significative. Parfait pour les pièces jointes et l'optimisation Web.</p>
+            <p>Téléchargez votre fichier PDF et choisissez le niveu de compression. Vous pouvez compresser PDF sans inscription requise. Le PDF compressé maintient la mise en forme d'origine.</p>
             <p>Toute la compression se déroule localement dans votre navigateur. Comment compresser PDF gratuitement ? Utilisez notre compresseur PDF en ligne.</p>
             <p>Essayer notre outil gratuit de compression PDF en ligne maintenant. Le moyen le plus rapide et le plus sécurisé pour réduire la taille du fichier PDF en ligne.</p>
     `,
@@ -4133,7 +4133,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'remove-blank-pages': {
     title: 'Supprimer les Pages Vierges',
-    metaDescription: `Supprimer les pages vierges gratuitement en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
+    metaDescription: `Supprimer les pages vierges gratuitement en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
     keywords: [
       'remove blank pages free online',
       'remove blank pages no registration',
@@ -4170,7 +4170,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Supprimez les pages vierges gratuitement en ligne avec notre outil puissant de suppression de pages vierges. Extrayez des pages spécifiques, divisez par plages de pages, ou divisez à chaque page. Parfait pour extraire des chapitres ou créer des fascicules concentrés.</p>
             <p>Téléchargez votre fichier PDF, prévisualisez toutes les pages, et choisissez comment vous voulez diviser. Vous pouvez diviser des fichiers PDF sans inscription requise. Notre outil peut gérer des documents avec des centaines de pages.</p>
             <p>Toute la division se déroule localement dans votre navigateur, garantissant que vos documents restent privés. Comment diviser PDF gratuitement ? Utilisez notre diviseur PDF en ligne.</p>
-            <p>Essayer notre outil gratuit de division PDF en ligne maintenant. Diviser PDF n\'a jamais été aussi facile ou plus privé.</p>
+            <p>Essayer notre outil gratuit de division PDF en ligne maintenant. Diviser PDF n'a jamais été aussi facile ou plus privé.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger Vos Fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez supprimer les pages vierges sans inscription, pas d\'inscription nécessaire.' },
@@ -4192,7 +4192,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'detect-pdf-scanners': {
     title: 'Détecter les Scanners PDF',
-    metaDescription: `Détecter les scanners PDF gratuitement en ligne - pas d\'inscription, pas d\'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
+    metaDescription: `Détecter les scanners PDF gratuitement en ligne - pas d'inscription, pas d'inscription. Traitez vos fichiers PDF en toute sécurité dans votre navigateur.`,
     keywords: [
       'detect pdf scanners free online',
       'detect pdf scanners no registration',
@@ -4229,7 +4229,7 @@ export const toolContentFr: Record<string, ToolContent> = {
       <p>Détectez les scanners PDF gratuitement en ligne avec notre outil puissant basé sur le navigateur. Que vous ayez besoin de détecter les scanners PDF pour un usage personnel ou professionnel, notre outil en ligne gratuit fournit une solution rapide et sécurisée.</p>
             <p>Simple upload vos fichiers, ajustez les paramètres, et traitez vos documents en quelques secondes. Tout le traitement se déroule localement dans votre navigateur, garantissant une confidentialité complète.</p>
             <p>Vous pouvez détecter les scanners PDF sans inscription requise, sans filigrane ajouté. Comment détecter les scanners PDF gratuitement ? Utilisez notre outil en ligne—aucun logiciel requis.</p>
-            <p>Détecter les scanners PDF n\'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de détection de scanners PDF en ligne.</p>
+            <p>Détecter les scanners PDF n'a jamais été aussi facile. Commencez maintenant avec le meilleur outil gratuit de détection de scanners PDF en ligne.</p>
     `,
     howToUse: [
       { step: 1, title: 'Télécharger Vos Fichiers', description: 'Cliquez sur la zone de téléchargement ou glissez-déposez vos fichiers. Tous les fichiers sont traités localement dans votre navigateur, garantissant une confidentialité complète. Vous pouvez détecter les scanners PDF sans inscription, pas d\'inscription nécessaire.' },
