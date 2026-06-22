@@ -1832,7 +1832,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'heic-to-pdf': {
     title: 'HEIC en PDF',
-    metaDescription: `Heic To Pdf gratuit en ligne - pas d'inscription, pas d'inscription. `,
+    metaDescription: `HEIC en PDF gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'heic en pdf gratuit en ligne',
       'heic en pdf sans inscription',
@@ -1950,7 +1950,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'tiff-to-pdf': {
     title: 'TIFF en PDF',
-    metaDescription: `Tiff To Pdf gratuit en ligne - pas d'inscription, pas d'inscription. `,
+    metaDescription: `TIFF en PDF gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'tiff en pdf gratuit en ligne',
       'tiff en pdf sans inscription',
@@ -2009,7 +2009,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'svg-to-pdf': {
     title: 'SVG en PDF',
-    metaDescription: `Svg To Pdf gratuit en ligne - pas d'inscription, pas d'inscription. `,
+    metaDescription: `SVG en PDF gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'svg en pdf gratuit en ligne',
       'svg en pdf sans inscription',
@@ -2068,7 +2068,7 @@ export const toolContentFr: Record<string, ToolContent> = {
   },
   'png-to-pdf': {
     title: 'PNG en PDF',
-    metaDescription: `Png To Pdf gratuit en ligne - pas d'inscription, pas d'inscription. `,
+    metaDescription: `PNG en PDF gratuit en ligne - pas d'inscription, pas d'inscription. `,
     keywords: [
       'png en pdf gratuit en ligne',
       'png en pdf sans inscription',
