@@ -1,7 +1,7 @@
 import { ToolContent } from '@/types/tool';
 
 export const toolContentRo: Record<string, ToolContent> = {
-  'pdf-instrument multiplu': {
+  'pdf-multi-tool': {
     title: 'Instrument multiplu pdf',
     metaDescription: 'Pdf Multi Tool gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a pdf instrument multiplu',
     keywords: [
@@ -163,7 +163,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'compres-pdf': {
+  'compress-pdf': {
     title: 'Comprimați PDF',
     metaDescription: 'Comprimați PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a comprima rapid pdf',
     keywords: [
@@ -541,7 +541,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'jpg-în-pdf': {
+  'jpg-to-pdf': {
     title: 'Jpg În Pdf',
     metaDescription: 'Jpg To Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a jpg în pdf rapid',
     keywords: [
@@ -811,7 +811,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'roti-pdf': {
+  'rotate-pdf': {
     title: 'Rotiți PDF',
     metaDescription: 'Rotiți PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a roti pdf-ul rapid',
     keywords: [
@@ -865,7 +865,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'debloca-pdf': {
+  'unlock-pdf': {
     title: 'Deblocați PDF',
     metaDescription: 'Deblocați PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a debloca pdf-ul rapid',
     keywords: [
@@ -973,7 +973,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'adaugă-filigran': {
+  'add-watermark': {
     title: 'Adăugați filigran',
     metaDescription: 'Adaugă Watermark gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a adăuga filigran qu',
     keywords: [
@@ -1027,7 +1027,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'elimina-filigran': {
+  'remove-watermark': {
     title: 'Eliminați filigran',
     metaDescription: 'Eliminați Watermark gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a elimina waterm',
     keywords: [
@@ -1135,7 +1135,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'elimina-pagini': {
+  'remove-pages': {
     title: 'Eliminați pagini',
     metaDescription: 'Eliminați pagini online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a elimina rapid paginile',
     keywords: [
@@ -1189,7 +1189,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'extrase-pagini': {
+  'extract-pages': {
     title: 'Extrage pagini',
     metaDescription: 'Extrage pagini online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a extrage paginile qu',
     keywords: [
@@ -1243,7 +1243,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'reorganiza-pdf': {
+  'reorganize-pdf': {
     title: 'Reorganiza Pdf',
     metaDescription: 'Reorganizați PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a reorganiza pdf-ul',
     keywords: [
@@ -1351,7 +1351,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'înlocuiți-pdf': {
+  'replace-pdf': {
     title: 'Înlocuiește PDF',
     metaDescription: 'Înlocuiți PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a înlocui pdf quickl',
     keywords: [
@@ -1459,7 +1459,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'redimensionare-pdf': {
+  'resize-pdf': {
     title: 'Redimensionează PDF',
     metaDescription: 'Redimensionați PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a redimensiona pdf-ul rapid',
     keywords: [
@@ -1891,7 +1891,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'png-în-pdf': {
+  'png-to-pdf': {
     title: 'Png În Pdf',
     metaDescription: 'Png To Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a PNG în pdf rapid',
     keywords: [
@@ -1999,7 +1999,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'reparatie-pdf': {
+  'repair-pdf': {
     title: 'Reparatie PDF',
     metaDescription: 'Reparați PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a repara rapid pdf-ul',
     keywords: [
@@ -2107,7 +2107,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'aplatiza-pdf': {
+  'flaten-pdf': {
     title: 'Flaten Pdf',
     metaDescription: 'Flaten Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a aplatiza pdf-ul rapid',
     keywords: [
@@ -2215,7 +2215,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'semn-pdf': {
+  'sign-pdf': {
     title: 'Semnează Pdf',
     metaDescription: 'Semnează PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a semna pdf rapid și',
     keywords: [
@@ -2269,7 +2269,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'adnotare-pdf': {
+  'annotate-pdf': {
     title: 'Adnotare Pdf',
     metaDescription: 'Adnotare Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a adnota rapid pdf',
     keywords: [
@@ -2323,7 +2323,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'redactare-pdf': {
+  'redact-pdf': {
     title: 'Redact Pdf',
     metaDescription: 'Redact Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a redacta pdf rapid',
     keywords: [
@@ -2377,7 +2377,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'compara-pdf': {
+  'compare-pdf': {
     title: 'Compara Pdf',
     metaDescription: 'Comparați PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a compara pdf quickl',
     keywords: [
@@ -2431,7 +2431,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'marcaj-pdf': {
+  'bookmark-pdf': {
     title: 'Semn de carte Pdf',
     metaDescription: 'Bookmark Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a marca pdf quic',
     keywords: [
@@ -2485,7 +2485,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'antet-subsol-pdf': {
+  'header-footer-pdf': {
     title: 'Antet Subsol Pdf',
     metaDescription: 'Header Footer Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Folosiți instrumentul nostru online gratuit pentru a face un antet subsol',
     keywords: [
@@ -2539,7 +2539,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'fundal-pdf': {
+  'background-pdf': {
     title: 'Pdf de fundal',
     metaDescription: 'Pdf de fundal online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a crea un fundal pdf',
     keywords: [
@@ -2593,7 +2593,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'bates-numerotare': {
+  'bates-numbering': {
     title: 'Numerotarea Bates',
     metaDescription: 'Bates Numbering gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a reduce numărul',
     keywords: [
@@ -2701,7 +2701,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'optimiza-pdf': {
+  'optimize-pdf': {
     title: 'Optimizați PDF',
     metaDescription: 'Optimize Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a optimiza pdf quic',
     keywords: [
@@ -2809,7 +2809,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'creați-pdf': {
+  'create-pdf': {
     title: 'Creați PDF',
     metaDescription: 'Creați PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a crea rapid pdf',
     keywords: [
@@ -2971,7 +2971,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'criptare-pdf': {
+  'encrypt-pdf': {
     title: 'Criptează PDF',
     metaDescription: 'Encrypt Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a cripta pdf quickl',
     keywords: [
@@ -3025,7 +3025,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'decriptare-pdf': {
+  'decrypt-pdf': {
     title: 'Decriptează PDF',
     metaDescription: 'Decrypt Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a decripta pdf quickl',
     keywords: [
@@ -3079,7 +3079,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'metadate-pdf': {
+  'metadata-pdf': {
     title: 'Metadate Pdf',
     metaDescription: 'Metadate Pdf online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Folosiți instrumentul nostru online gratuit pentru a metadate pdf rapid',
     keywords: [
@@ -3457,7 +3457,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'pdf-compara-text': {
+  'pdf-compare-text': {
     title: 'Pdf Compara Text',
     metaDescription: 'Pdf Compare Text gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a compara pdf',
     keywords: [
@@ -3511,7 +3511,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'pdf-redact-toate': {
+  'pdf-redact-all': {
     title: 'Pdf Redact All',
     metaDescription: 'Pdf Redact All free online - no registration, no sign-up. Process your PDF files securely in your browser. Use our free online tool to pdf redact all ',
     keywords: [
@@ -3565,7 +3565,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'pdf-găsește-înlocuiește': {
+  'pdf-find-replace': {
     title: 'Pdf Găsiți Înlocuiește',
     metaDescription: 'Pdf Găsiți înlocuiți gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a găsi repl',
     keywords: [
@@ -3673,7 +3673,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'extrage-imagini': {
+  'extract-images': {
     title: 'Extrage imagini',
     metaDescription: 'Extrage imagini online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a extrage imagini',
     keywords: [
@@ -3781,7 +3781,7 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
-  'elimina-pagini-albe': {
+  'remove-blank-pages': {
     title: 'Eliminați paginile goale',
     metaDescription: 'Eliminați paginile goale online gratuit - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. Utilizați instrumentul nostru online gratuit pentru a elimina blan',
     keywords: [
@@ -3886,6 +3886,183 @@ export const toolContentRo: Record<string, ToolContent> = {
       { question: 'Is it safe to detect pdf scanners online?', answer: 'Absolut. Toate procesarea scanerelor PDF de detectare are loc local în browserul dvs. Fișierele dvs. nu părăsesc dispozitivul și nu sunt încărcate niciodată pe niciun server.' },
       { question: 'Trebuie să instalez software pentru a detecta scanere PDF?', answer: 'Nu este necesară instalarea de software. Instrumentul nostru de detectare a scanerelor PDF rulează în întregime în browserul dvs. web. Funcționează pe Windows, Mac, Linux și dispozitive mobile.' },
       { question: 'Există limite pentru dimensiunea fișierului sau numărul de fișiere?', answer: 'Our tool supports processing multiple files with a combined size of up to 500MB. There are no daily usage limits or paywalls.' },
+      { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
+    ],
+  },
+'add-page-numbers': {
+    title: 'Adăugați numere de pagină',
+    metaDescription: 'Adăugați numere de pagină gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. ',
+    keywords: [
+      'adăugați numere de pagină gratuit online',
+      'adăugați numere de pagină fără înregistrare',
+      'adăugați numere de pagină fără înscriere',
+      'adăugați numere de pagină fără filigran',
+      'adăugați numere de pagină bazat pe browser',
+      'adăugați numere de pagină pentru lucru',
+      'adăugați numere de pagină pentru studenți',
+      'cel mai bun instrument pentru numere de pagină',
+      'cum să adăugați numere de pagină',
+      'adăugați numere de pagină online gratuit',
+      'adăugați numere de pagină fără software',
+      'adăugați numere de pagină concentrat pe confidențialitate',
+      'adăugați numere de pagină securizat',
+      'adăugați numere de pagină rapid',
+      'instrument gratuit pentru numere de pagină',
+      'adăugați numere de pagină online gratuit',
+      'instrument pentru numere de pagină online',
+      'adăugați numere de pagină gratuit',
+      'adăugați numere de pagină fără descărcare',
+      'adăugați numere de pagină bazat pe web',
+      'adăugați numere de pagină open source',
+      'adăugați numere de pagină wasm',
+      'adăugați numere de pagină partea client',
+      'adăugați numere de pagină fără încărcare',
+      'adăugați numere de pagină instantaneu',
+      'adăugați numere de pagină înaltă calitate',
+      'adăugați numere de pagină fără limită',
+      'adăugați numere de pagină 2025',
+      'ghid pentru numere de pagină',
+      'tutorial pentru numere de pagină',
+    ],
+    description: `
+      <p>Adăugați numere de pagină gratuit online cu instrumentul nostru puternic bazat pe browser. Fie că aveți nevoie să adăugați numere de pagină pentru uz personal sau profesional, instrumentul nostru online gratuit oferă o soluție rapidă și sigură.</p>
+      <p>Încărcați fișierele, ajustați setările și procesați documentele în secunde. Tot procesarea are loc local în browserul dvs., asigurând confidențialitate completă.</p>
+      <p>Puteți adăuga numere de pagină fără înregistrare necesară, fără filigrane adăugate. Cum să adăugați numere de pagină gratuit? Utilizați instrumentul nostru online - nu este necesar software.</p>
+      <p>Adăugarea numerelor de pagină nu a fost niciodată mai ușoară. Începeți acum cu cel mai bun instrument gratuit pentru numere de pagină online.</p>
+    `,
+    howToUse: [
+      { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți adăuga numere de pagină fără înregistrare, nu este necesară înregistrarea.' },
+      { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pentru numere de pagină vă oferă control deplin.' },
+      { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
+    ],
+    useCases: [
+      { title: 'Pentru munca de birou', description: 'Profesioniștii folosesc instrumentul nostru pentru a adăuga numere de pagină pentru rapoarte, propuneri și prezentări. Procesarea bazată pe browser asigură că documentele sensibile ale companiei nu părăsesc dispozitivul dvs.', icon: 'briefcase' },
+      { title: 'Pentru Studenți', description: 'Elevii au adesea nevoie să adauge numere de pagină pentru teme și lucrări de cercetare. Instrumentul nostru gratuit vă ajută fără a plăti pentru abonamente scumpe software.', icon: 'academic-cap' },
+      { title: 'Pentru uz personal', description: 'Oricine poate folosi instrumentul nostru pentru a adăuga numere de pagină pentru documente personale. Interfața simplă îl face accesibil utilizatorilor de toate nivelurile tehnice.', icon: 'user' },
+    ],
+    faq: [
+      { question: 'Este într-adevăr gratuit să adăugați numere de pagină online?', answer: 'Da, instrumentul nostru pentru numere de pagină este complet gratuit de utilizat. Fără înregistrare, fără înscriere, fără card de credit necesar. Puteți adăuga numere de pagină de câte ori aveți nevoie.' },
+      { question: 'Este sigur să adăugați numere de pagină online?', answer: 'Absolut. Tot procesarea adăugării numerelor de pagină are loc local în browserul dvs. Fișierele dvs. nu părăsesc dispozitivul și nu sunt încărcate niciodată pe niciun server.' },
+      { question: 'Trebuie să instalez software pentru a adăuga numere de pagină?', answer: 'Nu este necesară instalarea de software. Instrumentul nostru pentru numere de pagină rulează în întregime în browserul dvs. web. Funcționează pe Windows, Mac, Linux și dispozitive mobile.' },
+      { question: 'Există limite pentru dimensiunea fișierului sau numărul de fișiere?', answer: 'Instrumentul nostru acceptă procesarea mai multor fișiere cu o dimensiune totală de până la 500 MB. Nu există limite de utilizare zilnică sau paywall-uri.' },
+      { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
+    ],
+  },
+'form-filler': {
+    title: 'Completarea formularelor',
+    metaDescription: 'Completați formulare PDF gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. ',
+    keywords: [
+      'completați formulare gratuit online',
+      'completați formulare fără înregistrare',
+      'completați formulare fără înscriere',
+      'completați formulare fără filigran',
+      'completați formulare bazat pe browser',
+      'completați formulare pentru lucru',
+      'completați formulare pentru studenți',
+      'cel mai bun instrument pentru completarea formularelor',
+      'cum să completați formulare',
+      'completați formulare online gratuit',
+      'completați formulare fără software',
+      'completați formulare concentrat pe confidențialitate',
+      'completați formulare securizat',
+      'completați formulare rapid',
+      'instrument gratuit pentru completarea formularelor',
+      'completați formulare online gratuit',
+      'instrument pentru completarea formularelor online',
+      'completați formulare gratuit',
+      'completați formulare fără descărcare',
+      'completați formulare bazat pe web',
+      'completați formulare open source',
+      'completați formulare wasm',
+      'completați formulare partea client',
+      'completați formulare fără încărcare',
+      'completați formulare instantaneu',
+      'completați formulare înaltă calitate',
+      'completați formulare fără limită',
+      'completați formulare 2025',
+      'ghid pentru completarea formularelor',
+      'tutorial pentru completarea formularelor',
+    ],
+    description: `
+      <p>Completați formulare PDF gratuit online cu instrumentul nostru puternic bazat pe browser. Fie că aveți nevoie să completați formulare pentru uz personal sau profesional, instrumentul nostru online gratuit oferă o soluție rapidă și sigură.</p>
+      <p>Încărcați fișierele, ajustați setările și procesați documentele în secunde. Tot procesarea are loc local în browserul dvs., asigurând confidențialitate completă.</p>
+      <p>Puteți completa formulare fără înregistrare necesară, fără filigrane adăugate. Cum să completați formulare gratuit? Utilizați instrumentul nostru online - nu este necesar software.</p>
+      <p>Completarea formularelor nu a fost niciodată mai ușoară. Începeți acum cu cel mai bun instrument gratuit pentru completarea formularelor online.</p>
+    `,
+    howToUse: [
+      { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți completa formulare fără înregistrare, nu este necesară înregistrarea.' },
+      { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pentru completarea formularelor vă oferă control deplin.' },
+      { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
+    ],
+    useCases: [
+      { title: 'Pentru munca de birou', description: 'Profesioniștii folosesc instrumentul nostru pentru a completa formulare pentru rapoarte, propuneri și prezentări. Procesarea bazată pe browser asigură că documentele sensibile ale companiei nu părăsesc dispozitivul dvs.', icon: 'briefcase' },
+      { title: 'Pentru Studenți', description: 'Elevii au adesea nevoie să completeze formulare pentru teme și lucrări de cercetare. Instrumentul nostru gratuit vă ajută fără a plăti pentru abonamente scumpe software.', icon: 'academic-cap' },
+      { title: 'Pentru uz personal', description: 'Oricine poate folosi instrumentul nostru pentru a completa formulare pentru documente personale. Interfața simplă îl face accesibil utilizatorilor de toate nivelurile tehnice.', icon: 'user' },
+    ],
+    faq: [
+      { question: 'Este într-adevăr gratuit să completați formulare online?', answer: 'Da, instrumentul nostru pentru completarea formularelor este complet gratuit de utilizat. Fără înregistrare, fără înscriere, fără card de credit necesar. Puteți completa formulare de câte ori aveți nevoie.' },
+      { question: 'Este sigur să completați formulare online?', answer: 'Absolut. Tot procesarea completării formularelor are loc local în browserul dvs. Fișierele dvs. nu părăsesc dispozitivul și nu sunt încărcate niciodată pe niciun server.' },
+      { question: 'Trebuie să instalez software pentru a completa formulare?', answer: 'Nu este necesară instalarea de software. Instrumentul nostru pentru completarea formularelor rulează în întregime în browserul dvs. web. Funcționează pe Windows, Mac, Linux și dispozitive mobile.' },
+      { question: 'Există limite pentru dimensiunea fișierului sau numărul de fișiere?', answer: 'Instrumentul nostru acceptă procesarea mai multor fișiere cu o dimensiune totală de până la 500 MB. Nu există limite de utilizare zilnică sau paywall-uri.' },
+      { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
+    ],
+  },
+'pdf-to-grayscale': {
+    title: 'PDF în tonuri de gri',
+    metaDescription: 'Convertiți PDF în tonuri de gri gratuit online - fără înregistrare, fără înscriere. Procesați fișierele PDF în siguranță în browser. ',
+    keywords: [
+      'pdf în tonuri de gri gratuit online',
+      'pdf în tonuri de gri fără înregistrare',
+      'pdf în tonuri de gri fără înscriere',
+      'pdf în tonuri de gri fără filigran',
+      'pdf în tonuri de gri bazat pe browser',
+      'pdf în tonuri de gri pentru lucru',
+      'pdf în tonuri de gri pentru studenți',
+      'cel mai bun instrument pdf în tonuri de gri',
+      'cum să convertiți pdf în tonuri de gri',
+      'pdf în tonuri de gri online gratuit',
+      'pdf în tonuri de gri fără software',
+      'pdf în tonuri de gri concentrat pe confidențialitate',
+      'pdf în tonuri de gri securizat',
+      'pdf în tonuri de gri rapid',
+      'instrument gratuit pdf în tonuri de gri',
+      'pdf în tonuri de gri online gratuit',
+      'instrument pdf în tonuri de gri online',
+      'pdf în tonuri de gri gratuit',
+      'pdf în tonuri de gri fără descărcare',
+      'pdf în tonuri de gri bazat pe web',
+      'pdf în tonuri de gri open source',
+      'pdf în tonuri de gri wasm',
+      'pdf în tonuri de gri partea client',
+      'pdf în tonuri de gri fără încărcare',
+      'pdf în tonuri de gri instantaneu',
+      'pdf în tonuri de gri înaltă calitate',
+      'pdf în tonuri de gri fără limită',
+      'pdf în tonuri de gri 2025',
+      'ghid pdf în tonuri de gri',
+      'tutorial pdf în tonuri de gri',
+    ],
+    description: `
+      <p>Convertiți PDF în tonuri de gri gratuit online cu instrumentul nostru puternic bazat pe browser. Fie că aveți nevoie să convertiți PDF în tonuri de gri pentru uz personal sau profesional, instrumentul nostru online gratuit oferă o soluție rapidă și sigură.</p>
+      <p>Încărcați fișierele, ajustați setările și procesați documentele în secunde. Tot procesarea are loc local în browserul dvs., asigurând confidențialitate completă.</p>
+      <p>Puteți converti PDF în tonuri de gri fără înregistrare necesară, fără filigrane adăugate. Cum să convertiți PDF în tonuri de gri gratuit? Utilizați instrumentul nostru online - nu este necesar software.</p>
+      <p>Convertirea PDF în tonuri de gri nu a fost niciodată mai ușoară. Începeți acum cu cel mai bun instrument gratuit pdf în tonuri de gri online.</p>
+    `,
+    howToUse: [
+      { step: 1, title: 'Încărcați fișierele dvs', description: 'Faceți clic pe zona de încărcare sau trageți și plasați fișierele. Toate fișierele sunt procesate local în browserul dvs., asigurând confidențialitate completă. Puteți converti pdf în tonuri de gri fără înregistrare, nu este necesară înregistrarea.' },
+      { step: 2, title: 'Configurați setările', description: 'Ajustați setările instrumentului pentru a se potrivi nevoilor dvs. Interfața este intuitivă și nu necesită curbă de învățare. Instrumentul nostru gratuit pdf în tonuri de gri vă oferă control deplin.' },
+      { step: 3, title: 'Procesați și descărcați', description: 'Faceți clic pe butonul de proces și așteptați câteva secunde. Odată terminat, descărcați instantaneu fișierul procesat. Nu este nevoie de e-mail, fără filigrane.' },
+    ],
+    useCases: [
+      { title: 'Pentru munca de birou', description: 'Profesioniștii folosesc instrumentul nostru pentru a converti pdf în tonuri de gri pentru rapoarte, propuneri și prezentări. Procesarea bazată pe browser asigură că documentele sensibile ale companiei nu părăsesc dispozitivul dvs.', icon: 'briefcase' },
+      { title: 'Pentru Studenți', description: 'Elevii au adesea nevoie să converti pdf în tonuri de gri pentru teme și lucrări de cercetare. Instrumentul nostru gratuit vă ajută fără a plăti pentru abonamente scumpe software.', icon: 'academic-cap' },
+      { title: 'Pentru uz personal', description: 'Oricine poate folosi instrumentul nostru pentru a converti pdf în tonuri de gri pentru documente personale. Interfața simplă îl face accesibil utilizatorilor de toate nivelurile tehnice.', icon: 'user' },
+    ],
+    faq: [
+      { question: 'Este într-adevăr gratuit să convertiți PDF în tonuri de gri online?', answer: 'Da, instrumentul nostru pdf în tonuri de gri este complet gratuit de utilizat. Fără înregistrare, fără înscriere, fără card de credit necesar. Puteți converti pdf în tonuri de gri de câte ori aveți nevoie.' },
+      { question: 'Este sigur să convertiți PDF în tonuri de gri online?', answer: 'Absolut. Tot procesarea convertirii pdf în tonuri de gri are loc local în browserul dvs. Fișierele dvs. nu părăsesc dispozitivul și nu sunt încărcate niciodată pe niciun server.' },
+      { question: 'Trebuie să instalez software pentru a converti PDF în tonuri de gri?', answer: 'Nu este necesară instalarea de software. Instrumentul nostru pdf în tonuri de gri rulează în întregime în browserul dvs. web. Funcționează pe Windows, Mac, Linux și dispozitive mobile.' },
+      { question: 'Există limite pentru dimensiunea fișierului sau numărul de fișiere?', answer: 'Instrumentul nostru acceptă procesarea mai multor fișiere cu o dimensiune totală de până la 500 MB. Nu există limite de utilizare zilnică sau paywall-uri.' },
       { question: 'Va fi afectată calitatea ieșirii?', answer: 'Instrumentul nostru este conceput pentru a menține cea mai înaltă calitate posibilă. Pentru îmbinare sau scindare, calitatea originală este păstrată exact.' },
     ],
   },
