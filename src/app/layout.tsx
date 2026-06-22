@@ -1,3 +1,4 @@
+import Script from "next/script";
 import type { Metadata } from 'next';
 import '@/app/globals.css';
 
@@ -47,6 +48,14 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen bg-background text-foreground antialiased">
         {children}
+        {/* Monetag Vignette Banner - controlled by NEXT_PUBLIC_ADVER_ENABLE */}
+        {process.env.NEXT_PUBLIC_ADVER_ENABLE === 'true' && (
+          <Script
+            id="monetag-vignette"
+            src="/monetag-vignette.js"
+            strategy="afterInteractive"
+          />
+        )}
       </body>
     </html>
   );

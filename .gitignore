@@ -83,3 +83,21 @@ public/libreoffice-wasm/soffice.data.bin
 src-tauri/target/
 
 yarn.lock
+# Temp/backup files
+.codegraph/
+__pycache__/
+*.bak
+*.bak2
+*.bak3
+*.backup
+*.backup-*
+pnpm-lock.yaml
+pnpm-workspace.yaml
+fix-*.cjs
+fix-*.py
+translate-*.py
+translate-*.js
+translate-*.cjs
+scripts/
+src/config/tool-content.bak/
+src/config/tools.ts.bak
