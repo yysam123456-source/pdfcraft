@@ -70,7 +70,7 @@ export default async function LocaleLayout({
 
   return (
     <NextIntlClientProvider messages={messages}>
-      <div lang={locale} dir={direction} className={`${fontVariables} min-h-screen bg-background text-foreground antialiased font-sans`}>
+      <div dir={direction} className={`${fontVariables} min-h-screen bg-background text-foreground antialiased font-sans`}>
         <SkipLink targetId="main-content">Skip to main content</SkipLink>
         {children}
       </div>

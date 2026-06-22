@@ -19,13 +19,21 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html suppressHydrationWarning>
       <head>
         <meta name="color-scheme" content="light dark" />
         <style dangerouslySetInnerHTML={{ __html: 'html{scrollbar-gutter:stable}' }} />
         <script
           dangerouslySetInnerHTML={{
             __html: `
+              try {
+                var lang = window.location.pathname.split('/')[1];
+                if (lang && ['en','ja','ko','es','fr','de','zh','zh-TW','pt','ar','it','id','vi','ro'].includes(lang)) {
+                  document.documentElement.lang = lang;
+                } else {
+                  document.documentElement.lang = 'en';
+                }
+              } catch (_) {}
               try {
                 if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
                   document.documentElement.classList.add('dark')

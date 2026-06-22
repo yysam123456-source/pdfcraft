@@ -39,8 +39,31 @@ export type Locale = 'en' | 'ja' | 'ko' | 'es' | 'fr' | 'de' | 'zh' | 'zh-TW' | 
  * Falls back to English if translation not found
  * zh-TW falls back to zh (Simplified Chinese) content
  * ar falls back to en content for now
+ * If no English translation exists, generates a minimal default ToolContent from the toolId
  */
-export function getToolContent(locale: Locale, toolId: string): ToolContent | undefined {
+function getDefaultToolContent(toolId: string): ToolContent {
+  const parts = toolId.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1));
+  const title = parts.join(' ');
+  return {
+    title,
+    metaDescription: `${title} free online - no registration, no sign-up. Process your files securely in your browser.`,
+    keywords: [toolId, `free ${toolId}`, `online ${toolId}`],
+    description: `<p>${title} free online with our powerful browser-based tool.</p>`,
+    howToUse: [
+      { step: 1, title: 'Upload', description: 'Upload your file.' },
+      { step: 2, title: 'Process', description: 'Click to process.' },
+      { step: 3, title: 'Download', description: 'Download the result.' },
+    ],
+    useCases: [
+      { title: 'For Work', description: `Use ${title} for professional documents.`, icon: 'tool' },
+    ],
+    faq: [
+      { question: `Is ${title} free?`, answer: 'Yes, completely free.' },
+    ],
+  };
+}
+
+export function getToolContent(locale: Locale, toolId: string): ToolContent {
   const contentMap: Record<string, Record<string, ToolContent>> = {
     en: toolContentEn,
     ja: toolContentJa,
@@ -64,6 +87,12 @@ export function getToolContent(locale: Locale, toolId: string): ToolContent | un
   }
 
   // Fallback to English
-  return toolContentEn[toolId];
+  const enContent = toolContentEn[toolId];
+  if (enContent) {
+    return enContent;
+  }
+
+  // No translation at all — return a default minimal ToolContent
+  return getDefaultToolContent(toolId);
 }
 
