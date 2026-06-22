@@ -244,7 +244,7 @@
       "processButton": "Compilar portada de encuadernación",
       "successMessage": "¡Espesor del lomo de encuadernación calculado y plantilla de líneas de pliegue generada con éxito!",
       "magnifierTitle": "Modelo de pliegue de encuadernación de libros 3D (Arrastrar para girar)",
-      "spineWidthText": "Espesor estimado del lomo: {ancho} mm",
+      "spineWidthText": "Espesor estimado del lomo: {width} mm",
       "spineTextLabel": "Texto grabado en el lomo",
       "spineTextPlaceholder": "ej. ",
       "totalPagesLabel": "Páginas totales de encuadernación (Páginas)",
