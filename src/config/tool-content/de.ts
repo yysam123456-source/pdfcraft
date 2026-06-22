@@ -332,7 +332,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-JPG-Tutorial',
     ],
     description: `
-      <p>PDF-zu-JPG kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF in JPG umwandeln kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -801,7 +801,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Text-zu-PDF-Tutorial',
     ],
     description: `
-      <p>Text in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Text in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -1034,7 +1034,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial schützen',
     ],
     description: `
-      <p>Schützen Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Schützen Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -1562,7 +1562,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial zuschneiden',
     ],
     description: `
-      <p>Beschneiden Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Beschneiden Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -1736,7 +1736,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-PNG-Tutorial',
     ],
     description: `
-      <p>PDF in PNG kostenlos online mit unserem leistungsstarken browserbasierten Tool umwandeln. `</p>
+      <p>PDF in PNG kostenlos online mit unserem leistungsstarken browserbasierten Tool umwandeln. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -1792,7 +1792,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-WebP-Tutorial',
     ],
     description: `
-      <p>PDF to Webp kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF in WebP umwandeln kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -1848,7 +1848,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Heic-zu-PDF-Tutorial',
     ],
     description: `
-      <p>HEIC in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>HEIC in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -1904,7 +1904,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Raw-zu-PDF-Tutorial',
     ],
     description: `
-      <p>Rohdaten in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Rohdaten in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -1960,7 +1960,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'TIFF-zu-PDF-Tutorial',
     ],
     description: `
-      <p>Tiff in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Tiff in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2016,7 +2016,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'SVG-zu-PDF-Tutorial',
     ],
     description: `
-      <p>Svg in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Svg in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2072,7 +2072,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PNG-zu-PDF-Tutorial',
     ],
     description: `
-      <p>PNG in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool umwandeln. `</p>
+      <p>PNG in PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool umwandeln. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2128,7 +2128,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Webp-zu-PDF-Tutorial',
     ],
     description: `
-      <p>WebP kostenlos online in PDF umwandeln mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>WebP kostenlos online in PDF umwandeln mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2184,7 +2184,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial reparieren',
     ],
     description: `
-      <p>Reparieren Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Reparieren Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2240,7 +2240,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'OCR-PDF-Tutorial',
     ],
     description: `
-      <p>Erkennen Sie PDFs mit OCR kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Erkennen Sie PDFs mit OCR kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2296,7 +2296,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial zum Flaten',
     ],
     description: `
-      <p>Flaten Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Flaten Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2352,7 +2352,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-PDFA-Tutorial',
     ],
     description: `
-      <p>PDF-zu-PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF-zu-PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2408,7 +2408,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial signieren',
     ],
     description: `
-      <p>Signieren Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Signieren Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2464,7 +2464,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial mit Anmerkungen versehen',
     ],
     description: `
-      <p>Kommentieren Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Kommentieren Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2520,7 +2520,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial redigieren',
     ],
     description: `
-      <p>Redigieren Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Redigieren Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2576,7 +2576,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Vergleichen Sie das PDF-Tutorial',
     ],
     description: `
-      <p>Vergleichen Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Vergleichen Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2632,7 +2632,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Lesezeichen-PDF-Tutorial',
     ],
     description: `
-      <p>Lesezeichen für PDF-Dateien kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Lesezeichen für PDF-Dateien kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2688,7 +2688,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial für Kopf- und Fußzeile',
     ],
     description: `
-      <p>Kopf- und Fußzeilen-PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Kopf- und Fußzeilen-PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2744,7 +2744,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Hintergrund-PDF-Tutorial',
     ],
     description: `
-      <p>Hintergrund-PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Hintergrund-PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2800,7 +2800,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Tutorial zur Bates-Nummerierung',
     ],
     description: `
-      <p>Bates-Nummerierung kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Bates-Nummerierung kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2856,7 +2856,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-Graustufen-Tutorial',
     ],
     description: `
-      <p>PDF in Graustufen kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF in Graustufen kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2912,7 +2912,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial optimieren',
     ],
     description: `
-      <p>Optimieren Sie PDFs kostenlos online mit unserem fortschrittlichen PDF-Komprimierungstool.`</p>
+      <p>Optimieren Sie PDFs kostenlos online mit unserem fortschrittlichen PDF-Komprimierungstool.</p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -2968,7 +2968,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Tutorial zum Ausfüllen von Formularen',
     ],
     description: `
-      <p>Formularfüller kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Formularfüller kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3024,7 +3024,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial erstellen',
     ],
     description: `
-      <p>Erstellen Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Erstellen Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3080,7 +3080,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Anleitung zum Zusammenführen von PDF-Vorlagen',
     ],
     description: `
-      <p>Fügen Sie PDF-Vorlagen kostenlos online mit unserem leistungsstarken Tool zum Zusammenführen von PDF-Dateien zusammen.`</p>
+      <p>Fügen Sie PDF-Vorlagen kostenlos online mit unserem leistungsstarken Tool zum Zusammenführen von PDF-Dateien zusammen.</p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3136,7 +3136,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Tutorial zur geteilten PDF-Vorlage',
     ],
     description: `
-      <p>Teilen Sie PDF-Vorlagen kostenlos online mit unserem fortschrittlichen PDF-Splitter-Tool.`</p>
+      <p>Teilen Sie PDF-Vorlagen kostenlos online mit unserem fortschrittlichen PDF-Splitter-Tool.</p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3192,7 +3192,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial verschlüsseln',
     ],
     description: `
-      <p>Verschlüsseln Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Verschlüsseln Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3248,7 +3248,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial zum Entschlüsseln',
     ],
     description: `
-      <p>Entschlüsseln Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Entschlüsseln Sie PDFs kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3304,7 +3304,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Metadaten-PDF-Tutorial',
     ],
     description: `
-      <p>Metadaten-PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Metadaten-PDF kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3360,7 +3360,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Viewer-Tutorial',
     ],
     description: `
-      <p>PDF Viewer kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF Viewer kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3416,7 +3416,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-HTML-Tutorial',
     ],
     description: `
-      <p>PDF in HTML kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF in HTML kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3472,7 +3472,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-XML-Tutorial',
     ],
     description: `
-      <p>PDF in XML kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF in XML kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3528,7 +3528,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-CSV-Tutorial',
     ],
     description: `
-      <p>PDF in CSV kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF in CSV kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3584,7 +3584,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-RTF-Tutorial',
     ],
     description: `
-      <p>PDF in Rtf kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF in Rtf kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3640,7 +3640,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-Epub-Tutorial',
     ],
     description: `
-      <p>PDF zu Epub kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF zu Epub kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3696,7 +3696,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial zum Vergleichen von Texten',
     ],
     description: `
-      <p>PDF-Vergleich von Texten kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF-Vergleich von Texten kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3752,7 +3752,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial zum Redigieren des gesamten Tutorials',
     ],
     description: `
-      <p>PDF redigieren – alles kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF redigieren – alles kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3808,7 +3808,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-Tutorial zum Finden und Ersetzen',
     ],
     description: `
-      <p>PDF Find Replacement kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF Find Replacement kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3864,7 +3864,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'PDF-zu-Bilder-Tutorial',
     ],
     description: `
-      <p>PDF To Images kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>PDF To Images kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3920,7 +3920,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Tutorial zum Extrahieren von Bildern',
     ],
     description: `
-      <p>Extrahieren Sie Bilder kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Extrahieren Sie Bilder kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -3976,7 +3976,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Tutorial zum Komprimieren von Bildern',
     ],
     description: `
-      <p>Komprimieren Sie Bilder kostenlos online mit unserem fortschrittlichen PDF-Komprimierungstool.`</p>
+      <p>Komprimieren Sie Bilder kostenlos online mit unserem fortschrittlichen PDF-Komprimierungstool.</p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -4032,7 +4032,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Tutorial zum Entfernen leerer Seiten',
     ],
     description: `
-      <p>Entfernen Sie leere Seiten kostenlos online mit unserem fortschrittlichen PDF-Splitter-Tool.`</p>
+      <p>Entfernen Sie leere Seiten kostenlos online mit unserem fortschrittlichen PDF-Splitter-Tool.</p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
@@ -4088,7 +4088,7 @@ export const toolContentDe: Record<string, ToolContent> = {
       'Tutorial zum Erkennen von PDF-Scannern',
     ],
     description: `
-      <p>Erkennen Sie PDF-Scanner kostenlos online mit unserem leistungsstarken browserbasierten Tool. `</p>
+      <p>Erkennen Sie PDF-Scanner kostenlos online mit unserem leistungsstarken browserbasierten Tool. </p>
     `,
     howToUse: [
       { step: 1, title: 'Laden Sie Ihre Dateien hoch', description: 'Klicken Sie auf den Upload-Bereich oder ziehen Sie Ihre Dateien per Drag & Drop. ' },
