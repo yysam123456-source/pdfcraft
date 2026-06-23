@@ -14,13 +14,12 @@ export const ADS_ENABLED = true;
 // ========== Remote unified control ==========
 // Set to true to fetch ad config from a central URL (for managing many projects at once)
 // Set to false to use the hardcoded ADS_ENABLED above
-export const USE_REMOTE_CONFIG = false;
+export const USE_REMOTE_CONFIG = true;
 
-// Central config URL - all your projects can read from this same file
-// Host this JSON file on GitHub Raw, Cloudflare R2, or any static file host
-// Example: https://raw.githubusercontent.com/yourusername/configs/main/ads-config.json
+// Central config URL - all Craftisle projects read from this same file
+// Hosted in the craftisle-configs repo: https://github.com/yysam123456-source/craftisle-configs
 export const ADS_REMOTE_URL =
-  'https://raw.githubusercontent.com/yysam123456-source/configs/main/ads-config.json';
+  'https://raw.githubusercontent.com/yysam123456-source/craftisle-configs/main/configs/ads-config.json';
 
 // Cache duration for remote config (ms)
 // 300000 = 5 minutes, so changes propagate within 5 min
