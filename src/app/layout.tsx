@@ -1,6 +1,6 @@
-import Script from "next/script";
 import type { Metadata } from 'next';
 import '@/app/globals.css';
+import { AdLoader } from '@/components/common/AdLoader';
 
 export const metadata: Metadata = {
   title: 'PDFCraft - Professional PDF Tools',
@@ -48,14 +48,8 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen bg-background text-foreground antialiased">
         {children}
-        {/* Monetag Vignette Banner - controlled by NEXT_PUBLIC_ADVER_ENABLE */}
-        {process.env.NEXT_PUBLIC_ADVER_ENABLE === 'true' && (
-          <Script
-            id="monetag-vignette"
-            src="/monetag-vignette.js"
-            strategy="afterInteractive"
-          />
-        )}
+        {/* Ad scripts - controlled by src/lib/config/ads.ts */}
+        <AdLoader />
       </body>
     </html>
   );

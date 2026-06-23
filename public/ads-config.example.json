@@ -1,0 +1,5 @@
+{
+  "enabled": true,
+  "updatedAt": "2026-06-23T10:00:00.000Z",
+  "note": "Set enabled to false to disable ads across all projects that read from this file"
+}
