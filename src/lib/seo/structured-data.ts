@@ -6,7 +6,8 @@
  */
 
 import { siteConfig } from '@/config/site';
-import type { Tool, ToolContent, FAQ, HowToStep } from '@/types/tool';
+import type { Tool, ToolContent, FAQ, HowToStep, ToolCategory } from '@/types/tool';
+import type { CategoryContent } from '@/config/category-content';
 import type { Locale } from '@/lib/i18n/config';
 
 /**
@@ -223,6 +224,26 @@ export function generateHowToSchema(
 }
 
 /**
+ * Map of locale -> BCP-47 language tag for schema.org inLanguage.
+ */
+export const localeLanguageMap: Record<Locale, string> = {
+  en: 'en-US',
+  ja: 'ja-JP',
+  ko: 'ko-KR',
+  es: 'es-ES',
+  fr: 'fr-FR',
+  de: 'de-DE',
+  zh: 'zh-CN',
+  'zh-TW': 'zh-TW',
+  pt: 'pt-BR',
+  ar: 'ar-AR',
+  it: 'it-IT',
+  id: 'id-ID',
+  vi: 'vi-VN',
+  ro: 'ro-RO',
+};
+
+/**
  * Generate WebPage schema for enhanced page information
  */
 export function generateWebPageSchema(
@@ -230,22 +251,7 @@ export function generateWebPageSchema(
   content: ToolContent,
   locale: Locale
 ): WebPageSchema {
-  const languageMap: Record<Locale, string> = {
-    en: 'en-US',
-    ja: 'ja-JP',
-    ko: 'ko-KR',
-    es: 'es-ES',
-    fr: 'fr-FR',
-    de: 'de-DE',
-    zh: 'zh-CN',
-    'zh-TW': 'zh-TW',
-    pt: 'pt-BR',
-    ar: 'ar-AR',
-    it: 'it-IT',
-    id: 'id-ID',
-    vi: 'vi-VN',
-    ro: 'ro-RO',
-  };
+  const languageMap = localeLanguageMap;
 
   return {
     '@context': 'https://schema.org',
@@ -265,6 +271,37 @@ export function generateWebPageSchema(
     },
     mainEntity: {
       '@type': 'SoftwareApplication',
+      name: content.title,
+    },
+  };
+}
+
+/**
+ * Generate WebPage schema for a category pillar (cornerstone) page.
+ */
+export function generateCategoryWebPageSchema(
+  content: CategoryContent,
+  category: ToolCategory,
+  locale: Locale,
+): WebPageSchema {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: content.title,
+    description: content.metaDescription,
+    url: `${siteConfig.url}/${locale}/tools/category/${category}`,
+    inLanguage: localeLanguageMap[locale] || 'en-US',
+    isPartOf: {
+      '@type': 'WebSite',
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
+    about: {
+      '@type': 'Thing',
+      name: 'PDF Processing',
+    },
+    mainEntity: {
+      '@type': 'CollectionPage',
       name: content.title,
     },
   };

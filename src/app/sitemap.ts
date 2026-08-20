@@ -9,6 +9,7 @@ import { MetadataRoute } from 'next';
 import { siteConfig } from '@/config/site';
 import { locales, type Locale } from '@/lib/i18n/config';
 import { getAllTools } from '@/config/tools';
+import { TOOL_CATEGORIES } from '@/types/tool';
 
 // Required for static export
 export const dynamic = 'force-static';
@@ -19,6 +20,7 @@ export const dynamic = 'force-static';
 const PRIORITY = {
   home: 1.0,
   tools: 0.9,
+  categoryPage: 0.85,
   toolPage: 0.8,
   static: 0.6,
 } as const;
@@ -29,6 +31,7 @@ const PRIORITY = {
 const CHANGE_FREQUENCY = {
   home: 'daily',
   tools: 'weekly',
+  categoryPage: 'weekly',
   toolPage: 'weekly',
   static: 'monthly',
 } as const;
@@ -71,7 +74,17 @@ function generateLocaleEntries(locale: Locale, lastModified: Date): MetadataRout
       priority: PRIORITY.toolPage,
     });
   }
-  
+
+  // Add category pillar pages (cornerstone / silo hubs)
+  for (const category of TOOL_CATEGORIES) {
+    entries.push({
+      url: `${siteConfig.url}/${locale}/tools/category/${category}`,
+      lastModified,
+      changeFrequency: CHANGE_FREQUENCY.categoryPage,
+      priority: PRIORITY.categoryPage,
+    });
+  }
+
   return entries;
 }
 
@@ -99,7 +112,8 @@ export function getSitemapUrlCount(): number {
   const tools = getAllTools();
   const staticPagesCount = STATIC_PAGES.length;
   const toolPagesCount = tools.length;
+  const categoryPagesCount = TOOL_CATEGORIES.length;
   const localesCount = locales.length;
-  
-  return (staticPagesCount + toolPagesCount) * localesCount;
+
+  return (staticPagesCount + toolPagesCount + categoryPagesCount) * localesCount;
 }
