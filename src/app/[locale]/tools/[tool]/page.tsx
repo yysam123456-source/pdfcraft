@@ -3,6 +3,7 @@ import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { getToolById, getAllTools } from '@/config/tools';
 import { getToolContent, type Locale } from '@/config/tool-content';
 import { ToolPage } from '@/components/tools/ToolPage';
+import { ToolHub } from '@/components/tools/ToolHub';
 import { MergePDFTool } from '@/components/tools/merge';
 import { SplitPDFTool } from '@/components/tools/split';
 import { DeletePagesTool } from '@/components/tools/delete';
@@ -513,6 +514,14 @@ export default async function ToolPageRoute({ params }: ToolPageParams) {
         return <PdfScratchpadCanvasTool />;
       case 'photo-tiling-prepress':
         return <PhotoTilingPrepressTool />;
+      // Hub-style entries that aggregate several tools (internal-link clusters)
+      case 'pdf-converter':
+        return <ToolHub tool={tool} locale={locale} />;
+      case 'free-pdf-tools':
+        return <ToolHub tool={tool} locale={locale} />;
+      // Online PDF editor — reuse the real functional editor
+      case 'pdf-editor-online':
+        return <EditPDFTool />;
       // Add more tool cases here as they are implemented
       default:
         return (

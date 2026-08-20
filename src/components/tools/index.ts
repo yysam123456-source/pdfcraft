@@ -2,6 +2,7 @@
 export { ToolCard, type ToolCardProps } from './ToolCard';
 export { ToolGrid, type ToolGridProps } from './ToolGrid';
 export { ToolPage, type ToolPageProps } from './ToolPage';
+export { ToolHub, type ToolHubProps } from './ToolHub';
 
 // File Upload Components
 export { FileUploader, type FileUploaderProps } from './FileUploader';

@@ -4249,4 +4249,155 @@ export const toolContentEn: Record<string, ToolContent> = {
       { question: 'Will the output quality be affected?', answer: 'Our tool is designed to maintain the highest possible quality. For merging or splitting, the original quality is preserved exactly.' },
     ],
   },
+  'pdf-converter': {
+    title: 'Pdf Converter',
+    metaDescription: 'Pdf Converter free online — convert PDF to Word, Excel, PowerPoint, JPG, PNG and text, or convert files to PDF. No registration, no sign-up, fully private in your browser.',
+    keywords: [
+      'pdf converter free online',
+      'convert pdf to word',
+      'convert pdf to excel',
+      'convert pdf to ppt',
+      'pdf to jpg',
+      'pdf to text',
+      'convert to pdf',
+      'pdf converter no registration',
+      'pdf converter no watermark',
+      'pdf converter browser based',
+      'best pdf converter',
+      'online pdf converter free',
+      'pdf converter privacy',
+      'pdf converter secure',
+      'pdf converter fast',
+      'free pdf converter tool',
+      'pdf converter online free',
+      'how to convert pdf',
+      'pdf converter without software',
+      'pdf converter client side',
+      'pdf converter no upload',
+      'pdf converter high quality',
+      'pdf converter 2025',
+    ],
+    description: `
+      <p>PDF Converter free online — turn your PDFs into editable Word, Excel, and PowerPoint files, or export pages as JPG, PNG, and plain text. You can also convert images and documents into PDF. Everything runs locally in your browser, so your files never leave your device.</p>
+      <p>Need to convert PDF to Word for editing? Upload your file, pick the target format, and download the result in seconds. Our PDF Converter supports batch conversion, so you can process many files at once with no daily limits.</p>
+      <p>Unlike desktop software, this PDF Converter requires no installation and no account. It works on Windows, macOS, Linux, ChromeOS, and mobile devices. Whether you convert PDF to Excel for data analysis or PDF to JPG for sharing, the original layout and quality are preserved.</p>
+      <p>Try our free PDF Converter online now. No watermarks, no email required, no hidden paywalls — just fast, private, browser-based conversion.</p>
+    `,
+    howToUse: [
+      { step: 1, title: 'Upload Your PDF', description: 'Click the upload area or drag and drop your PDF files. All files are processed locally in your browser, ensuring complete privacy. You can convert PDF no registration, no sign-up needed.' },
+      { step: 2, title: 'Choose Output Format', description: 'Select the target format — Word, Excel, PowerPoint, JPG, PNG, or text. The interface is intuitive and requires no learning curve.' },
+      { step: 3, title: 'Convert and Download', description: 'Click convert and wait a few seconds. Once finished, download your file instantly. No email required, no watermarks, no usage limits.' },
+    ],
+    useCases: [
+      { title: 'For Office Work', description: 'Professionals use our PDF Converter to turn reports and contracts into editable Word or Excel. Browser-based processing keeps sensitive company documents on your device.', icon: 'briefcase' },
+      { title: 'For Students', description: 'Students convert PDF lecture slides to PowerPoint or text for note-taking. Our free tool helps without paying for expensive software subscriptions.', icon: 'academic-cap' },
+      { title: 'For Personal Use', description: 'Anyone can use our PDF Converter to export PDF pages as images for sharing. The simple interface is accessible to users of all technical levels.', icon: 'user' },
+    ],
+    faq: [
+      { question: 'Is it really free to convert PDF online?', answer: 'Yes, our PDF Converter is completely free to use. No registration, no sign-up, no credit card required. You can convert PDF as many times as you need.' },
+      { question: 'Is it safe to convert PDF online?', answer: 'Absolutely. All conversion happens locally in your browser using WebAssembly. Your files never leave your device and are never uploaded to any server.' },
+      { question: 'Do I need to install software to convert PDF?', answer: 'No software installation is required. Our PDF Converter runs entirely in your web browser and works on Windows, Mac, Linux, and mobile devices.' },
+      { question: 'Are there limits on file size or number of files?', answer: 'Our tool supports processing multiple files with a combined size of up to 500MB. There are no daily usage limits or paywalls.' },
+      { question: 'Will the output quality be affected?', answer: 'Our tool is designed to maintain the highest possible quality. For conversions, the original layout, fonts, and images are preserved as faithfully as possible.' },
+    ],
+  },
+  'pdf-editor-online': {
+    title: 'Pdf Editor Online',
+    metaDescription: 'Pdf Editor Online free — edit text, annotate, highlight, sign, and fill PDF forms in your browser. No registration, no software install, fully private.',
+    keywords: [
+      'pdf editor online free',
+      'edit pdf online',
+      'pdf editor no registration',
+      'pdf editor no sign up',
+      'pdf editor no watermark',
+      'pdf editor browser based',
+      'best pdf editor online',
+      'online pdf editor free',
+      'pdf editor privacy',
+      'pdf editor secure',
+      'pdf editor without software',
+      'pdf editor client side',
+      'pdf editor annotate',
+      'pdf editor highlight',
+      'pdf editor sign',
+      'free pdf editor tool',
+      'how to edit pdf',
+      'pdf editor fast',
+      'pdf editor 2025',
+      'pdf editor for students',
+      'pdf editor for work',
+    ],
+    description: `
+      <p>PDF Editor Online free — edit your PDFs right in the browser. Add or modify text, highlight and annotate, insert images, fill forms, and sign documents without installing any software. Everything runs locally, so your files stay private.</p>
+      <p>Simply open your PDF in our online PDF editor, make your changes with an intuitive toolbar, and download the updated file. No account, no watermarks, no email required.</p>
+      <p>Our PDF Editor Online is ideal for correcting typos, redacting sensitive content, adding comments for review, and signing agreements. It works on Windows, macOS, Linux, and mobile devices, and preserves your original layout.</p>
+      <p>Try our free online PDF editor now. Whether you edit PDF for work or study, you get a fast, secure, browser-based experience with no hidden limits.</p>
+    `,
+    howToUse: [
+      { step: 1, title: 'Open Your PDF', description: 'Click the upload area or drag and drop your PDF. All processing happens locally in your browser, ensuring complete privacy. You can edit PDF no registration, no sign-up needed.' },
+      { step: 2, title: 'Make Your Edits', description: 'Use the toolbar to add text, highlight, annotate, insert images, fill forms, or sign. The interface is intuitive and requires no learning curve.' },
+      { step: 3, title: 'Save and Download', description: 'Click save and download your edited PDF instantly. No email required, no watermarks, no usage limits.' },
+    ],
+    useCases: [
+      { title: 'For Office Work', description: 'Professionals use our online PDF editor to correct contracts and annotate reviews. Browser-based processing keeps sensitive documents on your device.', icon: 'briefcase' },
+      { title: 'For Students', description: 'Students edit PDF assignments and add notes without paying for expensive software. Our free editor is accessible to all technical levels.', icon: 'academic-cap' },
+      { title: 'For Personal Use', description: 'Anyone can use our PDF editor to fill forms and sign documents. The simple interface makes editing approachable for everyone.', icon: 'user' },
+    ],
+    faq: [
+      { question: 'Is it really free to edit PDF online?', answer: 'Yes, our PDF Editor Online is completely free. No registration, no sign-up, no credit card required. Edit PDF as many times as you need.' },
+      { question: 'Is it safe to edit PDF online?', answer: 'Absolutely. All editing happens locally in your browser. Your files never leave your device and are never uploaded to any server.' },
+      { question: 'Do I need to install software to edit PDF?', answer: 'No installation is required. Our PDF editor runs entirely in your web browser and works on Windows, Mac, Linux, and mobile devices.' },
+      { question: 'Can I sign and fill PDF forms?', answer: 'Yes. Our online PDF editor lets you fill form fields, add typed or drawn signatures, and insert images directly into your document.' },
+      { question: 'Will the output quality be affected?', answer: 'Our tool preserves your original layout as faithfully as possible, so edited PDFs look exactly as intended.' },
+    ],
+  },
+  'free-pdf-tools': {
+    title: 'Free Pdf Tools',
+    metaDescription: 'Free Pdf Tools — 67+ browser-based PDF tools: merge, split, compress, convert, edit, sign, and secure PDFs. No registration, fully private, no software install.',
+    keywords: [
+      'free pdf tools',
+      'free pdf tools online',
+      'pdf tools no registration',
+      'all pdf tools free',
+      'online pdf tools',
+      'best free pdf tools',
+      'pdf toolkit',
+      'free pdf editor',
+      'free pdf converter',
+      'free pdf merger',
+      'free pdf compressor',
+      'pdf tools browser based',
+      'pdf tools privacy',
+      'pdf tools secure',
+      'pdf tools without software',
+      'free pdf tools 2025',
+      'how to use pdf tools',
+      'pdf tools for students',
+      'pdf tools for work',
+      'free pdf tools collection',
+    ],
+    description: `
+      <p>Free PDF Tools — your all-in-one, browser-based PDF toolkit with 67+ tools. Merge, split, compress, convert, edit, sign, and secure PDFs without installing any software. Everything runs locally in your browser, so your files never leave your device.</p>
+      <p>Whether you need a free PDF merger to combine reports, a compressor to shrink file size, a converter to export to Word or images, or an editor to annotate and sign, you will find the right tool here. No registration, no watermarks, no daily limits.</p>
+      <p>Our free PDF tools are organized into clear categories — organize, convert, edit, optimize, and secure — so you can find what you need in seconds. They work on Windows, macOS, Linux, and mobile devices.</p>
+      <p>Explore the collection of free PDF tools below and pick the one that fits your task. Fast, private, and completely free to use.</p>
+    `,
+    howToUse: [
+      { step: 1, title: 'Choose a Tool', description: 'Browse the free PDF tools collection and select the one that matches your task — merge, split, compress, convert, edit, or secure.' },
+      { step: 2, title: 'Upload Your File', description: 'Open the tool and drop your PDF. All processing happens locally in your browser, ensuring complete privacy. No registration needed.' },
+      { step: 3, title: 'Process and Download', description: 'Run the tool and download your result instantly. No email required, no watermarks, no usage limits.' },
+    ],
+    useCases: [
+      { title: 'For Office Work', description: 'Teams use our free PDF tools to merge reports, compress contracts, and convert documents. Browser-based processing keeps company files private.', icon: 'briefcase' },
+      { title: 'For Students', description: 'Students split lecture PDFs, convert slides, and edit assignments for free. No expensive software subscriptions required.', icon: 'academic-cap' },
+      { title: 'For Personal Use', description: 'Anyone can use our free PDF tools to organize and secure personal documents. The simple interface suits all technical levels.', icon: 'user' },
+    ],
+    faq: [
+      { question: 'Are these PDF tools really free?', answer: 'Yes, every tool in our collection is completely free. No registration, no sign-up, no credit card required. Use them as often as you need.' },
+      { question: 'Is it safe to use these PDF tools?', answer: 'Absolutely. All processing happens locally in your browser. Your files never leave your device and are never uploaded to any server.' },
+      { question: 'Do I need to install software?', answer: 'No installation is required. Our free PDF tools run entirely in your web browser and work on Windows, Mac, Linux, and mobile devices.' },
+      { question: 'How many tools are included?', answer: 'The collection includes 67+ specialized PDF tools across organizing, converting, editing, optimizing, and securing — all in one place.' },
+      { question: 'Will the output quality be affected?', answer: 'Our tools are designed to maintain the highest possible quality. Original layouts, fonts, and images are preserved as faithfully as possible.' },
+    ],
+  },
 };
