@@ -1,6 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import { locales, type Locale } from '@/lib/i18n/config';
 import HomePageClient from './HomePageClient';
+import { JsonLd } from '@/components/seo/JsonLd';
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -33,5 +34,29 @@ export default async function HomePage({ params }: HomePageProps) {
     return acc;
   }, {} as Record<string, { title: string; description: string }>);
 
-  return <HomePageClient locale={locale as Locale} localizedToolContent={localizedToolContent} />;
+  return (
+    <>
+      <JsonLd
+        data={{
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'Organization',
+              '@id': 'https://craftisle.com/#organization',
+              name: 'Craftisle',
+              url: 'https://craftisle.com',
+            },
+            {
+              '@type': 'WebSite',
+              '@id': 'https://pdf.craftisle.com/#website',
+              url: 'https://pdf.craftisle.com',
+              name: 'Craftisle PDF',
+              publisher: { '@id': 'https://craftisle.com/#organization' },
+            },
+          ],
+        }}
+      />
+      <HomePageClient locale={locale as Locale} localizedToolContent={localizedToolContent} />
+    </>
+  );
 }
