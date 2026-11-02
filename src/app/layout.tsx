@@ -1,14 +1,66 @@
 import type { Metadata } from 'next';
 import '@/app/globals.css';
+import { siteConfig } from '@/config/site';
 import { AdLoader } from '@/components/common/AdLoader';
 
+/**
+ * Root metadata.
+ *
+ * The root route `/` is a client-side locale negotiator (`src/app/page.tsx`
+ * renders `null` and redirects to `/en`, `/ja`, ...). Because that page has no
+ * `generateMetadata` of its own, this is the ONLY metadata block applied to
+ * `https://<host>/`, which is why it must carry a canonical + og:url —
+ * otherwise the site root is indexable as a duplicate of `/en`.
+ *
+ * Canonical target is `/en` (the defaultLocale home, which is also the
+ * `x-default` hreflang target emitted by `lib/seo/metadata.ts`), so the blank
+ * `/` negotiator consolidates into a real content page.
+ *
+ * Every `[locale]/*` route overrides these fields via its own generateMetadata.
+ */
 export const metadata: Metadata = {
+  metadataBase: new URL(siteConfig.url),
   title: 'PDFCraft - Professional PDF Tools',
   description: 'Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.',
   icons: {
     icon: '/favicon.svg',
     shortcut: '/favicon.svg',
     apple: '/favicon.svg',
+  },
+  alternates: {
+    canonical: `${siteConfig.url}/en`,
+    languages: {
+      'x-default': `${siteConfig.url}/en`,
+    },
+  },
+  robots: {
+    index: true,
+    follow: true,
+    'max-snippet': -1,
+    'max-image-preview': 'large',
+    'max-video-preview': -1,
+  },
+  openGraph: {
+    type: 'website',
+    url: `${siteConfig.url}/en`,
+    siteName: siteConfig.name,
+    title: 'PDFCraft - Professional PDF Tools',
+    description: 'Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.',
+    images: [
+      {
+        url: `${siteConfig.url}${siteConfig.ogImage}`,
+        width: 1200,
+        height: 630,
+        alt: 'PDFCraft - Professional PDF Tools',
+        type: 'image/png',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'PDFCraft - Professional PDF Tools',
+    description: 'Free online PDF tools for merging, splitting, compressing, and converting PDF files. All processing happens in your browser for maximum privacy.',
+    images: [`${siteConfig.url}${siteConfig.ogImage}`],
   },
 };
 
