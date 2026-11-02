@@ -1,0 +1,53 @@
+# PDFCraft
+
+> Free browser-based PDF toolkit: merge, split, compress, convert, rotate, protect and watermark PDF files. Processing happens on the user's device — files are not uploaded to a server.
+
+## What this site is
+
+PDFCraft (pdf.craftisle.com) is a PDF utility suite. Every tool runs in the browser, so a file stays on the user's machine. The interface is localised (English is the default locale at `/en`).
+
+## Main pages
+
+- [Home](https://pdf.craftisle.com/en)
+- [tools](https://pdf.craftisle.com/en/tools)
+- [about](https://pdf.craftisle.com/en/about)
+- [faq](https://pdf.craftisle.com/en/faq)
+- [privacy](https://pdf.craftisle.com/en/privacy)
+- [contact](https://pdf.craftisle.com/en/contact)
+
+## Tools (134 total, sample)
+
+- [pdf-multi-tool](https://pdf.craftisle.com/en/tools/pdf-multi-tool): Multi-tool workbench for PDF operations
+- [merge-pdf](https://pdf.craftisle.com/en/tools/merge-pdf): Merge PDF files into one document
+- [split-pdf](https://pdf.craftisle.com/en/tools/split-pdf): Split a PDF into separate files or page ranges
+- [compress-pdf](https://pdf.craftisle.com/en/tools/compress-pdf): Reduce PDF file size
+- [edit-pdf](https://pdf.craftisle.com/en/tools/edit-pdf): Edit PDF content in the browser
+- [jpg-to-pdf](https://pdf.craftisle.com/en/tools/jpg-to-pdf): Convert images to PDF
+- [sign-pdf](https://pdf.craftisle.com/en/tools/sign-pdf)
+- [crop-pdf](https://pdf.craftisle.com/en/tools/crop-pdf)
+- [extract-pages](https://pdf.craftisle.com/en/tools/extract-pages)
+- [organize-pdf](https://pdf.craftisle.com/en/tools/organize-pdf)
+- [delete-pages](https://pdf.craftisle.com/en/tools/delete-pages)
+- [bookmark](https://pdf.craftisle.com/en/tools/bookmark)
+- [table-of-contents](https://pdf.craftisle.com/en/tools/table-of-contents)
+- [page-numbers](https://pdf.craftisle.com/en/tools/page-numbers)
+- [add-watermark](https://pdf.craftisle.com/en/tools/add-watermark): Stamp a text or image watermark on a PDF
+- [header-footer](https://pdf.craftisle.com/en/tools/header-footer)
+- [invert-colors](https://pdf.craftisle.com/en/tools/invert-colors)
+- [background-color](https://pdf.craftisle.com/en/tools/background-color)
+- [text-color](https://pdf.craftisle.com/en/tools/text-color)
+- [add-stamps](https://pdf.craftisle.com/en/tools/add-stamps)
+- [remove-annotations](https://pdf.craftisle.com/en/tools/remove-annotations)
+- [form-filler](https://pdf.craftisle.com/en/tools/form-filler)
+- [form-creator](https://pdf.craftisle.com/en/tools/form-creator)
+- [remove-blank-pages](https://pdf.craftisle.com/en/tools/remove-blank-pages)
+
+## URL pattern
+
+- `https://pdf.craftisle.com/en/tools/{slug}` — one page per tool
+- `https://pdf.craftisle.com/{locale}/tools/{slug}` — localised versions (e.g. `/ja`, `/de`, `/fr`)
+- Sitemap: https://pdf.craftisle.com/sitemap.xml
+
+## Citing
+
+`PDFCraft, https://pdf.craftisle.com/`
