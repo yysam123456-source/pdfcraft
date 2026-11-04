@@ -6,6 +6,7 @@ import { localeConfig, type Locale, locales } from '@/lib/i18n/config';
 import { generateHomeMetadata } from '@/lib/seo';
 import { fontVariables } from '@/lib/fonts';
 import { SkipLink } from '@/components/common/SkipLink';
+import { AdLoader } from '@/components/common/AdLoader';
 import '@/app/globals.css';
 
 export function generateStaticParams() {
@@ -58,6 +59,7 @@ export default async function LocaleLayout({
   if (!locales.includes(locale as Locale)) {
     notFound();
   }
+  const validLocale = locale as Locale;
 
   // Enable static rendering
   setRequestLocale(locale);
@@ -66,14 +68,43 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   // Get direction for the locale
-  const direction = localeConfig[locale as Locale]?.direction || 'ltr';
+  const direction = localeConfig[validLocale]?.direction || 'ltr';
 
+  // 🔴 2026-11-03（DEBT-47）：本 layout 已被提升为**根布局**（Next.js 多根布局模式），
+  //   目的是让 `<html lang>` **服务端**输出，而不是靠客户端脚本猜。
+  //   修之前：全站根布局 `<html>` 无 lang 属性，语言只由 inline script 在运行时写入
+  //   ⇒ Googlebot 抓到的原始 HTML 里没有语言声明 ⇒ 14 个语种 ~2,044 个 URL
+  //   的非英语页面都缺第一语言信号（hreflang / og:locale 有，但 html lang 才是主信号）。
+  //   修之后：`<html lang={validLocale}>` 与页面实际内容、与 hreflang 组三者一致。
   return (
-    <NextIntlClientProvider messages={messages}>
-      <div dir={direction} className={`${fontVariables} min-h-screen bg-background text-foreground antialiased font-sans`}>
-        <SkipLink targetId="main-content">Skip to main content</SkipLink>
-        {children}
-      </div>
-    </NextIntlClientProvider>
+    <html lang={validLocale} suppressHydrationWarning>
+      <head>
+        <meta name="color-scheme" content="light dark" />
+        <style dangerouslySetInnerHTML={{ __html: 'html{scrollbar-gutter:stable}' }} />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              try {
+                if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                  document.documentElement.classList.add('dark')
+                } else {
+                  document.documentElement.classList.remove('dark')
+                }
+              } catch (_) {}
+            `,
+          }}
+        />
+      </head>
+      <body className="min-h-screen bg-background text-foreground antialiased">
+        <NextIntlClientProvider messages={messages}>
+          <div dir={direction} className={`${fontVariables} min-h-screen bg-background text-foreground antialiased font-sans`}>
+            <SkipLink targetId="main-content">Skip to main content</SkipLink>
+            {children}
+          </div>
+        </NextIntlClientProvider>
+        {/* Ad scripts - controlled by src/lib/config/ads.ts */}
+        <AdLoader />
+      </body>
+    </html>
   );
 }

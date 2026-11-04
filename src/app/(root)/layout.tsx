@@ -64,29 +64,38 @@ export const metadata: Metadata = {
   },
 };
 
-// Root layout - provides the basic HTML structure
-// The actual layout with i18n is in [locale]/layout.tsx
+// Root layout for the bare `/` route (the client-side locale negotiator).
+//
+// 🔴 2026-11-03（DEBT-47）：本文件原本是全站唯一的根布局，`<html>` **没有 lang 属性**，
+//   语言只靠一段**客户端脚本**在运行时写 `document.documentElement.lang`。
+//   ⇒ Googlebot 抓到的**原始 HTML 里没有语言声明**（hreflang 与 og:locale 是有的，
+//   但 html lang 是语言声明的第一信号，缺失会削弱非英语页的排名能力），
+//   而 14 个语种 × ~146 个页面 = ~2,044 个 URL 全部受影响。
+//
+//   修法：把 `[locale]` 段提升为**第二个根布局**（Next.js 官方「多根布局」模式，
+//   用 route group `(root)` 承载裸 `/`），这样 `[locale]/layout.tsx` 能拿到
+//   `params.locale` 并**服务端**输出 `<html lang="…">`。
+//
+//   本文件（`/` 协商器）本身不产出任何语言内容，lang="en" 是诚实且正确的默认值 ——
+//   它会按浏览器语言跳转到对应语种。
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
   return (
-    <html suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning>
       <head>
         <meta name="color-scheme" content="light dark" />
         <style dangerouslySetInnerHTML={{ __html: 'html{scrollbar-gutter:stable}' }} />
         <script
           dangerouslySetInnerHTML={{
             __html: `
-              try {
-                var lang = window.location.pathname.split('/')[1];
-                if (lang && ['en','ja','ko','es','fr','de','zh','zh-TW','pt','ar','it','id','vi','ro'].includes(lang)) {
-                  document.documentElement.lang = lang;
-                } else {
-                  document.documentElement.lang = 'en';
-                }
-              } catch (_) {}
+              // 🔴 2026-11-03：原先这里有一段客户端脚本用 pathname 猜 lang 并写
+              //   document.documentElement.lang。现在 lang 改为**服务端**输出
+              //   （[locale]/layout.tsx 的 <html lang={locale}>），脚本再猜一遍
+              //   只会与服务器声明打架（例如服务器说是 ja、脚本猜成 en）⇒ 删掉。
+              //   主题初始化必须留在脚本里（要在 hydration 前避免闪白），保留。
               try {
                 if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
                   document.documentElement.classList.add('dark')
